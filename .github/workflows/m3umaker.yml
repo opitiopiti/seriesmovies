@@ -51,7 +51,7 @@ jobs:
 
       - name: Clone Private Py Repo
         run: |
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/opitiopiti/Py.git private_py
 
       - name: Install Shared Dependencies
         run: |
@@ -83,7 +83,7 @@ jobs:
 
       - name: Sync M3U outputs to private repo
         run: |
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git privaate_m3u8file
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/opitiopiti/m3u8file.git privaate_m3u8file
 
           cp v/vavoo.m3u privaate_m3u8file/vavoo.m3u || echo "v/vavoo.m3u bulunamadı"
           cp gunluk_spor.m3u privaate_m3u8file/gunluk_spor.m3u || echo "gunluk_spor.m3u bulunamadı"
@@ -161,7 +161,7 @@ jobs:
 
       - name: Clone Private Py Repo
         run: |
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/opitiopiti/Py.git private_py
 
       - name: Install Shared Dependencies
         run: |
@@ -197,7 +197,7 @@ jobs:
           python-version: '3.10'
 
       - name: Clone Private Py Repo
-        run: git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
+        run: git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/opitiopiti/Py.git private_py
 
       - name: Install Shared Dependencies
         run: |
@@ -247,7 +247,7 @@ jobs:
       - name: Sync Outputs to Private Repos
         run: |
           # Dizigom
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/dizigom.git private_dizigom
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/opitiopiti/dizigom.git private_dizigom
           rsync -a dizigom/ private_dizigom/
           cd private_dizigom
           git config user.name "GitHub Actions"
@@ -258,7 +258,7 @@ jobs:
           cd ..
 
           # Anizm
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/anizm.git private_anizm
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/opitiopiti/anizm.git private_anizm
           rsync -a anizm/ private_anizm/
           cd private_anizm
           git config user.name "GitHub Actions"
@@ -269,7 +269,7 @@ jobs:
           cd ..
 
           # AnimeNoSub
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/animenosub.git private_animenosub
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/opitiopiti/animenosub.git private_animenosub
           rsync -a animenosub/ private_animenosub/
           cd private_animenosub
           git config user.name "GitHub Actions"
@@ -280,7 +280,7 @@ jobs:
           cd ..
 
           # SetFilmİzleDizi
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/setfilmizledizi.git private_setfilmizledizi
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/opitiopiti/setfilmizledizi.git private_setfilmizledizi
           rsync -a setfilmizledizi/ private_setfilmizledizi/
           cd private_setfilmizledizi
           git config user.name "GitHub Actions"
@@ -291,7 +291,7 @@ jobs:
           cd ..
 
           # DiziYo
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/diziyo.git private_diziyo
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/opitiopiti/diziyo.git private_diziyo
           rsync -a diziyo/ private_diziyo/
           cd private_diziyo
           git config user.name "GitHub Actions"
@@ -302,7 +302,7 @@ jobs:
           cd ..
 
           # DiziPall
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/dizipall.git private_dizipall
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/opitiopiti/dizipall.git private_dizipall
           rsync -a dizipall/ private_dizipall/
           cd private_dizipall
           git config user.name "GitHub Actions"
@@ -313,7 +313,7 @@ jobs:
           cd ..
 
           # HDFilmsite
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/hdfilmsitedizi.git private_hdfilmsitedizi
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/opitiopiti/hdfilmsitedizi.git private_hdfilmsitedizi
           rsync -a yereldiziler/ private_hdfilmsitedizi/
           cd private_hdfilmsitedizi
           git config user.name "GitHub Actions"
@@ -324,7 +324,7 @@ jobs:
           cd ..
 
           # HDFilmCehennemi
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/hdfilmcehennemi.git private_hdfilmcehennemi
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/opitiopiti/hdfilmcehennemi.git private_hdfilmcehennemi
           rsync -a hdfilmcehennemi/ private_hdfilmcehennemi/
           cd private_hdfilmcehennemi
           git config user.name "GitHub Actions"
@@ -335,7 +335,7 @@ jobs:
           cd ..
 
           # YabancıDiziler
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/yabancidiziler.git private_yabancidiziler
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/opitiopiti/yabancidiziler.git private_yabancidiziler
           rsync -a yabancidiziler/ private_yabancidiziler/
           cd private_yabancidiziler
           git config user.name "GitHub Actions"
@@ -346,7 +346,7 @@ jobs:
           cd ..
 
           # SezonlukDİzi
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/sezonlukdizi.git private_sezonlukdizi
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/opitiopiti/sezonlukdizi.git private_sezonlukdizi
           rsync -a sdizi/ private_sezonlukdizi/
           cd private_sezonlukdizi
           git config user.name "GitHub Actions"
@@ -357,7 +357,7 @@ jobs:
           cd ..
 
           # Dizipal
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/dizipal.git private_dizipal
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/opitiopiti/dizipal.git private_dizipal
           rsync -a dizipal/ private_dizipal/
           cd private_dizipal
           git config user.name "GitHub Actions"
@@ -368,7 +368,7 @@ jobs:
           cd ..
 
           # AnimeHeaven
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/animeheaven.git private_animeheaven
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/opitiopiti/animeheaven.git private_animeheaven
           rsync -a animeheaven/ private_animeheaven/
           cd private_animeheaven
           git config user.name "GitHub Actions"
@@ -379,7 +379,7 @@ jobs:
           cd ..
 
           # Dizilife & Tlc & Dmax
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git private_m3u8filee
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/opitiopiti/m3u8file.git private_m3u8filee
           rsync -a dizilife/ private_m3u8filee/
           cd private_m3u8filee
           git config user.name "GitHub Actions"
@@ -410,7 +410,7 @@ jobs:
 
       - name: Clone Private Py Repo
         run: |
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/opitiopiti/Py.git private_py
 
       # 15. YeniJSON to AnaJSON
       - name: Run yenibolumdenanajsona Script
@@ -445,7 +445,7 @@ jobs:
 
       - name: Clone Private Py Repo
         run: |
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/opitiopiti/Py.git private_py
 
       - name: Install Shared Dependencies
         run: |
@@ -471,7 +471,7 @@ jobs:
 
       - name: Sync Filmler outputs to private m3u8file repo
         run: |
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git privatate_m3u8file
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/opitiopiti/m3u8file.git privatate_m3u8file
           cp dizigomfilmler.m3u privatate_m3u8file/dizigomfilmler.m3u || echo "dizigomfilmler.m3u bulunamadı"
           cp xtream/setfilmizlefilmler.m3u privatate_m3u8file/setfilmizlefilmler.m3u || echo "setfilmizlefilmler.m3u bulunamadı"
           cp hdfilmsite.m3u privatate_m3u8file/hdfilmsite.m3u || echo "hdfilmsite.m3u bulunamadı"
