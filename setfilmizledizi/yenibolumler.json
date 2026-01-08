@@ -1,1 +1,56 @@
-
+{
+  "/dizi/9-1-1-nashville/": {
+    "group": "9-1-1: NASHVILLE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/9-1-1/": {
+    "group": "9-1-1",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/his-hers/": {
+    "group": "HIS & HERS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/percy-jackson-and-the-olympians/": {
+    "group": "PERCY JACKSON AND THE OLYMPIANS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/tracker/": {
+    "group": "TRACKER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/palm-royale/": {
+    "group": "PALM ROYALE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/surely-tomorrow/": {
+    "group": "SURELY TOMORROW",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/spring-fever/": {
+    "group": "SPRING FEVER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/run-away/": {
+    "group": "RUN AWAY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  }
+}
