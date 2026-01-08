@@ -1,1 +1,8 @@
-
+{
+  "/anime/one-piece/": {
+    "group": "ONE PIECE",
+    "last_season": 1,
+    "last_episode": 1155,
+    "start_episode": 1130
+  }
+}
