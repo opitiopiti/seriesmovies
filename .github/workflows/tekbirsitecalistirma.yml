@@ -24,7 +24,7 @@ jobs:
       # 🔹 Private Py repo'sunu (script'lerin olduğu) klonla
       - name: Clone Private Py Repo
         run: |
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/opitiopiti/Py.git private_py
 
       # 🔹 Python bağımlılıklarını kur
       - name: Install Python Dependencies
@@ -52,7 +52,7 @@ jobs:
       # 🔹 Private diziyo repo'sunu klonla
       - name: Clone Private Tek Site Repo
         run: |
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/diziyo.git private_diziyo
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/opitiopiti/diziyo.git private_diziyo
 
       # 🔹 diziyo klasöründeki tüm çıktıları private repo'ya kopyala
       - name: Copy All to Private Tek Site Repo
