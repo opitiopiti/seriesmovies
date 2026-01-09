@@ -128,19 +128,19 @@
   "/android-wa-keiken-ninzuu-ni-hairimasu-ka": {
     "group": "ANDROID WA KEIKEN NINZUU NI HAIRIMASU KA??",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1.0,
     "start_episode": 1
   },
   "/enen-no-shouboutai-san-no-shou-part-2": {
     "group": "ENEN NO SHOUBOUTAI: SAN NO SHOU PART 2",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1.0,
     "start_episode": 1
   },
   "/dark-moon-tsuki-no-saidan": {
     "group": "DARK MOON: TSUKI NO SAIDAN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1.0,
     "start_episode": 1
   }
 }
