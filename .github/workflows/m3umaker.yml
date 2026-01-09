@@ -210,8 +210,27 @@ jobs:
           set +e
       
           echo "🔄 Batch 1 başlıyor (HDFilmSite & Anizm & AnimeNoSub & SetFilmİzle & Diziyo)"
+          ( python private_py/series/hdfilmsite/yenibolumler.py || true ) &
           ( python private_py/anime/anizm/yenibolumler.py || true ) &
           ( python private_py/anime/ingilizce/animenosub/yenibolumler.py || true ) &
+          ( python private_py/series/setfilmizledizi/yenibolumler.py || true ) &
+          ( python private_py/series/diziyo/yenibolumler.py || true ) &
+          wait
+      
+          echo "🔄 Batch 2 başlıyor (Dizigom & Dizipall & HDFilmCehennemi & YabancıDiziler & Dizipal)"
+          ( python private_py/series/dizigom/yenibolumler.py || true ) &
+          ( python private_py/series/dizipall/yenibolumler.py || true ) &
+          ( python private_py/series/hdfilmcehennemi/yenibolumler.py || true ) &
+          ( python private_py/series/yabancidiziler/yenibolumler.py || true ) &
+          ( python private_py/series/dizipal/yenibolumler.py || true ) &
+          wait
+      
+          echo "🔄 Batch 3 başlıyor (SezonlukDizi & AnimeHeaven & DiziLife & Tlc & Dmax)"
+          ( python private_py/series/sezonlukdizi/yenibolumler.py || true ) &
+          ( python private_py/anime/ingilizce/animeheaven/yenibolumler.py || true ) &
+          ( python private_py/series/dizilife/yenibolumler.py || true ) &
+          ( python private_py/series/tlc/yenibolumler.py || true ) &
+          ( python private_py/series/dmax/yenibolumler.py || true ) &
           wait
       
           echo "✅ Tüm scriptler tamamlandı.."
