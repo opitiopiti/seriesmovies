@@ -1,152 +1,152 @@
 {
   "/dizi/the-pitt": {
     "group": "THE PITT",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/dizi/darwin-jihen": {
     "group": "THE DARWIN INCIDENT",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/dizi/tehran": {
     "group": "TEHRAN",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/dizi/pro-bono-asya": {
     "group": "PRO BONO",
     "last_season": 1,
-    "last_episode": 8,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/dizi/palm-royale": {
     "group": "PALM ROYALE",
     "last_season": 2,
-    "last_episode": 8,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/dizi/moshimo-konoyo-ga-butai-nara-gakuya-wa-doko-ni-arunodaro-asya": {
     "group": "PRAY SPEAK WHAT HAS HAPPENED",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 11,
     "start_episode": 1
   },
   "/dizi/meu-namorado-coreano": {
     "group": "SEVGILIM BIR KORELI",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/me-i-deu-in-ko-ri-a-asya": {
     "group": "MADE IN KOREA",
     "last_season": 1,
-    "last_episode": 4,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/dizi/it-s-florida-man": {
     "group": "IT'S FLORIDA, MAN.",
     "last_season": 2,
-    "last_episode": 5,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/abbott-elementary": {
     "group": "ABBOTT ELEMENTARY",
     "last_season": 5,
-    "last_episode": 7,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/dizi/when-calls-the-heart": {
     "group": "KALP ÇAĞRISI",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 13,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/dizi/the-simpsons": {
     "group": "THE SIMPSONS",
     "last_season": 37,
-    "last_episode": 12,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/dizi/the-rookie": {
     "group": "THE ROOKIE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 8,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/dizi/the-night-manager": {
     "group": "THE NIGHT MANAGER",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi/shoresy": {
     "group": "SHORESY",
     "last_season": 5,
-    "last_episode": 2,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/dizi/saint-pierre": {
     "group": "SAINT-PIERRE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/dizi/ripple": {
     "group": "RIPPLE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/red-eye": {
     "group": "RED EYE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/power-book-iv-force": {
     "group": "POWER BOOK IV: FORCE",
     "last_season": 3,
-    "last_episode": 8,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/dizi/miss-scarlet": {
     "group": "BAYAN SCARLET VE DÜK",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 6,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/krapopolis": {
     "group": "KRAPOPOLIS",
     "last_season": 3,
-    "last_episode": 11,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/dizi/juice": {
     "group": "JUICE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/doc": {
     "group": "DOC",
     "last_season": 2,
-    "last_episode": 9,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/dizi/de-big-fuck-up": {
     "group": "DE BIG FUCK-UP",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/dear-life": {
     "group": "DEAR LIFE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/brilliant-minds": {
@@ -158,7 +158,7 @@
   "/dizi/best-medicine": {
     "group": "BEST MEDICINE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/dizi/will-trent": {
