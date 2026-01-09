@@ -1,44 +1,44 @@
 {
   "/dizi/patience": {
     "group": "PATIENCE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/the-hunting-party": {
     "group": "THE HUNTING PARTY",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/dizi/the-good-ship-murder": {
     "group": "THE GOOD SHIP MURDER",
     "last_season": 3,
-    "last_episode": 1,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi/shifting-gears": {
     "group": "SHIFTING GEARS",
     "last_season": 2,
-    "last_episode": 8,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/dizi/girl-taken": {
     "group": "GIRL TAKEN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/dizi/chicago-p-d": {
     "group": "CHICAGO P.D.",
     "last_season": 13,
-    "last_episode": 7,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/chicago-med": {
     "group": "CHICAGO MED",
     "last_season": 11,
-    "last_episode": 7,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/chicago-fire": {
@@ -49,20 +49,20 @@
   },
   "/dizi/allegiance-2024": {
     "group": "ALLEGIANCE",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/dizi/a-thousand-blows": {
     "group": "A THOUSAND BLOWS",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/niebo": {
     "group": "HEAVEN",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/dizi/the-pitt": {
