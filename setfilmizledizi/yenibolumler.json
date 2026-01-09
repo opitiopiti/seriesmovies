@@ -1,4 +1,10 @@
 {
+  "/dizi/a-thousand-blows/": {
+    "group": "A THOUSAND BLOWS",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
   "/dizi/halef/": {
     "group": "HALEF",
     "last_season": 1,
@@ -63,24 +69,6 @@
     "group": "PALM ROYALE",
     "last_season": 2,
     "last_episode": 10,
-    "start_episode": 1
-  },
-  "/dizi/surely-tomorrow/": {
-    "group": "SURELY TOMORROW",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/dizi/spring-fever/": {
-    "group": "SPRING FEVER",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/dizi/run-away/": {
-    "group": "RUN AWAY",
-    "last_season": 1,
-    "last_episode": 8,
     "start_episode": 1
   }
 }

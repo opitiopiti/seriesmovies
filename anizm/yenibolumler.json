@@ -1,4 +1,10 @@
 {
+  "/douse-koishite-shimaunda-2nd-season": {
+    "group": "DOUSE, KOISHITE SHIMAUNDA. 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/yi-ren-zhi-xia-6": {
     "group": "YI REN ZHI XIA 6",
     "last_season": 1,
@@ -87,12 +93,6 @@
     "group": "YUUSHA PARTY WO OIDASARETA KIYOUBINBOU",
     "last_season": 1,
     "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/shibou-yuugi-de-meshi-wo-kuu": {
-    "group": "SHIBOU YUUGI DE MESHI WO KUU.",
-    "last_season": 1,
-    "last_episode": 1.0,
     "start_episode": 1
   }
 }
