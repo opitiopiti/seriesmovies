@@ -237,10 +237,20 @@ jobs:
           git diff --cached --quiet || git commit -m "Xtream JSON updated & added [auto]"
           git push origin main || echo "⚠️ Push failed"
 
-      - name: Xtream Cache Clear
+      - name: Xtream Full Cache Clear
         run: |
-          echo "🚀 Clearing Xtream cache..."
+          echo "🚀 Clearing Full Xtream cache..."
           curl -X GET "$XTREAM_CACHE_URL" || echo "⚠️ Cache clear request failed"
+
+      - name: Xtream Premium Cache Clear
+        run: |
+          echo "🚀 Clearing Premium Xtream cache..."
+          curl -X GET "$XTREAM_PRE_CACHE_URL" || echo "⚠️ Cache clear request failed"
+
+      - name: Xtream Standard Cache Clear
+        run: |
+          echo "🚀 Clearing Standard Xtream cache..."
+          curl -X GET "$XTREAM_STD_CACHE_URL" || echo "⚠️ Cache clear request failed"
          
       - name: Telegram Success Notification
         if: success()
