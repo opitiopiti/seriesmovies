@@ -1,4 +1,10 @@
 {
+  "/anime/blue-miburo-season-2/": {
+    "group": "BLUE MIBURO SEASON 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/anime/fire-force-season-3-part-2/": {
     "group": "FIRE FORCE SEASON 3 PART 2",
     "last_season": 1,
@@ -111,12 +117,6 @@
     "group": "HELL TEACHER: JIGOKU SENSEI NUBE PART 2",
     "last_season": 1,
     "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/tamons-b-side/": {
-    "group": "TAMON’S B-SIDE",
-    "last_season": 1,
-    "last_episode": 2,
     "start_episode": 1
   }
 }

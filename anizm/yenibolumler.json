@@ -1,4 +1,10 @@
 {
+  "/isekai-no-sata-wa-shachiku-shidai": {
+    "group": "ISEKAI NO SATA WA SHACHIKU SHIDAI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru": {
     "group": "HELL MODE: YARIKOMIZUKI NO GAMER WA HAI SETTEI NO ISEKAI DE MUSOU SURU",
     "last_season": 1,
@@ -85,12 +91,6 @@
   },
   "/mato-seihei-no-slave-2": {
     "group": "MATO SEIHEI NO SLAVE 2",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/toumei-otoko-to-ningen-onna-sonouchi-fuufu-ni-naru-futari": {
-    "group": "TOUMEI OTOKO TO NINGEN ONNA: SONOUCHI FUUFU NI NARU FUTARI",
     "last_season": 1,
     "last_episode": 1.0,
     "start_episode": 1

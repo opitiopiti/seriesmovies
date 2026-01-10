@@ -1,4 +1,16 @@
 {
+  "/dizi/ghosts-2021": {
+    "group": "GHOSTS",
+    "last_season": 5,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "/dizi/boston-blue": {
+    "group": "BOSTON BLUE",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
   "/dizi/patience": {
     "group": "PATIENCE",
     "last_season": 2,
@@ -153,18 +165,6 @@
     "group": "SHORESY",
     "last_season": 5,
     "last_episode": 4,
-    "start_episode": 1
-  },
-  "/dizi/saint-pierre": {
-    "group": "SAINT-PIERRE",
-    "last_season": 2,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/dizi/ripple": {
-    "group": "RIPPLE",
-    "last_season": 1,
-    "last_episode": 8,
     "start_episode": 1
   }
 }
