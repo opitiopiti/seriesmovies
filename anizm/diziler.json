@@ -214,5 +214,35 @@
     "last_season": 1,
     "last_episode": 1.0,
     "start_episode": 1
+  },
+  "/kaya-chan-wa-kowakunai": {
+    "group": "KAYA-CHAN WA KOWAKUNAI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/si-vis-the-sound-of-heroes": {
+    "group": "SI-VIS: THE SOUND OF HEROES",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dead-account": {
+    "group": "DEAD ACCOUNT",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/xian-wang-de-richang-shenghuo-5": {
+    "group": "XIAN WANG DE RICHANG SHENGHUO 5",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/toujima-tanzaburou-wa-kamen-rider-ni-naritai": {
+    "group": "TOUJIMA TANZABUROU WA KAMEN RIDER NI NARITAI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
