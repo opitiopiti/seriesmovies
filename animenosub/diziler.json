@@ -152,7 +152,7 @@
   "/anime/scum-of-the-brave/": {
     "group": "SCUM OF THE BRAVE",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1
   },
   "/anime/a-misanthrope-teaches-a-class-for-demi-humans/": {
@@ -194,7 +194,7 @@
   "/anime/tojima-wants-to-be-a-kamen-rider/": {
     "group": "TOJIMA WANTS TO BE A KAMEN RIDER",
     "last_season": 1,
-    "last_episode": 13,
+    "last_episode": 14,
     "start_episode": 1
   },
   "/anime/trigun-stargaze/": {
@@ -206,7 +206,7 @@
   "/anime/gnosia/": {
     "group": "GNOSIA",
     "last_season": 1,
-    "last_episode": 12,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/anime/in-the-clear-moonlit-dusk/": {
