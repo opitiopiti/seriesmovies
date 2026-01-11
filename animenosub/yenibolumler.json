@@ -1,4 +1,52 @@
 {
+  "/anime/in-the-clear-moonlit-dusk/": {
+    "group": "IN THE CLEAR MOONLIT DUSK",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/oedo-fire-slayer-the-legend-of-phoenix/": {
+    "group": "OEDO FIRE SLAYER: THE LEGEND OF PHOENIX",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/the-villainess-is-adored-by-the-prince-of-the-neighbor-kingdom/": {
+    "group": "THE VILLAINESS IS ADORED BY THE PRINCE OF THE NEIGHBOR KINGDOM",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/kaya-chan-isnt-scary/": {
+    "group": "KAYA-CHAN ISN’T SCARY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/you-and-i-are-polar-opposites/": {
+    "group": "YOU AND I ARE POLAR OPPOSITES",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/scum-of-the-brave/": {
+    "group": "SCUM OF THE BRAVE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/gnosia/": {
+    "group": "GNOSIA",
+    "last_season": 1,
+    "last_episode": 12,
+    "start_episode": 1
+  },
+  "/anime/tojima-wants-to-be-a-kamen-rider/": {
+    "group": "TOJIMA WANTS TO BE A KAMEN RIDER",
+    "last_season": 1,
+    "last_episode": 13,
+    "start_episode": 1
+  },
   "/anime/fate-strange-fake/": {
     "group": "FATE/STRANGE FAKE",
     "last_season": 1,
@@ -17,12 +65,6 @@
     "last_episode": 1,
     "start_episode": 1
   },
-  "/anime/tojima-wants-to-be-a-kamen-rider/": {
-    "group": "TOJIMA WANTS TO BE A KAMEN RIDER",
-    "last_season": 1,
-    "last_episode": 13,
-    "start_episode": 1
-  },
   "/anime/trigun-stargaze/": {
     "group": "TRIGUN STARGAZE",
     "last_season": 1,
@@ -35,12 +77,6 @@
     "last_episode": 1,
     "start_episode": 1
   },
-  "/anime/gnosia/": {
-    "group": "GNOSIA",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
   "/anime/blue-miburo-season-2/": {
     "group": "BLUE MIBURO SEASON 2",
     "last_season": 1,
@@ -51,12 +87,6 @@
     "group": "FIRE FORCE SEASON 3 PART 2",
     "last_season": 1,
     "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/scum-of-the-brave/": {
-    "group": "SCUM OF THE BRAVE",
-    "last_season": 1,
-    "last_episode": 0,
     "start_episode": 1
   },
   "/anime/does-it-count-if-you-lose-your-innocence-to-an-android-uncensored/": {
@@ -87,36 +117,6 @@
     "group": "CHAMPIGNON WITCH",
     "last_season": 1,
     "last_episode": 2,
-    "start_episode": 1
-  },
-  "/anime/anyway-im-falling-in-love-with-you-season-2/": {
-    "group": "ANYWAY, I’M FALLING IN LOVE WITH YOU. SEASON 2",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/jujutsu-kaisen-the-culling-game-part-1/": {
-    "group": "JUJUTSU KAISEN: THE CULLING GAME PART 1",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/anime/roll-over-and-die/": {
-    "group": "ROLL OVER AND DIE",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/chained-soldier-season-2-uncensored/": {
-    "group": "CHAINED SOLDIER SEASON 2 (UNCENSORED)",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/all-you-need-is-kill/": {
-    "group": "ALL YOU NEED IS KILL",
-    "last_season": 1,
-    "last_episode": 0,
     "start_episode": 1
   }
 }
