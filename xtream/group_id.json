@@ -7265,7 +7265,8 @@
     "8262": "TATILDE TANIŞTIĞIMIZ İNSANLAR(2026) (TÜRKÇE ALTYAZI)",
     "8263": "VERMIGLIO(2024) (DUBLAJ & ALTYAZI)",
     "8264": "PANDORA'NIN KUTUSU(2008) (YERLI)",
-    "8265": "THE GORGE(2025) (TÜRKÇE DUBLAJ)"
+    "8265": "THE GORGE(2025) (TÜRKÇE DUBLAJ)",
+    "8266": "FREDDY’NIN PIZZA DÜKKANINDA BEŞ GECE 2(2025) (TÜRKÇE DUBLAJ)"
   },
   "series": {
     "1000": "İNGİLTERE MEZATÇILARI DMAX TÜRKİYE",
@@ -11904,7 +11905,10 @@
     "5633": "OEDO FIRE SLAYER THE LEGEND OF PHOENIX(2026) İNGİLİZCE ALTYAZI",
     "5634": "THE VILLAINESS IS ADORED BY THE PRINCE OF THE NEIGHBOR KINGDOM(2026) İNGİLİZCE ALTYAZI",
     "5635": "HELL'S PARADISE: JIGOKURAKU SEASON 2(2026) İNGİLİZCE ALTYAZI",
-    "5636": "OEDO FIRE SLAYER: THE LEGEND OF PHOENIX(2026) İNGİLİZCE ALTYAZI"
+    "5636": "OEDO FIRE SLAYER: THE LEGEND OF PHOENIX(2026) İNGİLİZCE ALTYAZI",
+    "5637": "ELBET YARIN - SURELY TOMORROW(2025) DUBLAJ & ALTYAZI",
+    "5638": "INDUSTRY(2020) TÜRKÇE DUBLAJ",
+    "5639": "INDUSTRY(2020) TÜRKÇE ALTYAZI"
   },
   "live": {
     "1000": {
@@ -38906,6 +38910,218 @@
     "7749": {
       "name": "MATV NATIONAL",
       "category_id": "31"
+    },
+    "7750": {
+      "name": "4K TR: EXXEN TV",
+      "category_id": "8"
+    },
+    "7751": {
+      "name": "S SPORT+4 MAC SAATI",
+      "category_id": "9"
+    },
+    "7752": {
+      "name": "ATV 2",
+      "category_id": "19"
+    },
+    "7753": {
+      "name": "CLASSICA HD",
+      "category_id": "19"
+    },
+    "7754": {
+      "name": "DYN SPORT 9",
+      "category_id": "19"
+    },
+    "7755": {
+      "name": "ESPORTS 1 [LIVE DURING EVENTS ONLY]",
+      "category_id": "19"
+    },
+    "7756": {
+      "name": "FC BAYERN TV HD",
+      "category_id": "19"
+    },
+    "7757": {
+      "name": "GAME OF THRONES CHANNEL",
+      "category_id": "19"
+    },
+    "7758": {
+      "name": "MAGENTA FUSSBALL 10 HD",
+      "category_id": "19"
+    },
+    "7759": {
+      "name": "MORE THAN SPORTS TV HD",
+      "category_id": "19"
+    },
+    "7760": {
+      "name": "PIRATES OF THE CARIBBEAN )",
+      "category_id": "19"
+    },
+    "7761": {
+      "name": "RAKUTEN TOP FREE",
+      "category_id": "19"
+    },
+    "7762": {
+      "name": "SKY BUNDESLIGA 8 HD",
+      "category_id": "19"
+    },
+    "7763": {
+      "name": "SKY CINEMA PREMIEREN HD+",
+      "category_id": "19"
+    },
+    "7764": {
+      "name": "SKY POPCORN SELECT 1",
+      "category_id": "19"
+    },
+    "7765": {
+      "name": "SKY POPCORN SELECT 4",
+      "category_id": "19"
+    },
+    "7766": {
+      "name": "SKY SELECT PROGRAMM BERSICHT",
+      "category_id": "19"
+    },
+    "7767": {
+      "name": "TV 2 SPORT",
+      "category_id": "19"
+    },
+    "7768": {
+      "name": "ACTION",
+      "category_id": "20"
+    },
+    "7769": {
+      "name": "BE SPORTS 1 HD",
+      "category_id": "20"
+    },
+    "7770": {
+      "name": "BEIN AFC1 HD",
+      "category_id": "20"
+    },
+    "7771": {
+      "name": "BEIN SPORTS AFC 1 SD",
+      "category_id": "20"
+    },
+    "7772": {
+      "name": "BEIN SPORTS FRENCH 2",
+      "category_id": "20"
+    },
+    "7773": {
+      "name": "CNA TV",
+      "category_id": "20"
+    },
+    "7774": {
+      "name": "♥QU♥ MOROCCO ♥PA♥",
+      "category_id": "20"
+    },
+    "7775": {
+      "name": "DIASPORT TV",
+      "category_id": "21"
+    },
+    "7776": {
+      "name": "AMAZON PRIME 2 [LIVE DURING EVENTS ONLY]",
+      "category_id": "24"
+    },
+    "7777": {
+      "name": "AMAZON PRIME 3 HD",
+      "category_id": "24"
+    },
+    "7778": {
+      "name": "AMAZON PRIME 7 HD",
+      "category_id": "24"
+    },
+    "7779": {
+      "name": "CANAL PLAY 16",
+      "category_id": "24"
+    },
+    "7780": {
+      "name": "CANAL+ BOX OFFICE",
+      "category_id": "24"
+    },
+    "7781": {
+      "name": "CANAL+ F1 FHD",
+      "category_id": "24"
+    },
+    "7782": {
+      "name": "CANAL+ TOP 14",
+      "category_id": "24"
+    },
+    "7783": {
+      "name": "CDIRECT",
+      "category_id": "24"
+    },
+    "7784": {
+      "name": "DAZN LIGUE 1 LIVE 1 SD",
+      "category_id": "24"
+    },
+    "7785": {
+      "name": "DAZN LIGUE 1 LIVE 5 SD",
+      "category_id": "24"
+    },
+    "7786": {
+      "name": "DAZN LIGUE 1 LIVE 7 HD",
+      "category_id": "24"
+    },
+    "7787": {
+      "name": "DAZN LIGUE 1 LIVE 7 SD",
+      "category_id": "24"
+    },
+    "7788": {
+      "name": "EUROSPORT 360 5",
+      "category_id": "24"
+    },
+    "7789": {
+      "name": "RMC SPORT 3 ACCESS HD",
+      "category_id": "24"
+    },
+    "7790": {
+      "name": "RMC SPORT 3 HD",
+      "category_id": "24"
+    },
+    "7791": {
+      "name": "SERIE CLUB HD",
+      "category_id": "24"
+    },
+    "7792": {
+      "name": "TRACE CARIBBEAN",
+      "category_id": "24"
+    },
+    "7793": {
+      "name": "ELEVEN SPORT 6",
+      "category_id": "27"
+    },
+    "7794": {
+      "name": "HBO",
+      "category_id": "28"
+    },
+    "7795": {
+      "name": "MIR 24",
+      "category_id": "29"
+    },
+    "7796": {
+      "name": "РОССИЯ 1 +2",
+      "category_id": "29"
+    },
+    "7797": {
+      "name": "FREE SPORTS HD",
+      "category_id": "31"
+    },
+    "7798": {
+      "name": "SKY SELECT PREMIERE 05 4K",
+      "category_id": "31"
+    },
+    "7799": {
+      "name": "FDF",
+      "category_id": "32"
+    },
+    "7800": {
+      "name": "LA LIGA TV BAR HD",
+      "category_id": "32"
+    },
+    "7801": {
+      "name": "MOVISTAR LA LIGA 3",
+      "category_id": "32"
+    },
+    "7802": {
+      "name": "SKY SPORT GOLF",
+      "category_id": "33"
     }
   }
 }
