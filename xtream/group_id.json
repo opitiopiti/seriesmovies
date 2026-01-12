@@ -60878,6 +60878,490 @@
     "13241": {
       "name": "TABII SPOR 7",
       "category_id": "6"
+    },
+    "13242": {
+      "name": "FX",
+      "category_id": "3"
+    },
+    "13243": {
+      "name": "EPIC DRAMA",
+      "category_id": "3"
+    },
+    "13244": {
+      "name": "FİLM SCREEN",
+      "category_id": "3"
+    },
+    "13245": {
+      "name": "TRT 2",
+      "category_id": "3"
+    },
+    "13246": {
+      "name": "TRT SPOR YILDIZ",
+      "category_id": "3"
+    },
+    "13247": {
+      "name": "TRT SPOR",
+      "category_id": "3"
+    },
+    "13248": {
+      "name": "TRT GENÇ",
+      "category_id": "3"
+    },
+    "13249": {
+      "name": "TRT HABER",
+      "category_id": "3"
+    },
+    "13250": {
+      "name": "TRT ÇOCUK",
+      "category_id": "3"
+    },
+    "13251": {
+      "name": "TRT DIYANET COCUK",
+      "category_id": "3"
+    },
+    "13252": {
+      "name": "TRT MUZİK",
+      "category_id": "3"
+    },
+    "13253": {
+      "name": "TRT TURK",
+      "category_id": "3"
+    },
+    "13254": {
+      "name": "TRT AVAZ",
+      "category_id": "3"
+    },
+    "13255": {
+      "name": "TRT 3 TMBB",
+      "category_id": "3"
+    },
+    "13256": {
+      "name": "TRT BELGESEL",
+      "category_id": "3"
+    },
+    "13257": {
+      "name": "TRT EBA",
+      "category_id": "3"
+    },
+    "13258": {
+      "name": "TRT KURDI",
+      "category_id": "3"
+    },
+    "13259": {
+      "name": "TRT ARABIA",
+      "category_id": "3"
+    },
+    "13260": {
+      "name": "TRT WORLD",
+      "category_id": "3"
+    },
+    "13261": {
+      "name": "BEINSPORTS HABER",
+      "category_id": "3"
+    },
+    "13262": {
+      "name": "A SPOR",
+      "category_id": "3"
+    },
+    "13263": {
+      "name": "EUROSPORT 1",
+      "category_id": "3"
+    },
+    "13264": {
+      "name": "EUROSPORT 2",
+      "category_id": "3"
+    },
+    "13265": {
+      "name": "HT SPOR",
+      "category_id": "3"
+    },
+    "13266": {
+      "name": "TRACE SPORT",
+      "category_id": "3"
+    },
+    "13267": {
+      "name": "COSMO SPORTS",
+      "category_id": "3"
+    },
+    "13268": {
+      "name": "EKOL SPORTS",
+      "category_id": "3"
+    },
+    "13269": {
+      "name": "SPORTS TV",
+      "category_id": "3"
+    },
+    "13270": {
+      "name": "FB TV",
+      "category_id": "3"
+    },
+    "13271": {
+      "name": "TV 8.5",
+      "category_id": "3"
+    },
+    "13272": {
+      "name": "VIASAT EXPLORE",
+      "category_id": "3"
+    },
+    "13273": {
+      "name": "TARİH TV",
+      "category_id": "3"
+    },
+    "13274": {
+      "name": "NATIONAL GEOGHRAPIC",
+      "category_id": "3"
+    },
+    "13275": {
+      "name": "NATIONAL GEOGHRAPIC WILD",
+      "category_id": "3"
+    },
+    "13276": {
+      "name": "DISCOVERY CHANNEL",
+      "category_id": "3"
+    },
+    "13277": {
+      "name": "ID TV",
+      "category_id": "3"
+    },
+    "13278": {
+      "name": "VIASAT HISTORY",
+      "category_id": "3"
+    },
+    "13279": {
+      "name": "LOVE NATURE",
+      "category_id": "3"
+    },
+    "13280": {
+      "name": "DOCU SCREEN",
+      "category_id": "3"
+    },
+    "13281": {
+      "name": "MİNİKA ÇOCUK",
+      "category_id": "3"
+    },
+    "13282": {
+      "name": "MİNİKA GO",
+      "category_id": "3"
+    },
+    "13283": {
+      "name": "SPACETOON",
+      "category_id": "3"
+    },
+    "13284": {
+      "name": "AZOOMEE",
+      "category_id": "3"
+    },
+    "13285": {
+      "name": "BABY TV",
+      "category_id": "3"
+    },
+    "13286": {
+      "name": "DISNEY JUNIOR",
+      "category_id": "3"
+    },
+    "13287": {
+      "name": "CARTOON NETWORK",
+      "category_id": "3"
+    },
+    "13288": {
+      "name": "MOONBUG KIDS",
+      "category_id": "3"
+    },
+    "13289": {
+      "name": "DUCK TV",
+      "category_id": "3"
+    },
+    "13290": {
+      "name": "ENGLISH CLUB",
+      "category_id": "3"
+    },
+    "13291": {
+      "name": "DA VINCI",
+      "category_id": "3"
+    },
+    "13292": {
+      "name": "LANG LAB",
+      "category_id": "3"
+    },
+    "13293": {
+      "name": "LINGOTOONS",
+      "category_id": "3"
+    },
+    "13294": {
+      "name": "SÖZCÜ TV",
+      "category_id": "3"
+    },
+    "13295": {
+      "name": "A HABER",
+      "category_id": "3"
+    },
+    "13296": {
+      "name": "NTV",
+      "category_id": "3"
+    },
+    "13297": {
+      "name": "CNN TÜRK",
+      "category_id": "3"
+    },
+    "13298": {
+      "name": "24 TV",
+      "category_id": "3"
+    },
+    "13299": {
+      "name": "TGRT HABER",
+      "category_id": "3"
+    },
+    "13300": {
+      "name": "HABER TÜRK",
+      "category_id": "3"
+    },
+    "13301": {
+      "name": "BLOOMBERG HT",
+      "category_id": "3"
+    },
+    "13302": {
+      "name": "ÜLKE TV",
+      "category_id": "3"
+    },
+    "13303": {
+      "name": "HALK TV",
+      "category_id": "3"
+    },
+    "13304": {
+      "name": "FLASH HABER",
+      "category_id": "3"
+    },
+    "13305": {
+      "name": "A PARA",
+      "category_id": "3"
+    },
+    "13306": {
+      "name": "THT TÜRK HABER",
+      "category_id": "3"
+    },
+    "13307": {
+      "name": "A NEWS",
+      "category_id": "3"
+    },
+    "13308": {
+      "name": "CNN INTERNATIONAL",
+      "category_id": "3"
+    },
+    "13309": {
+      "name": "BLOOMBERG TV",
+      "category_id": "3"
+    },
+    "13310": {
+      "name": "CNBC-E",
+      "category_id": "3"
+    },
+    "13311": {
+      "name": "ULUSAL KANAL",
+      "category_id": "3"
+    },
+    "13312": {
+      "name": "GZT TV",
+      "category_id": "3"
+    },
+    "13313": {
+      "name": "KANAL B",
+      "category_id": "3"
+    },
+    "13314": {
+      "name": "GENÇ TV",
+      "category_id": "3"
+    },
+    "13315": {
+      "name": "VAV TV",
+      "category_id": "3"
+    },
+    "13316": {
+      "name": "TYT TURK",
+      "category_id": "3"
+    },
+    "13317": {
+      "name": "TMB",
+      "category_id": "3"
+    },
+    "13318": {
+      "name": "TV4",
+      "category_id": "3"
+    },
+    "13319": {
+      "name": "BENGÜ TÜRK",
+      "category_id": "3"
+    },
+    "13320": {
+      "name": "MEZZO HD",
+      "category_id": "3"
+    },
+    "13321": {
+      "name": "CLASSICAL HARMONY",
+      "category_id": "3"
+    },
+    "13322": {
+      "name": "TV NET",
+      "category_id": "3"
+    },
+    "13323": {
+      "name": "AKİT TV",
+      "category_id": "3"
+    },
+    "13324": {
+      "name": "BRT 1",
+      "category_id": "3"
+    },
+    "13325": {
+      "name": "HABER GLOBAL",
+      "category_id": "3"
+    },
+    "13326": {
+      "name": "EKOL TV",
+      "category_id": "3"
+    },
+    "13327": {
+      "name": "KRT TV",
+      "category_id": "3"
+    },
+    "13328": {
+      "name": "EKOTÜRK",
+      "category_id": "3"
+    },
+    "13329": {
+      "name": "TV 42",
+      "category_id": "3"
+    },
+    "13330": {
+      "name": "TV 5",
+      "category_id": "3"
+    },
+    "13331": {
+      "name": "LİDER HABER",
+      "category_id": "3"
+    },
+    "13332": {
+      "name": "TELE 1",
+      "category_id": "3"
+    },
+    "13333": {
+      "name": "AS TV",
+      "category_id": "3"
+    },
+    "13334": {
+      "name": "AL JAZEERA ARABIC",
+      "category_id": "3"
+    },
+    "13335": {
+      "name": "AL JAZEERA INTERNATIONAL",
+      "category_id": "3"
+    },
+    "13336": {
+      "name": "DW TV",
+      "category_id": "3"
+    },
+    "13337": {
+      "name": "FRANCE 24 ENGLISH",
+      "category_id": "3"
+    },
+    "13338": {
+      "name": "FRANCE 24 FRANSIZCA",
+      "category_id": "3"
+    },
+    "13339": {
+      "name": "CGTN",
+      "category_id": "3"
+    },
+    "13340": {
+      "name": "RUSYA 24",
+      "category_id": "3"
+    },
+    "13341": {
+      "name": "CGTN DOCUMENTARY",
+      "category_id": "3"
+    },
+    "13342": {
+      "name": "AZ TV",
+      "category_id": "3"
+    },
+    "13343": {
+      "name": "TÜRKMENELİ TV",
+      "category_id": "3"
+    },
+    "13344": {
+      "name": "TV5 MONDE EUROPE",
+      "category_id": "3"
+    },
+    "13345": {
+      "name": "CCTV 4",
+      "category_id": "3"
+    },
+    "13346": {
+      "name": "SAUDI TV",
+      "category_id": "3"
+    },
+    "13347": {
+      "name": "BİR TV",
+      "category_id": "3"
+    },
+    "13348": {
+      "name": "HAYAT 2",
+      "category_id": "3"
+    },
+    "13349": {
+      "name": "RTR PLANETA",
+      "category_id": "3"
+    },
+    "13350": {
+      "name": "KBS WORLD TV",
+      "category_id": "3"
+    },
+    "13351": {
+      "name": "NHK WORLD",
+      "category_id": "3"
+    },
+    "13352": {
+      "name": "ARİRANG",
+      "category_id": "3"
+    },
+    "13353": {
+      "name": "FREEDOM",
+      "category_id": "3"
+    },
+    "13354": {
+      "name": "KITCHEN TV",
+      "category_id": "3"
+    },
+    "13355": {
+      "name": "MYZEN",
+      "category_id": "3"
+    },
+    "13356": {
+      "name": "TINYTEEN",
+      "category_id": "3"
+    },
+    "13357": {
+      "name": "DİYANET TV",
+      "category_id": "3"
+    },
+    "13358": {
+      "name": "AL KURAN",
+      "category_id": "3"
+    },
+    "13359": {
+      "name": "AL SUNNAH",
+      "category_id": "3"
+    },
+    "13360": {
+      "name": "LALEGÜL",
+      "category_id": "3"
+    },
+    "13361": {
+      "name": "DREAM TÜRK",
+      "category_id": "3"
+    },
+    "13362": {
+      "name": "TRACE URBAN",
+      "category_id": "3"
     }
   }
 }
