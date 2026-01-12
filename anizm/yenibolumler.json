@@ -2,13 +2,13 @@
   "/hakugei-densetsu": {
     "group": "HAKUGEI DENSETSU",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1.0,
     "start_episode": 1
   },
   "/kui-cheng-shoufu-cong-youxi-kaishi": {
     "group": "KUI CHENG SHOUFU CONG YOUXI KAISHI",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 3.0,
     "start_episode": 1
   },
   "/goumon-baito-kun-no-nichijou": {
