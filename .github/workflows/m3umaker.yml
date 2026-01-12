@@ -86,6 +86,7 @@ jobs:
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/opitiopiti/m3u8file.git privaate_m3u8file
 
           cp v/vavoo.m3u privaate_m3u8file/vavoo.m3u || echo "v/vavoo.m3u bulunamadı"
+          cp v/vavoo_turkey.m3u privaate_m3u8file/vavoo_turkey.m3u || echo "v/vavoo_turkey.m3u bulunamadı"
           cp gunluk_spor.m3u privaate_m3u8file/gunluk_spor.m3u || echo "gunluk_spor.m3u bulunamadı"
           cp televizyondizileri.m3u privaate_m3u8file/televizyondizileri.m3u || echo "televizyondizileri.m3u bulunamadı"
 
