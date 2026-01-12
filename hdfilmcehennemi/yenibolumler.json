@@ -1,4 +1,7 @@
 {
+  "/dizi/patience/": {
+    "group": "PATIENCE"
+  },
   "/dizi/industry-izle-41/": {
     "group": "INDUSTRY"
   },
@@ -26,23 +29,8 @@
   "/dizi/the-hunting-party-2025-hdfc/": {
     "group": "THE HUNTING PARTY"
   },
-  "/dizi/high-potential/": {
-    "group": "HIGH POTENTIAL"
-  },
-  "/dizi/percy-jackson-and-the-olympians-42/": {
-    "group": "PERCY JACKSON AND THE OLYMPIANS"
-  },
-  "/dizi/beast-games/": {
-    "group": "BEAST GAMES"
-  },
-  "/dizi/allegiance-hdfc/": {
-    "group": "ALLEGIANCE"
-  },
-  "/dizi/patience/": {
-    "group": "PATIENCE"
-  },
-  "/dizi/palm-royale-43/": {
-    "group": "PALM ROYALE"
+  "/dizi/outlander-blood-of-my-blood/": {
+    "group": "OUTLANDER: BLOOD OF MY BLOOD"
   },
   "/dizi/his-hers-2026-hdfc/": {
     "group": "NE YAPTIĞINI BILIYORUM - HIS HERS"
@@ -112,8 +100,5 @@
   },
   "/dizi/man-vs-baby/": {
     "group": "MAN VS BABY"
-  },
-  "/dizi/elementary/": {
-    "group": "ELEMENTARY"
   }
 }

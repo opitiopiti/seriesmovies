@@ -5,6 +5,30 @@
     "last_episode": 0,
     "start_episode": 1
   },
+  "/anime/you-cant-be-in-a-rom-com-with-your-childhood-friends/": {
+    "group": "YOU CAN’T BE IN A ROM-COM WITH YOUR CHILDHOOD FRIENDS!",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/golden-kamuy-final-season/": {
+    "group": "GOLDEN KAMUY FINAL SEASON",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/my-hero-academia-vigilantes-season-2/": {
+    "group": "MY HERO ACADEMIA: VIGILANTES SEASON 2",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/wash-it-all-away/": {
+    "group": "WASH IT ALL AWAY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/anime/oedo-fire-slayer-the-legend-of-phoenix/": {
     "group": "OEDO FIRE SLAYER: THE LEGEND OF PHOENIX",
     "last_season": 1,
@@ -93,30 +117,6 @@
     "group": "SCUM OF THE BRAVE",
     "last_season": 1,
     "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/gnosia/": {
-    "group": "GNOSIA",
-    "last_season": 1,
-    "last_episode": 13,
-    "start_episode": 1
-  },
-  "/anime/tojima-wants-to-be-a-kamen-rider/": {
-    "group": "TOJIMA WANTS TO BE A KAMEN RIDER",
-    "last_season": 1,
-    "last_episode": 14,
-    "start_episode": 1
-  },
-  "/anime/fate-strange-fake/": {
-    "group": "FATE/STRANGE FAKE",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/anime/to-your-eternity-season-3/": {
-    "group": "TO YOUR ETERNITY SEASON 3",
-    "last_season": 1,
-    "last_episode": 14,
     "start_episode": 1
   }
 }

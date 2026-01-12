@@ -1,8 +1,26 @@
 {
+  "/osananajimi-to-wa-love-comedy-ni-naranai": {
+    "group": "OSANANAJIMI TO WA LOVE COMEDY NI NARANAI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/hakugei-densetsu": {
     "group": "HAKUGEI DENSETSU",
     "last_season": 1,
     "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/vigilante-boku-no-hero-academia-illegals-2nd-season": {
+    "group": "VIGILANTE: BOKU NO HERO ACADEMIA ILLEGALS 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/hokuto-no-ken-kenougun-zako-tachi-no-banka": {
+    "group": "HOKUTO NO KEN: KENOUGUN ZAKO-TACHI NO BANKA",
+    "last_season": 1,
+    "last_episode": 0,
     "start_episode": 1
   },
   "/kui-cheng-shoufu-cong-youxi-kaishi": {
@@ -75,30 +93,6 @@
     "group": "KAYA-CHAN WA KOWAKUNAI",
     "last_season": 1,
     "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/si-vis-the-sound-of-heroes": {
-    "group": "SI-VIS: THE SOUND OF HEROES",
-    "last_season": 1,
-    "last_episode": 14.0,
-    "start_episode": 1
-  },
-  "/dead-account": {
-    "group": "DEAD ACCOUNT",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/xian-wang-de-richang-shenghuo-5": {
-    "group": "XIAN WANG DE RICHANG SHENGHUO 5",
-    "last_season": 1,
-    "last_episode": 6.0,
-    "start_episode": 1
-  },
-  "/toujima-tanzaburou-wa-kamen-rider-ni-naritai": {
-    "group": "TOUJIMA TANZABUROU WA KAMEN RIDER NI NARITAI",
-    "last_season": 1,
-    "last_episode": 14.0,
     "start_episode": 1
   }
 }
