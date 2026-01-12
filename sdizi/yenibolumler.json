@@ -1,14 +1,14 @@
 {
   "/diziler/dispatches-from-elsewhere.html": {
-    "last_season": 1,
-    "last_episode": 10,
     "group": "DISPATCHES FROM ELSEWHERE",
+    "last_season": 1,
+    "last_episode": 0,
     "start_episode": 1
   },
   "/diziler/soulmates.html": {
-    "last_season": 1,
-    "last_episode": 6,
     "group": "SOULMATES",
+    "last_season": 1,
+    "last_episode": 0,
     "start_episode": 1
   },
   "/diziler/surely-tomorrow.html": {

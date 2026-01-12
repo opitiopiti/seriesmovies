@@ -16270,5 +16270,17 @@
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
+  },
+  "/diziler/dispatches-from-elsewhere.html": {
+    "group": "DISPATCHES FROM ELSEWHERE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/diziler/soulmates.html": {
+    "group": "SOULMATES",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

@@ -1,4 +1,7 @@
 {
+  "/dizi/surely-tomorrow/": {
+    "group": "ELBET YARIN - SURELY TOMORROW"
+  },
   "/dizi/the-night-manager/": {
     "group": "THE NIGHT MANAGER"
   },
@@ -41,14 +44,11 @@
   "/dizi/palm-royale-43/": {
     "group": "PALM ROYALE"
   },
-  "/dizi/spring-fever/": {
-    "group": "SPRING FEVER"
-  },
-  "/dizi/will-trent-1/": {
-    "group": "WILL TRENT"
-  },
   "/dizi/his-hers-2026-hdfc/": {
     "group": "NE YAPTIĞINI BILIYORUM - HIS HERS"
+  },
+  "/dizi/spring-fever/": {
+    "group": "SPRING FEVER"
   },
   "/dizi/the-war-between-the-land-and-the-sea/": {
     "group": "THE WAR BETWEEN THE LAND AND THE SEA"
@@ -64,9 +64,6 @@
   },
   "/dizi/stranger-things-izle-733360/": {
     "group": "STRANGER THINGS"
-  },
-  "/dizi/surely-tomorrow/": {
-    "group": "ELBET YARIN"
   },
   "/dizi/the-copenhagen-test/": {
     "group": "THE COPENHAGEN TEST"
