@@ -157,26 +157,26 @@
   },
   "/dizi/culinary-class-wars": {
     "group": "Culinary Class Wars",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/dizi/saint-pierre": {
     "group": "Saint-Pierre",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi/tell-me-lies": {
     "group": "Tell Me Lies",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/dizi/the-boyfriend": {
     "group": "The Boyfriend",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1
   }
 }
