@@ -7268,7 +7268,9 @@
     "8265": "THE GORGE(2025) (TÜRKÇE DUBLAJ)",
     "8266": "FREDDY’NIN PIZZA DÜKKANINDA BEŞ GECE 2(2025) (TÜRKÇE DUBLAJ)",
     "8267": "ELINDEN GELENIN EN İYISI(2025) (DUBLAJ & ALTYAZI)",
-    "8268": "PLAY DEAD(2025) (ALTYAZI)"
+    "8268": "PLAY DEAD(2025) (ALTYAZI)",
+    "8269": "SON BIR MACERA: STRANGER THINGS 5. SEZON KAMERA ARKASI(2026) (TÜRKÇE DUBLAJ)",
+    "8270": "SON BIR MACERA: STRANGER THINGS 5. SEZON KAMERA ARKASI(2026) (TÜRKÇE ALTYAZI)"
   },
   "series": {
     "1000": "İNGİLTERE MEZATÇILARI DMAX TÜRKİYE",
@@ -70371,6 +70373,74 @@
     "15612": {
       "name": "СТРАНА FM",
       "category_id": "30"
+    },
+    "15613": {
+      "name": "BLUETV MARVEL ʜᴅ",
+      "category_id": "20"
+    },
+    "15614": {
+      "name": "FC BAYERN TV",
+      "category_id": "20"
+    },
+    "15615": {
+      "name": "MAGENTA FUSSBALL 18 HD",
+      "category_id": "20"
+    },
+    "15616": {
+      "name": "SKY CINEMA PREMIEREN HD+",
+      "category_id": "20"
+    },
+    "15617": {
+      "name": "SKY SPORT 6 HD",
+      "category_id": "20"
+    },
+    "15618": {
+      "name": "BEIN SPORTS 1 HQ",
+      "category_id": "21"
+    },
+    "15619": {
+      "name": "BEIN SPORTS 2 FHD",
+      "category_id": "21"
+    },
+    "15620": {
+      "name": "AHWAZ",
+      "category_id": "22"
+    },
+    "15621": {
+      "name": "AMAZON PRIME 7 HD",
+      "category_id": "25"
+    },
+    "15622": {
+      "name": "MIREASA",
+      "category_id": "29"
+    },
+    "15623": {
+      "name": "MOVISTAR LIGA DE CAMPEONES",
+      "category_id": "33"
+    },
+    "15624": {
+      "name": "SINEMA TV",
+      "category_id": "3"
+    },
+    "15625": {
+      "name": "SINEMA AKSIYON",
+      "category_id": "3"
+    },
+    "15626": {
+      "name": "SINEMA YERLI",
+      "category_id": "3"
+    },
+    "15627": {
+      "name": "SINEMA AILE",
+      "category_id": "3"
+    },
+    "15628": {
+      "name": "SINEMA 1001",
+      "category_id": "3"
+    },
+    "15629": {
+      "name": "SINEMA KOMEDI",
+      "category_id": "3"
     }
   }
 }
