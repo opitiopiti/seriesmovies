@@ -178,5 +178,17 @@
     "last_season": 2,
     "last_episode": 6,
     "start_episode": 1
+  },
+  "/dizi/brilliant-minds": {
+    "group": "Brilliant Minds",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/st-denis-medical": {
+    "group": "St. Denis Medical",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

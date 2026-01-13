@@ -334,5 +334,23 @@
     "last_season": 1,
     "last_episode": 2.0,
     "start_episode": 1
+  },
+  "/darwin-jihen": {
+    "group": "DARWIN JIHEN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/yuusha-party-ni-kawaii-ko-ga-ita-node-kokuhaku-shitemita": {
+    "group": "YUUSHA PARTY NI KAWAII KO GA ITA NODE, KOKUHAKU SHITEMITA.",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/maou-no-musume-wa-yasashisugiru": {
+    "group": "MAOU NO MUSUME WA YASASHISUGIRU!!",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

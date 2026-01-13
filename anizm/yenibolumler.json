@@ -1,4 +1,34 @@
 {
+  "/arne-no-jikenbo": {
+    "group": "ARNE NO JIKENBO",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/darwin-jihen": {
+    "group": "DARWIN JIHEN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/yuusha-party-ni-kawaii-ko-ga-ita-node-kokuhaku-shitemita": {
+    "group": "YUUSHA PARTY NI KAWAII KO GA ITA NODE, KOKUHAKU SHITEMITA.",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/maou-no-musume-wa-yasashisugiru": {
+    "group": "MAOU NO MUSUME WA YASASHISUGIRU!!",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/mayonaka-heart-tune": {
+    "group": "MAYONAKA HEART TUNE",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
   "/tondemo-skill-de-isekai-hourou-meshi-2": {
     "group": "TONDEMO SKILL DE ISEKAI HOUROU MESHI 2",
     "last_season": 1,
@@ -63,36 +93,6 @@
     "group": "IKOKU NIKKI",
     "last_season": 1,
     "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/uruwashi-no-yoi-no-tsuki": {
-    "group": "URUWASHI NO YOI NO TSUKI",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/kizoku-tensei-megumareta-umare-kara-saikyou-no-chikara-wo-eru": {
-    "group": "KIZOKU TENSEI: MEGUMARETA UMARE KARA SAIKYOU NO CHIKARA WO ERU",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/seihantai-na-kimi-to-boku": {
-    "group": "SEIHANTAI NA KIMI TO BOKU",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/jigokuraku-2nd-season": {
-    "group": "JIGOKURAKU 2ND SEASON",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/akuyaku-reijou-wa-ringoku-no-outaishi-ni-dekiai-sareru": {
-    "group": "AKUYAKU REIJOU WA RINGOKU NO OUTAISHI NI DEKIAI SARERU",
-    "last_season": 1,
-    "last_episode": 1.0,
     "start_episode": 1
   }
 }
