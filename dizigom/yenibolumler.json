@@ -1,50 +1,26 @@
 {
-  "/dizi-izle/the-pitt": {
-    "group": "THE PITT",
+  "/dizi-izle/alpha-males": {
+    "group": "ALPHA MALES (MACHOS ALFA)",
+    "last_season": 4,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi-izle/pro-bono": {
+    "group": "PRO BONO",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
+    "start_episode": 1
+  },
+  "/dizi-izle/idol-i": {
+    "group": "IDOL I",
+    "last_season": 1,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi-izle/surely-tomorrow": {
     "group": "SURELY TOMORROW",
     "last_season": 1,
     "last_episode": 12,
-    "start_episode": 1
-  },
-  "/dizi-izle/his-hers": {
-    "group": "HIS & HERS",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi-izle/unlocked-a-jail-experiment": {
-    "group": "UNLOCKED: A JAIL EXPERIMENT",
-    "last_season": 2,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi-izle/my-korean-boyfriend": {
-    "group": "MY KOREAN BOYFRIEND",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi-izle/heaven": {
-    "group": "HEAVEN",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "/dizi-izle/a-thousand-blows": {
-    "group": "A THOUSAND BLOWS",
-    "last_season": 2,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi-izle/alpha-males": {
-    "group": "ALPHA MALES (MACHOS ALFA)",
-    "last_season": 4,
-    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi-izle/paparazzi-king": {
@@ -59,22 +35,46 @@
     "last_episode": 3,
     "start_episode": 1
   },
+  "/dizi-izle/my-korean-boyfriend": {
+    "group": "MY KOREAN BOYFRIEND",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-pitt": {
+    "group": "THE PITT",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/heaven": {
+    "group": "HEAVEN",
+    "last_season": 1,
+    "last_episode": 3,
+    "start_episode": 1
+  },
   "/dizi-izle/percy-jackson-and-the-olympians": {
     "group": "PERCY JACKSON AND THE OLYMPIANS",
     "last_season": 2,
     "last_episode": 6,
     "start_episode": 1
   },
-  "/dizi-izle/pro-bono": {
-    "group": "PRO BONO",
-    "last_season": 1,
-    "last_episode": 12,
+  "/dizi-izle/unlocked-a-jail-experiment": {
+    "group": "UNLOCKED: A JAIL EXPERIMENT",
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
-  "/dizi-izle/made-in-korea": {
-    "group": "MADE IN KOREA",
+  "/dizi-izle/his-hers": {
+    "group": "HIS & HERS",
     "last_season": 1,
-    "last_episode": 5,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi-izle/a-thousand-blows": {
+    "group": "A THOUSAND BLOWS",
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1
   }
 }

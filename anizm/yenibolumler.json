@@ -1,4 +1,10 @@
 {
+  "/kirei-ni-shitemoraemasu-ka": {
+    "group": "KIREI NI SHITEMORAEMASU KA.",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/osananajimi-to-wa-love-comedy-ni-naranai": {
     "group": "OSANANAJIMI TO WA LOVE COMEDY NI NARANAI",
     "last_season": 1,
@@ -87,12 +93,6 @@
     "group": "MAJUTSUSHI KUNON WA MIETEIRU",
     "last_season": 1,
     "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/kaya-chan-wa-kowakunai": {
-    "group": "KAYA-CHAN WA KOWAKUNAI",
-    "last_season": 1,
-    "last_episode": 1.0,
     "start_episode": 1
   }
 }

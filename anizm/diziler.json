@@ -328,5 +328,11 @@
     "last_season": 1,
     "last_episode": 1.0,
     "start_episode": 1
+  },
+  "/kirei-ni-shitemoraemasu-ka": {
+    "group": "KIREI NI SHITEMORAEMASU KA.",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
