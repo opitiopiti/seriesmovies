@@ -358,5 +358,11 @@
     "last_season": 1,
     "last_episode": 2.0,
     "start_episode": 1
+  },
+  "/oshi-no-ko-3rd-season": {
+    "group": "[OSHI NO KO] 3RD SEASON",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

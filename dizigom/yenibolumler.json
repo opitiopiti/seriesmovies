@@ -1,4 +1,16 @@
 {
+  "/dizi-izle/heaven": {
+    "group": "HEAVEN",
+    "last_season": 1,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "/dizi-izle/idol-i": {
+    "group": "IDOL I",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
   "/dizi-izle/alpha-males": {
     "group": "ALPHA MALES (MACHOS ALFA)",
     "last_season": 4,
@@ -11,22 +23,10 @@
     "last_episode": 0,
     "start_episode": 1
   },
-  "/dizi-izle/pro-bono": {
-    "group": "PRO BONO",
-    "last_season": 1,
+  "/dizi-izle/culinary-class-wars": {
+    "group": "CULINARY CLASS WARS",
+    "last_season": 2,
     "last_episode": 12,
-    "start_episode": 1
-  },
-  "/dizi-izle/surely-tomorrow": {
-    "group": "SURELY TOMORROW",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/dizi-izle/idol-i": {
-    "group": "IDOL I",
-    "last_season": 1,
-    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi-izle/my-korean-boyfriend": {
@@ -35,28 +35,16 @@
     "last_episode": 8,
     "start_episode": 1
   },
-  "/dizi-izle/his-hers": {
-    "group": "HIS & HERS",
+  "/dizi-izle/tell-me-lies": {
+    "group": "TELL ME LIES",
     "last_season": 1,
-    "last_episode": 6,
+    "last_episode": 0,
     "start_episode": 1
   },
-  "/dizi-izle/the-night-manager": {
-    "group": "THE NIGHT MANAGER",
-    "last_season": 2,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "/dizi-izle/a-thousand-blows": {
-    "group": "A THOUSAND BLOWS",
-    "last_season": 2,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi-izle/unlocked-a-jail-experiment": {
-    "group": "UNLOCKED: A JAIL EXPERIMENT",
-    "last_season": 2,
-    "last_episode": 8,
+  "/dizi-izle/hijack": {
+    "group": "HIJACK",
+    "last_season": 1,
+    "last_episode": 0,
     "start_episode": 1
   },
   "/dizi-izle/spring-fever": {
@@ -71,16 +59,58 @@
     "last_episode": 5,
     "start_episode": 1
   },
+  "/dizi-izle/made-in-korea": {
+    "group": "MADE IN KOREA",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "/dizi-izle/his-hers": {
+    "group": "HIS & HERS",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi-izle/surely-tomorrow": {
+    "group": "SURELY TOMORROW",
+    "last_season": 1,
+    "last_episode": 12,
+    "start_episode": 1
+  },
+  "/dizi-izle/percy-jackson-and-the-olympians": {
+    "group": "PERCY JACKSON AND THE OLYMPIANS",
+    "last_season": 2,
+    "last_episode": 6,
+    "start_episode": 1
+  },
   "/dizi-izle/silent-truth": {
     "group": "再会～SILENT TRUTH～",
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
   },
-  "/dizi-izle/heaven": {
-    "group": "HEAVEN",
+  "/dizi-izle/unlocked-a-jail-experiment": {
+    "group": "UNLOCKED: A JAIL EXPERIMENT",
+    "last_season": 2,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-boyfriend": {
+    "group": "THE BOYFRIEND",
     "last_season": 1,
-    "last_episode": 3,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/a-thousand-blows": {
+    "group": "A THOUSAND BLOWS",
+    "last_season": 2,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi-izle/palm-royale": {
+    "group": "PALM ROYALE",
+    "last_season": 2,
+    "last_episode": 9,
     "start_episode": 1
   }
 }

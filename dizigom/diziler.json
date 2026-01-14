@@ -1114,5 +1114,23 @@
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
+  },
+  "/dizi-izle/tell-me-lies": {
+    "group": "TELL ME LIES",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/hijack": {
+    "group": "HIJACK",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-boyfriend": {
+    "group": "THE BOYFRIEND",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

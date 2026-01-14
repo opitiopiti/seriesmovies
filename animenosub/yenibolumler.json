@@ -1,4 +1,40 @@
 {
+  "/anime/tamons-b-side/": {
+    "group": "TAMON’S B-SIDE",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/anime/hell-teacher-jigoku-sensei-nube-part-2/": {
+    "group": "HELL TEACHER: JIGOKU SENSEI NUBE PART 2",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/anime/oshi-no-ko-season-3/": {
+    "group": "OSHI NO KO SEASON 3",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/anime/jack-of-all-trades-party-of-none/": {
+    "group": "JACK-OF-ALL-TRADES, PARTY OF NONE",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/anime/a-gentle-nobles-vacation-recommendation/": {
+    "group": "A GENTLE NOBLE’S VACATION RECOMMENDATION",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/anime/shiboyugi-playing-death-games-to-put-food-on-the-table/": {
+    "group": "SHIBOYUGI: PLAYING DEATH GAMES TO PUT FOOD ON THE TABLE",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
   "/anime/an-adventurers-daily-grind-at-age-29/": {
     "group": "AN ADVENTURER’S DAILY GRIND AT AGE 29",
     "last_season": 1,
@@ -81,42 +117,6 @@
     "group": "OEDO FIRE SLAYER: THE LEGEND OF PHOENIX",
     "last_season": 1,
     "last_episode": 12,
-    "start_episode": 1
-  },
-  "/anime/journal-with-witch/": {
-    "group": "JOURNAL WITH WITCH",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/anime/hells-paradise-season-2/": {
-    "group": "HELL’S PARADISE SEASON 2",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/the-daily-life-of-a-part-time-torturer/": {
-    "group": "THE DAILY LIFE OF A PART-TIME TORTURER",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/anime/noble-reincarnation-born-blessed-so-ill-obtain-ultimate-power/": {
-    "group": "NOBLE REINCARNATION: BORN BLESSED, SO I’LL OBTAIN ULTIMATE POWER",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/anime/the-villainess-is-adored-by-the-prince-of-the-neighbor-kingdom/": {
-    "group": "THE VILLAINESS IS ADORED BY THE PRINCE OF THE NEIGHBOR KINGDOM",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/anime/kunon-the-sorcerer-can-see/": {
-    "group": "KUNON THE SORCERER CAN SEE",
-    "last_season": 1,
-    "last_episode": 3,
     "start_episode": 1
   }
 }

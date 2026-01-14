@@ -1,4 +1,10 @@
 {
+  "/diziler/oshi-no-ko.html": {
+    "group": "OSHI NO KO",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/diziler/percy-jackson-and-the-olympians.html": {
     "group": "PERCY JACKSON AND THE OLYMPIANS",
     "last_season": 2,
@@ -81,12 +87,6 @@
     "group": "FATE/STRANGE FAKE",
     "last_season": 1,
     "last_episode": 2,
-    "start_episode": 1
-  },
-  "/diziler/to-your-eternity.html": {
-    "group": "TO YOUR ETERNITY",
-    "last_season": 3,
-    "last_episode": 14,
     "start_episode": 1
   }
 }

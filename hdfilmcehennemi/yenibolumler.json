@@ -1,7 +1,4 @@
 {
-  "/dizi/tell-me-lies-hdf2-14/": {
-    "group": "TELL ME LIES"
-  },
   "/dizi/percy-jackson-and-the-olympians-42/": {
     "group": "PERCY JACKSON AND THE OLYMPIANS"
   },
@@ -13,6 +10,15 @@
   },
   "/dizi/spring-fever/": {
     "group": "SPRING FEVER"
+  },
+  "/dizi/will-trent-1/": {
+    "group": "WILL TRENT"
+  },
+  "/dizi/tell-me-lies-hdf2-14/": {
+    "group": "TELL ME LIES"
+  },
+  "/dizi/doc/": {
+    "group": "DOC"
   },
   "/dizi/industry-izle-41/": {
     "group": "INDUSTRY"
@@ -34,9 +40,6 @@
   },
   "/dizi/a-thousand-blows/": {
     "group": "A THOUSAND BLOWS"
-  },
-  "/dizi/sanctuary-a-witch-s-tale/": {
-    "group": "SANCTUARY: A WITCH'S TALE"
   },
   "/dizi/outlander-blood-of-my-blood/": {
     "group": "OUTLANDER: BLOOD OF MY BLOOD"
@@ -61,6 +64,9 @@
   },
   "/dizi/the-copenhagen-test/": {
     "group": "THE COPENHAGEN TEST"
+  },
+  "/dizi/sanctuary-a-witch-s-tale/": {
+    "group": "SANCTUARY: A WITCH'S TALE"
   },
   "/dizi/cashero/": {
     "group": "CASHERO"
