@@ -1,1 +1,122 @@
-{}
+{
+  "/anime/the-case-book-of-arne/": {
+    "group": "THE CASE BOOK OF ARNE",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/anime/the-darwin-incident/": {
+    "group": "THE DARWIN INCIDENT",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/anime/isekai-office-worker-the-other-worlds-books-depend-on-the-bean-counter-isekai-no-sata-wa-shachiku-shidai/": {
+    "group": "ISEKAI OFFICE WORKER: THE OTHER WORLD’S BOOKS DEPEND ON THE BEAN COUNTER ISEKAI NO SATA WA SHACHIKU SHIDAI",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/anime/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her/": {
+    "group": "THERE WAS A CUTE GIRL IN THE HERO’S PARTY SO I TRIED CONFESSING TO HER.",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/anime/tune-in-to-the-midnight-heart/": {
+    "group": "TUNE IN TO THE MIDNIGHT HEART",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/anime/the-demon-kings-daughter-is-too-kind/": {
+    "group": "THE DEMON KING’S DAUGHTER IS TOO KIND!!",
+    "last_season": 1,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "/anime/tis-time-for-torture-princess-season-2/": {
+    "group": "‘TIS TIME FOR “TORTURE,” PRINCESS SEASON 2",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/anime/you-cant-be-in-a-rom-com-with-your-childhood-friends/": {
+    "group": "YOU CAN’T BE IN A ROM-COM WITH YOUR CHILDHOOD FRIENDS!",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/anime/golden-kamuy-final-season/": {
+    "group": "GOLDEN KAMUY FINAL SEASON",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/anime/my-hero-academia-vigilantes-season-2/": {
+    "group": "MY HERO ACADEMIA: VIGILANTES SEASON 2",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/anime/wash-it-all-away/": {
+    "group": "WASH IT ALL AWAY",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/anime/oedo-fire-slayer-the-legend-of-phoenix/": {
+    "group": "OEDO FIRE SLAYER: THE LEGEND OF PHOENIX",
+    "last_season": 1,
+    "last_episode": 12,
+    "start_episode": 1
+  },
+  "/anime/journal-with-witch/": {
+    "group": "JOURNAL WITH WITCH",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/anime/hells-paradise-season-2/": {
+    "group": "HELL’S PARADISE SEASON 2",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/anime/the-daily-life-of-a-part-time-torturer/": {
+    "group": "THE DAILY LIFE OF A PART-TIME TORTURER",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/anime/noble-reincarnation-born-blessed-so-ill-obtain-ultimate-power/": {
+    "group": "NOBLE REINCARNATION: BORN BLESSED, SO I’LL OBTAIN ULTIMATE POWER",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/anime/the-villainess-is-adored-by-the-prince-of-the-neighbor-kingdom/": {
+    "group": "THE VILLAINESS IS ADORED BY THE PRINCE OF THE NEIGHBOR KINGDOM",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/anime/kunon-the-sorcerer-can-see/": {
+    "group": "KUNON THE SORCERER CAN SEE",
+    "last_season": 1,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "/anime/hana-kimi/": {
+    "group": "HANA-KIMI",
+    "last_season": 1,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "/anime/blue-orchestra-season-2/": {
+    "group": "BLUE ORCHESTRA SEASON 2",
+    "last_season": 1,
+    "last_episode": 13,
+    "start_episode": 1
+  }
+}

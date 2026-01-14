@@ -1,4 +1,10 @@
 {
+  "/dizi/shrinking/": {
+    "group": "SHRINKING",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
   "/dizi/hijack/": {
     "group": "HIJACK",
     "last_season": 2,
