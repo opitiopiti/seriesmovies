@@ -38,13 +38,13 @@
   "/dizi-izle/tell-me-lies": {
     "group": "TELL ME LIES",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/dizi-izle/hijack": {
     "group": "HIJACK",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/dizi-izle/spring-fever": {
@@ -97,8 +97,8 @@
   },
   "/dizi-izle/the-boyfriend": {
     "group": "THE BOYFRIEND",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi-izle/a-thousand-blows": {
@@ -110,7 +110,7 @@
   "/dizi-izle/palm-royale": {
     "group": "PALM ROYALE",
     "last_season": 2,
-    "last_episode": 9,
+    "last_episode": 10,
     "start_episode": 1
   }
 }
