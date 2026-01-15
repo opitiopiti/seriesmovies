@@ -62,13 +62,13 @@
   "/anime/blue-orchestra-season-2/": {
     "group": "BLUE ORCHESTRA SEASON 2",
     "last_season": 1,
-    "last_episode": 13,
+    "last_episode": 14,
     "start_episode": 1
   },
   "/anime/hell-teacher-jigoku-sensei-nube-part-2/": {
     "group": "HELL TEACHER: JIGOKU SENSEI NUBE PART 2",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/anime/tamons-b-side/": {
@@ -344,7 +344,7 @@
   "/anime/love-through-a-prism/": {
     "group": "LOVE THROUGH A PRISM",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 3,
     "start_episode": 1
   }
 }
