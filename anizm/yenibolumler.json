@@ -8,19 +8,19 @@
   "/eris-no-seihai": {
     "group": "ERIS NO SEIHAI",
     "last_season": 1,
-    "last_episode": 1.0,
+    "last_episode": 2.0,
     "start_episode": 1
   },
   "/yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku": {
     "group": "YUUSHA-KEI NI SHOSU: CHOUBATSU YUUSHA 9004-TAI KEIMU KIROKU",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 2.0,
     "start_episode": 1
   },
   "/prism-rondo": {
     "group": "PRISM RONDO",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 19.0,
     "start_episode": 1
   },
   "/ao-no-orchestra-season-2": {
