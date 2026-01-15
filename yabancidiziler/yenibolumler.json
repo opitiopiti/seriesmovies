@@ -2,7 +2,7 @@
   "/dizi/best-medicine": {
     "group": "Best Medicine",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi/doc": {
@@ -13,8 +13,8 @@
   },
   "/dizi/high-potential": {
     "group": "High Potential",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 9,
     "start_episode": 1
   },
   "/dizi/hijack": {
@@ -44,7 +44,7 @@
   "/dizi/small-achievable-goals": {
     "group": "Small Achievable Goals",
     "last_season": 2,
-    "last_episode": 1,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi/taskaree-the-smuggler-s-web": {
@@ -55,14 +55,14 @@
   },
   "/dizi/the-good-ship-murder": {
     "group": "The Good Ship Murder",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/dizi/the-rookie": {
     "group": "The Rookie",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 8,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi/will-trent": {
