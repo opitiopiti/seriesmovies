@@ -2175,7 +2175,10 @@
     {"name": "THE HUNTING WIVES", "year": "2025"},
     {"name": "KASABA", "year": "2025"},
     {"name": "TASKAREE: THE SMUGGLER’S WEB", "year": "2026"},
-    {"name": "TASKAREE: THE SMUGGLER'S WEB", "year": "2026"}
+    {"name": "TASKAREE: THE SMUGGLER'S WEB", "year": "2026"},
+    {"name": "AYRILIK DA SEVDAYA DAHIL", "year": "2026"},
+    {"name": "AGATHA CHRISTIE'S SEVEN DIALS", "year": "2026"},
+    {"name": "LOVE THROUGH A PRISM", "year": "2026"}
   ],
   "PARAMOUNT+ DİZİLERİ": [
     {"name": "DEXTER: RESURRECTION", "year": "2025"},
@@ -5251,7 +5254,8 @@
     {"name": "GIRLS5EVA", "year": "2021"},
     {"name": "APPLES NEVER FALL", "year": "2024"},
     {"name": "DAN BROWN'S THE LOST SYMBOL", "year": "2021"},
-    {"name": "DR DEATH", "year": "2021"}
+    {"name": "DR DEATH", "year": "2021"},
+    {"name": "PONIES", "year": "2026"}
   ],
   "CTV DİZİLERİ": [
     {"name": "CARDINAL", "year": "2017"},
@@ -6752,9 +6756,13 @@
     {"name": "RUN AWAY", "year": "2023"}
   ],
   "CRUNCHYROLL DİZİLERİ": [
-
+    {"name": "SENTENCED TO BE A HERO", "year": "2026"}
   ],
   "DISNEYNOW DİZİLERİ": [
     {"name": "VAMPIRINA: TEENAGE VAMPIRE", "year": "2025"}
+  ],
+  "PRIME VIDEO DİZİLERİ": [
+    {"name": "BEAST GAMES", "year": "2024"},
+    {"name": "THE ALIBI", "year": "2025"}
   ]
 }
