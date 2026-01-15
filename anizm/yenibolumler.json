@@ -1,4 +1,34 @@
 {
+  "/mf-ghost-3rd-season": {
+    "group": "MF GHOST 3RD SEASON",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/champignon-no-majo": {
+    "group": "CHAMPIGNON NO MAJO",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/omae-gotoki-ga-maou-ni-kateru-to-omouna-to-yuusha-party-wo-tsuihou-sareta-node-outo-de-kimama-ni-kurashitai": {
+    "group": "\"OMAE GOTOKI GA MAOU NI KATERU TO OMOUNA\" TO YUUSHA PARTY WO TSUIHOU SARETA NODE, OUTO DE KIMAMA NI KURASHITAI",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/jujutsu-kaisen-shimetsu-kaiyuu-zenpen": {
+    "group": "JUJUTSU KAISEN: SHIMETSU KAIYUU - ZENPEN",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/mato-seihei-no-slave-2": {
+    "group": "MATO SEIHEI NO SLAVE 2",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
   "/toumei-otoko-to-ningen-onna-sonouchi-fuufu-ni-naru-futari": {
     "group": "TOUMEI OTOKO TO NINGEN ONNA: SONOUCHI FUUFU NI NARU FUTARI",
     "last_season": 1,
@@ -67,36 +97,6 @@
   },
   "/29-sai-dokushin-chuuken-boukensha-no-nichijou": {
     "group": "29-SAI DOKUSHIN CHUUKEN BOUKENSHA NO NICHIJOU",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/isekai-no-sata-wa-shachiku-shidai": {
-    "group": "ISEKAI NO SATA WA SHACHIKU SHIDAI",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/yoroi-shin-den-samurai-troopers": {
-    "group": "YOROI SHIN DEN SAMURAI TROOPERS",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/arne-no-jikenbo": {
-    "group": "ARNE NO JIKENBO",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/darwin-jihen": {
-    "group": "DARWIN JIHEN",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/yuusha-party-ni-kawaii-ko-ga-ita-node-kokuhaku-shitemita": {
-    "group": "YUUSHA PARTY NI KAWAII KO GA ITA NODE, KOKUHAKU SHITEMITA.",
     "last_season": 1,
     "last_episode": 2.0,
     "start_episode": 1

@@ -16282,5 +16282,17 @@
     "last_season": 1,
     "last_episode": 6,
     "start_episode": 1
+  },
+  "/diziler/love-through-a-prism.html": {
+    "group": "LOVE THROUGH A PRISM",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/diziler/agatha-christies-seven-dials.html": {
+    "group": "AGATHA CHRISTIE'S SEVEN DIALS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
