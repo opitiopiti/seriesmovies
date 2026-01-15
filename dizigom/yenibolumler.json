@@ -1,26 +1,20 @@
 {
-  "/dizi-izle/a-thousand-blows": {
-    "group": "A THOUSAND BLOWS",
-    "last_season": 2,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi-izle/alpha-males": {
-    "group": "ALPHA MALES (MACHOS ALFA)",
-    "last_season": 4,
-    "last_episode": 6,
-    "start_episode": 1
-  },
   "/dizi-izle/taskaree-the-smugglers-web": {
     "group": "TASKAREE: THE SMUGGLER'S WEB",
     "last_season": 1,
     "last_episode": 7,
     "start_episode": 1
   },
-  "/dizi-izle/idol-i": {
-    "group": "IDOL I",
-    "last_season": 1,
-    "last_episode": 8,
+  "/dizi-izle/tell-me-lies": {
+    "group": "TELL ME LIES",
+    "last_season": 3,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "/dizi-izle/percy-jackson-and-the-olympians": {
+    "group": "PERCY JACKSON AND THE OLYMPIANS",
+    "last_season": 2,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/dizi-izle/surely-tomorrow": {
@@ -29,28 +23,10 @@
     "last_episode": 12,
     "start_episode": 1
   },
-  "/dizi-izle/the-boyfriend": {
-    "group": "THE BOYFRIEND",
-    "last_season": 2,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi-izle/hijack": {
-    "group": "HIJACK",
-    "last_season": 2,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/dizi-izle/pro-bono": {
-    "group": "PRO BONO",
+  "/dizi-izle/paparazzi-king": {
+    "group": "PAPARAZZI KING",
     "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1
-  },
-  "/dizi-izle/percy-jackson-and-the-olympians": {
-    "group": "PERCY JACKSON AND THE OLYMPIANS",
-    "last_season": 2,
-    "last_episode": 7,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/dizi-izle/spring-fever": {
@@ -65,16 +41,28 @@
     "last_episode": 10,
     "start_episode": 1
   },
-  "/dizi-izle/culinary-class-wars": {
-    "group": "CULINARY CLASS WARS",
+  "/dizi-izle/the-boyfriend": {
+    "group": "THE BOYFRIEND",
     "last_season": 2,
-    "last_episode": 13,
+    "last_episode": 6,
     "start_episode": 1
   },
-  "/dizi-izle/paparazzi-king": {
-    "group": "PAPARAZZI KING",
+  "/dizi-izle/pro-bono": {
+    "group": "PRO BONO",
     "last_season": 1,
-    "last_episode": 5,
+    "last_episode": 12,
+    "start_episode": 1
+  },
+  "/dizi-izle/hijack": {
+    "group": "HIJACK",
+    "last_season": 2,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi-izle/made-in-korea": {
+    "group": "MADE IN KOREA",
+    "last_season": 1,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi-izle/the-night-manager": {
@@ -83,22 +71,34 @@
     "last_episode": 3,
     "start_episode": 1
   },
+  "/dizi-izle/a-thousand-blows": {
+    "group": "A THOUSAND BLOWS",
+    "last_season": 2,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi-izle/alpha-males": {
+    "group": "ALPHA MALES (MACHOS ALFA)",
+    "last_season": 4,
+    "last_episode": 6,
+    "start_episode": 1
+  },
   "/dizi-izle/silent-truth": {
     "group": "再会～SILENT TRUTH～",
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
   },
-  "/dizi-izle/tell-me-lies": {
-    "group": "TELL ME LIES",
-    "last_season": 3,
-    "last_episode": 3,
+  "/dizi-izle/idol-i": {
+    "group": "IDOL I",
+    "last_season": 1,
+    "last_episode": 8,
     "start_episode": 1
   },
-  "/dizi-izle/made-in-korea": {
-    "group": "MADE IN KOREA",
-    "last_season": 1,
-    "last_episode": 6,
+  "/dizi-izle/culinary-class-wars": {
+    "group": "CULINARY CLASS WARS",
+    "last_season": 2,
+    "last_episode": 13,
     "start_episode": 1
   }
 }

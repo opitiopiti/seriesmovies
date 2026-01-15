@@ -1,4 +1,70 @@
 {
+  "/dizi/abbott-elementary": {
+    "group": "Abbott Elementary",
+    "last_season": 5,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "/dizi/agatha-christie-sharp039-s-seven-dials": {
+    "group": "Agatha Christie's Seven Dials",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/chicago-fire": {
+    "group": "Chicago Fire",
+    "last_season": 14,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/dizi/chicago-med": {
+    "group": "Chicago Med",
+    "last_season": 11,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/dizi/chicago-pd": {
+    "group": "Chicago PD",
+    "last_season": 13,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/dizi/love-is-blind-germany": {
+    "group": "Love Is Blind: Germany",
+    "last_season": 2,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/dizi/love-through-a-prism": {
+    "group": "Love Through a Prism",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/ponies": {
+    "group": "Ponies",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/shifting-gears": {
+    "group": "Shifting Gears",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/the-alibi": {
+    "group": "The Alibi",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/the-upshaws": {
+    "group": "The Upshaws",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dizi/best-medicine": {
     "group": "Best Medicine",
     "last_season": 1,
@@ -51,6 +117,12 @@
     "group": "Taskaree: The Smuggler’s Web",
     "last_season": 1,
     "last_episode": 7,
+    "start_episode": 1
+  },
+  "/dizi/the-darwin-incident": {
+    "group": "The Darwin Incident",
+    "last_season": 1,
+    "last_episode": 0,
     "start_episode": 1
   },
   "/dizi/the-good-ship-murder": {

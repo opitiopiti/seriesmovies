@@ -256,5 +256,47 @@
     "last_season": 8,
     "last_episode": 2,
     "start_episode": 1
+  },
+  "/dizi/agatha-christie-sharp039-s-seven-dials": {
+    "group": "Agatha Christie's Seven Dials",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/love-through-a-prism": {
+    "group": "Love Through a Prism",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/ponies": {
+    "group": "Ponies",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/shifting-gears": {
+    "group": "Shifting Gears",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/the-alibi": {
+    "group": "The Alibi",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/the-upshaws": {
+    "group": "The Upshaws",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/the-darwin-incident": {
+    "group": "The Darwin Incident",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

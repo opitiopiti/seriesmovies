@@ -1,4 +1,16 @@
 {
+  "/diziler/agatha-christies-seven-dials.html": {
+    "last_season": 1,
+    "last_episode": 0,
+    "group": "AGATHA CHRISTIE'S SEVEN DIALS",
+    "start_episode": 1
+  },
+  "/diziler/sentenced-to-be-a-hero.html": {
+    "group": "SENTENCED TO BE A HERO",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
   "/diziler/oshi-no-ko.html": {
     "group": "OSHI NO KO",
     "last_season": 3,
@@ -75,18 +87,6 @@
     "group": "SURELY TOMORROW",
     "last_season": 1,
     "last_episode": 12,
-    "start_episode": 1
-  },
-  "/diziler/hells-paradise.html": {
-    "group": "HELL'S PARADISE",
-    "last_season": 2,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/diziler/fate-strange-fake.html": {
-    "group": "FATE/STRANGE FAKE",
-    "last_season": 1,
-    "last_episode": 2,
     "start_episode": 1
   }
 }

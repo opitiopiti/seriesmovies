@@ -1,4 +1,13 @@
 {
+  "/dizi/beast-games/": {
+    "group": "BEAST GAMES"
+  },
+  "/dizi/to-love-to-lose/": {
+    "group": "AYRILIK DA SEVDAYA DAHIL"
+  },
+  "/dizi/agatha-christie-s-seven-dials/": {
+    "group": "AGATHA CHRISTIE'S SEVEN DIALS"
+  },
   "/dizi/the-rookie-izle-hdf9-a86/": {
     "group": "THE ROOKIE"
   },
@@ -35,14 +44,11 @@
   "/dizi/saint-pierre/": {
     "group": "SAINT PIERRE"
   },
-  "/dizi/surely-tomorrow/": {
-    "group": "ELBET YARIN - SURELY TOMORROW"
+  "/dizi/outlander-blood-of-my-blood/": {
+    "group": "OUTLANDER: BLOOD OF MY BLOOD"
   },
   "/dizi/the-night-manager/": {
     "group": "THE NIGHT MANAGER"
-  },
-  "/dizi/outlander-blood-of-my-blood/": {
-    "group": "OUTLANDER: BLOOD OF MY BLOOD"
   },
   "/dizi/his-hers-2026-hdfc/": {
     "group": "NE YAPTIĞINI BILIYORUM - HIS HERS"
@@ -64,6 +70,9 @@
   },
   "/dizi/stranger-things-izle-733360/": {
     "group": "STRANGER THINGS"
+  },
+  "/dizi/surely-tomorrow/": {
+    "group": "ELBET YARIN - SURELY TOMORROW"
   },
   "/dizi/the-copenhagen-test/": {
     "group": "THE COPENHAGEN TEST"
@@ -109,11 +118,5 @@
   },
   "/dizi/jasmine/": {
     "group": "JASMINE"
-  },
-  "/dizi/the-town-yerli-4/": {
-    "group": "KASABA"
-  },
-  "/dizi/man-vs-baby/": {
-    "group": "MAN VS BABY"
   }
 }

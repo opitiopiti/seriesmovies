@@ -1,4 +1,10 @@
 {
+  "/dizi/beast-games": {
+    "group": "BEAST GAMES",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/dizi/the-night-manager": {
     "group": "THE NIGHT MANAGER",
     "last_season": 2,
@@ -141,12 +147,6 @@
     "group": "TEHRAN",
     "last_season": 3,
     "last_episode": 1,
-    "start_episode": 1
-  },
-  "/dizi/pro-bono-asya": {
-    "group": "PRO BONO",
-    "last_season": 1,
-    "last_episode": 10,
     "start_episode": 1
   }
 }

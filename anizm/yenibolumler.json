@@ -1,4 +1,28 @@
 {
+  "/toumei-otoko-to-ningen-onna-sonouchi-fuufu-ni-naru-futari": {
+    "group": "TOUMEI OTOKO TO NINGEN ONNA: SONOUCHI FUUFU NI NARU FUTARI",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/eris-no-seihai": {
+    "group": "ERIS NO SEIHAI",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku": {
+    "group": "YUUSHA-KEI NI SHOSU: CHOUBATSU YUUSHA 9004-TAI KEIMU KIROKU",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/prism-rondo": {
+    "group": "PRISM RONDO",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/ao-no-orchestra-season-2": {
     "group": "AO NO ORCHESTRA SEASON 2",
     "last_season": 1,
@@ -73,30 +97,6 @@
   },
   "/yuusha-party-ni-kawaii-ko-ga-ita-node-kokuhaku-shitemita": {
     "group": "YUUSHA PARTY NI KAWAII KO GA ITA NODE, KOKUHAKU SHITEMITA.",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/maou-no-musume-wa-yasashisugiru": {
-    "group": "MAOU NO MUSUME WA YASASHISUGIRU!!",
-    "last_season": 1,
-    "last_episode": 3.0,
-    "start_episode": 1
-  },
-  "/mayonaka-heart-tune": {
-    "group": "MAYONAKA HEART TUNE",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/tondemo-skill-de-isekai-hourou-meshi-2": {
-    "group": "TONDEMO SKILL DE ISEKAI HOUROU MESHI 2",
-    "last_season": 1,
-    "last_episode": 11.0,
-    "start_episode": 1
-  },
-  "/kirei-ni-shitemoraemasu-ka": {
-    "group": "KIREI NI SHITEMORAEMASU KA.",
     "last_season": 1,
     "last_episode": 2.0,
     "start_episode": 1
