@@ -325,7 +325,8 @@
     {"name": "ROOM 104", "year": "2017"},
     {"name": "I LOVE LA", "year": "2025"},
     {"name": "SEEN & HEARD: THE HISTORY OF BLACK TELEVISION", "year": "2025"},
-    {"name": "INDUSTRY", "year": "2020"}
+    {"name": "INDUSTRY", "year": "2020"},
+    {"name": "NIEBO. ROK W PIEKLE", "year": "2025"}
   ],
   "NICKELODEON DİZİLERİ": [
     {"name": "AVATAR: THE LAST AIRBENDER", "year": "2005"},
@@ -3568,7 +3569,8 @@
     {"name": "TAYLOR SWIFT THE ERAS TOUR THE FINAL SHOW", "year": "2025"},
     {"name": "MADE IN KOREA", "year": "2025"},
     {"name": "THE END OF AN ERA", "year": "2025"},
-    {"name": "POLE TO POLE WITH WILL SMITH", "year": "2026"}
+    {"name": "POLE TO POLE WITH WILL SMITH", "year": "2026"},
+    {"name": "CAT’S EYE", "year": "2025"}
   ],
   "FRANCE 2 DİZİLERİ": [
     {"name": "APOCALYPSE: THE SECOND WORLD WAR", "year": "2009"},
@@ -6765,5 +6767,8 @@
   "PRIME VIDEO DİZİLERİ": [
     {"name": "BEAST GAMES", "year": "2024"},
     {"name": "THE ALIBI", "year": "2025"}
+  ],
+  "CRAVE DİZİLERİ": [
+
   ]
 }
