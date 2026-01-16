@@ -1,26 +1,8 @@
 {
-  "/dizi-izle/love-through-a-prism": {
-    "group": "LOVE THROUGH A PRISM",
-    "last_season": 1,
-    "last_episode": 20,
-    "start_episode": 1
-  },
-  "/dizi-izle/percy-jackson-and-the-olympians": {
-    "group": "PERCY JACKSON AND THE OLYMPIANS",
-    "last_season": 2,
-    "last_episode": 7,
-    "start_episode": 1
-  },
   "/dizi-izle/taskaree-the-smugglers-web": {
     "group": "TASKAREE: THE SMUGGLER'S WEB",
     "last_season": 1,
     "last_episode": 7,
-    "start_episode": 1
-  },
-  "/dizi-izle/made-in-korea": {
-    "group": "MADE IN KOREA",
-    "last_season": 1,
-    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi-izle/genel": {
@@ -29,10 +11,28 @@
     "last_episode": 1,
     "start_episode": 1
   },
+  "/dizi-izle/percy-jackson-and-the-olympians": {
+    "group": "PERCY JACKSON AND THE OLYMPIANS",
+    "last_season": 2,
+    "last_episode": 7,
+    "start_episode": 1
+  },
   "/dizi-izle/the-upshaws": {
     "group": "THE UPSHAWS",
     "last_season": 7,
     "last_episode": 12,
+    "start_episode": 1
+  },
+  "/dizi-izle/love-through-a-prism": {
+    "group": "LOVE THROUGH A PRISM",
+    "last_season": 1,
+    "last_episode": 20,
+    "start_episode": 1
+  },
+  "/dizi-izle/made-in-korea": {
+    "group": "MADE IN KOREA",
+    "last_season": 1,
+    "last_episode": 6,
     "start_episode": 1
   }
 }

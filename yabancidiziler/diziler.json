@@ -298,5 +298,11 @@
     "last_season": 1,
     "last_episode": 2,
     "start_episode": 1
+  },
+  "/dizi/power-book-iv-force": {
+    "group": "Power Book IV: Force",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

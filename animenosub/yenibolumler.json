@@ -1,4 +1,10 @@
 {
+  "/anime/cats-eye/": {
+    "group": "CAT’S EYE",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1
+  },
   "/anime/champignon-witch/": {
     "group": "CHAMPIGNON WITCH",
     "last_season": 1,
@@ -109,12 +115,6 @@
   },
   "/anime/easygoing-territory-defense-by-the-optimistic-lord/": {
     "group": "EASYGOING TERRITORY DEFENSE BY THE OPTIMISTIC LORD",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/anime/the-case-book-of-arne/": {
-    "group": "THE CASE BOOK OF ARNE",
     "last_season": 1,
     "last_episode": 2,
     "start_episode": 1
