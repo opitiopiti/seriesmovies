@@ -15090,26 +15090,320 @@
   <programme start="20260115210500 +0000" stop="20260115225000 +0000" channel="TABII SPOR 1">
     <title>ROMA - TORINO</title>
   </programme>
-  <programme start="20260115225000 +0000" stop="20260117000000 +0000" channel="TABII SPOR 1 4K">
+  <programme start="20260115225000 +0000" stop="20260116063000 +0000" channel="TABII SPOR 1 4K">
     <title>TRT SPOR YILDIZ ORTAK YAYIN</title>
   </programme>
-  <programme start="20260115225000 +0000" stop="20260117000000 +0000" channel="TABII SPOR 1 720P">
+  <programme start="20260115225000 +0000" stop="20260116063000 +0000" channel="TABII SPOR 1 720P">
     <title>TRT SPOR YILDIZ ORTAK YAYIN</title>
   </programme>
-  <programme start="20260115225000 +0000" stop="20260117000000 +0000" channel="TABII SPOR 1 UHD">
+  <programme start="20260115225000 +0000" stop="20260116063000 +0000" channel="TABII SPOR 1 UHD">
     <title>TRT SPOR YILDIZ ORTAK YAYIN</title>
   </programme>
-  <programme start="20260115225000 +0000" stop="20260117000000 +0000" channel="TABII SPOR HD">
+  <programme start="20260115225000 +0000" stop="20260116063000 +0000" channel="TABII SPOR HD">
     <title>TRT SPOR YILDIZ ORTAK YAYIN</title>
   </programme>
-  <programme start="20260115225000 +0000" stop="20260117000000 +0000" channel="TABII SPOR SD">
+  <programme start="20260115225000 +0000" stop="20260116063000 +0000" channel="TABII SPOR SD">
     <title>TRT SPOR YILDIZ ORTAK YAYIN</title>
   </programme>
-  <programme start="20260115225000 +0000" stop="20260117000000 +0000" channel="TABII SPOR">
+  <programme start="20260115225000 +0000" stop="20260116063000 +0000" channel="TABII SPOR">
     <title>TRT SPOR YILDIZ ORTAK YAYIN</title>
   </programme>
-  <programme start="20260115225000 +0000" stop="20260117000000 +0000" channel="TABII SPOR 1">
+  <programme start="20260115225000 +0000" stop="20260116063000 +0000" channel="TABII SPOR 1">
     <title>TRT SPOR YILDIZ ORTAK YAYIN</title>
+  </programme>
+  <programme start="20260116063000 +0000" stop="20260116081000 +0000" channel="TABII SPOR 1 4K">
+    <title>AJAX - GALATASARAY</title>
+  </programme>
+  <programme start="20260116063000 +0000" stop="20260116081000 +0000" channel="TABII SPOR 1 720P">
+    <title>AJAX - GALATASARAY</title>
+  </programme>
+  <programme start="20260116063000 +0000" stop="20260116081000 +0000" channel="TABII SPOR 1 UHD">
+    <title>AJAX - GALATASARAY</title>
+  </programme>
+  <programme start="20260116063000 +0000" stop="20260116081000 +0000" channel="TABII SPOR HD">
+    <title>AJAX - GALATASARAY</title>
+  </programme>
+  <programme start="20260116063000 +0000" stop="20260116081000 +0000" channel="TABII SPOR SD">
+    <title>AJAX - GALATASARAY</title>
+  </programme>
+  <programme start="20260116063000 +0000" stop="20260116081000 +0000" channel="TABII SPOR">
+    <title>AJAX - GALATASARAY</title>
+  </programme>
+  <programme start="20260116063000 +0000" stop="20260116081000 +0000" channel="TABII SPOR 1">
+    <title>AJAX - GALATASARAY</title>
+  </programme>
+  <programme start="20260116081000 +0000" stop="20260116084000 +0000" channel="TABII SPOR 1 4K">
+    <title>DEPLASMAN LEZZETLERI DIYARBAKIR</title>
+  </programme>
+  <programme start="20260116081000 +0000" stop="20260116084000 +0000" channel="TABII SPOR 1 720P">
+    <title>DEPLASMAN LEZZETLERI DIYARBAKIR</title>
+  </programme>
+  <programme start="20260116081000 +0000" stop="20260116084000 +0000" channel="TABII SPOR 1 UHD">
+    <title>DEPLASMAN LEZZETLERI DIYARBAKIR</title>
+  </programme>
+  <programme start="20260116081000 +0000" stop="20260116084000 +0000" channel="TABII SPOR HD">
+    <title>DEPLASMAN LEZZETLERI DIYARBAKIR</title>
+  </programme>
+  <programme start="20260116081000 +0000" stop="20260116084000 +0000" channel="TABII SPOR SD">
+    <title>DEPLASMAN LEZZETLERI DIYARBAKIR</title>
+  </programme>
+  <programme start="20260116081000 +0000" stop="20260116084000 +0000" channel="TABII SPOR">
+    <title>DEPLASMAN LEZZETLERI DIYARBAKIR</title>
+  </programme>
+  <programme start="20260116081000 +0000" stop="20260116084000 +0000" channel="TABII SPOR 1">
+    <title>DEPLASMAN LEZZETLERI DIYARBAKIR</title>
+  </programme>
+  <programme start="20260116084000 +0000" stop="20260116091000 +0000" channel="TABII SPOR 1 4K">
+    <title>FENERBAHÇE AVRUPA LIGI MAÇ ÖZETLERI</title>
+  </programme>
+  <programme start="20260116084000 +0000" stop="20260116091000 +0000" channel="TABII SPOR 1 720P">
+    <title>FENERBAHÇE AVRUPA LIGI MAÇ ÖZETLERI</title>
+  </programme>
+  <programme start="20260116084000 +0000" stop="20260116091000 +0000" channel="TABII SPOR 1 UHD">
+    <title>FENERBAHÇE AVRUPA LIGI MAÇ ÖZETLERI</title>
+  </programme>
+  <programme start="20260116084000 +0000" stop="20260116091000 +0000" channel="TABII SPOR HD">
+    <title>FENERBAHÇE AVRUPA LIGI MAÇ ÖZETLERI</title>
+  </programme>
+  <programme start="20260116084000 +0000" stop="20260116091000 +0000" channel="TABII SPOR SD">
+    <title>FENERBAHÇE AVRUPA LIGI MAÇ ÖZETLERI</title>
+  </programme>
+  <programme start="20260116084000 +0000" stop="20260116091000 +0000" channel="TABII SPOR">
+    <title>FENERBAHÇE AVRUPA LIGI MAÇ ÖZETLERI</title>
+  </programme>
+  <programme start="20260116084000 +0000" stop="20260116091000 +0000" channel="TABII SPOR 1">
+    <title>FENERBAHÇE AVRUPA LIGI MAÇ ÖZETLERI</title>
+  </programme>
+  <programme start="20260116091000 +0000" stop="20260116093500 +0000" channel="TABII SPOR 1 4K">
+    <title>SORMAZSAM OLMAZ</title>
+  </programme>
+  <programme start="20260116091000 +0000" stop="20260116093500 +0000" channel="TABII SPOR 1 720P">
+    <title>SORMAZSAM OLMAZ</title>
+  </programme>
+  <programme start="20260116091000 +0000" stop="20260116093500 +0000" channel="TABII SPOR 1 UHD">
+    <title>SORMAZSAM OLMAZ</title>
+  </programme>
+  <programme start="20260116091000 +0000" stop="20260116093500 +0000" channel="TABII SPOR HD">
+    <title>SORMAZSAM OLMAZ</title>
+  </programme>
+  <programme start="20260116091000 +0000" stop="20260116093500 +0000" channel="TABII SPOR SD">
+    <title>SORMAZSAM OLMAZ</title>
+  </programme>
+  <programme start="20260116091000 +0000" stop="20260116093500 +0000" channel="TABII SPOR">
+    <title>SORMAZSAM OLMAZ</title>
+  </programme>
+  <programme start="20260116091000 +0000" stop="20260116093500 +0000" channel="TABII SPOR 1">
+    <title>SORMAZSAM OLMAZ</title>
+  </programme>
+  <programme start="20260116093500 +0000" stop="20260116112000 +0000" channel="TABII SPOR 1 4K">
+    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'ARSENAL - BAYERN MÜNIH'</title>
+  </programme>
+  <programme start="20260116093500 +0000" stop="20260116112000 +0000" channel="TABII SPOR 1 720P">
+    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'ARSENAL - BAYERN MÜNIH'</title>
+  </programme>
+  <programme start="20260116093500 +0000" stop="20260116112000 +0000" channel="TABII SPOR 1 UHD">
+    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'ARSENAL - BAYERN MÜNIH'</title>
+  </programme>
+  <programme start="20260116093500 +0000" stop="20260116112000 +0000" channel="TABII SPOR HD">
+    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'ARSENAL - BAYERN MÜNIH'</title>
+  </programme>
+  <programme start="20260116093500 +0000" stop="20260116112000 +0000" channel="TABII SPOR SD">
+    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'ARSENAL - BAYERN MÜNIH'</title>
+  </programme>
+  <programme start="20260116093500 +0000" stop="20260116112000 +0000" channel="TABII SPOR">
+    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'ARSENAL - BAYERN MÜNIH'</title>
+  </programme>
+  <programme start="20260116093500 +0000" stop="20260116112000 +0000" channel="TABII SPOR 1">
+    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'ARSENAL - BAYERN MÜNIH'</title>
+  </programme>
+  <programme start="20260116112000 +0000" stop="20260116114500 +0000" channel="TABII SPOR 1 4K">
+    <title>YENILMEZLER</title>
+  </programme>
+  <programme start="20260116112000 +0000" stop="20260116114500 +0000" channel="TABII SPOR 1 720P">
+    <title>YENILMEZLER</title>
+  </programme>
+  <programme start="20260116112000 +0000" stop="20260116114500 +0000" channel="TABII SPOR 1 UHD">
+    <title>YENILMEZLER</title>
+  </programme>
+  <programme start="20260116112000 +0000" stop="20260116114500 +0000" channel="TABII SPOR HD">
+    <title>YENILMEZLER</title>
+  </programme>
+  <programme start="20260116112000 +0000" stop="20260116114500 +0000" channel="TABII SPOR SD">
+    <title>YENILMEZLER</title>
+  </programme>
+  <programme start="20260116112000 +0000" stop="20260116114500 +0000" channel="TABII SPOR">
+    <title>YENILMEZLER</title>
+  </programme>
+  <programme start="20260116112000 +0000" stop="20260116114500 +0000" channel="TABII SPOR 1">
+    <title>YENILMEZLER</title>
+  </programme>
+  <programme start="20260116114500 +0000" stop="20260116133000 +0000" channel="TABII SPOR 1 4K">
+    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'PSG - BAYERN MÜNIH'</title>
+  </programme>
+  <programme start="20260116114500 +0000" stop="20260116133000 +0000" channel="TABII SPOR 1 720P">
+    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'PSG - BAYERN MÜNIH'</title>
+  </programme>
+  <programme start="20260116114500 +0000" stop="20260116133000 +0000" channel="TABII SPOR 1 UHD">
+    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'PSG - BAYERN MÜNIH'</title>
+  </programme>
+  <programme start="20260116114500 +0000" stop="20260116133000 +0000" channel="TABII SPOR HD">
+    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'PSG - BAYERN MÜNIH'</title>
+  </programme>
+  <programme start="20260116114500 +0000" stop="20260116133000 +0000" channel="TABII SPOR SD">
+    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'PSG - BAYERN MÜNIH'</title>
+  </programme>
+  <programme start="20260116114500 +0000" stop="20260116133000 +0000" channel="TABII SPOR">
+    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'PSG - BAYERN MÜNIH'</title>
+  </programme>
+  <programme start="20260116114500 +0000" stop="20260116133000 +0000" channel="TABII SPOR 1">
+    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'PSG - BAYERN MÜNIH'</title>
+  </programme>
+  <programme start="20260116133000 +0000" stop="20260116135500 +0000" channel="TABII SPOR 1 4K">
+    <title>TÜM ZAMANLARIN EN İYILERI</title>
+  </programme>
+  <programme start="20260116133000 +0000" stop="20260116135500 +0000" channel="TABII SPOR 1 720P">
+    <title>TÜM ZAMANLARIN EN İYILERI</title>
+  </programme>
+  <programme start="20260116133000 +0000" stop="20260116135500 +0000" channel="TABII SPOR 1 UHD">
+    <title>TÜM ZAMANLARIN EN İYILERI</title>
+  </programme>
+  <programme start="20260116133000 +0000" stop="20260116135500 +0000" channel="TABII SPOR HD">
+    <title>TÜM ZAMANLARIN EN İYILERI</title>
+  </programme>
+  <programme start="20260116133000 +0000" stop="20260116135500 +0000" channel="TABII SPOR SD">
+    <title>TÜM ZAMANLARIN EN İYILERI</title>
+  </programme>
+  <programme start="20260116133000 +0000" stop="20260116135500 +0000" channel="TABII SPOR">
+    <title>TÜM ZAMANLARIN EN İYILERI</title>
+  </programme>
+  <programme start="20260116133000 +0000" stop="20260116135500 +0000" channel="TABII SPOR 1">
+    <title>TÜM ZAMANLARIN EN İYILERI</title>
+  </programme>
+  <programme start="20260116135500 +0000" stop="20260116142500 +0000" channel="TABII SPOR 1 4K">
+    <title>SAMSUNSPOR KONFERANS LIGI MAÇ ÖZETLERI</title>
+  </programme>
+  <programme start="20260116135500 +0000" stop="20260116142500 +0000" channel="TABII SPOR 1 720P">
+    <title>SAMSUNSPOR KONFERANS LIGI MAÇ ÖZETLERI</title>
+  </programme>
+  <programme start="20260116135500 +0000" stop="20260116142500 +0000" channel="TABII SPOR 1 UHD">
+    <title>SAMSUNSPOR KONFERANS LIGI MAÇ ÖZETLERI</title>
+  </programme>
+  <programme start="20260116135500 +0000" stop="20260116142500 +0000" channel="TABII SPOR HD">
+    <title>SAMSUNSPOR KONFERANS LIGI MAÇ ÖZETLERI</title>
+  </programme>
+  <programme start="20260116135500 +0000" stop="20260116142500 +0000" channel="TABII SPOR SD">
+    <title>SAMSUNSPOR KONFERANS LIGI MAÇ ÖZETLERI</title>
+  </programme>
+  <programme start="20260116135500 +0000" stop="20260116142500 +0000" channel="TABII SPOR">
+    <title>SAMSUNSPOR KONFERANS LIGI MAÇ ÖZETLERI</title>
+  </programme>
+  <programme start="20260116135500 +0000" stop="20260116142500 +0000" channel="TABII SPOR 1">
+    <title>SAMSUNSPOR KONFERANS LIGI MAÇ ÖZETLERI</title>
+  </programme>
+  <programme start="20260116142500 +0000" stop="20260116151500 +0000" channel="TABII SPOR 1 4K">
+    <title>UEFA AVRUPA LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260116142500 +0000" stop="20260116151500 +0000" channel="TABII SPOR 1 720P">
+    <title>UEFA AVRUPA LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260116142500 +0000" stop="20260116151500 +0000" channel="TABII SPOR 1 UHD">
+    <title>UEFA AVRUPA LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260116142500 +0000" stop="20260116151500 +0000" channel="TABII SPOR HD">
+    <title>UEFA AVRUPA LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260116142500 +0000" stop="20260116151500 +0000" channel="TABII SPOR SD">
+    <title>UEFA AVRUPA LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260116142500 +0000" stop="20260116151500 +0000" channel="TABII SPOR">
+    <title>UEFA AVRUPA LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260116142500 +0000" stop="20260116151500 +0000" channel="TABII SPOR 1">
+    <title>UEFA AVRUPA LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260116151500 +0000" stop="20260116170000 +0000" channel="TABII SPOR 1 4K">
+    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'REAL MADRID - M.CITY'</title>
+  </programme>
+  <programme start="20260116151500 +0000" stop="20260116170000 +0000" channel="TABII SPOR 1 720P">
+    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'REAL MADRID - M.CITY'</title>
+  </programme>
+  <programme start="20260116151500 +0000" stop="20260116170000 +0000" channel="TABII SPOR 1 UHD">
+    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'REAL MADRID - M.CITY'</title>
+  </programme>
+  <programme start="20260116151500 +0000" stop="20260116170000 +0000" channel="TABII SPOR HD">
+    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'REAL MADRID - M.CITY'</title>
+  </programme>
+  <programme start="20260116151500 +0000" stop="20260116170000 +0000" channel="TABII SPOR SD">
+    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'REAL MADRID - M.CITY'</title>
+  </programme>
+  <programme start="20260116151500 +0000" stop="20260116170000 +0000" channel="TABII SPOR">
+    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'REAL MADRID - M.CITY'</title>
+  </programme>
+  <programme start="20260116151500 +0000" stop="20260116170000 +0000" channel="TABII SPOR 1">
+    <title>UEFA ŞAMPIYONLAR LIGI FUTBOL KARŞILAŞMASI 'REAL MADRID - M.CITY'</title>
+  </programme>
+  <programme start="20260116170000 +0000" stop="20260116172500 +0000" channel="TABII SPOR 1 4K">
+    <title>UEFA ŞAMPIYONLAR LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260116170000 +0000" stop="20260116172500 +0000" channel="TABII SPOR 1 720P">
+    <title>UEFA ŞAMPIYONLAR LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260116170000 +0000" stop="20260116172500 +0000" channel="TABII SPOR 1 UHD">
+    <title>UEFA ŞAMPIYONLAR LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260116170000 +0000" stop="20260116172500 +0000" channel="TABII SPOR HD">
+    <title>UEFA ŞAMPIYONLAR LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260116170000 +0000" stop="20260116172500 +0000" channel="TABII SPOR SD">
+    <title>UEFA ŞAMPIYONLAR LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260116170000 +0000" stop="20260116172500 +0000" channel="TABII SPOR">
+    <title>UEFA ŞAMPIYONLAR LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260116170000 +0000" stop="20260116172500 +0000" channel="TABII SPOR 1">
+    <title>UEFA ŞAMPIYONLAR LIGI MAGAZIN</title>
+  </programme>
+  <programme start="20260116172500 +0000" stop="20260116192000 +0000" channel="TABII SPOR 1 4K">
+    <title>AL ITTIHAD - AL ETTIFAQ</title>
+  </programme>
+  <programme start="20260116172500 +0000" stop="20260116192000 +0000" channel="TABII SPOR 1 720P">
+    <title>AL ITTIHAD - AL ETTIFAQ</title>
+  </programme>
+  <programme start="20260116172500 +0000" stop="20260116192000 +0000" channel="TABII SPOR 1 UHD">
+    <title>AL ITTIHAD - AL ETTIFAQ</title>
+  </programme>
+  <programme start="20260116172500 +0000" stop="20260116192000 +0000" channel="TABII SPOR HD">
+    <title>AL ITTIHAD - AL ETTIFAQ</title>
+  </programme>
+  <programme start="20260116172500 +0000" stop="20260116192000 +0000" channel="TABII SPOR SD">
+    <title>AL ITTIHAD - AL ETTIFAQ</title>
+  </programme>
+  <programme start="20260116172500 +0000" stop="20260116192000 +0000" channel="TABII SPOR">
+    <title>AL ITTIHAD - AL ETTIFAQ</title>
+  </programme>
+  <programme start="20260116172500 +0000" stop="20260116192000 +0000" channel="TABII SPOR 1">
+    <title>AL ITTIHAD - AL ETTIFAQ</title>
+  </programme>
+  <programme start="20260116192000 +0000" stop="20260116210500 +0000" channel="TABII SPOR 1 4K">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'FENERBAHÇE - STUTTGART'</title>
+  </programme>
+  <programme start="20260116192000 +0000" stop="20260116210500 +0000" channel="TABII SPOR 1 720P">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'FENERBAHÇE - STUTTGART'</title>
+  </programme>
+  <programme start="20260116192000 +0000" stop="20260116210500 +0000" channel="TABII SPOR 1 UHD">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'FENERBAHÇE - STUTTGART'</title>
+  </programme>
+  <programme start="20260116192000 +0000" stop="20260116210500 +0000" channel="TABII SPOR HD">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'FENERBAHÇE - STUTTGART'</title>
+  </programme>
+  <programme start="20260116192000 +0000" stop="20260116210500 +0000" channel="TABII SPOR SD">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'FENERBAHÇE - STUTTGART'</title>
+  </programme>
+  <programme start="20260116192000 +0000" stop="20260116210500 +0000" channel="TABII SPOR">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'FENERBAHÇE - STUTTGART'</title>
+  </programme>
+  <programme start="20260116192000 +0000" stop="20260116210500 +0000" channel="TABII SPOR 1">
+    <title>UEFA AVRUPA LIGI FUTBOL KARŞILAŞMASI 'FENERBAHÇE - STUTTGART'</title>
   </programme>
   <programme start="20260115214500 +0000" stop="20260115220000 +0000" channel="4K TR: S SPORT">
     <title>ÖZETLER</title>
@@ -26331,43 +26625,46 @@
   <programme start="20260115224900 +0000" stop="20260115231000 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20260115231000 +0000" stop="20260115233200 +0000" channel="NICKTOONS">
+  <programme start="20260115231000 +0000" stop="20260115233100 +0000" channel="NICKTOONS">
     <title>TRANSFORMERS: EARTHSPARK</title>
   </programme>
-  <programme start="20260115233200 +0000" stop="20260115235400 +0000" channel="NICKTOONS">
+  <programme start="20260115233100 +0000" stop="20260115235200 +0000" channel="NICKTOONS">
     <title>MONSTER HIGH</title>
   </programme>
-  <programme start="20260115235400 +0000" stop="20260116001500 +0000" channel="NICKTOONS">
+  <programme start="20260115235200 +0000" stop="20260116001300 +0000" channel="NICKTOONS">
     <title>BEST AND BESTER</title>
   </programme>
-  <programme start="20260116001500 +0000" stop="20260116003600 +0000" channel="NICKTOONS">
+  <programme start="20260116001300 +0000" stop="20260116003500 +0000" channel="NICKTOONS">
     <title>BEST AND BESTER</title>
   </programme>
-  <programme start="20260116003600 +0000" stop="20260116005700 +0000" channel="NICKTOONS">
+  <programme start="20260116003500 +0000" stop="20260116005600 +0000" channel="NICKTOONS">
     <title>BEST AND BESTER</title>
   </programme>
-  <programme start="20260116005700 +0000" stop="20260116011900 +0000" channel="NICKTOONS">
+  <programme start="20260116005600 +0000" stop="20260116011700 +0000" channel="NICKTOONS">
     <title>MAX  AND  THE MIDKNIGHTS</title>
   </programme>
-  <programme start="20260116011900 +0000" stop="20260116014000 +0000" channel="NICKTOONS">
+  <programme start="20260116011700 +0000" stop="20260116013800 +0000" channel="NICKTOONS">
     <title>DORA THE EXPLORER</title>
   </programme>
-  <programme start="20260116014000 +0000" stop="20260116020100 +0000" channel="NICKTOONS">
+  <programme start="20260116013800 +0000" stop="20260116020000 +0000" channel="NICKTOONS">
     <title>THE ADVENTURES OF KID DANGER</title>
   </programme>
-  <programme start="20260116020100 +0000" stop="20260116022400 +0000" channel="NICKTOONS">
+  <programme start="20260116020000 +0000" stop="20260116022200 +0000" channel="NICKTOONS">
     <title>AVATAR: THE LAST AIRBENDER</title>
   </programme>
-  <programme start="20260116022400 +0000" stop="20260116024500 +0000" channel="NICKTOONS">
+  <programme start="20260116022200 +0000" stop="20260116024400 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20260116024500 +0000" stop="20260116025700 +0000" channel="NICKTOONS">
+  <programme start="20260116024400 +0000" stop="20260116025500 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20260116025700 +0000" stop="20260116031800 +0000" channel="NICKTOONS">
+  <programme start="20260116025500 +0000" stop="20260116031600 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20260116031800 +0000" stop="20260116034000 +0000" channel="NICKTOONS">
+  <programme start="20260116031600 +0000" stop="20260116033800 +0000" channel="NICKTOONS">
+    <title>SPONGEBOB SQUAREPANTS</title>
+  </programme>
+  <programme start="20260116033800 +0000" stop="20260116034000 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
   <programme start="20260116034000 +0000" stop="20260116040000 +0000" channel="NICKTOONS">
@@ -26388,16 +26685,16 @@
   <programme start="20260116051900 +0000" stop="20260116054100 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20260116054100 +0000" stop="20260116060300 +0000" channel="NICKTOONS">
+  <programme start="20260116054100 +0000" stop="20260116060400 +0000" channel="NICKTOONS">
     <title>KAMP KORAL: SPONGEBOB'S UNDER YEARS</title>
   </programme>
-  <programme start="20260116060300 +0000" stop="20260116061500 +0000" channel="NICKTOONS">
+  <programme start="20260116060400 +0000" stop="20260116061500 +0000" channel="NICKTOONS">
     <title>KAMP KORAL: SPONGEBOB'S UNDER YEARS</title>
   </programme>
-  <programme start="20260116061500 +0000" stop="20260116063700 +0000" channel="NICKTOONS">
+  <programme start="20260116061500 +0000" stop="20260116063800 +0000" channel="NICKTOONS">
     <title>KAMP KORAL: SPONGEBOB'S UNDER YEARS</title>
   </programme>
-  <programme start="20260116063700 +0000" stop="20260116070000 +0000" channel="NICKTOONS">
+  <programme start="20260116063800 +0000" stop="20260116070000 +0000" channel="NICKTOONS">
     <title>THE CASAGRANDES</title>
   </programme>
   <programme start="20260116070000 +0000" stop="20260116072200 +0000" channel="NICKTOONS">
@@ -26412,61 +26709,61 @@
   <programme start="20260116080600 +0000" stop="20260116082800 +0000" channel="NICKTOONS">
     <title>THE LOUD HOUSE</title>
   </programme>
-  <programme start="20260116082800 +0000" stop="20260116085100 +0000" channel="NICKTOONS">
+  <programme start="20260116082800 +0000" stop="20260116084900 +0000" channel="NICKTOONS">
     <title>TALES OF THE TEENAGE MUTANT NINJA TURTLES</title>
   </programme>
-  <programme start="20260116085100 +0000" stop="20260116091300 +0000" channel="NICKTOONS">
+  <programme start="20260116084900 +0000" stop="20260116091100 +0000" channel="NICKTOONS">
     <title>THE PATRICK STAR SHOW</title>
   </programme>
-  <programme start="20260116091300 +0000" stop="20260116092500 +0000" channel="NICKTOONS">
+  <programme start="20260116091100 +0000" stop="20260116092300 +0000" channel="NICKTOONS">
     <title>THE PATRICK STAR SHOW</title>
   </programme>
-  <programme start="20260116092500 +0000" stop="20260116094700 +0000" channel="NICKTOONS">
+  <programme start="20260116092300 +0000" stop="20260116094500 +0000" channel="NICKTOONS">
     <title>KAMP KORAL: SPONGEBOB'S UNDER YEARS</title>
   </programme>
-  <programme start="20260116094700 +0000" stop="20260116100900 +0000" channel="NICKTOONS">
+  <programme start="20260116094500 +0000" stop="20260116100700 +0000" channel="NICKTOONS">
     <title>KAMP KORAL: SPONGEBOB'S UNDER YEARS</title>
   </programme>
-  <programme start="20260116100900 +0000" stop="20260116103100 +0000" channel="NICKTOONS">
+  <programme start="20260116100700 +0000" stop="20260116103000 +0000" channel="NICKTOONS">
     <title>THE LOUD HOUSE</title>
   </programme>
-  <programme start="20260116103100 +0000" stop="20260116105300 +0000" channel="NICKTOONS">
+  <programme start="20260116103000 +0000" stop="20260116105200 +0000" channel="NICKTOONS">
     <title>THE LOUD HOUSE</title>
   </programme>
-  <programme start="20260116105300 +0000" stop="20260116111600 +0000" channel="NICKTOONS">
+  <programme start="20260116105200 +0000" stop="20260116111400 +0000" channel="NICKTOONS">
     <title>THE LOUD HOUSE</title>
   </programme>
-  <programme start="20260116111600 +0000" stop="20260116112900 +0000" channel="NICKTOONS">
+  <programme start="20260116111400 +0000" stop="20260116112700 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20260116112900 +0000" stop="20260116115100 +0000" channel="NICKTOONS">
+  <programme start="20260116112700 +0000" stop="20260116115000 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20260116115100 +0000" stop="20260116121400 +0000" channel="NICKTOONS">
+  <programme start="20260116115000 +0000" stop="20260116121200 +0000" channel="NICKTOONS">
     <title>THE PATRICK STAR SHOW</title>
   </programme>
-  <programme start="20260116121400 +0000" stop="20260116123600 +0000" channel="NICKTOONS">
+  <programme start="20260116121200 +0000" stop="20260116123400 +0000" channel="NICKTOONS">
     <title>THE PATRICK STAR SHOW</title>
   </programme>
-  <programme start="20260116123600 +0000" stop="20260116125800 +0000" channel="NICKTOONS">
+  <programme start="20260116123400 +0000" stop="20260116125600 +0000" channel="NICKTOONS">
     <title>THE LOUD HOUSE</title>
   </programme>
-  <programme start="20260116125800 +0000" stop="20260116132100 +0000" channel="NICKTOONS">
+  <programme start="20260116125600 +0000" stop="20260116131900 +0000" channel="NICKTOONS">
     <title>THE LOUD HOUSE</title>
   </programme>
-  <programme start="20260116132100 +0000" stop="20260116133300 +0000" channel="NICKTOONS">
+  <programme start="20260116131900 +0000" stop="20260116133000 +0000" channel="NICKTOONS">
     <title>THE LOUD HOUSE</title>
   </programme>
-  <programme start="20260116133300 +0000" stop="20260116135200 +0000" channel="NICKTOONS">
+  <programme start="20260116133000 +0000" stop="20260116134800 +0000" channel="NICKTOONS">
     <title>SONIC PRIME</title>
   </programme>
-  <programme start="20260116135200 +0000" stop="20260116140400 +0000" channel="NICKTOONS">
+  <programme start="20260116134800 +0000" stop="20260116140300 +0000" channel="NICKTOONS">
     <title>THE PATRICK STAR SHOW</title>
   </programme>
-  <programme start="20260116140400 +0000" stop="20260116142600 +0000" channel="NICKTOONS">
+  <programme start="20260116140300 +0000" stop="20260116142500 +0000" channel="NICKTOONS">
     <title>THE PATRICK STAR SHOW</title>
   </programme>
-  <programme start="20260116142600 +0000" stop="20260116144900 +0000" channel="NICKTOONS">
+  <programme start="20260116142500 +0000" stop="20260116144900 +0000" channel="NICKTOONS">
     <title>THE PATRICK STAR SHOW</title>
   </programme>
   <programme start="20260116144900 +0000" stop="20260116150100 +0000" channel="NICKTOONS">
@@ -26475,55 +26772,55 @@
   <programme start="20260116150100 +0000" stop="20260116152300 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20260116152300 +0000" stop="20260116154500 +0000" channel="NICKTOONS">
+  <programme start="20260116152300 +0000" stop="20260116154600 +0000" channel="NICKTOONS">
     <title>THE FAIRLY ODDPARENTS: A NEW WISH</title>
   </programme>
-  <programme start="20260116154500 +0000" stop="20260116160900 +0000" channel="NICKTOONS">
+  <programme start="20260116154600 +0000" stop="20260116160800 +0000" channel="NICKTOONS">
     <title>THE LOUD HOUSE</title>
   </programme>
-  <programme start="20260116160900 +0000" stop="20260116163100 +0000" channel="NICKTOONS">
+  <programme start="20260116160800 +0000" stop="20260116163000 +0000" channel="NICKTOONS">
     <title>THE LOUD HOUSE</title>
   </programme>
-  <programme start="20260116163100 +0000" stop="20260116165200 +0000" channel="NICKTOONS">
+  <programme start="20260116163000 +0000" stop="20260116164900 +0000" channel="NICKTOONS">
     <title>SONIC PRIME</title>
   </programme>
-  <programme start="20260116165200 +0000" stop="20260116170700 +0000" channel="NICKTOONS">
+  <programme start="20260116164900 +0000" stop="20260116170200 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20260116170700 +0000" stop="20260116172800 +0000" channel="NICKTOONS">
+  <programme start="20260116170200 +0000" stop="20260116172500 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20260116172800 +0000" stop="20260116175000 +0000" channel="NICKTOONS">
+  <programme start="20260116172500 +0000" stop="20260116174800 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20260116175000 +0000" stop="20260116181200 +0000" channel="NICKTOONS">
+  <programme start="20260116174800 +0000" stop="20260116181100 +0000" channel="NICKTOONS">
     <title>SPONGEBOB SQUAREPANTS</title>
   </programme>
-  <programme start="20260116181200 +0000" stop="20260116183500 +0000" channel="NICKTOONS">
+  <programme start="20260116181100 +0000" stop="20260116183300 +0000" channel="NICKTOONS">
     <title>THE PATRICK STAR SHOW</title>
   </programme>
-  <programme start="20260116183500 +0000" stop="20260116184700 +0000" channel="NICKTOONS">
+  <programme start="20260116183300 +0000" stop="20260116184500 +0000" channel="NICKTOONS">
     <title>THE LOUD HOUSE</title>
   </programme>
-  <programme start="20260116184700 +0000" stop="20260116190200 +0000" channel="NICKTOONS">
+  <programme start="20260116184500 +0000" stop="20260116185800 +0000" channel="NICKTOONS">
     <title>THE LOUD HOUSE</title>
   </programme>
-  <programme start="20260116190200 +0000" stop="20260116192600 +0000" channel="NICKTOONS">
+  <programme start="20260116185800 +0000" stop="20260116192200 +0000" channel="NICKTOONS">
     <title>THE LOUD HOUSE</title>
   </programme>
-  <programme start="20260116192600 +0000" stop="20260116194900 +0000" channel="NICKTOONS">
+  <programme start="20260116192200 +0000" stop="20260116194500 +0000" channel="NICKTOONS">
     <title>THE FAIRLY ODDPARENTS</title>
   </programme>
-  <programme start="20260116194900 +0000" stop="20260116200800 +0000" channel="NICKTOONS">
+  <programme start="20260116194500 +0000" stop="20260116200700 +0000" channel="NICKTOONS">
     <title>THE FAIRLY ODDPARENTS</title>
   </programme>
-  <programme start="20260116200800 +0000" stop="20260116203100 +0000" channel="NICKTOONS">
+  <programme start="20260116200700 +0000" stop="20260116203000 +0000" channel="NICKTOONS">
     <title>THE PENGUINS OF MADAGASCAR</title>
   </programme>
-  <programme start="20260116203100 +0000" stop="20260116205400 +0000" channel="NICKTOONS">
+  <programme start="20260116203000 +0000" stop="20260116205300 +0000" channel="NICKTOONS">
     <title>THE PENGUINS OF MADAGASCAR</title>
   </programme>
-  <programme start="20260116205400 +0000" stop="20260116211700 +0000" channel="NICKTOONS">
+  <programme start="20260116205300 +0000" stop="20260116211600 +0000" channel="NICKTOONS">
     <title>KUNG FU PANDA: LEGENDS OF AWESOMENESS</title>
   </programme>
   <programme start="20260115210100 +0000" stop="20260115211300 +0000" channel="AZOOMEE">
@@ -28062,22 +28359,13 @@
   <programme start="20260116015500 +0000" stop="20260116021000 +0000" channel="CARTOON NETWORK HD">
     <title>KRAL ŞAKIR</title>
   </programme>
-  <programme start="20260116021000 +0000" stop="20260116022000 +0000" channel="4K TR: CARTOON NETWORK">
+  <programme start="20260116021000 +0000" stop="20260116023500 +0000" channel="4K TR: CARTOON NETWORK">
     <title>KRAL ŞAKIR</title>
   </programme>
-  <programme start="20260116021000 +0000" stop="20260116022000 +0000" channel="CARTOON NETWORK">
+  <programme start="20260116021000 +0000" stop="20260116023500 +0000" channel="CARTOON NETWORK">
     <title>KRAL ŞAKIR</title>
   </programme>
-  <programme start="20260116021000 +0000" stop="20260116022000 +0000" channel="CARTOON NETWORK HD">
-    <title>KRAL ŞAKIR</title>
-  </programme>
-  <programme start="20260116022000 +0000" stop="20260116023500 +0000" channel="4K TR: CARTOON NETWORK">
-    <title>KRAL ŞAKIR</title>
-  </programme>
-  <programme start="20260116022000 +0000" stop="20260116023500 +0000" channel="CARTOON NETWORK">
-    <title>KRAL ŞAKIR</title>
-  </programme>
-  <programme start="20260116022000 +0000" stop="20260116023500 +0000" channel="CARTOON NETWORK HD">
+  <programme start="20260116021000 +0000" stop="20260116023500 +0000" channel="CARTOON NETWORK HD">
     <title>KRAL ŞAKIR</title>
   </programme>
   <programme start="20260116023500 +0000" stop="20260116025000 +0000" channel="4K TR: CARTOON NETWORK">
