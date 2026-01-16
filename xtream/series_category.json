@@ -2180,7 +2180,8 @@
     {"name": "TASKAREE: THE SMUGGLER'S WEB", "year": "2026"},
     {"name": "AYRILIK DA SEVDAYA DAHIL", "year": "2026"},
     {"name": "AGATHA CHRISTIE'S SEVEN DIALS", "year": "2026"},
-    {"name": "LOVE THROUGH A PRISM", "year": "2026"}
+    {"name": "LOVE THROUGH A PRISM", "year": "2026"},
+    {"name": "CAN THIS LOVE BE TRANSLATED?", "year": "2026"}
   ],
   "PARAMOUNT+ DİZİLERİ": [
     {"name": "DEXTER: RESURRECTION", "year": "2025"},
@@ -5894,7 +5895,8 @@
     {"name": "LOVE BETWEEN FAIRY AND DEVIL", "year": "2022"},
     {"name": "MY UNICORN GIRL", "year": "2020"},
     {"name": "ONCE UPON A TIME IN LINGJIAN MOUNTAIN", "year": "2019"},
-    {"name": "再会～SILENT TRUTH～", "year": "2023"}
+    {"name": "再会～SILENT TRUTH～", "year": "2023"},
+    {"name": "SILENT TRUTH", "year": "2023"}
   ],
   "SKY DEUTSCHLAND DİZİLERİ": [
     {"name": "DER PASS (PAGAN PEAK)", "year": "2019"},
@@ -6769,6 +6771,9 @@
     {"name": "THE ALIBI", "year": "2025"}
   ],
   "CRAVE DİZİLERİ": [
+
+  ],
+  "NTV DİZİLERİ": [
 
   ]
 }
