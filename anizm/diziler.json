@@ -86,7 +86,7 @@
   "/boukyaku-battery-tv": {
     "group": "BOUKYAKU BATTERY (TV)",
     "last_season": 1,
-    "last_episode": 1.0,
+    "last_episode": 2.0,
     "start_episode": 1
   },
   "/arne-no-jikenbo": {
@@ -116,13 +116,13 @@
   "/catseye": {
     "group": "CAT'S♥EYE",
     "last_season": 1,
-    "last_episode": 9.0,
+    "last_episode": 10.0,
     "start_episode": 1
   },
   "/douse-koishite-shimaunda-2nd-season": {
     "group": "DOUSE, KOISHITE SHIMAUNDA. 2ND SEASON",
     "last_season": 1,
-    "last_episode": 1.0,
+    "last_episode": 2.0,
     "start_episode": 1
   },
   "/android-wa-keiken-ninzuu-ni-hairimasu-ka": {
