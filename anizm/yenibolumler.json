@@ -1,4 +1,10 @@
 {
+  "/yi-ren-zhi-xia-6": {
+    "group": "YI REN ZHI XIA 6",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
   "/android-wa-keiken-ninzuu-ni-hairimasu-ka": {
     "group": "ANDROID WA KEIKEN NINZUU NI HAIRIMASU KA??",
     "last_season": 1,
@@ -99,12 +105,6 @@
     "group": "PRISM RONDO",
     "last_season": 1,
     "last_episode": 20.0,
-    "start_episode": 1
-  },
-  "/ao-no-orchestra-season-2": {
-    "group": "AO NO ORCHESTRA SEASON 2",
-    "last_season": 1,
-    "last_episode": 14.0,
     "start_episode": 1
   }
 }

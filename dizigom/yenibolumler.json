@@ -1,10 +1,4 @@
 {
-  "/dizi-izle/agatha-christies-seven-dials": {
-    "group": "AGATHA CHRISTIE'S SEVEN DIALS",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1
-  },
   "/dizi-izle/love-through-a-prism": {
     "group": "LOVE THROUGH A PRISM",
     "last_season": 1,
@@ -15,6 +9,12 @@
     "group": "NO TAIL TO TELL",
     "last_season": 1,
     "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi-izle/agatha-christies-seven-dials": {
+    "group": "AGATHA CHRISTIE'S SEVEN DIALS",
+    "last_season": 1,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/dizi-izle/can-this-love-be-translated": {

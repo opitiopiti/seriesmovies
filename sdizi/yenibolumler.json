@@ -1,4 +1,10 @@
 {
+  "/diziler/can-this-love-be-translated.html": {
+    "group": "CAN THIS LOVE BE TRANSLATED?",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/diziler/frieren-beyond-journeys-end.html": {
     "group": "FRIEREN: BEYOND JOURNEY'S END",
     "last_season": 2,
@@ -81,12 +87,6 @@
     "group": "GHOSTS",
     "last_season": 5,
     "last_episode": 8,
-    "start_episode": 1
-  },
-  "/diziler/will-trent.html": {
-    "group": "WILL TRENT",
-    "last_season": 4,
-    "last_episode": 1,
     "start_episode": 1
   }
 }
