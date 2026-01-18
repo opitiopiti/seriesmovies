@@ -1,10 +1,4 @@
 {
-  "/dizi-izle/the-upshaws": {
-    "group": "THE UPSHAWS",
-    "last_season": 7,
-    "last_episode": 12,
-    "start_episode": 1
-  },
   "/dizi-izle/no-tail-to-tell": {
     "group": "NO TAIL TO TELL",
     "last_season": 1,
@@ -17,16 +11,22 @@
     "last_episode": 12,
     "start_episode": 1
   },
-  "/dizi-izle/love-through-a-prism": {
-    "group": "LOVE THROUGH A PRISM",
-    "last_season": 1,
-    "last_episode": 20,
+  "/dizi-izle/the-upshaws": {
+    "group": "THE UPSHAWS",
+    "last_season": 7,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/dizi-izle/undercover-miss-hong": {
     "group": "UNDERCOVER MISS HONG",
     "last_season": 1,
     "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi-izle/love-through-a-prism": {
+    "group": "LOVE THROUGH A PRISM",
+    "last_season": 1,
+    "last_episode": 20,
     "start_episode": 1
   }
 }
