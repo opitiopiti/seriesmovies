@@ -1,4 +1,10 @@
 {
+  "/dizi/the-night-manager": {
+    "group": "The Night Manager",
+    "last_season": 2,
+    "last_episode": 3,
+    "start_episode": 1
+  },
   "/dizi/going-dutch": {
     "group": "Going Dutch",
     "last_season": 2,
@@ -21,6 +27,12 @@
     "group": "Ponies",
     "last_season": 1,
     "last_episode": 5,
+    "start_episode": 1
+  },
+  "/dizi/undercover-miss-hong": {
+    "group": "Undercover Miss Hong",
+    "last_season": 1,
+    "last_episode": 0,
     "start_episode": 1
   }
 }

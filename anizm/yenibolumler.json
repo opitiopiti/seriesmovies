@@ -1,4 +1,34 @@
 {
+  "/high-school-kimengumi-2026": {
+    "group": "HIGH SCHOOL! KIMENGUMI (2026)",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/ao-no-miburo-serizawa-ansatsu-hen": {
+    "group": "AO NO MIBURO: SERIZAWA ANSATSU-HEN",
+    "last_season": 1,
+    "last_episode": 3.0,
+    "start_episode": 1
+  },
+  "/kaya-chan-wa-kowakunai": {
+    "group": "KAYA-CHAN WA KOWAKUNAI",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/xian-wang-de-richang-shenghuo-5": {
+    "group": "XIAN WANG DE RICHANG SHENGHUO 5",
+    "last_season": 1,
+    "last_episode": 6.0,
+    "start_episode": 1
+  },
+  "/si-vis-the-sound-of-heroes": {
+    "group": "SI-VIS: THE SOUND OF HEROES",
+    "last_season": 1,
+    "last_episode": 14.0,
+    "start_episode": 1
+  },
   "/yuusha-no-kuzu": {
     "group": "YUUSHA NO KUZU",
     "last_season": 1,
@@ -69,42 +99,6 @@
     "group": "ENEN NO SHOUBOUTAI: SAN NO SHOU PART 2",
     "last_season": 1,
     "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/dark-moon-tsuki-no-saidan": {
-    "group": "DARK MOON: TSUKI NO SAIDAN",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/sousou-no-frieren-2nd-season": {
-    "group": "SOUSOU NO FRIEREN 2ND SEASON",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/boukyaku-battery-tv": {
-    "group": "BOUKYAKU BATTERY (TV)",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/catseye": {
-    "group": "CAT'S♥EYE",
-    "last_season": 1,
-    "last_episode": 10.0,
-    "start_episode": 1
-  },
-  "/douse-koishite-shimaunda-2nd-season": {
-    "group": "DOUSE, KOISHITE SHIMAUNDA. 2ND SEASON",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/mf-ghost-3rd-season": {
-    "group": "MF GHOST 3RD SEASON",
-    "last_season": 1,
-    "last_episode": 3.0,
     "start_episode": 1
   }
 }

@@ -388,5 +388,11 @@
     "last_season": 1,
     "last_episode": 1.0,
     "start_episode": 1
+  },
+  "/high-school-kimengumi-2026": {
+    "group": "HIGH SCHOOL! KIMENGUMI (2026)",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

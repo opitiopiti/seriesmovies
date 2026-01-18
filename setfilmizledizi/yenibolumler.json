@@ -1,4 +1,10 @@
 {
+  "/dizi/paradise/": {
+    "group": "PARADISE",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
   "/dizi/can-this-love-be-translated/": {
     "group": "CAN THIS LOVE BE TRANSLATED?",
     "last_season": 1,
@@ -26,13 +32,7 @@
   "/dizi/agatha-christies-seven-dials/": {
     "group": "AGATHA CHRISTIE'S SEVEN DIALS",
     "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "/dizi/ayrilik-da-sevdaya-dahil/": {
-    "group": "AYRILIK DA SEVDAYA DAHIL",
-    "last_season": 1,
-    "last_episode": 8,
+    "last_episode": 0,
     "start_episode": 1
   }
 }
