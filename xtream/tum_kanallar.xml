@@ -36405,11 +36405,11 @@
   <programme start="20260119140000 +0000" stop="20260119160000 +0000" channel="4K TR: TRT 3">
     <title>İSTANBULSPOR-KEÇIÖRENGÜCÜ</title>
   </programme>
-  <programme start="20260119160000 +0000" stop="20260119180000 +0000" channel="4K TR: TRT 3">
-    <title>S. BODRUM - Ö. SIVASSPOR</title>
-  </programme>
-  <programme start="20260119180000 +0000" stop="20260119190000 +0000" channel="4K TR: TRT 3">
+  <programme start="20260119160000 +0000" stop="20260119170000 +0000" channel="4K TR: TRT 3">
     <title>GÜNDEM FUTBOL TRANSFER</title>
+  </programme>
+  <programme start="20260119170000 +0000" stop="20260119190000 +0000" channel="4K TR: TRT 3">
+    <title>S. BODRUM - Ö. SIVASSPOR</title>
   </programme>
   <programme start="20260119190000 +0000" stop="20260119203000 +0000" channel="4K TR: TRT 3">
     <title>STADYUM</title>
@@ -36643,19 +36643,19 @@
     <title>HABERDAR</title>
   </programme>
   <programme start="20260119073000 +0000" stop="20260119074500 +0000" channel="4K TR: TRT T RK">
-    <title>CANIGÖNÜLDEN</title>
+    <title>EMLAK GÜNLÜĞÜ</title>
   </programme>
   <programme start="20260119073000 +0000" stop="20260119074500 +0000" channel="TRT TURK">
-    <title>CANIGÖNÜLDEN</title>
+    <title>EMLAK GÜNLÜĞÜ</title>
   </programme>
   <programme start="20260119073000 +0000" stop="20260119074500 +0000" channel="TRT TURK HEVC">
-    <title>CANIGÖNÜLDEN</title>
+    <title>EMLAK GÜNLÜĞÜ</title>
   </programme>
   <programme start="20260119073000 +0000" stop="20260119074500 +0000" channel="TRT TURK RAW">
-    <title>CANIGÖNÜLDEN</title>
+    <title>EMLAK GÜNLÜĞÜ</title>
   </programme>
   <programme start="20260119073000 +0000" stop="20260119074500 +0000" channel="TRT TÜRK">
-    <title>CANIGÖNÜLDEN</title>
+    <title>EMLAK GÜNLÜĞÜ</title>
   </programme>
   <programme start="20260119074500 +0000" stop="20260119081500 +0000" channel="4K TR: TRT T RK">
     <title>ANNEM YAPARDI</title>
@@ -36748,19 +36748,19 @@
     <title>ÜZÜLDÜĞÜN ŞEYE BAK</title>
   </programme>
   <programme start="20260119105000 +0000" stop="20260119110000 +0000" channel="4K TR: TRT T RK">
-    <title>MIKROFON SENIN İSVEÇ</title>
+    <title>MIKROFON SENIN İNGILTERE</title>
   </programme>
   <programme start="20260119105000 +0000" stop="20260119110000 +0000" channel="TRT TURK">
-    <title>MIKROFON SENIN İSVEÇ</title>
+    <title>MIKROFON SENIN İNGILTERE</title>
   </programme>
   <programme start="20260119105000 +0000" stop="20260119110000 +0000" channel="TRT TURK HEVC">
-    <title>MIKROFON SENIN İSVEÇ</title>
+    <title>MIKROFON SENIN İNGILTERE</title>
   </programme>
   <programme start="20260119105000 +0000" stop="20260119110000 +0000" channel="TRT TURK RAW">
-    <title>MIKROFON SENIN İSVEÇ</title>
+    <title>MIKROFON SENIN İNGILTERE</title>
   </programme>
   <programme start="20260119105000 +0000" stop="20260119110000 +0000" channel="TRT TÜRK">
-    <title>MIKROFON SENIN İSVEÇ</title>
+    <title>MIKROFON SENIN İNGILTERE</title>
   </programme>
   <programme start="20260119110000 +0000" stop="20260119115000 +0000" channel="4K TR: TRT T RK">
     <title>ÖĞLE ANA HABER</title>
@@ -36778,19 +36778,19 @@
     <title>ÖĞLE ANA HABER</title>
   </programme>
   <programme start="20260119115000 +0000" stop="20260119120000 +0000" channel="4K TR: TRT T RK">
-    <title>DUYMAYA HAZIR MIYIZ ?</title>
+    <title>MIKROFON SENIN DANIMARKA</title>
   </programme>
   <programme start="20260119115000 +0000" stop="20260119120000 +0000" channel="TRT TURK">
-    <title>DUYMAYA HAZIR MIYIZ ?</title>
+    <title>MIKROFON SENIN DANIMARKA</title>
   </programme>
   <programme start="20260119115000 +0000" stop="20260119120000 +0000" channel="TRT TURK HEVC">
-    <title>DUYMAYA HAZIR MIYIZ ?</title>
+    <title>MIKROFON SENIN DANIMARKA</title>
   </programme>
   <programme start="20260119115000 +0000" stop="20260119120000 +0000" channel="TRT TURK RAW">
-    <title>DUYMAYA HAZIR MIYIZ ?</title>
+    <title>MIKROFON SENIN DANIMARKA</title>
   </programme>
   <programme start="20260119115000 +0000" stop="20260119120000 +0000" channel="TRT TÜRK">
-    <title>DUYMAYA HAZIR MIYIZ ?</title>
+    <title>MIKROFON SENIN DANIMARKA</title>
   </programme>
   <programme start="20260119120000 +0000" stop="20260119130000 +0000" channel="4K TR: TRT T RK">
     <title>SAĞLIK OLSUN</title>
@@ -36822,50 +36822,65 @@
   <programme start="20260119130000 +0000" stop="20260119140000 +0000" channel="TRT TÜRK">
     <title>TÜRKÜ EVI</title>
   </programme>
-  <programme start="20260119140000 +0000" stop="20260119145000 +0000" channel="4K TR: TRT T RK">
+  <programme start="20260119140000 +0000" stop="20260119144500 +0000" channel="4K TR: TRT T RK">
     <title>REHBER</title>
   </programme>
-  <programme start="20260119140000 +0000" stop="20260119145000 +0000" channel="TRT TURK">
+  <programme start="20260119140000 +0000" stop="20260119144500 +0000" channel="TRT TURK">
     <title>REHBER</title>
   </programme>
-  <programme start="20260119140000 +0000" stop="20260119145000 +0000" channel="TRT TURK HEVC">
+  <programme start="20260119140000 +0000" stop="20260119144500 +0000" channel="TRT TURK HEVC">
     <title>REHBER</title>
   </programme>
-  <programme start="20260119140000 +0000" stop="20260119145000 +0000" channel="TRT TURK RAW">
+  <programme start="20260119140000 +0000" stop="20260119144500 +0000" channel="TRT TURK RAW">
     <title>REHBER</title>
   </programme>
-  <programme start="20260119140000 +0000" stop="20260119145000 +0000" channel="TRT TÜRK">
+  <programme start="20260119140000 +0000" stop="20260119144500 +0000" channel="TRT TÜRK">
     <title>REHBER</title>
   </programme>
-  <programme start="20260119145000 +0000" stop="20260119155000 +0000" channel="4K TR: TRT T RK">
+  <programme start="20260119144500 +0000" stop="20260119153500 +0000" channel="4K TR: TRT T RK">
     <title>GÖNLÜMDEKI KÖLN</title>
   </programme>
-  <programme start="20260119145000 +0000" stop="20260119155000 +0000" channel="TRT TURK">
+  <programme start="20260119144500 +0000" stop="20260119153500 +0000" channel="TRT TURK">
     <title>GÖNLÜMDEKI KÖLN</title>
   </programme>
-  <programme start="20260119145000 +0000" stop="20260119155000 +0000" channel="TRT TURK HEVC">
+  <programme start="20260119144500 +0000" stop="20260119153500 +0000" channel="TRT TURK HEVC">
     <title>GÖNLÜMDEKI KÖLN</title>
   </programme>
-  <programme start="20260119145000 +0000" stop="20260119155000 +0000" channel="TRT TURK RAW">
+  <programme start="20260119144500 +0000" stop="20260119153500 +0000" channel="TRT TURK RAW">
     <title>GÖNLÜMDEKI KÖLN</title>
   </programme>
-  <programme start="20260119145000 +0000" stop="20260119155000 +0000" channel="TRT TÜRK">
+  <programme start="20260119144500 +0000" stop="20260119153500 +0000" channel="TRT TÜRK">
     <title>GÖNLÜMDEKI KÖLN</title>
+  </programme>
+  <programme start="20260119153500 +0000" stop="20260119155000 +0000" channel="4K TR: TRT T RK">
+    <title>KITAPÇI DÜKKANI</title>
+  </programme>
+  <programme start="20260119153500 +0000" stop="20260119155000 +0000" channel="TRT TURK">
+    <title>KITAPÇI DÜKKANI</title>
+  </programme>
+  <programme start="20260119153500 +0000" stop="20260119155000 +0000" channel="TRT TURK HEVC">
+    <title>KITAPÇI DÜKKANI</title>
+  </programme>
+  <programme start="20260119153500 +0000" stop="20260119155000 +0000" channel="TRT TURK RAW">
+    <title>KITAPÇI DÜKKANI</title>
+  </programme>
+  <programme start="20260119153500 +0000" stop="20260119155000 +0000" channel="TRT TÜRK">
+    <title>KITAPÇI DÜKKANI</title>
   </programme>
   <programme start="20260119155000 +0000" stop="20260119160000 +0000" channel="4K TR: TRT T RK">
-    <title>MIKROFON SENIN NORVEÇ</title>
+    <title>MIKROFON SENIN İSVEÇ</title>
   </programme>
   <programme start="20260119155000 +0000" stop="20260119160000 +0000" channel="TRT TURK">
-    <title>MIKROFON SENIN NORVEÇ</title>
+    <title>MIKROFON SENIN İSVEÇ</title>
   </programme>
   <programme start="20260119155000 +0000" stop="20260119160000 +0000" channel="TRT TURK HEVC">
-    <title>MIKROFON SENIN NORVEÇ</title>
+    <title>MIKROFON SENIN İSVEÇ</title>
   </programme>
   <programme start="20260119155000 +0000" stop="20260119160000 +0000" channel="TRT TURK RAW">
-    <title>MIKROFON SENIN NORVEÇ</title>
+    <title>MIKROFON SENIN İSVEÇ</title>
   </programme>
   <programme start="20260119155000 +0000" stop="20260119160000 +0000" channel="TRT TÜRK">
-    <title>MIKROFON SENIN NORVEÇ</title>
+    <title>MIKROFON SENIN İSVEÇ</title>
   </programme>
   <programme start="20260119160000 +0000" stop="20260119164500 +0000" channel="4K TR: TRT T RK">
     <title>SICAK HABER</title>
@@ -36883,19 +36898,19 @@
     <title>SICAK HABER</title>
   </programme>
   <programme start="20260119164500 +0000" stop="20260119170000 +0000" channel="4K TR: TRT T RK">
-    <title>EMLAK GÜNLÜĞÜ</title>
+    <title>MIKROFON SENIN NORVEÇ</title>
   </programme>
   <programme start="20260119164500 +0000" stop="20260119170000 +0000" channel="TRT TURK">
-    <title>EMLAK GÜNLÜĞÜ</title>
+    <title>MIKROFON SENIN NORVEÇ</title>
   </programme>
   <programme start="20260119164500 +0000" stop="20260119170000 +0000" channel="TRT TURK HEVC">
-    <title>EMLAK GÜNLÜĞÜ</title>
+    <title>MIKROFON SENIN NORVEÇ</title>
   </programme>
   <programme start="20260119164500 +0000" stop="20260119170000 +0000" channel="TRT TURK RAW">
-    <title>EMLAK GÜNLÜĞÜ</title>
+    <title>MIKROFON SENIN NORVEÇ</title>
   </programme>
   <programme start="20260119164500 +0000" stop="20260119170000 +0000" channel="TRT TÜRK">
-    <title>EMLAK GÜNLÜĞÜ</title>
+    <title>MIKROFON SENIN NORVEÇ</title>
   </programme>
   <programme start="20260119170000 +0000" stop="20260119180000 +0000" channel="4K TR: TRT T RK">
     <title>TEMELLI MISAFIR</title>
