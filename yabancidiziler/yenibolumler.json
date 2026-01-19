@@ -1,4 +1,16 @@
 {
+  "/dizi/a-knight-of-the-seven-kingdoms": {
+    "group": "A Knight of the Seven Kingdoms",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/industry": {
+    "group": "Industry",
+    "last_season": 4,
+    "last_episode": 1,
+    "start_episode": 1
+  },
   "/dizi/ponies": {
     "group": "Ponies",
     "last_season": 1,
