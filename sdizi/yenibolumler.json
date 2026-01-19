@@ -1,4 +1,10 @@
 {
+  "/diziler/primal.html": {
+    "group": "PRIMAL",
+    "last_season": 3,
+    "last_episode": 1,
+    "start_episode": 1
+  },
   "/diziler/hells-paradise.html": {
     "group": "HELL'S PARADISE",
     "last_season": 2,
@@ -81,12 +87,6 @@
     "group": "PERCY JACKSON AND THE OLYMPIANS",
     "last_season": 2,
     "last_episode": 7,
-    "start_episode": 1
-  },
-  "/diziler/hijack.html": {
-    "group": "HIJACK",
-    "last_season": 2,
-    "last_episode": 1,
     "start_episode": 1
   }
 }

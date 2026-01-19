@@ -1,4 +1,28 @@
 {
+  "/kirei-ni-shitemoraemasu-ka": {
+    "group": "KIREI NI SHITEMORAEMASU KA.",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/osananajimi-to-wa-love-comedy-ni-naranai": {
+    "group": "OSANANAJIMI TO WA LOVE COMEDY NI NARANAI",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/vigilante-boku-no-hero-academia-illegals-2nd-season": {
+    "group": "VIGILANTE: BOKU NO HERO ACADEMIA ILLEGALS 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/goumon-baito-kun-no-nichijou": {
+    "group": "GOUMON BAITO-KUN NO NICHIJOU",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
   "/digimon-beatbreak": {
     "group": "DIGIMON BEATBREAK",
     "last_season": 1,
@@ -39,6 +63,42 @@
     "group": "MAJUTSUSHI KUNON WA MIETEIRU",
     "last_season": 1,
     "last_episode": 4.0,
+    "start_episode": 1
+  },
+  "/uruwashi-no-yoi-no-tsuki": {
+    "group": "URUWASHI NO YOI NO TSUKI",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/seihantai-na-kimi-to-boku": {
+    "group": "SEIHANTAI NA KIMI TO BOKU",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/high-school-kimengumi-2026": {
+    "group": "HIGH SCHOOL! KIMENGUMI (2026)",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/ao-no-miburo-serizawa-ansatsu-hen": {
+    "group": "AO NO MIBURO: SERIZAWA ANSATSU-HEN",
+    "last_season": 1,
+    "last_episode": 4.0,
+    "start_episode": 1
+  },
+  "/kaya-chan-wa-kowakunai": {
+    "group": "KAYA-CHAN WA KOWAKUNAI",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/xian-wang-de-richang-shenghuo-5": {
+    "group": "XIAN WANG DE RICHANG SHENGHUO 5",
+    "last_season": 1,
+    "last_episode": 7.0,
     "start_episode": 1
   }
 }
