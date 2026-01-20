@@ -6045,22 +6045,40 @@
   <programme start="20260120153000 +0000" stop="20260120170000 +0000" channel="TV 8.5">
     <title>BIR DEMET TIYATRO</title>
   </programme>
-  <programme start="20260120170000 +0000" stop="20260120211500 +0000" channel="4K TR: TV8.5">
+  <programme start="20260120170000 +0000" stop="20260120190000 +0000" channel="4K TR: TV8.5">
+    <title>TV8,5</title>
+  </programme>
+  <programme start="20260120170000 +0000" stop="20260120190000 +0000" channel="TV 8.5 FHD">
+    <title>TV8,5</title>
+  </programme>
+  <programme start="20260120170000 +0000" stop="20260120190000 +0000" channel="TV 8.5 HD">
+    <title>TV8,5</title>
+  </programme>
+  <programme start="20260120170000 +0000" stop="20260120190000 +0000" channel="TV 85">
+    <title>TV8,5</title>
+  </programme>
+  <programme start="20260120170000 +0000" stop="20260120190000 +0000" channel="TV8 5 RAW">
+    <title>TV8,5</title>
+  </programme>
+  <programme start="20260120170000 +0000" stop="20260120190000 +0000" channel="TV 8.5">
+    <title>TV8,5</title>
+  </programme>
+  <programme start="20260120190000 +0000" stop="20260120211500 +0000" channel="4K TR: TV8.5">
     <title>JET SOSYETE</title>
   </programme>
-  <programme start="20260120170000 +0000" stop="20260120211500 +0000" channel="TV 8.5 FHD">
+  <programme start="20260120190000 +0000" stop="20260120211500 +0000" channel="TV 8.5 FHD">
     <title>JET SOSYETE</title>
   </programme>
-  <programme start="20260120170000 +0000" stop="20260120211500 +0000" channel="TV 8.5 HD">
+  <programme start="20260120190000 +0000" stop="20260120211500 +0000" channel="TV 8.5 HD">
     <title>JET SOSYETE</title>
   </programme>
-  <programme start="20260120170000 +0000" stop="20260120211500 +0000" channel="TV 85">
+  <programme start="20260120190000 +0000" stop="20260120211500 +0000" channel="TV 85">
     <title>JET SOSYETE</title>
   </programme>
-  <programme start="20260120170000 +0000" stop="20260120211500 +0000" channel="TV8 5 RAW">
+  <programme start="20260120190000 +0000" stop="20260120211500 +0000" channel="TV8 5 RAW">
     <title>JET SOSYETE</title>
   </programme>
-  <programme start="20260120170000 +0000" stop="20260120211500 +0000" channel="TV 8.5">
+  <programme start="20260120190000 +0000" stop="20260120211500 +0000" channel="TV 8.5">
     <title>JET SOSYETE</title>
   </programme>
   <programme start="20260119210000 +0000" stop="20260119214700 +0000" channel="GZT TV">
@@ -6207,8 +6225,8 @@
   <programme start="20260120195600 +0000" stop="20260120202600 +0000" channel="GZT TV">
     <title>OUTDOOR BUILDER</title>
   </programme>
-  <programme start="20260120202600 +0000" stop="20260121205900 +0000" channel="GZT TV">
-    <title>HALIL ÇIN'DE</title>
+  <programme start="20260120202600 +0000" stop="20260120210000 +0000" channel="GZT TV">
+    <title>GZT TV</title>
   </programme>
   <programme start="20260119220000 +0000" stop="20260119230000 +0000" channel="VAV TV">
     <title>HADIS İKLIMI</title>
@@ -11421,11 +11439,11 @@
   <programme start="20260120190000 +0000" stop="20260120200000 +0000" channel="TELE 1">
     <title>KAYIT DIŞI</title>
   </programme>
-  <programme start="20260120200000 +0000" stop="20260120210000 +0000" channel="4K TR: TELE1">
-    <title>KAYIT DIŞI</title>
+  <programme start="20260120200000 +0000" stop="20260121040000 +0000" channel="4K TR: TELE1">
+    <title>BAŞROL</title>
   </programme>
-  <programme start="20260120200000 +0000" stop="20260120210000 +0000" channel="TELE 1">
-    <title>KAYIT DIŞI</title>
+  <programme start="20260120200000 +0000" stop="20260121040000 +0000" channel="TELE 1">
+    <title>BAŞROL</title>
   </programme>
   <programme start="20260119210000 +0000" stop="20260119230000 +0000" channel="4K TR: HABER GLOBAL HD">
     <title>GECE AJANSI</title>
