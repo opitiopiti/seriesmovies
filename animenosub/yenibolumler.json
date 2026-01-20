@@ -1,4 +1,16 @@
 {
+  "/anime/the-case-book-of-arne/": {
+    "group": "THE CASE BOOK OF ARNE",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
+  "/anime/miss-kobayashis-dragon-maid-a-lonely-dragon-wants-to-be-loved/": {
+    "group": "MISS KOBAYASHI’S DRAGON MAID: A LONELY DRAGON WANTS TO BE LOVED",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/anime/the-darwin-incident/": {
     "group": "THE DARWIN INCIDENT",
     "last_season": 1,
@@ -105,18 +117,6 @@
     "group": "BLUE ORCHESTRA SEASON 2",
     "last_season": 1,
     "last_episode": 14,
-    "start_episode": 1
-  },
-  "/anime/kaya-chan-isnt-scary/": {
-    "group": "KAYA-CHAN ISN’T SCARY",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/anime/you-and-i-are-polar-opposites/": {
-    "group": "YOU AND I ARE POLAR OPPOSITES",
-    "last_season": 1,
-    "last_episode": 2,
     "start_episode": 1
   }
 }
