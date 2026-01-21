@@ -76,5 +76,29 @@
     "last_season": 1,
     "last_episode": 2.0,
     "start_episode": 1
+  },
+  "/vigilante-boku-no-hero-academia-illegals-2nd-season": {
+    "group": "VIGILANTE: BOKU NO HERO ACADEMIA ILLEGALS 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/goumon-baito-kun-no-nichijou": {
+    "group": "GOUMON BAITO-KUN NO NICHIJOU",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/digimon-beatbreak": {
+    "group": "DIGIMON BEATBREAK",
+    "last_season": 1,
+    "last_episode": 14.0,
+    "start_episode": 1
+  },
+  "/ikoku-nikki": {
+    "group": "IKOKU NIKKI",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
   }
 }
