@@ -40,5 +40,41 @@
     "last_season": 1,
     "last_episode": 3.0,
     "start_episode": 1
+  },
+  "/hokuto-no-ken-kenougun-zako-tachi-no-banka": {
+    "group": "HOKUTO NO KEN: KENOUGUN ZAKO-TACHI NO BANKA",
+    "last_season": 1,
+    "last_episode": 1.0,
+    "start_episode": 1
+  },
+  "/isekai-quartet-3": {
+    "group": "ISEKAI QUARTET 3",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/kirei-ni-shitemoraemasu-ka": {
+    "group": "KIREI NI SHITEMORAEMASU KA.",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/osananajimi-to-wa-love-comedy-ni-naranai": {
+    "group": "OSANANAJIMI TO WA LOVE COMEDY NI NARANAI",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/vigilante-boku-no-hero-academia-illegals-2nd-season": {
+    "group": "VIGILANTE: BOKU NO HERO ACADEMIA ILLEGALS 2ND SEASON",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/goumon-baito-kun-no-nichijou": {
+    "group": "GOUMON BAITO-KUN NO NICHIJOU",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
   }
 }
