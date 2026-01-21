@@ -135,9 +135,9 @@ jobs:
           git add animenosub/*.json || echo "No animenosub files"
           git add setfilmizledizi/*.json || echo "No setfilmizledizi files"
           git add diziyo/*.json || echo "No diziyo files"
+          git add hdfilmcehennemi/*.json || echo "No hdfilmcehennemi files"
           git add yabancidiziler/*.json || echo "No yabancidiziler files"
           git add dizipall/diziler.json || echo "No diziyo files"
-          git add hdfilmcehennemi/yenibolumler.json || echo "No hdfilmcehennemi files"
           git commit -m "All JSON güncellendi [auto]" || echo "No changes"
           git push origin main
 
