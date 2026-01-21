@@ -108,13 +108,13 @@ jobs:
           pip install requests
 
       - name: Run Xtream Live M3u Script
-        run: python private_py/channels/kanalbirlestirme.py
+        run: python private_py/xtream/m3usistemi/live.py
 
       - name: Run Xtream Movies M3u Script
-        run: python private_py/xtream/film.py
+        run: python private_py/xtream/m3usistemi/film.py
 
       - name: Run Xtream Series M3u Script
-        run: python private_py/xtream/series.py
+        run: python private_py/xtream/m3usistemi/series.py
 
       - name: Clone Private m3u8file Repo
         run: git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/opitiopiti/xtreamsistemi.git private_xtreamsistemi
@@ -156,7 +156,7 @@ jobs:
           pip install requests
 
       - name: Run Xtream Full Script
-        run: python private_py/xtream/convert_full.py
+        run: python private_py/xtream/jsonsistemi/convert_full.py
 
       - name: Commit times.json
         run: |
@@ -168,10 +168,10 @@ jobs:
           git push origin main || echo "No push needed"
         
       - name: Run Xtream Premium Script
-        run: python private_py/xtream/convert_premium.py
+        run: python private_py/xtream/jsonsistemi/convert_premium.py
 
       - name: Run Xtream Standard Script
-        run: python private_py/xtream/convert_standard.py
+        run: python private_py/xtream/jsonsistemi/convert_standard.py
 
       - name: Clone m3u8file Repo
         run: git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/opitiopiti/xtreamsistemi.git xtreamsistemi_repo
