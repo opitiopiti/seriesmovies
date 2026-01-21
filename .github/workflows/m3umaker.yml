@@ -97,7 +97,7 @@ jobs:
           cp gunluk_spor.m3u privaate_m3u8file/gunluk_spor.m3u || echo "gunluk_spor.m3u bulunamadı"
           cp televizyondizileri.m3u privaate_m3u8file/televizyondizileri.m3u || echo "televizyondizileri.m3u bulunamadı"
           cp sendes.m3u privaate_m3u8file/sendes.m3u || echo "sendes.m3u bulunamadı"
-          cp rectv_yerli_diziler.m3u privaate_m3u8file/sendes.m3u || echo "rectv_yerli_diziler.m3u bulunamadı"
+          cp rectv_yerli_diziler.m3u privaate_m3u8file/rectv_yerli_diziler.m3u || echo "rectv_yerli_diziler.m3u bulunamadı"
 
           cd privaate_m3u8file
           git config user.name "GitHub Actions"
