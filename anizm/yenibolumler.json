@@ -76,35 +76,5 @@
     "last_season": 1,
     "last_episode": 2.0,
     "start_episode": 1
-  },
-  "/digimon-beatbreak": {
-    "group": "DIGIMON BEATBREAK",
-    "last_season": 1,
-    "last_episode": 14.0,
-    "start_episode": 1
-  },
-  "/ikoku-nikki": {
-    "group": "IKOKU NIKKI",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/hanazakari-no-kimitachi-e": {
-    "group": "HANAZAKARI NO KIMITACHI E",
-    "last_season": 1,
-    "last_episode": 3.0,
-    "start_episode": 1
-  },
-  "/kizoku-tensei-megumareta-umare-kara-saikyou-no-chikara-wo-eru": {
-    "group": "KIZOKU TENSEI: MEGUMARETA UMARE KARA SAIKYOU NO CHIKARA WO ERU",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/jigokuraku-2nd-season": {
-    "group": "JIGOKURAKU 2ND SEASON",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
   }
 }

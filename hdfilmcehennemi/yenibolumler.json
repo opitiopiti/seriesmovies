@@ -1,110 +1,98 @@
 {
   "/dizi/tell-me-lies-hdf2-14/": {
-    "group": "TELL ME LIES"
+    "group": "TELL ME LIES",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
   },
   "/dizi/spring-fever/": {
-    "group": "SPRING FEVER"
+    "group": "SPRING FEVER",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
   },
   "/dizi/saint-pierre/": {
-    "group": "SAINT PIERRE"
+    "group": "SAINT PIERRE",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
   },
   "/dizi/the-night-manager/": {
-    "group": "THE NIGHT MANAGER"
+    "group": "THE NIGHT MANAGER",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
   },
   "/dizi/industry-izle-41/": {
-    "group": "INDUSTRY"
+    "group": "INDUSTRY",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
   },
   "/dizi/a-knight-of-the-seven-kingdoms/": {
-    "group": "A KNIGHT OF THE SEVEN KINGDOMS"
+    "group": "A KNIGHT OF THE SEVEN KINGDOMS",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
   },
   "/dizi/heaven-2025-dizi-hdfc/": {
-    "group": "HEAVEN"
+    "group": "HEAVEN",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
   },
   "/dizi/can-this-love-be-translated/": {
-    "group": "CAN THIS LOVE BE TRANSLATED?"
+    "group": "CAN THIS LOVE BE TRANSLATED?",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
   },
   "/dizi/beast-games/": {
-    "group": "BEAST GAMES"
+    "group": "BEAST GAMES",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
   },
   "/dizi/sanctuary-a-witch-s-tale/": {
-    "group": "SANCTUARY: A WITCH'S TALE"
+    "group": "SANCTUARY: A WITCH'S TALE",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
   },
   "/dizi/the-pitt-2/": {
-    "group": "THE PITT"
+    "group": "THE PITT",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
   },
   "/dizi/the-hunting-party-2025-hdfc/": {
-    "group": "THE HUNTING PARTY"
+    "group": "THE HUNTING PARTY",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
   },
   "/dizi/agatha-christie-s-seven-dials/": {
-    "group": "AGATHA CHRISTIE'S SEVEN DIALS"
+    "group": "AGATHA CHRISTIE'S SEVEN DIALS",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
   },
   "/dizi/ponies/": {
-    "group": "PONIES"
+    "group": "PONIES",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
   },
   "/dizi/the-rookie-izle-hdf9-a86/": {
-    "group": "THE ROOKIE"
+    "group": "THE ROOKIE",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
   },
   "/dizi/high-potential/": {
-    "group": "HIGH POTENTIAL"
-  },
-  "/dizi/to-love-to-lose/": {
-    "group": "AYRILIK DA SEVDAYA DAHIL"
-  },
-  "/dizi/outlander-blood-of-my-blood/": {
-    "group": "OUTLANDER: BLOOD OF MY BLOOD"
-  },
-  "/dizi/his-hers-2026-hdfc/": {
-    "group": "NE YAPTIĞINI BILIYORUM - HIS HERS"
-  },
-  "/dizi/the-war-between-the-land-and-the-sea/": {
-    "group": "THE WAR BETWEEN THE LAND AND THE SEA"
-  },
-  "/dizi/dispatches-from-elsewhere/": {
-    "group": "DISPATCHES FROM ELSEWHERE"
-  },
-  "/dizi/land-of-sin/": {
-    "group": "GÜNAH - SYNDEN"
-  },
-  "/dizi/run-away-2026/": {
-    "group": "RUN AWAY"
-  },
-  "/dizi/stranger-things-izle-733360/": {
-    "group": "STRANGER THINGS"
-  },
-  "/dizi/surely-tomorrow/": {
-    "group": "ELBET YARIN - SURELY TOMORROW"
-  },
-  "/dizi/the-copenhagen-test/": {
-    "group": "THE COPENHAGEN TEST"
-  },
-  "/dizi/cashero/": {
-    "group": "CASHERO"
-  },
-  "/dizi/heroes-2006/": {
-    "group": "HEROES"
-  },
-  "/dizi/the-strain/": {
-    "group": "THE STRAIN"
-  },
-  "/dizi/american-horror-story/": {
-    "group": "AMERICAN HORROR STORY"
-  },
-  "/dizi/sandokan/": {
-    "group": "SANDOKAN"
-  },
-  "/dizi/sicily-express/": {
-    "group": "SICILYA EKSPRESI"
-  },
-  "/dizi/born-to-be-wild/": {
-    "group": "BORN TO BE WILD"
-  },
-  "/dizi/the-end-of-an-era/": {
-    "group": "THE END OF AN ERA"
-  },
-  "/dizi/this-way-up/": {
-    "group": "THIS WAY UP"
-  },
-  "/dizi/the-hunting-wives-6/": {
-    "group": "THE HUNTING WIVES"
+    "group": "HIGH POTENTIAL",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
   }
 }
