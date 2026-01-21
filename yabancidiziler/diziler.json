@@ -200,7 +200,7 @@
   "/dizi/hijack": {
     "group": "Hijack",
     "last_season": 2,
-    "last_episode": 1,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi/made-in-korea": {
@@ -218,7 +218,7 @@
   "/dizi/percy-jackson-and-the-olympians": {
     "group": "Percy Jackson and the Olympians",
     "last_season": 2,
-    "last_episode": 7,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/taskaree-the-smuggler-s-web": {
@@ -230,7 +230,7 @@
   "/dizi/will-trent": {
     "group": "Will Trent",
     "last_season": 4,
-    "last_episode": 2,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/dizi/best-medicine": {
@@ -296,7 +296,7 @@
   "/dizi/the-darwin-incident": {
     "group": "The Darwin Incident",
     "last_season": 1,
-    "last_episode": 2,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/dizi/power-book-iv-force": {
@@ -361,7 +361,7 @@
   },
   "/dizi/the-fall-and-rise-of-reggie-dinkins": {
     "group": "The Fall and Rise of Reggie Dinkins",
-    "last_season": 1,
+    "last_season": 2,
     "last_episode": 1,
     "start_episode": 1
   },
@@ -373,14 +373,14 @@
   },
   "/dizi/after-the-flood": {
     "group": "After the Flood",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/dizi/steal": {
     "group": "Steal",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   }
 }
