@@ -238,9 +238,9 @@ jobs:
           echo "🔄 Batch 3 başlıyor (SezonlukDizi & AnimeHeaven & DiziLife & Tlc & Dmax)"
           
           # Çalıştırılacak scriptler
-          ( python private_py/series/hdfilmcehennemi/yenibolumler.py || true ) &
-          ( python private_py/anime/anizm/yenibolumler.py || true ) &
+          ( python private_py/series/hdfilmcehennemi/yenibolumler.py || true ) &          
           ( python private_py/series/dizilife/yenibolumler.py || true ) &
+          # ( python private_py/anime/anizm/yenibolumler.py || true ) & # Kod hatası mevcut şuanda çözmeye gerek yok
           # ( python private_py/series/tlc/yenibolumler.py || true ) &  # Zaman çok alıyor 
           # ( python private_py/series/dmax/yenibolumler.py || true ) & # Zaman çok alıyor 
           
@@ -255,7 +255,13 @@ jobs:
           git config status.showUntrackedFiles no
           git add **/*.json || echo "No JSON files"
           git commit -m "Tüm JSON dosyaları güncellendi [auto]" || echo "No changes"
-          git push origin main
+          
+          # Retry push up to 5 times with 10s delay
+          for i in {1..5}; do
+            git push origin main && break
+            echo "Push failed, retrying in 10s..."
+            sleep 10
+          done
 
       - name: Sync Outputs to Private Repos
         run: |
