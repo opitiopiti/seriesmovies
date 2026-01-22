@@ -11,12 +11,6 @@
     "last_episode": 0,
     "start_episode": 1
   },
-  "/dizi/landman": {
-    "group": "LANDMAN",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
   "/dizi/percy-jackson-and-the-olympians": {
     "group": "PERCY JACKSON AND THE OLYMPIANS",
     "last_season": 2,
@@ -153,6 +147,12 @@
     "group": "GREY'S ANATOMY",
     "last_season": 22,
     "last_episode": 7,
+    "start_episode": 1
+  },
+  "/dizi/going-dutch": {
+    "group": "GOING DUTCH",
+    "last_season": 1,
+    "last_episode": 0,
     "start_episode": 1
   }
 }

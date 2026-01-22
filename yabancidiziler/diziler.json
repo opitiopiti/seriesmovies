@@ -394,5 +394,23 @@
     "last_season": 1,
     "last_episode": 3,
     "start_episode": 1
+  },
+  "/dizi/finding-her-edge": {
+    "group": "Finding Her Edge",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/free-bert": {
+    "group": "Free Bert",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/star-trek-starfleet-academy": {
+    "group": "Star Trek: Starfleet Academy",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }
