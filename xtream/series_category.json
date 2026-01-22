@@ -110,7 +110,8 @@
     {"name": "HIGH FIDELITY", "year": "2020"},
     {"name": "LOOKING FOR ALASKA", "year": "2019"},
     {"name": "SHRILL", "year": "2019"},
-    {"name": "SOYGUN", "year": "2024"}
+    {"name": "SOYGUN", "year": "2024"},
+    {"name": "GÜZELLIK - THE BEAUTY", "year": "2026"}
   ],
   "NETFLIX DİZİLERİ": [
     {"name": "BABY BANDITO", "year": "2024"},
@@ -4482,7 +4483,8 @@
   "CTV DİZİLERİ": [
     {"name": "SIGHT UNSEEN", "year": "2024"},
     {"name": "CARDINAL", "year": "2017"},
-    {"name": "THIS IS POP", "year": "2021"}
+    {"name": "THIS IS POP", "year": "2021"},
+    {"name": "SULLIVAN'S CROSSING", "year": "2023"}
   ],
   "ANIMAX DİZİLERİ": [
     {"name": "X-MEN 97", "year": "2011"},
