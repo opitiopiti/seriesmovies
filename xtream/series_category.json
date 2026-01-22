@@ -2826,7 +2826,8 @@
     {"name": "TWIN PEAKS", "year": "1990"},
     {"name": "THE TUDORS", "year": "2007"},
     {"name": "LAWMEN: BASS REEVES", "year": "2023"},
-    {"name": "AMERICAN WOMAN", "year": "2018"}
+    {"name": "AMERICAN WOMAN", "year": "2018"},
+    {"name": "STAR TREK: STARFLEET ACADEMY", "year": "2026"}
   ],
   "FUJI TV DİZİLERİ": [
     {"name": "LEARNING TO LOVE", "year": "2025"},
@@ -5378,5 +5379,8 @@
   ],
   "THE NETWORK DİZİLERİ": [
     {"name": "THE ARTIST", "year": "2025"}
+  ],
+  "TV5 DİZİLERİ": [
+    {"name": "THE RAIN IN ESPAÑA", "year": "2023"}
   ]
 }
