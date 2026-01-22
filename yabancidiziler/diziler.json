@@ -8,7 +8,7 @@
   "/dizi/abbott-elementary": {
     "group": "Abbott Elementary",
     "last_season": 5,
-    "last_episode": 10,
+    "last_episode": 11,
     "start_episode": 1
   },
   "/dizi/chicago-fire": {
@@ -104,7 +104,7 @@
   "/dizi/wild-cards": {
     "group": "Wild Cards",
     "last_season": 3,
-    "last_episode": 1,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/dizi/the-night-manager": {
@@ -140,7 +140,7 @@
   "/dizi/small-achievable-goals": {
     "group": "Small Achievable Goals",
     "last_season": 2,
-    "last_episode": 2,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/dizi/spring-fever": {
@@ -398,19 +398,19 @@
   "/dizi/finding-her-edge": {
     "group": "Finding Her Edge",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/free-bert": {
     "group": "Free Bert",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/star-trek-starfleet-academy": {
     "group": "Star Trek: Starfleet Academy",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 3,
     "start_episode": 1
   }
 }

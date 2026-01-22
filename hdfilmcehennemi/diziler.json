@@ -2,43 +2,43 @@
   "/dizi/tell-me-lies-hdf2-14/": {
     "group": "TELL ME LIES",
     "last_season": 3,
-    "last_episode": 4,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/spring-fever/": {
     "group": "SPRING FEVER",
     "last_season": 1,
-    "last_episode": 6,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/dizi/saint-pierre/": {
     "group": "SAINT PIERRE",
     "last_season": 2,
-    "last_episode": 3,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/dizi/the-night-manager/": {
     "group": "THE NIGHT MANAGER",
     "last_season": 2,
-    "last_episode": 4,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/industry-izle-41/": {
     "group": "INDUSTRY",
     "last_season": 4,
-    "last_episode": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/a-knight-of-the-seven-kingdoms/": {
     "group": "A KNIGHT OF THE SEVEN KINGDOMS",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/heaven-2025-dizi-hdfc/": {
     "group": "HEAVEN",
     "last_season": 1,
-    "last_episode": 4,
+    "last_episode": 6,
     "start_episode": 1
   },
   "/dizi/can-this-love-be-translated/": {
@@ -50,7 +50,7 @@
   "/dizi/beast-games/": {
     "group": "BEAST GAMES",
     "last_season": 2,
-    "last_episode": 5,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/dizi/sanctuary-a-witch-s-tale/": {
@@ -86,7 +86,7 @@
   "/dizi/the-rookie-izle-hdf9-a86/": {
     "group": "THE ROOKIE",
     "last_season": 8,
-    "last_episode": 3,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/dizi/high-potential/": {
@@ -224,7 +224,7 @@
   "/dizi/hijack-38/": {
     "group": "HIJACK",
     "last_season": 2,
-    "last_episode": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/steal-2026-hdfc/": {
@@ -236,13 +236,13 @@
   "/dizi/will-trent-1/": {
     "group": "WILL TRENT",
     "last_season": 4,
-    "last_episode": 3,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/dizi/doc/": {
     "group": "DOC",
     "last_season": 2,
-    "last_episode": 12,
+    "last_episode": 13,
     "start_episode": 1
   }
 }
