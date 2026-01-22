@@ -230,19 +230,22 @@ jobs:
           echo "🔄 Batch 2 başlıyor (Dizigom & Dizipall & HDFilmCehennemi & YabancıDiziler & Dizipal)"
           ( python private_py/series/dizigom/yenibolumler.py || true ) &
           ( python private_py/series/dizipall/yenibolumler.py || true ) &
-          ( python private_py/series/hdfilmcehennemi/yenibolumler.py || true ) &
+          ( python private_py/series/sezonlukdizi/yenibolumler.py || true ) &
           ( python private_py/series/yabancidiziler/yenibolumler.py || true ) &
           ( python private_py/series/dizipal/yenibolumler.py || true ) &
           wait
       
           echo "🔄 Batch 3 başlıyor (SezonlukDizi & AnimeHeaven & DiziLife & Tlc & Dmax)"
-          ( python private_py/series/sezonlukdizi/yenibolumler.py || true ) &
+          
+          # Çalıştırılacak scriptler
+          ( python private_py/series/hdfilmcehennemi/yenibolumler.py || true ) &
           ( python private_py/anime/anizm/yenibolumler.py || true ) &
           ( python private_py/series/dizilife/yenibolumler.py || true ) &
-          ( python private_py/series/tlc/yenibolumler.py || true ) &
-          ( python private_py/series/dmax/yenibolumler.py || true ) &
+          # ( python private_py/series/tlc/yenibolumler.py || true ) &  # Zaman çok alıyor 
+          # ( python private_py/series/dmax/yenibolumler.py || true ) & # Zaman çok alıyor 
+          
           wait
-      
+          
           echo "✅ Tüm scriptler tamamlandı.."
 
       - name: Commit and Push All JSONs
