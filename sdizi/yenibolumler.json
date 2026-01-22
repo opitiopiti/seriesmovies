@@ -1,4 +1,10 @@
 {
+  "/diziler/sentenced-to-be-a-hero.html": {
+    "group": "SENTENCED TO BE A HERO",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1
+  },
   "/diziler/alf.html": {
     "group": "ALF",
     "last_season": 3,
@@ -81,12 +87,6 @@
     "group": "FRIEREN: BEYOND JOURNEY'S END",
     "last_season": 2,
     "last_episode": 1,
-    "start_episode": 1
-  },
-  "/diziler/cats-eye.html": {
-    "group": "CAT'S EYE",
-    "last_season": 1,
-    "last_episode": 10,
     "start_episode": 1
   }
 }
