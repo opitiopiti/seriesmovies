@@ -109,7 +109,8 @@
     {"name": "UTOPIA FALLS", "year": "2020"},
     {"name": "HIGH FIDELITY", "year": "2020"},
     {"name": "LOOKING FOR ALASKA", "year": "2019"},
-    {"name": "SHRILL", "year": "2019"}
+    {"name": "SHRILL", "year": "2019"},
+    {"name": "SOYGUN", "year": "2024"}
   ],
   "NETFLIX DİZİLERİ": [
     {"name": "BABY BANDITO", "year": "2024"},
@@ -2674,7 +2675,8 @@
     {"name": "SONS OF ANARCHY", "year": "2008"},
     {"name": "THE AMERICANS", "year": "2013"},
     {"name": "TYRANT", "year": "2014"},
-    {"name": "BLACK NARCISSUS", "year": "2020"}
+    {"name": "BLACK NARCISSUS", "year": "2020"},
+    {"name": "THE BEAUTY", "year": "2026"}
   ],
   "TBS DİZİLERİ": [
     {"name": "OLD DOG, NEW TRICKS", "year": "2022"},
@@ -3887,7 +3889,8 @@
     {"name": "DEPARTURE", "year": "2019"},
     {"name": "ONE OF US IS LYING", "year": "2021"},
     {"name": "BRAVE NEW WORLD", "year": "2020"},
-    {"name": "TRIAL 4", "year": "2020"}
+    {"name": "TRIAL 4", "year": "2020"},
+    {"name": "FIGHT NIGHT: THE MILLION DOLLAR HEIST", "year": "2024"}
   ],
   "GAIN DİZİLERİ": [
     {"name": "FER", "year": "2025"},
@@ -3917,7 +3920,8 @@
   ],
   "KANAL D DİZİLERİ": [
     {"name": "AILE BABASI", "year": "2020"},
-    {"name": "İNTIKAM", "year": "2013"}
+    {"name": "İNTIKAM", "year": "2013"},
+    {"name": "GÜNAH - SYNDEN", "year": "2020"}
   ],
   "WOWOW DİZİLERİ": [
     {"name": "AŞKLA", "year": "2014"},
