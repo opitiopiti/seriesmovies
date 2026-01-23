@@ -1,4 +1,10 @@
 {
+  "/anime/cats-eye/": {
+    "group": "CAT’S EYE",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
   "/anime/champignon-witch/": {
     "group": "CHAMPIGNON WITCH",
     "last_season": 1,
@@ -109,12 +115,6 @@
   },
   "/anime/an-adventurers-daily-grind-at-age-29/": {
     "group": "AN ADVENTURER’S DAILY GRIND AT AGE 29",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "/anime/the-case-book-of-arne/": {
-    "group": "THE CASE BOOK OF ARNE",
     "last_season": 1,
     "last_episode": 3,
     "start_episode": 1

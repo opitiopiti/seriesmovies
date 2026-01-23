@@ -1,4 +1,16 @@
 {
+  "/diziler/suits-la.html": {
+    "last_season": 1,
+    "last_episode": 0,
+    "group": "SUITS LA",
+    "start_episode": 1
+  },
+  "/diziler/finding-her-edge.html": {
+    "last_season": 1,
+    "last_episode": 0,
+    "group": "FINDING HER EDGE",
+    "start_episode": 1
+  },
   "/diziler/the-beauty.html": {
     "group": "THE BEAUTY",
     "last_season": 1,
@@ -75,18 +87,6 @@
     "group": "HELL'S PARADISE",
     "last_season": 2,
     "last_episode": 2,
-    "start_episode": 1
-  },
-  "/diziler/fire-country.html": {
-    "group": "FIRE COUNTRY",
-    "last_season": 4,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/diziler/ghosts.html": {
-    "group": "GHOSTS",
-    "last_season": 5,
-    "last_episode": 9,
     "start_episode": 1
   }
 }
