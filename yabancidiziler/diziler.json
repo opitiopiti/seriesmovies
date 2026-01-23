@@ -412,5 +412,17 @@
     "last_season": 1,
     "last_episode": 3,
     "start_episode": 1
+  },
+  "/dizi/allegiance-2024": {
+    "group": "Allegiance 2024",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/dizi/escort-boys": {
+    "group": "Escort Boys",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
   }
 }

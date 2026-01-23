@@ -1,4 +1,28 @@
 {
+  "/hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru": {
+    "group": "HELL MODE: YARIKOMIZUKI NO GAMER WA HAI SETTEI NO ISEKAI DE MUSOU SURU",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/android-wa-keiken-ninzuu-ni-hairimasu-ka": {
+    "group": "ANDROID WA KEIKEN NINZUU NI HAIRIMASU KA??",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/enen-no-shouboutai-san-no-shou-part-2": {
+    "group": "ENEN NO SHOUBOUTAI: SAN NO SHOU PART 2",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/dark-moon-tsuki-no-saidan": {
+    "group": "DARK MOON: TSUKI NO SAIDAN",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
   "/sousou-no-frieren-2nd-season": {
     "group": "SOUSOU NO FRIEREN 2ND SEASON",
     "last_season": 1,
@@ -81,30 +105,6 @@
     "group": "[OSHI NO KO] 3RD SEASON",
     "last_season": 1,
     "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/tamon-kun-ima-docchi": {
-    "group": "TAMON-KUN IMA DOCCHI!?",
-    "last_season": 1,
-    "last_episode": 3.0,
-    "start_episode": 1
-  },
-  "/odayaka-kizoku-no-kyuuka-no-susume": {
-    "group": "ODAYAKA KIZOKU NO KYUUKA NO SUSUME.",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/shibou-yuugi-de-meshi-wo-kuu": {
-    "group": "SHIBOU YUUGI DE MESHI WO KUU.",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/yuusha-party-wo-oidasareta-kiyoubinbou": {
-    "group": "YUUSHA PARTY WO OIDASARETA KIYOUBINBOU",
-    "last_season": 1,
-    "last_episode": 3.0,
     "start_episode": 1
   }
 }
