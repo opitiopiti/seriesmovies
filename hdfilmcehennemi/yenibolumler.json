@@ -5,6 +5,18 @@
     "last_episode": 8,
     "start_episode": 1
   },
+  "/dizi/free-bert/": {
+    "group": "FREE BERT",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/finding-her-edge/": {
+    "group": "FINDING HER EDGE",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
   "/dizi/star-trek-starfleet-academy/": {
     "group": "STAR TREK: STARFLEET ACADEMY",
     "last_season": 1,
@@ -81,18 +93,6 @@
     "group": "INDUSTRY",
     "last_season": 4,
     "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/a-knight-of-the-seven-kingdoms/": {
-    "group": "A KNIGHT OF THE SEVEN KINGDOMS",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi/heaven-2025-dizi-hdfc/": {
-    "group": "HEAVEN",
-    "last_season": 1,
-    "last_episode": 6,
     "start_episode": 1
   }
 }
