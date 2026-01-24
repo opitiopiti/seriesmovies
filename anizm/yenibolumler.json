@@ -1,4 +1,22 @@
 {
+  "/kobayashi-san-chi-no-maid-dragon-samishigariya-no-ryuu": {
+    "group": "KOBAYASHI-SAN CHI NO MAID DRAGON: SAMISHIGARIYA NO RYUU",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
+  "/high-school-kimengumi-2026": {
+    "group": "HIGH SCHOOL! KIMENGUMI (2026)",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/ganglion": {
+    "group": "GANGLION",
+    "last_season": 1,
+    "last_episode": 14.0,
+    "start_episode": 1
+  },
   "/hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru": {
     "group": "HELL MODE: YARIKOMIZUKI NO GAMER WA HAI SETTEI NO ISEKAI DE MUSOU SURU",
     "last_season": 1,
@@ -87,24 +105,6 @@
     "group": "ERIS NO SEIHAI",
     "last_season": 1,
     "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku": {
-    "group": "YUUSHA-KEI NI SHOSU: CHOUBATSU YUUSHA 9004-TAI KEIMU KIROKU",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/chou-kaguya-hime": {
-    "group": "CHOU KAGUYA-HIME!",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1
-  },
-  "/oshi-no-ko-3rd-season": {
-    "group": "[OSHI NO KO] 3RD SEASON",
-    "last_season": 1,
-    "last_episode": 1.0,
     "start_episode": 1
   }
 }
