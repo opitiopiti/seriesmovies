@@ -1,4 +1,10 @@
 {
+  "/trigun-stargaze": {
+    "group": "TRIGUN STARGAZE",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
   "/kobayashi-san-chi-no-maid-dragon-samishigariya-no-ryuu": {
     "group": "KOBAYASHI-SAN CHI NO MAID DRAGON: SAMISHIGARIYA NO RYUU",
     "last_season": 1,
@@ -97,12 +103,6 @@
   },
   "/toumei-otoko-to-ningen-onna-sonouchi-fuufu-ni-naru-futari": {
     "group": "TOUMEI OTOKO TO NINGEN ONNA: SONOUCHI FUUFU NI NARU FUTARI",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/eris-no-seihai": {
-    "group": "ERIS NO SEIHAI",
     "last_season": 1,
     "last_episode": 2.0,
     "start_episode": 1
