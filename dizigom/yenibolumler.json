@@ -1,62 +1,14 @@
 {
-  "/dizi-izle/queer-eye": {
-    "group": "QUEER EYE",
-    "last_season": 10,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/dizi-izle/idol-i": {
-    "group": "IDOL I",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1
-  },
-  "/dizi-izle/the-boyfriend": {
-    "group": "THE BOYFRIEND",
-    "last_season": 2,
-    "last_episode": 9,
-    "start_episode": 1
-  },
-  "/dizi-izle/finding-her-edge": {
-    "group": "FINDING HER EDGE",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi-izle/free-bert": {
-    "group": "FREE BERT",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi-izle/fallout": {
-    "group": "FALLOUT",
-    "last_season": 2,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi-izle/heaven": {
-    "group": "HEAVEN",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1
-  },
-  "/dizi-izle/hijack": {
-    "group": "HIJACK",
-    "last_season": 2,
-    "last_episode": 2,
-    "start_episode": 1
-  },
-  "/dizi-izle/the-beauty": {
-    "group": "THE BEAUTY",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1
-  },
   "/dizi-izle/steal": {
     "group": "STEAL",
     "last_season": 1,
     "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi-izle/percy-jackson-and-the-olympians": {
+    "group": "PERCY JACKSON AND THE OLYMPIANS",
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi-izle/no-tail-to-tell": {
@@ -71,10 +23,28 @@
     "last_episode": 3,
     "start_episode": 1
   },
-  "/dizi-izle/drops-of-god": {
-    "group": "DROPS OF GOD",
-    "last_season": 2,
-    "last_episode": 1,
+  "/dizi-izle/free-bert": {
+    "group": "FREE BERT",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1
+  },
+  "/dizi-izle/finding-her-edge": {
+    "group": "FINDING HER EDGE",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/dizi-izle/idol-i": {
+    "group": "IDOL I",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/dizi-izle/queer-eye": {
+    "group": "QUEER EYE",
+    "last_season": 10,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/dizi-izle/the-pitt": {
@@ -83,10 +53,34 @@
     "last_episode": 0,
     "start_episode": 1
   },
-  "/dizi-izle/percy-jackson-and-the-olympians": {
-    "group": "PERCY JACKSON AND THE OLYMPIANS",
+  "/dizi-izle/drops-of-god": {
+    "group": "DROPS OF GOD",
     "last_season": 2,
-    "last_episode": 8,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi-izle/heaven": {
+    "group": "HEAVEN",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-boyfriend": {
+    "group": "THE BOYFRIEND",
+    "last_season": 2,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "/dizi-izle/the-beauty": {
+    "group": "THE BEAUTY",
+    "last_season": 1,
+    "last_episode": 3,
+    "start_episode": 1
+  },
+  "/dizi-izle/hijack": {
+    "group": "HIJACK",
+    "last_season": 2,
+    "last_episode": 2,
     "start_episode": 1
   }
 }

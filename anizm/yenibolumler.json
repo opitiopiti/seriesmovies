@@ -1,4 +1,40 @@
 {
+  "/akuyaku-reijou-wa-ringoku-no-outaishi-ni-dekiai-sareru": {
+    "group": "AKUYAKU REIJOU WA RINGOKU NO OUTAISHI NI DEKIAI SARERU",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/majutsushi-kunon-wa-mieteiru": {
+    "group": "MAJUTSUSHI KUNON WA MIETEIRU",
+    "last_season": 1,
+    "last_episode": 4.0,
+    "start_episode": 1
+  },
+  "/digimon-beatbreak": {
+    "group": "DIGIMON BEATBREAK",
+    "last_season": 1,
+    "last_episode": 14.0,
+    "start_episode": 1
+  },
+  "/toujima-tanzaburou-wa-kamen-rider-ni-naritai": {
+    "group": "TOUJIMA TANZABUROU WA KAMEN RIDER NI NARITAI",
+    "last_season": 1,
+    "last_episode": 14.0,
+    "start_episode": 1
+  },
+  "/seihantai-na-kimi-to-boku": {
+    "group": "SEIHANTAI NA KIMI TO BOKU",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/si-vis-the-sound-of-heroes": {
+    "group": "SI-VIS: THE SOUND OF HEROES",
+    "last_season": 1,
+    "last_episode": 15.0,
+    "start_episode": 1
+  },
   "/kaya-chan-wa-kowakunai": {
     "group": "KAYA-CHAN WA KOWAKUNAI",
     "last_season": 1,
@@ -69,42 +105,6 @@
     "group": "KOBAYASHI-SAN CHI NO MAID DRAGON: SAMISHIGARIYA NO RYUU",
     "last_season": 1,
     "last_episode": 0,
-    "start_episode": 1
-  },
-  "/high-school-kimengumi-2026": {
-    "group": "HIGH SCHOOL! KIMENGUMI (2026)",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/ganglion": {
-    "group": "GANGLION",
-    "last_season": 1,
-    "last_episode": 14.0,
-    "start_episode": 1
-  },
-  "/hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru": {
-    "group": "HELL MODE: YARIKOMIZUKI NO GAMER WA HAI SETTEI NO ISEKAI DE MUSOU SURU",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/android-wa-keiken-ninzuu-ni-hairimasu-ka": {
-    "group": "ANDROID WA KEIKEN NINZUU NI HAIRIMASU KA??",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/enen-no-shouboutai-san-no-shou-part-2": {
-    "group": "ENEN NO SHOUBOUTAI: SAN NO SHOU PART 2",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/dark-moon-tsuki-no-saidan": {
-    "group": "DARK MOON: TSUKI NO SAIDAN",
-    "last_season": 1,
-    "last_episode": 2.0,
     "start_episode": 1
   }
 }
