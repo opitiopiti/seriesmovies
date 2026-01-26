@@ -1,4 +1,10 @@
 {
+  "/hanazakari-no-kimitachi-e": {
+    "group": "HANAZAKARI NO KIMITACHI E",
+    "last_season": 1,
+    "last_episode": 3.0,
+    "start_episode": 1
+  },
   "/ikoku-nikki": {
     "group": "IKOKU NIKKI",
     "last_season": 1,
@@ -99,12 +105,6 @@
     "group": "MEDALIST 2ND SEASON",
     "last_season": 1,
     "last_episode": 0,
-    "start_episode": 1
-  },
-  "/fatestrange-fake": {
-    "group": "FATE/STRANGE FAKE",
-    "last_season": 1,
-    "last_episode": 3.0,
     "start_episode": 1
   }
 }

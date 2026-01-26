@@ -1,7 +1,4 @@
 {
-    "dizi/son-kare": {
-        "group": "Son Kare"
-    },
     "/dizi/jasmine-c120": {
         "group": "Jasmine",
         "tvg-id": "tt36584543"
@@ -182,7 +179,7 @@
         "group": "Behzat Ç: Bir Ankara Polisiyesi",
         "tvg-id": "tt1795096"
     },
-    "/dizi/ciplak-c50": {
+    "/dizi/ciplak-c51": {
         "group": "Çıplak",
         "tvg-id": "tt12393976"
     },
@@ -761,5 +758,8 @@
     "/dizi/sadece-arkadaz": {
         "group": "Sadece Arkadaşız",
         "tvg-id": "tt20319260"
+    },
+    "dizi/son-kare": {
+        "group": "Son Kare"
     }
 }

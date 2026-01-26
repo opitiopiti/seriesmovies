@@ -1,4 +1,10 @@
 {
+  "/diziler/a-knight-of-the-seven-kingdoms.html": {
+    "group": "A KNIGHT OF THE SEVEN KINGDOMS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1
+  },
   "/diziler/tracker.html": {
     "group": "TRACKER",
     "last_season": 3,
@@ -81,12 +87,6 @@
     "group": "SENTENCED TO BE A HERO",
     "last_season": 1,
     "last_episode": 3,
-    "start_episode": 1
-  },
-  "/diziler/alf.html": {
-    "group": "ALF",
-    "last_season": 3,
-    "last_episode": 26,
     "start_episode": 1
   }
 }
