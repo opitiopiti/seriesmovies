@@ -1,0 +1,189 @@
+
+name: GUNLUK M3U MAKER
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 23 * * *'    # Günlük 23:00 UTC çalışsın.
+
+jobs:
+  notify_start:
+    name: 🔔 Telegram Start Notify
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Send Telegram start message
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          MESSAGE="🔔 Günlük M3U workflow başladı!"
+          
+          curl -s -o /dev/null -X POST "https://api.telegram.org/bot$TELEGRAM_TOKEN/sendMessage" \
+            -d chat_id="$TELEGRAM_CHAT_ID" \
+            -d text="$MESSAGE"
+            
+  part1:
+    name: Step 1 Çalıştır
+    runs-on: ubuntu-latest
+#    needs: notify_start
+    env:
+      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+    steps:
+      - name: Checkout public repo (main)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: main
+
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-cache-${{ runner.os }}-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            pip-cache-${{ runner.os }}-
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Private Py Repo
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/opitiopiti/Py.git private_py
+
+      - name: Install Shared Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml aiohttp aiofiles
+
+      - name: Run movies.py
+        run: python private_py/sinesinewx/filmler.py || true
+
+      - name: Sync M3U outputs to private repo
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/opitiopiti/gunluk1kere.git privaate_gunluk1kere
+
+          cp sinewix_filmler.m3u privaate_gunluk1kere/sinewix_filmler.m3u || echo "sinewix_filmler.m3u bulunamadı"
+
+          cd privaate_gunluk1kere
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add .
+          git commit -m "Auto playlist update" || echo "No changes"
+          git push origin main
+
+  part2:
+    name: Step 2 Çalıştır
+    runs-on: ubuntu-latest
+    needs: part1
+    env:
+      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+    steps:
+      - name: Checkout public repo (main)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: main
+
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-cache-${{ runner.os }}-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            pip-cache-${{ runner.os }}-
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Private Py Repo
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/opitiopiti/Py.git private_py
+
+      - name: Install Shared Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml aiohttp aiofiles
+
+      - name: Run movies.py
+        run: python private_py/sinesinewx/series.py || true
+
+      - name: Sync M3U outputs to private repo
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/opitiopiti/gunluk1kere.git privaate_gunluk1keree
+
+          cp sinewix_diziler.m3u privaatee_gunluk1kere/sinewix_diziler.m3u || echo "sinewix_diziler.m3u bulunamadı"
+
+          cd privaate_gunluk1keree
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add .
+          git commit -m "Auto playlist update" || echo "No changes"
+          git push origin main
+
+  part3:
+    name: Dmax ve Tlc
+    runs-on: ubuntu-latest
+    needs: part2
+    steps:
+      - name: Checkout public repo (main)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Private Py Repo
+        run: git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/opitiopiti/Py.git private_py
+
+      - name: Install Shared Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml aiohttp aiofiles dotenv httpx
+
+      - name: Run Scripts in Controlled Parallel Batches
+        run: |
+          set +e
+          
+          echo "🔄 Batch 1 başlıyor (Tlc & Dmax)"
+
+          ( python private_py/series/tlc/yenibolumler.py || true ) &  
+          ( python private_py/series/dmax/yenibolumler.py || true ) & 
+          
+          wait
+          
+          echo "✅ Tüm scriptler tamamlandı.."
+
+      - name: Sync Outputs to Private Repos
+        run: |
+          #Tlc & Dmax
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/opitiopiti/gunluk1kere.git private_gunluk1kereee
+          rsync -a dizilife/ private_gunluk1kereee/
+          cd private_gunluk1kereee
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add . || echo "No files"
+          git commit -m "Tlc & Dmax çıktı güncellendi [auto]" || echo "No changes"
+          git push origin main
+          cd ..
+
+      - name: Telegram Success Notification
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        if: success()
+        run: |
+          MESSAGE="✅ Günlük M3U dosyaları başarıyla güncellendi!"
+          curl -s -o /dev/null -X POST "https://api.telegram.org/bot$TELEGRAM_TOKEN/sendMessage" \
+            -d chat_id="$TELEGRAM_CHAT_ID" \
+            -d text="$MESSAGE"
