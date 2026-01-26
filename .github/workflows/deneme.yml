@@ -3,6 +3,20 @@ name: Run Xtream JSON and Upload to R2
 on:
   workflow_dispatch:
 
+env:
+  GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+  R2_ACCOUNT_ID: ${{ secrets.R2_ACCOUNT_ID }}
+  R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+  R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+
+  XTREAM_PRE_CACHE_URL: ${{ secrets.XTREAM_PRE_CACHE_URL }}
+  XTREAM_CACHE_URL: ${{ secrets.XTREAM_CACHE_URL }}
+
+  TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+  TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+
+
 jobs:
   run-xtream-json:
     runs-on: ubuntu-latest
