@@ -6,7 +6,7 @@ on:
 jobs:
   run-xtream-json:
     runs-on: ubuntu-latest
-    needs: run-xtream-m3u
+ #   needs: run-xtream-m3u
 
     steps:
       - name: Checkout Public Repo
