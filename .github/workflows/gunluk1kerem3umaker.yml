@@ -116,11 +116,11 @@ jobs:
 
       - name: Sync M3U outputs to private repo
         run: |
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/opitiopiti/gunluk1kere.git privaate_gunluk1keree
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/opitiopiti/gunluk1kere.git private_gunluk1keree
       
-          cp sinewix_diziler.m3u privaate_gunluk1keree/sinewix_diziler.m3u || echo "sinewix_diziler.m3u bulunamadı"
+          cp sinewix_diziler.m3u private_gunluk1keree/sinewix_diziler.m3u || echo "sinewix_diziler.m3u bulunamadı"
       
-          cd privaate_gunluk1keree
+          cd private_gunluk1keree
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add .
