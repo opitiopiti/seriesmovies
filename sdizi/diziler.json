@@ -1039,8 +1039,8 @@
   },
   "/diziler/high-potential.html": {
     "group": "HIGH POTENTIAL",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 7,
     "start_episode": 1
   },
   "/diziler/frasier-2023.html": {
@@ -16345,8 +16345,8 @@
   },
   "/diziler/the-newsreader.html": {
     "group": "THE NEWSREADER",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 6,
     "start_episode": 1
   }
 }
