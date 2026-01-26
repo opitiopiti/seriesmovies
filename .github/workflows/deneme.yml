@@ -56,14 +56,14 @@ jobs:
 
       - name: Upload JSON files to Cloudflare R2
         run: |
-          aws s3 cp xtream/full.json s3://iptv/full.json \
+          aws s3 cp xtreamjson/series_full.json s3://iptv/full.json \
             --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
             --content-type application/json
 
-          aws s3 cp xtream/premium.json s3://iptv/premium.json \
+          aws s3 cp xtreamjson/live_premium.json s3://iptv/premium.json \
             --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
             --content-type application/json
 
-          aws s3 cp xtream/standard.json s3://iptv/standard.json \
+          aws s3 cp xtreamjson/vod_premium.json s3://iptv/standard.json \
             --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
             --content-type application/json
