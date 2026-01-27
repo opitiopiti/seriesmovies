@@ -1,4 +1,28 @@
 {
+  "/darwin-jihen": {
+    "group": "DARWIN JIHEN",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/yoroi-shin-den-samurai-troopers": {
+    "group": "YOROI SHIN DEN SAMURAI TROOPERS",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/yuusha-party-ni-kawaii-ko-ga-ita-node-kokuhaku-shitemita": {
+    "group": "YUUSHA PARTY NI KAWAII KO GA ITA NODE, KOKUHAKU SHITEMITA.",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/maou-no-musume-wa-yasashisugiru": {
+    "group": "MAOU NO MUSUME WA YASASHISUGIRU!!",
+    "last_season": 1,
+    "last_episode": 3.0,
+    "start_episode": 1
+  },
   "/golden-kamuy-saishuushou": {
     "group": "GOLDEN KAMUY: SAISHUUSHOU",
     "last_season": 1,
@@ -75,30 +99,6 @@
     "group": "MAJUTSUSHI KUNON WA MIETEIRU",
     "last_season": 1,
     "last_episode": 4.0,
-    "start_episode": 1
-  },
-  "/digimon-beatbreak": {
-    "group": "DIGIMON BEATBREAK",
-    "last_season": 1,
-    "last_episode": 14.0,
-    "start_episode": 1
-  },
-  "/toujima-tanzaburou-wa-kamen-rider-ni-naritai": {
-    "group": "TOUJIMA TANZABUROU WA KAMEN RIDER NI NARITAI",
-    "last_season": 1,
-    "last_episode": 14.0,
-    "start_episode": 1
-  },
-  "/seihantai-na-kimi-to-boku": {
-    "group": "SEIHANTAI NA KIMI TO BOKU",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/si-vis-the-sound-of-heroes": {
-    "group": "SI-VIS: THE SOUND OF HEROES",
-    "last_season": 1,
-    "last_episode": 15.0,
     "start_episode": 1
   }
 }
