@@ -39,23 +39,8 @@ jobs:
           pip install --upgrade pip
           pip install requests boto3
 
-      - name: Run Xtream Full Script
-        run: python private_py/xtream/jsonsistemi/convert_full.py
-
-      - name: Run Xtream Premium Script
-        run: python private_py/xtream/jsonsistemi/convert_premium.py
-
-      - name: Run Xtream Standard Script
-        run: python private_py/xtream/jsonsistemi/convert_standard.py
-
-      - name: Commit times.json
-        run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add xtream/times.json || true
-          git diff --cached --quiet || git commit -m "times.json güncellendi [auto]"
-          git pull --rebase origin main || true
-          git push origin main || true
+      - name: Run Xtream Maker Final 
+        run: python private_py/xtream/xtreammakingfinal.py
 
       - name: Install AWS CLI
         run: |
@@ -69,14 +54,14 @@ jobs:
 
       - name: Upload JSON files to Cloudflare R2
         run: |
-          aws s3 cp xtream/series_full.json s3://iptv/full.json \
+          aws s3 cp series_full_updated.json s3://iptv/full.json \
             --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
             --content-type application/json
 
-          aws s3 cp xtream/live_premium.json s3://iptv/premium.json \
+          aws s3 live_premium_updated.json s3://iptv/premium.json \
             --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
             --content-type application/json
 
-          aws s3 cp xtream/vod_premium.json s3://iptv/standard.json \
+          aws s3 cp vod_premium_updated.json s3://iptv/standard.json \
             --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
             --content-type application/json
