@@ -134,7 +134,7 @@
   "/dizi/idol-i": {
     "group": "Idol I",
     "last_season": 1,
-    "last_episode": 11,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/dizi/small-achievable-goals": {
@@ -146,7 +146,7 @@
   "/dizi/spring-fever": {
     "group": "Spring Fever",
     "last_season": 1,
-    "last_episode": 7,
+    "last_episode": 8,
     "start_episode": 1
   },
   "/dizi/when-calls-the-heart": {
@@ -164,7 +164,7 @@
   "/dizi/saint-pierre": {
     "group": "Saint-Pierre",
     "last_season": 2,
-    "last_episode": 3,
+    "last_episode": 4,
     "start_episode": 1
   },
   "/dizi/tell-me-lies": {
@@ -182,13 +182,13 @@
   "/dizi/brilliant-minds": {
     "group": "Brilliant Minds",
     "last_season": 2,
-    "last_episode": 12,
+    "last_episode": 13,
     "start_episode": 1
   },
   "/dizi/st-denis-medical": {
     "group": "St. Denis Medical",
     "last_season": 2,
-    "last_episode": 10,
+    "last_episode": 11,
     "start_episode": 1
   },
   "/dizi/doc": {
@@ -446,13 +446,13 @@
   "/dizi/memory-of-a-killer": {
     "group": "Memory of a Killer",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/dizi/take-that": {
     "group": "Take That",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 3,
     "start_episode": 1
   }
 }
