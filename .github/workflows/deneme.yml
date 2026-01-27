@@ -1,4 +1,4 @@
-name: Run Xtream JSON and Upload to R2
+name: r2 upload try
 
 on:
   workflow_dispatch:
@@ -18,18 +18,88 @@ env:
 
 
 jobs:
-  run-xtream-json:
+  notify_start:
+    name: 🔔 Telegram Start Notify
     runs-on: ubuntu-latest
- #   needs: run-xtream-m3u
 
     steps:
-      - name: Checkout Public Repo
+      - name: Send Telegram start message
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          MESSAGE="🔔 Xtream workflow başladı!"
+
+          curl -s -o /dev/null -X POST "https://api.telegram.org/bot$TELEGRAM_TOKEN/sendMessage" \
+            -d chat_id="$TELEGRAM_CHAT_ID" \
+            -d text="$MESSAGE"
+            
+  push-m3u-to-root:
+    runs-on: ubuntu-latest
+#    needs: notify_start
+
+    steps:
+      - name: Checkout public repo
         uses: actions/checkout@v4
+
+      - name: Checkout private_py repo
+        uses: actions/checkout@v4
+        with:
+          repository: opitiopiti/Py
+          token: ${{ secrets.GH_TOKEN }}
+          path: private_py
+          fetch-depth: 1
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.10"
+          python-version: '3.10'
+
+      - name: Install Python dependencies
+        run: |
+          pip install --upgrade pip
+          pip install requests
+
+      - name: Run birleştirici / üretici scriptleri
+        run: python private_py/xtream/hepsitekm3uyapma.py
+
+      - name: Checkout private m3u8file repo
+        uses: actions/checkout@v4
+        with:
+          repository: opitiopiti/m3u8file
+          token: ${{ secrets.GH_TOKEN }}
+          path: private_m3u8file
+          fetch-depth: 1
+
+      - name: Copy all M3U files to root of m3u8file repo
+        run: |
+          find . -maxdepth 2 -type f -name "*.m3u" -exec cp {} private_m3u8file/ \;
+
+      - name: Commit and push M3U files
+        run: |
+          cd private_m3u8file
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add *.m3u || echo "No M3U to add"
+          git diff --cached --quiet || git commit -m "Tüm M3U dosyaları güncellendi [auto]"
+          git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/opitiopiti/m3u8file.git
+          git push origin main
+             
+  run-xtream-m3u:
+    runs-on: ubuntu-latest
+    needs: push-m3u-to-root
+
+    steps:
+      - name: Checkout Public Repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
 
       - name: Clone Private Py Repo
         run: git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/opitiopiti/Py.git private_py
@@ -37,10 +107,16 @@ jobs:
       - name: Install Python Dependencies
         run: |
           pip install --upgrade pip
-          pip install requests boto3
+          pip install requests
 
-      - name: Run Xtream Maker Final 
-        run: python private_py/xtream/xtreammakingfinal.py
+      - name: Run Xtream Live M3u Script
+        run: python private_py/xtream/m3usistemi/live.py
+
+      - name: Run Xtream Movies M3u Script
+        run: python private_py/xtream/m3usistemi/film.py
+
+      - name: Run Xtream Series M3u Script
+        run: python private_py/xtream/m3usistemi/series.py
 
       - name: Install AWS CLI
         run: |
@@ -54,15 +130,185 @@ jobs:
 
       - name: Upload JSON files to Cloudflare R2
         run: |
-          aws s3 cp series_full_updated.json s3://iptv/full.json \
+          aws s3 cp xtream/live_premium.m3u s3://iptv/live_premium.m3u \
             --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
-            --content-type application/json
+            --content-type text/plain
       
-          aws s3 cp live_premium_updated.json s3://iptv/premium.json \
+          aws s3 cp xtream/live_standard.m3u s3://iptv/live_standard.m3u \
             --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
-            --content-type application/json
+            --content-type text/plain
+
+          aws s3 cp xtream/film_premium.m3u s3://iptv/film_premium.m3u \
+            --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
+            --content-type text/plain
       
-          aws s3 cp vod_premium_updated.json s3://iptv/standard.json \
+          aws s3 cp xtream/film_standard.m3u s3://iptv/film_standard.m3u \
+            --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
+            --content-type text/plain
+
+          aws s3 cp xtream/series_standard.m3u s3://iptv/series_standard.m3u \
+            --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
+            --content-type text/plain
+
+          aws s3 cp xtream/series_premium.m3u s3://iptv/series_premium.m3u \
+            --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
+            --content-type text/plain
+      
+          aws s3 cp xtream/series_full.m3u s3://iptv/series_full.m3u \
+            --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
+            --content-type text/plain
+
+
+
+  run-xtream-json:
+    runs-on: ubuntu-latest
+    needs: run-xtream-m3u
+
+    steps:
+      - name: Checkout Public Repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Private Py Repo
+        run: git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/opitiopiti/Py.git private_py
+
+      - name: Install Python Dependencies
+        run: |
+          pip install --upgrade pip
+          pip install requests
+
+      - name: Run Xtream Full Script
+        run: python private_py/xtream/jsonsistemi/convert_full.py
+
+      - name: Commit times.json
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add xtream/times.json || echo "No times.json"
+          git diff --cached --quiet || git commit -m "times.json güncellendi [auto]"
+          git pull --rebase origin main || echo "No upstream changes"
+          git push origin main || echo "No push needed"
+        
+      - name: Run Xtream Premium Script
+        run: python private_py/xtream/jsonsistemi/convert_premium.py
+
+      - name: Run Xtream Standard Script
+        run: python private_py/xtream/jsonsistemi/convert_standard.py
+
+      - name: Install AWS CLI
+        run: |
+          pip install awscli
+
+      - name: Configure AWS for Cloudflare R2
+        run: |
+          aws configure set aws_access_key_id ${{ secrets.R2_ACCESS_KEY_ID }}
+          aws configure set aws_secret_access_key ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          aws configure set default.region auto
+
+      - name: Upload JSON files to Cloudflare R2
+        run: |
+          aws s3 cp xtream/live_premium.json s3://iptv/live_premium.json \
             --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
             --content-type application/json
 
+          aws s3 cp xtream/live_standard.json s3://iptv/live_standard.json \
+            --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
+            --content-type application/json
+      
+          aws s3 cp xtream/vod_premium.json s3://iptv/vod_premium.json \
+            --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
+            --content-type application/json
+
+          aws s3 cp xtream/vod_standard.json s3://iptv/vod_standard.json \
+            --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
+            --content-type application/json
+      
+          aws s3 cp xtream/series_full.json s3://iptv/series_full.json \
+            --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
+            --content-type application/json
+
+          aws s3 cp xtream/series_premium.json s3://iptv/series_premium.json \
+            --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
+            --content-type application/json
+    
+          aws s3 cp xtream/series_standard.json s3://iptv/series_standard.json \
+            --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
+            --content-type application/json
+
+
+  run-xtream-name-updater:
+    runs-on: ubuntu-latest
+    needs: run-xtream-json
+
+    steps:
+      - name: Checkout Public Repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Private Py Repo
+        run: git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/opitiopiti/Py.git private_py
+
+      - name: Install Dependencies
+        run: |
+          pip install --upgrade pip
+          pip install requests
+
+      - name: Run Xtream Maker Final 
+        run: python private_py/xtream/xtreammakingfinal.py
+
+      - name: Commit group_id.json
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add xtream/group_id.json || echo "No group_id.json"
+          git diff --cached --quiet || git commit -m "group_id.json güncellendi [auto]"
+          git pull --rebase origin main || echo "No upstream changes"
+          git push origin main || echo "No push needed"
+          
+      - name: Install AWS CLI
+        run: |
+          pip install awscli
+
+      - name: Configure AWS for Cloudflare R2
+        run: |
+          aws configure set aws_access_key_id ${{ secrets.R2_ACCESS_KEY_ID }}
+          aws configure set aws_secret_access_key ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          aws configure set default.region auto
+
+      - name: Upload JSON files to Cloudflare R2
+        run: |
+          aws s3 cp xtream/live_premium_updated.json s3://iptv/live_premium_updated.json \
+            --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
+            --content-type application/json
+
+          aws s3 cp xtream/live_standard_updated.json s3://iptv/live_standard_updated .json \
+            --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
+            --content-type application/json
+      
+          aws s3 cp xtream/vod_premium_updated.json s3://iptv/vod_premium_updated.json \
+            --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
+            --content-type application/json
+
+          aws s3 cp xtream/vod_standard_updated.json s3://iptv/vod_standard_updated.json \
+            --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
+            --content-type application/json
+      
+          aws s3 cp xtream/series_full_updated.json s3://iptv/series_full_updated.json \
+            --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
+            --content-type application/json
+
+          aws s3 cp xtream/series_premium_updated.json s3://iptv/series_premium_updated.json \
+            --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
+            --content-type application/json
+    
+          aws s3 cp xtream/series_standard_updated.json s3://iptv/series_standard_updated.json \
+            --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
+            --content-type application/json
