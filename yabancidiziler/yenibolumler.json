@@ -1,8 +1,50 @@
 {
+  "/dizi/brilliant-minds": {
+    "group": "Brilliant Minds",
+    "last_season": 2,
+    "last_episode": 12,
+    "start_episode": 1
+  },
+  "/dizi/idol-i": {
+    "group": "Idol I",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
+  "/dizi/memory-of-a-killer": {
+    "group": "Memory of a Killer",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/saint-pierre": {
+    "group": "Saint-Pierre",
+    "last_season": 2,
+    "last_episode": 3,
+    "start_episode": 1
+  },
   "/dizi/single-s-inferno": {
     "group": "Single’s Inferno",
     "last_season": 5,
     "last_episode": 7,
+    "start_episode": 1
+  },
+  "/dizi/spring-fever": {
+    "group": "Spring Fever",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1
+  },
+  "/dizi/st-denis-medical": {
+    "group": "St. Denis Medical",
+    "last_season": 2,
+    "last_episode": 10,
+    "start_episode": 1
+  },
+  "/dizi/take-that": {
+    "group": "Take That",
+    "last_season": 1,
+    "last_episode": 0,
     "start_episode": 1
   },
   "/dizi/tell-me-lies": {
@@ -29,28 +71,10 @@
     "last_episode": 2,
     "start_episode": 1
   },
-  "/dizi/idol-i": {
-    "group": "Idol I",
-    "last_season": 1,
-    "last_episode": 11,
-    "start_episode": 1
-  },
   "/dizi/industry": {
     "group": "Industry",
     "last_season": 4,
     "last_episode": 3,
-    "start_episode": 1
-  },
-  "/dizi/memory-of-a-killer": {
-    "group": "Memory of a Killer",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/dizi/spring-fever": {
-    "group": "Spring Fever",
-    "last_season": 1,
-    "last_episode": 7,
     "start_episode": 1
   }
 }

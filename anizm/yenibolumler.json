@@ -1,4 +1,22 @@
 {
+  "/mayonaka-heart-tune": {
+    "group": "MAYONAKA HEART TUNE",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/arne-no-jikenbo": {
+    "group": "ARNE NO JIKENBO",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/isekai-no-sata-wa-shachiku-shidai": {
+    "group": "ISEKAI NO SATA WA SHACHIKU SHIDAI",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
   "/darwin-jihen": {
     "group": "DARWIN JIHEN",
     "last_season": 1,
@@ -81,24 +99,6 @@
     "group": "KIZOKU TENSEI: MEGUMARETA UMARE KARA SAIKYOU NO CHIKARA WO ERU",
     "last_season": 1,
     "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/jigokuraku-2nd-season": {
-    "group": "JIGOKURAKU 2ND SEASON",
-    "last_season": 1,
-    "last_episode": 1.0,
-    "start_episode": 1
-  },
-  "/akuyaku-reijou-wa-ringoku-no-outaishi-ni-dekiai-sareru": {
-    "group": "AKUYAKU REIJOU WA RINGOKU NO OUTAISHI NI DEKIAI SARERU",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/majutsushi-kunon-wa-mieteiru": {
-    "group": "MAJUTSUSHI KUNON WA MIETEIRU",
-    "last_season": 1,
-    "last_episode": 4.0,
     "start_episode": 1
   }
 }

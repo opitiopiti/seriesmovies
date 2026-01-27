@@ -1,4 +1,10 @@
 {
+  "/anime/the-case-book-of-arne/": {
+    "group": "THE CASE BOOK OF ARNE",
+    "last_season": 1,
+    "last_episode": 3,
+    "start_episode": 1
+  },
   "/anime/the-darwin-incident/": {
     "group": "THE DARWIN INCIDENT",
     "last_season": 1,
@@ -109,12 +115,6 @@
   },
   "/anime/kaya-chan-isnt-scary/": {
     "group": "KAYA-CHAN ISN’T SCARY",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1
-  },
-  "/anime/you-and-i-are-polar-opposites/": {
-    "group": "YOU AND I ARE POLAR OPPOSITES",
     "last_season": 1,
     "last_episode": 3,
     "start_episode": 1
