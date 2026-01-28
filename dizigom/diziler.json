@@ -1124,7 +1124,7 @@
   "/dizi-izle/hijack": {
     "group": "HIJACK",
     "last_season": 2,
-    "last_episode": 2,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/dizi-izle/the-boyfriend": {
@@ -1243,8 +1243,8 @@
   },
   "/dizi-izle/shrinking": {
     "group": "SHRINKING",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 1,
     "start_episode": 1
   }
 }
