@@ -67,7 +67,7 @@ jobs:
         run: python private_py/channels/gunluksporakısı/tvyayinakisi.py || true
 
       - name: Run epg.py
-        run: python private_py/channels/epg/direktxml.py || true
+        run: python private_py/channels/epg/gunlukepg.py || true
 
       - name: Run sendes.py
         run: python private_py/series/sendes/yenibolumler.py || true
