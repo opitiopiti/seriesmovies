@@ -5,6 +5,24 @@
     "last_episode": 0,
     "start_episode": 1
   },
+  "/toumei-otoko-to-ningen-onna-sonouchi-fuufu-ni-naru-futari": {
+    "group": "TOUMEI OTOKO TO NINGEN ONNA: SONOUCHI FUUFU NI NARU FUTARI",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/eris-no-seihai": {
+    "group": "ERIS NO SEIHAI",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
+  "/yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku": {
+    "group": "YUUSHA-KEI NI SHOSU: CHOUBATSU YUUSHA 9004-TAI KEIMU KIROKU",
+    "last_season": 1,
+    "last_episode": 2.0,
+    "start_episode": 1
+  },
   "/oshi-no-ko-3rd-season": {
     "group": "[OSHI NO KO] 3RD SEASON",
     "last_season": 1,
@@ -69,42 +87,6 @@
     "group": "ARNE NO JIKENBO",
     "last_season": 1,
     "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/isekai-no-sata-wa-shachiku-shidai": {
-    "group": "ISEKAI NO SATA WA SHACHIKU SHIDAI",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/darwin-jihen": {
-    "group": "DARWIN JIHEN",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/yoroi-shin-den-samurai-troopers": {
-    "group": "YOROI SHIN DEN SAMURAI TROOPERS",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/yuusha-party-ni-kawaii-ko-ga-ita-node-kokuhaku-shitemita": {
-    "group": "YUUSHA PARTY NI KAWAII KO GA ITA NODE, KOKUHAKU SHITEMITA.",
-    "last_season": 1,
-    "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/maou-no-musume-wa-yasashisugiru": {
-    "group": "MAOU NO MUSUME WA YASASHISUGIRU!!",
-    "last_season": 1,
-    "last_episode": 3.0,
-    "start_episode": 1
-  },
-  "/golden-kamuy-saishuushou": {
-    "group": "GOLDEN KAMUY: SAISHUUSHOU",
-    "last_season": 1,
-    "last_episode": 0,
     "start_episode": 1
   }
 }
