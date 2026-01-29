@@ -472,25 +472,25 @@ jobs:
        
       # 7. Dizizgom Filmler
       - name: Run dizigomfilmler Script
-        run: python private_py/movies/dizigom/dizigomfilmler.py
+        run: python private_py/movies/dizigom/dizigomfilmler.py || true
 
       # 8. SetFilmİzle Filmler
       - name: Run Setfilm Script
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: python private_py/movies/setfilmizle/ilksayfatümm3uolusturma.py
+        run: python private_py/movies/setfilmizle/ilksayfatümm3uolusturma.py || true
 
       # 9. HDFilm Yabancı ve Yerli Filmler
       - name: Run HDFilm Yabancı ve Yerli Filmler Script
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: python private_py/movies/hdfilmsite/hemyabancihemdeyerli.py
+        run: python private_py/movies/hdfilmsite/hemyabancihemdeyerli.py || true
 
       # 10. HDFilmCehenemi
       - name: Run HDFilm HDFilmCehenemi ve Yerli Filmler Script
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: python private_py/movies/hdfilmcehennemi/moviesproxy.py
+        run: python private_py/movies/hdfilmcehennemi/moviesproxy.py || true
 
       - name: Sync Filmler outputs to private m3u8file repo
         run: |
