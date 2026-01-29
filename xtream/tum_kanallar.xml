@@ -2037,6 +2037,72 @@
   <programme start="20260129203000 +0000" stop="20260129221500 +0000" channel="SINEMA AILE">
     <title>ONE DIRECTION: THIS IS US</title>
   </programme>
+  <programme start="20260128211500 +0000" stop="20260128231500 +0000" channel="4K TR: S NEMA TV 1001 HD">
+    <title>SUBURBICON</title>
+  </programme>
+  <programme start="20260128211500 +0000" stop="20260128231500 +0000" channel="SINEMA 1001">
+    <title>SUBURBICON</title>
+  </programme>
+  <programme start="20260128231500 +0000" stop="20260129011500 +0000" channel="4K TR: S NEMA TV 1001 HD">
+    <title>İNTERNETTE AV</title>
+  </programme>
+  <programme start="20260128231500 +0000" stop="20260129011500 +0000" channel="SINEMA 1001">
+    <title>İNTERNETTE AV</title>
+  </programme>
+  <programme start="20260129011500 +0000" stop="20260129033000 +0000" channel="4K TR: S NEMA TV 1001 HD">
+    <title>BEN BIR KATILIM</title>
+  </programme>
+  <programme start="20260129011500 +0000" stop="20260129033000 +0000" channel="SINEMA 1001">
+    <title>BEN BIR KATILIM</title>
+  </programme>
+  <programme start="20260129033000 +0000" stop="20260129053000 +0000" channel="4K TR: S NEMA TV 1001 HD">
+    <title>ATEŞLE OYNAYANLAR</title>
+  </programme>
+  <programme start="20260129033000 +0000" stop="20260129053000 +0000" channel="SINEMA 1001">
+    <title>ATEŞLE OYNAYANLAR</title>
+  </programme>
+  <programme start="20260129053000 +0000" stop="20260129074500 +0000" channel="4K TR: S NEMA TV 1001 HD">
+    <title>SATICI</title>
+  </programme>
+  <programme start="20260129053000 +0000" stop="20260129074500 +0000" channel="SINEMA 1001">
+    <title>SATICI</title>
+  </programme>
+  <programme start="20260129074500 +0000" stop="20260129100000 +0000" channel="4K TR: S NEMA TV 1001 HD">
+    <title>AKIL OYUNLARI</title>
+  </programme>
+  <programme start="20260129074500 +0000" stop="20260129100000 +0000" channel="SINEMA 1001">
+    <title>AKIL OYUNLARI</title>
+  </programme>
+  <programme start="20260129100000 +0000" stop="20260129121500 +0000" channel="4K TR: S NEMA TV 1001 HD">
+    <title>SERPIKO</title>
+  </programme>
+  <programme start="20260129100000 +0000" stop="20260129121500 +0000" channel="SINEMA 1001">
+    <title>SERPIKO</title>
+  </programme>
+  <programme start="20260129121500 +0000" stop="20260129143000 +0000" channel="4K TR: S NEMA TV 1001 HD">
+    <title>SPOTLIGHT</title>
+  </programme>
+  <programme start="20260129121500 +0000" stop="20260129143000 +0000" channel="SINEMA 1001">
+    <title>SPOTLIGHT</title>
+  </programme>
+  <programme start="20260129143000 +0000" stop="20260129163000 +0000" channel="4K TR: S NEMA TV 1001 HD">
+    <title>SEFER TASI</title>
+  </programme>
+  <programme start="20260129143000 +0000" stop="20260129163000 +0000" channel="SINEMA 1001">
+    <title>SEFER TASI</title>
+  </programme>
+  <programme start="20260129163000 +0000" stop="20260129190000 +0000" channel="4K TR: S NEMA TV 1001 HD">
+    <title>SEVGININ GÜCÜ</title>
+  </programme>
+  <programme start="20260129163000 +0000" stop="20260129190000 +0000" channel="SINEMA 1001">
+    <title>SEVGININ GÜCÜ</title>
+  </programme>
+  <programme start="20260129190000 +0000" stop="20260129210000 +0000" channel="4K TR: S NEMA TV 1001 HD">
+    <title>SOSYAL AĞ</title>
+  </programme>
+  <programme start="20260129190000 +0000" stop="20260129210000 +0000" channel="SINEMA 1001">
+    <title>SOSYAL AĞ</title>
+  </programme>
   <programme start="20260128210000 +0000" stop="20260128230000 +0000" channel="4K TR: S NEMA YERL 2 HD">
     <title>BIZIM SEMTIN ÇOCUKLARI</title>
   </programme>
@@ -4934,6 +5000,96 @@
   </programme>
   <programme start="20260129203000 +0000" stop="20260129220000 +0000" channel="BEYAZ TV RAW">
     <title>NE VAR NE YOK</title>
+  </programme>
+  <programme start="20260128210000 +0000" stop="20260128220000 +0000" channel="4K TR: TV100">
+    <title>GECE HABERI</title>
+  </programme>
+  <programme start="20260128210000 +0000" stop="20260128220000 +0000" channel="TV100">
+    <title>GECE HABERI</title>
+  </programme>
+  <programme start="20260128210000 +0000" stop="20260128220000 +0000" channel="TV 100">
+    <title>GECE HABERI</title>
+  </programme>
+  <programme start="20260128220000 +0000" stop="20260129010000 +0000" channel="4K TR: TV100">
+    <title>EŞIT AĞIRLIK</title>
+  </programme>
+  <programme start="20260128220000 +0000" stop="20260129010000 +0000" channel="TV100">
+    <title>EŞIT AĞIRLIK</title>
+  </programme>
+  <programme start="20260128220000 +0000" stop="20260129010000 +0000" channel="TV 100">
+    <title>EŞIT AĞIRLIK</title>
+  </programme>
+  <programme start="20260129010000 +0000" stop="20260129021500 +0000" channel="4K TR: TV100">
+    <title>HABER BÜLTENI</title>
+  </programme>
+  <programme start="20260129010000 +0000" stop="20260129021500 +0000" channel="TV100">
+    <title>HABER BÜLTENI</title>
+  </programme>
+  <programme start="20260129010000 +0000" stop="20260129021500 +0000" channel="TV 100">
+    <title>HABER BÜLTENI</title>
+  </programme>
+  <programme start="20260129021500 +0000" stop="20260129030000 +0000" channel="4K TR: TV100">
+    <title>GÜN'DEN KALAN</title>
+  </programme>
+  <programme start="20260129021500 +0000" stop="20260129030000 +0000" channel="TV100">
+    <title>GÜN'DEN KALAN</title>
+  </programme>
+  <programme start="20260129021500 +0000" stop="20260129030000 +0000" channel="TV 100">
+    <title>GÜN'DEN KALAN</title>
+  </programme>
+  <programme start="20260129030000 +0000" stop="20260129070000 +0000" channel="4K TR: TV100">
+    <title>MESUT YAR ILE GÜN UYANIYOR</title>
+  </programme>
+  <programme start="20260129030000 +0000" stop="20260129070000 +0000" channel="TV100">
+    <title>MESUT YAR ILE GÜN UYANIYOR</title>
+  </programme>
+  <programme start="20260129030000 +0000" stop="20260129070000 +0000" channel="TV 100">
+    <title>MESUT YAR ILE GÜN UYANIYOR</title>
+  </programme>
+  <programme start="20260129070000 +0000" stop="20260129100000 +0000" channel="4K TR: TV100">
+    <title>GÜNÜN ROTASI</title>
+  </programme>
+  <programme start="20260129070000 +0000" stop="20260129100000 +0000" channel="TV100">
+    <title>GÜNÜN ROTASI</title>
+  </programme>
+  <programme start="20260129070000 +0000" stop="20260129100000 +0000" channel="TV 100">
+    <title>GÜNÜN ROTASI</title>
+  </programme>
+  <programme start="20260129100000 +0000" stop="20260129130000 +0000" channel="4K TR: TV100">
+    <title>HABERDE GÜN ORTASI</title>
+  </programme>
+  <programme start="20260129100000 +0000" stop="20260129130000 +0000" channel="TV100">
+    <title>HABERDE GÜN ORTASI</title>
+  </programme>
+  <programme start="20260129100000 +0000" stop="20260129130000 +0000" channel="TV 100">
+    <title>HABERDE GÜN ORTASI</title>
+  </programme>
+  <programme start="20260129130000 +0000" stop="20260129153000 +0000" channel="4K TR: TV100">
+    <title>BAŞLIKLAR</title>
+  </programme>
+  <programme start="20260129130000 +0000" stop="20260129153000 +0000" channel="TV100">
+    <title>BAŞLIKLAR</title>
+  </programme>
+  <programme start="20260129130000 +0000" stop="20260129153000 +0000" channel="TV 100">
+    <title>BAŞLIKLAR</title>
+  </programme>
+  <programme start="20260129153000 +0000" stop="20260129173000 +0000" channel="4K TR: TV100">
+    <title>KÜBRA PAR İLE ANA HABER BÜLTENI</title>
+  </programme>
+  <programme start="20260129153000 +0000" stop="20260129173000 +0000" channel="TV100">
+    <title>KÜBRA PAR İLE ANA HABER BÜLTENI</title>
+  </programme>
+  <programme start="20260129153000 +0000" stop="20260129173000 +0000" channel="TV 100">
+    <title>KÜBRA PAR İLE ANA HABER BÜLTENI</title>
+  </programme>
+  <programme start="20260129173000 +0000" stop="20260129210000 +0000" channel="4K TR: TV100">
+    <title>BAŞAK ŞENGÜL ILE DOĞRU YORUM</title>
+  </programme>
+  <programme start="20260129173000 +0000" stop="20260129210000 +0000" channel="TV100">
+    <title>BAŞAK ŞENGÜL ILE DOĞRU YORUM</title>
+  </programme>
+  <programme start="20260129173000 +0000" stop="20260129210000 +0000" channel="TV 100">
+    <title>BAŞAK ŞENGÜL ILE DOĞRU YORUM</title>
   </programme>
   <programme start="20260128210000 +0000" stop="20260128213000 +0000" channel="FLASH HABER">
     <title>HABER</title>
@@ -12786,293 +12942,47 @@
   <programme start="20260129183000 +0000" stop="20260129210000 +0000" channel="BENGU TURK">
     <title>SON NOKTA</title>
   </programme>
-  <programme start="20260128210000 +0000" stop="20260128220000 +0000" channel="4K TR: KRT TV">
-    <title>HAFIZA</title>
+  <programme start="20260128210000 +0000" stop="20260129043000 +0000" channel="ULUSAL KANAL">
+    <title>HABER TURU</title>
   </programme>
-  <programme start="20260128210000 +0000" stop="20260128220000 +0000" channel="KRT HD+ SD">
-    <title>HAFIZA</title>
+  <programme start="20260128210000 +0000" stop="20260129043000 +0000" channel="ULUSAL KANAL SD">
+    <title>HABER TURU</title>
   </programme>
-  <programme start="20260128210000 +0000" stop="20260128220000 +0000" channel="KRT TV HD">
-    <title>HAFIZA</title>
+  <programme start="20260129043000 +0000" stop="20260129074500 +0000" channel="ULUSAL KANAL">
+    <title>GÜNAYDIN TÜRKIYE</title>
   </programme>
-  <programme start="20260128210000 +0000" stop="20260128220000 +0000" channel="KRT TV">
-    <title>HAFIZA</title>
+  <programme start="20260129043000 +0000" stop="20260129074500 +0000" channel="ULUSAL KANAL SD">
+    <title>GÜNAYDIN TÜRKIYE</title>
   </programme>
-  <programme start="20260128220000 +0000" stop="20260128230000 +0000" channel="4K TR: KRT TV">
-    <title>ZAMAN DIŞI</title>
+  <programme start="20260129074500 +0000" stop="20260129083000 +0000" channel="ULUSAL KANAL">
+    <title>EKONOMI GÜNDEMI</title>
   </programme>
-  <programme start="20260128220000 +0000" stop="20260128230000 +0000" channel="KRT HD+ SD">
-    <title>ZAMAN DIŞI</title>
+  <programme start="20260129074500 +0000" stop="20260129083000 +0000" channel="ULUSAL KANAL SD">
+    <title>EKONOMI GÜNDEMI</title>
   </programme>
-  <programme start="20260128220000 +0000" stop="20260128230000 +0000" channel="KRT TV HD">
-    <title>ZAMAN DIŞI</title>
+  <programme start="20260129083000 +0000" stop="20260129090000 +0000" channel="ULUSAL KANAL">
+    <title>AYDINLIK HAFIZA</title>
   </programme>
-  <programme start="20260128220000 +0000" stop="20260128230000 +0000" channel="KRT TV">
-    <title>ZAMAN DIŞI</title>
+  <programme start="20260129083000 +0000" stop="20260129090000 +0000" channel="ULUSAL KANAL SD">
+    <title>AYDINLIK HAFIZA</title>
   </programme>
-  <programme start="20260128230000 +0000" stop="20260129000000 +0000" channel="4K TR: KRT TV">
-    <title>ENERJIDE BILGI NET</title>
+  <programme start="20260129090000 +0000" stop="20260129144500 +0000" channel="ULUSAL KANAL">
+    <title>GÜN ORTASI</title>
   </programme>
-  <programme start="20260128230000 +0000" stop="20260129000000 +0000" channel="KRT HD+ SD">
-    <title>ENERJIDE BILGI NET</title>
+  <programme start="20260129090000 +0000" stop="20260129144500 +0000" channel="ULUSAL KANAL SD">
+    <title>GÜN ORTASI</title>
   </programme>
-  <programme start="20260128230000 +0000" stop="20260129000000 +0000" channel="KRT TV HD">
-    <title>ENERJIDE BILGI NET</title>
+  <programme start="20260129144500 +0000" stop="20260129183000 +0000" channel="ULUSAL KANAL">
+    <title>HUKUK ZAMANI</title>
   </programme>
-  <programme start="20260128230000 +0000" stop="20260129000000 +0000" channel="KRT TV">
-    <title>ENERJIDE BILGI NET</title>
+  <programme start="20260129144500 +0000" stop="20260129183000 +0000" channel="ULUSAL KANAL SD">
+    <title>HUKUK ZAMANI</title>
   </programme>
-  <programme start="20260129000000 +0000" stop="20260129010000 +0000" channel="4K TR: KRT TV">
-    <title>EN IYISI</title>
+  <programme start="20260129183000 +0000" stop="20260130043000 +0000" channel="ULUSAL KANAL">
+    <title>ANKARA GÜNDEMI</title>
   </programme>
-  <programme start="20260129000000 +0000" stop="20260129010000 +0000" channel="KRT HD+ SD">
-    <title>EN IYISI</title>
-  </programme>
-  <programme start="20260129000000 +0000" stop="20260129010000 +0000" channel="KRT TV HD">
-    <title>EN IYISI</title>
-  </programme>
-  <programme start="20260129000000 +0000" stop="20260129010000 +0000" channel="KRT TV">
-    <title>EN IYISI</title>
-  </programme>
-  <programme start="20260129010000 +0000" stop="20260129020000 +0000" channel="4K TR: KRT TV">
-    <title>NECMI İNCE ILE ZIRVEDEKILER</title>
-  </programme>
-  <programme start="20260129010000 +0000" stop="20260129020000 +0000" channel="KRT HD+ SD">
-    <title>NECMI İNCE ILE ZIRVEDEKILER</title>
-  </programme>
-  <programme start="20260129010000 +0000" stop="20260129020000 +0000" channel="KRT TV HD">
-    <title>NECMI İNCE ILE ZIRVEDEKILER</title>
-  </programme>
-  <programme start="20260129010000 +0000" stop="20260129020000 +0000" channel="KRT TV">
-    <title>NECMI İNCE ILE ZIRVEDEKILER</title>
-  </programme>
-  <programme start="20260129020000 +0000" stop="20260129030000 +0000" channel="4K TR: KRT TV">
-    <title>YAŞAMIN SIRLARI</title>
-  </programme>
-  <programme start="20260129020000 +0000" stop="20260129030000 +0000" channel="KRT HD+ SD">
-    <title>YAŞAMIN SIRLARI</title>
-  </programme>
-  <programme start="20260129020000 +0000" stop="20260129030000 +0000" channel="KRT TV HD">
-    <title>YAŞAMIN SIRLARI</title>
-  </programme>
-  <programme start="20260129020000 +0000" stop="20260129030000 +0000" channel="KRT TV">
-    <title>YAŞAMIN SIRLARI</title>
-  </programme>
-  <programme start="20260129030000 +0000" stop="20260129040000 +0000" channel="4K TR: KRT TV">
-    <title>YAŞAMINI TASARLA</title>
-  </programme>
-  <programme start="20260129030000 +0000" stop="20260129040000 +0000" channel="KRT HD+ SD">
-    <title>YAŞAMINI TASARLA</title>
-  </programme>
-  <programme start="20260129030000 +0000" stop="20260129040000 +0000" channel="KRT TV HD">
-    <title>YAŞAMINI TASARLA</title>
-  </programme>
-  <programme start="20260129030000 +0000" stop="20260129040000 +0000" channel="KRT TV">
-    <title>YAŞAMINI TASARLA</title>
-  </programme>
-  <programme start="20260129040000 +0000" stop="20260129050000 +0000" channel="4K TR: KRT TV">
-    <title>ECE ERKEN ILE İŞ DÜNYASI</title>
-  </programme>
-  <programme start="20260129040000 +0000" stop="20260129050000 +0000" channel="KRT HD+ SD">
-    <title>ECE ERKEN ILE İŞ DÜNYASI</title>
-  </programme>
-  <programme start="20260129040000 +0000" stop="20260129050000 +0000" channel="KRT TV HD">
-    <title>ECE ERKEN ILE İŞ DÜNYASI</title>
-  </programme>
-  <programme start="20260129040000 +0000" stop="20260129050000 +0000" channel="KRT TV">
-    <title>ECE ERKEN ILE İŞ DÜNYASI</title>
-  </programme>
-  <programme start="20260129050000 +0000" stop="20260129060000 +0000" channel="4K TR: KRT TV">
-    <title>EN IYISI</title>
-  </programme>
-  <programme start="20260129050000 +0000" stop="20260129060000 +0000" channel="KRT HD+ SD">
-    <title>EN IYISI</title>
-  </programme>
-  <programme start="20260129050000 +0000" stop="20260129060000 +0000" channel="KRT TV HD">
-    <title>EN IYISI</title>
-  </programme>
-  <programme start="20260129050000 +0000" stop="20260129060000 +0000" channel="KRT TV">
-    <title>EN IYISI</title>
-  </programme>
-  <programme start="20260129060000 +0000" stop="20260129070000 +0000" channel="4K TR: KRT TV">
-    <title>ENERJIDE BILGI NET</title>
-  </programme>
-  <programme start="20260129060000 +0000" stop="20260129070000 +0000" channel="KRT HD+ SD">
-    <title>ENERJIDE BILGI NET</title>
-  </programme>
-  <programme start="20260129060000 +0000" stop="20260129070000 +0000" channel="KRT TV HD">
-    <title>ENERJIDE BILGI NET</title>
-  </programme>
-  <programme start="20260129060000 +0000" stop="20260129070000 +0000" channel="KRT TV">
-    <title>ENERJIDE BILGI NET</title>
-  </programme>
-  <programme start="20260129070000 +0000" stop="20260129080000 +0000" channel="4K TR: KRT TV">
-    <title>NECMI İNCE ILE ZIRVEDEKILER</title>
-  </programme>
-  <programme start="20260129070000 +0000" stop="20260129080000 +0000" channel="KRT HD+ SD">
-    <title>NECMI İNCE ILE ZIRVEDEKILER</title>
-  </programme>
-  <programme start="20260129070000 +0000" stop="20260129080000 +0000" channel="KRT TV HD">
-    <title>NECMI İNCE ILE ZIRVEDEKILER</title>
-  </programme>
-  <programme start="20260129070000 +0000" stop="20260129080000 +0000" channel="KRT TV">
-    <title>NECMI İNCE ILE ZIRVEDEKILER</title>
-  </programme>
-  <programme start="20260129080000 +0000" stop="20260129090000 +0000" channel="4K TR: KRT TV">
-    <title>HAFIZA</title>
-  </programme>
-  <programme start="20260129080000 +0000" stop="20260129090000 +0000" channel="KRT HD+ SD">
-    <title>HAFIZA</title>
-  </programme>
-  <programme start="20260129080000 +0000" stop="20260129090000 +0000" channel="KRT TV HD">
-    <title>HAFIZA</title>
-  </programme>
-  <programme start="20260129080000 +0000" stop="20260129090000 +0000" channel="KRT TV">
-    <title>HAFIZA</title>
-  </programme>
-  <programme start="20260129090000 +0000" stop="20260129100000 +0000" channel="4K TR: KRT TV">
-    <title>İŞTE BAŞARI</title>
-  </programme>
-  <programme start="20260129090000 +0000" stop="20260129100000 +0000" channel="KRT HD+ SD">
-    <title>İŞTE BAŞARI</title>
-  </programme>
-  <programme start="20260129090000 +0000" stop="20260129100000 +0000" channel="KRT TV HD">
-    <title>İŞTE BAŞARI</title>
-  </programme>
-  <programme start="20260129090000 +0000" stop="20260129100000 +0000" channel="KRT TV">
-    <title>İŞTE BAŞARI</title>
-  </programme>
-  <programme start="20260129100000 +0000" stop="20260129110000 +0000" channel="4K TR: KRT TV">
-    <title>YAŞAMINI TASARLA</title>
-  </programme>
-  <programme start="20260129100000 +0000" stop="20260129110000 +0000" channel="KRT HD+ SD">
-    <title>YAŞAMINI TASARLA</title>
-  </programme>
-  <programme start="20260129100000 +0000" stop="20260129110000 +0000" channel="KRT TV HD">
-    <title>YAŞAMINI TASARLA</title>
-  </programme>
-  <programme start="20260129100000 +0000" stop="20260129110000 +0000" channel="KRT TV">
-    <title>YAŞAMINI TASARLA</title>
-  </programme>
-  <programme start="20260129110000 +0000" stop="20260129120000 +0000" channel="4K TR: KRT TV">
-    <title>YAŞAMIN SIRLARI</title>
-  </programme>
-  <programme start="20260129110000 +0000" stop="20260129120000 +0000" channel="KRT HD+ SD">
-    <title>YAŞAMIN SIRLARI</title>
-  </programme>
-  <programme start="20260129110000 +0000" stop="20260129120000 +0000" channel="KRT TV HD">
-    <title>YAŞAMIN SIRLARI</title>
-  </programme>
-  <programme start="20260129110000 +0000" stop="20260129120000 +0000" channel="KRT TV">
-    <title>YAŞAMIN SIRLARI</title>
-  </programme>
-  <programme start="20260129120000 +0000" stop="20260129130000 +0000" channel="4K TR: KRT TV">
-    <title>ZAMAN DIŞI</title>
-  </programme>
-  <programme start="20260129120000 +0000" stop="20260129130000 +0000" channel="KRT HD+ SD">
-    <title>ZAMAN DIŞI</title>
-  </programme>
-  <programme start="20260129120000 +0000" stop="20260129130000 +0000" channel="KRT TV HD">
-    <title>ZAMAN DIŞI</title>
-  </programme>
-  <programme start="20260129120000 +0000" stop="20260129130000 +0000" channel="KRT TV">
-    <title>ZAMAN DIŞI</title>
-  </programme>
-  <programme start="20260129130000 +0000" stop="20260129140000 +0000" channel="4K TR: KRT TV">
-    <title>HAFIZA</title>
-  </programme>
-  <programme start="20260129130000 +0000" stop="20260129140000 +0000" channel="KRT HD+ SD">
-    <title>HAFIZA</title>
-  </programme>
-  <programme start="20260129130000 +0000" stop="20260129140000 +0000" channel="KRT TV HD">
-    <title>HAFIZA</title>
-  </programme>
-  <programme start="20260129130000 +0000" stop="20260129140000 +0000" channel="KRT TV">
-    <title>HAFIZA</title>
-  </programme>
-  <programme start="20260129140000 +0000" stop="20260129150000 +0000" channel="4K TR: KRT TV">
-    <title>UZMAN REHBERI</title>
-  </programme>
-  <programme start="20260129140000 +0000" stop="20260129150000 +0000" channel="KRT HD+ SD">
-    <title>UZMAN REHBERI</title>
-  </programme>
-  <programme start="20260129140000 +0000" stop="20260129150000 +0000" channel="KRT TV HD">
-    <title>UZMAN REHBERI</title>
-  </programme>
-  <programme start="20260129140000 +0000" stop="20260129150000 +0000" channel="KRT TV">
-    <title>UZMAN REHBERI</title>
-  </programme>
-  <programme start="20260129150000 +0000" stop="20260129160000 +0000" channel="4K TR: KRT TV">
-    <title>EN IYISI</title>
-  </programme>
-  <programme start="20260129150000 +0000" stop="20260129160000 +0000" channel="KRT HD+ SD">
-    <title>EN IYISI</title>
-  </programme>
-  <programme start="20260129150000 +0000" stop="20260129160000 +0000" channel="KRT TV HD">
-    <title>EN IYISI</title>
-  </programme>
-  <programme start="20260129150000 +0000" stop="20260129160000 +0000" channel="KRT TV">
-    <title>EN IYISI</title>
-  </programme>
-  <programme start="20260129160000 +0000" stop="20260129170000 +0000" channel="4K TR: KRT TV">
-    <title>ENERJIDE BILGI NET</title>
-  </programme>
-  <programme start="20260129160000 +0000" stop="20260129170000 +0000" channel="KRT HD+ SD">
-    <title>ENERJIDE BILGI NET</title>
-  </programme>
-  <programme start="20260129160000 +0000" stop="20260129170000 +0000" channel="KRT TV HD">
-    <title>ENERJIDE BILGI NET</title>
-  </programme>
-  <programme start="20260129160000 +0000" stop="20260129170000 +0000" channel="KRT TV">
-    <title>ENERJIDE BILGI NET</title>
-  </programme>
-  <programme start="20260129170000 +0000" stop="20260129180000 +0000" channel="4K TR: KRT TV">
-    <title>HAFIZA</title>
-  </programme>
-  <programme start="20260129170000 +0000" stop="20260129180000 +0000" channel="KRT HD+ SD">
-    <title>HAFIZA</title>
-  </programme>
-  <programme start="20260129170000 +0000" stop="20260129180000 +0000" channel="KRT TV HD">
-    <title>HAFIZA</title>
-  </programme>
-  <programme start="20260129170000 +0000" stop="20260129180000 +0000" channel="KRT TV">
-    <title>HAFIZA</title>
-  </programme>
-  <programme start="20260129180000 +0000" stop="20260129190000 +0000" channel="4K TR: KRT TV">
-    <title>ZAMAN DIŞI</title>
-  </programme>
-  <programme start="20260129180000 +0000" stop="20260129190000 +0000" channel="KRT HD+ SD">
-    <title>ZAMAN DIŞI</title>
-  </programme>
-  <programme start="20260129180000 +0000" stop="20260129190000 +0000" channel="KRT TV HD">
-    <title>ZAMAN DIŞI</title>
-  </programme>
-  <programme start="20260129180000 +0000" stop="20260129190000 +0000" channel="KRT TV">
-    <title>ZAMAN DIŞI</title>
-  </programme>
-  <programme start="20260129190000 +0000" stop="20260129200000 +0000" channel="4K TR: KRT TV">
-    <title>YAŞAMIN SIRLARI</title>
-  </programme>
-  <programme start="20260129190000 +0000" stop="20260129200000 +0000" channel="KRT HD+ SD">
-    <title>YAŞAMIN SIRLARI</title>
-  </programme>
-  <programme start="20260129190000 +0000" stop="20260129200000 +0000" channel="KRT TV HD">
-    <title>YAŞAMIN SIRLARI</title>
-  </programme>
-  <programme start="20260129190000 +0000" stop="20260129200000 +0000" channel="KRT TV">
-    <title>YAŞAMIN SIRLARI</title>
-  </programme>
-  <programme start="20260129200000 +0000" stop="20260129210000 +0000" channel="4K TR: KRT TV">
-    <title>YAŞAMINI TASARLA</title>
-  </programme>
-  <programme start="20260129200000 +0000" stop="20260129210000 +0000" channel="KRT HD+ SD">
-    <title>YAŞAMINI TASARLA</title>
-  </programme>
-  <programme start="20260129200000 +0000" stop="20260129210000 +0000" channel="KRT TV HD">
-    <title>YAŞAMINI TASARLA</title>
-  </programme>
-  <programme start="20260129200000 +0000" stop="20260129210000 +0000" channel="KRT TV">
-    <title>YAŞAMINI TASARLA</title>
+  <programme start="20260129183000 +0000" stop="20260130043000 +0000" channel="ULUSAL KANAL SD">
+    <title>ANKARA GÜNDEMI</title>
   </programme>
   <programme start="20260129020000 +0000" stop="20260129020500 +0000" channel="TV 5">
     <title>SABAH EZANI</title>
@@ -33282,6 +33192,753 @@
   <programme start="20260129200000 +0000" stop="20260129220000 +0000" channel="Bloomberg">
     <title>BLOOMBERG THE CLOSE</title>
   </programme>
+  <programme start="20260128210000 +0000" stop="20260128220000 +0000" channel="A NEWS">
+    <title>TÜRKIYE'S DIPLOMACY</title>
+  </programme>
+  <programme start="20260128210000 +0000" stop="20260128220000 +0000" channel="A NEWS HD">
+    <title>TÜRKIYE'S DIPLOMACY</title>
+  </programme>
+  <programme start="20260128210000 +0000" stop="20260128220000 +0000" channel="A NEWS RAW">
+    <title>TÜRKIYE'S DIPLOMACY</title>
+  </programme>
+  <programme start="20260128220000 +0000" stop="20260128230000 +0000" channel="A NEWS">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260128220000 +0000" stop="20260128230000 +0000" channel="A NEWS HD">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260128220000 +0000" stop="20260128230000 +0000" channel="A NEWS RAW">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260128230000 +0000" stop="20260129000000 +0000" channel="A NEWS">
+    <title>DAYBREAK</title>
+  </programme>
+  <programme start="20260128230000 +0000" stop="20260129000000 +0000" channel="A NEWS HD">
+    <title>DAYBREAK</title>
+  </programme>
+  <programme start="20260128230000 +0000" stop="20260129000000 +0000" channel="A NEWS RAW">
+    <title>DAYBREAK</title>
+  </programme>
+  <programme start="20260129000000 +0000" stop="20260129010000 +0000" channel="A NEWS">
+    <title>DAYBREAK</title>
+  </programme>
+  <programme start="20260129000000 +0000" stop="20260129010000 +0000" channel="A NEWS HD">
+    <title>DAYBREAK</title>
+  </programme>
+  <programme start="20260129000000 +0000" stop="20260129010000 +0000" channel="A NEWS RAW">
+    <title>DAYBREAK</title>
+  </programme>
+  <programme start="20260129010000 +0000" stop="20260129020000 +0000" channel="A NEWS">
+    <title>DAYBREAK</title>
+  </programme>
+  <programme start="20260129010000 +0000" stop="20260129020000 +0000" channel="A NEWS HD">
+    <title>DAYBREAK</title>
+  </programme>
+  <programme start="20260129010000 +0000" stop="20260129020000 +0000" channel="A NEWS RAW">
+    <title>DAYBREAK</title>
+  </programme>
+  <programme start="20260129020000 +0000" stop="20260129030000 +0000" channel="A NEWS">
+    <title>DAYBREAK</title>
+  </programme>
+  <programme start="20260129020000 +0000" stop="20260129030000 +0000" channel="A NEWS HD">
+    <title>DAYBREAK</title>
+  </programme>
+  <programme start="20260129020000 +0000" stop="20260129030000 +0000" channel="A NEWS RAW">
+    <title>DAYBREAK</title>
+  </programme>
+  <programme start="20260129030000 +0000" stop="20260129032500 +0000" channel="A NEWS">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129030000 +0000" stop="20260129032500 +0000" channel="A NEWS HD">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129030000 +0000" stop="20260129032500 +0000" channel="A NEWS RAW">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129032500 +0000" stop="20260129033000 +0000" channel="A NEWS">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129032500 +0000" stop="20260129033000 +0000" channel="A NEWS HD">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129032500 +0000" stop="20260129033000 +0000" channel="A NEWS RAW">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129033000 +0000" stop="20260129035000 +0000" channel="A NEWS">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129033000 +0000" stop="20260129035000 +0000" channel="A NEWS HD">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129033000 +0000" stop="20260129035000 +0000" channel="A NEWS RAW">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129035000 +0000" stop="20260129035500 +0000" channel="A NEWS">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129035000 +0000" stop="20260129035500 +0000" channel="A NEWS HD">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129035000 +0000" stop="20260129035500 +0000" channel="A NEWS RAW">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129035500 +0000" stop="20260129040000 +0000" channel="A NEWS">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129035500 +0000" stop="20260129040000 +0000" channel="A NEWS HD">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129035500 +0000" stop="20260129040000 +0000" channel="A NEWS RAW">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129040000 +0000" stop="20260129042500 +0000" channel="A NEWS">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129040000 +0000" stop="20260129042500 +0000" channel="A NEWS HD">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129040000 +0000" stop="20260129042500 +0000" channel="A NEWS RAW">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129042500 +0000" stop="20260129043000 +0000" channel="A NEWS">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129042500 +0000" stop="20260129043000 +0000" channel="A NEWS HD">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129042500 +0000" stop="20260129043000 +0000" channel="A NEWS RAW">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129043000 +0000" stop="20260129045000 +0000" channel="A NEWS">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129043000 +0000" stop="20260129045000 +0000" channel="A NEWS HD">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129043000 +0000" stop="20260129045000 +0000" channel="A NEWS RAW">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129045000 +0000" stop="20260129045500 +0000" channel="A NEWS">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129045000 +0000" stop="20260129045500 +0000" channel="A NEWS HD">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129045000 +0000" stop="20260129045500 +0000" channel="A NEWS RAW">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129045500 +0000" stop="20260129050000 +0000" channel="A NEWS">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129045500 +0000" stop="20260129050000 +0000" channel="A NEWS HD">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129045500 +0000" stop="20260129050000 +0000" channel="A NEWS RAW">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129050000 +0000" stop="20260129055000 +0000" channel="A NEWS">
+    <title>TÜRKIYE'S DIPLOMACY</title>
+  </programme>
+  <programme start="20260129050000 +0000" stop="20260129055000 +0000" channel="A NEWS HD">
+    <title>TÜRKIYE'S DIPLOMACY</title>
+  </programme>
+  <programme start="20260129050000 +0000" stop="20260129055000 +0000" channel="A NEWS RAW">
+    <title>TÜRKIYE'S DIPLOMACY</title>
+  </programme>
+  <programme start="20260129055000 +0000" stop="20260129055500 +0000" channel="A NEWS">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129055000 +0000" stop="20260129055500 +0000" channel="A NEWS HD">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129055000 +0000" stop="20260129055500 +0000" channel="A NEWS RAW">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129055500 +0000" stop="20260129060000 +0000" channel="A NEWS">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129055500 +0000" stop="20260129060000 +0000" channel="A NEWS HD">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129055500 +0000" stop="20260129060000 +0000" channel="A NEWS RAW">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129060000 +0000" stop="20260129061500 +0000" channel="A NEWS">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129060000 +0000" stop="20260129061500 +0000" channel="A NEWS HD">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129060000 +0000" stop="20260129061500 +0000" channel="A NEWS RAW">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129061500 +0000" stop="20260129063000 +0000" channel="A NEWS">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129061500 +0000" stop="20260129063000 +0000" channel="A NEWS HD">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129061500 +0000" stop="20260129063000 +0000" channel="A NEWS RAW">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129063000 +0000" stop="20260129065000 +0000" channel="A NEWS">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129063000 +0000" stop="20260129065000 +0000" channel="A NEWS HD">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129063000 +0000" stop="20260129065000 +0000" channel="A NEWS RAW">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129065000 +0000" stop="20260129065500 +0000" channel="A NEWS">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129065000 +0000" stop="20260129065500 +0000" channel="A NEWS HD">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129065000 +0000" stop="20260129065500 +0000" channel="A NEWS RAW">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129065500 +0000" stop="20260129070000 +0000" channel="A NEWS">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129065500 +0000" stop="20260129070000 +0000" channel="A NEWS HD">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129065500 +0000" stop="20260129070000 +0000" channel="A NEWS RAW">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129070000 +0000" stop="20260129072500 +0000" channel="A NEWS">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129070000 +0000" stop="20260129072500 +0000" channel="A NEWS HD">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129070000 +0000" stop="20260129072500 +0000" channel="A NEWS RAW">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129072500 +0000" stop="20260129073000 +0000" channel="A NEWS">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129072500 +0000" stop="20260129073000 +0000" channel="A NEWS HD">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129072500 +0000" stop="20260129073000 +0000" channel="A NEWS RAW">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129073000 +0000" stop="20260129075500 +0000" channel="A NEWS">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129073000 +0000" stop="20260129075500 +0000" channel="A NEWS HD">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129073000 +0000" stop="20260129075500 +0000" channel="A NEWS RAW">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129075500 +0000" stop="20260129080000 +0000" channel="A NEWS">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129075500 +0000" stop="20260129080000 +0000" channel="A NEWS HD">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129075500 +0000" stop="20260129080000 +0000" channel="A NEWS RAW">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129080000 +0000" stop="20260129082500 +0000" channel="A NEWS">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129080000 +0000" stop="20260129082500 +0000" channel="A NEWS HD">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129080000 +0000" stop="20260129082500 +0000" channel="A NEWS RAW">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129082500 +0000" stop="20260129083000 +0000" channel="A NEWS">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129082500 +0000" stop="20260129083000 +0000" channel="A NEWS HD">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129082500 +0000" stop="20260129083000 +0000" channel="A NEWS RAW">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129083000 +0000" stop="20260129085000 +0000" channel="A NEWS">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129083000 +0000" stop="20260129085000 +0000" channel="A NEWS HD">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129083000 +0000" stop="20260129085000 +0000" channel="A NEWS RAW">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129085000 +0000" stop="20260129085500 +0000" channel="A NEWS">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129085000 +0000" stop="20260129085500 +0000" channel="A NEWS HD">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129085000 +0000" stop="20260129085500 +0000" channel="A NEWS RAW">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129085500 +0000" stop="20260129090000 +0000" channel="A NEWS">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129085500 +0000" stop="20260129090000 +0000" channel="A NEWS HD">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129085500 +0000" stop="20260129090000 +0000" channel="A NEWS RAW">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129090000 +0000" stop="20260129092500 +0000" channel="A NEWS">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129090000 +0000" stop="20260129092500 +0000" channel="A NEWS HD">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129090000 +0000" stop="20260129092500 +0000" channel="A NEWS RAW">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129092500 +0000" stop="20260129093000 +0000" channel="A NEWS">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129092500 +0000" stop="20260129093000 +0000" channel="A NEWS HD">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129092500 +0000" stop="20260129093000 +0000" channel="A NEWS RAW">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129093000 +0000" stop="20260129095000 +0000" channel="A NEWS">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129093000 +0000" stop="20260129095000 +0000" channel="A NEWS HD">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129093000 +0000" stop="20260129095000 +0000" channel="A NEWS RAW">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129095000 +0000" stop="20260129095500 +0000" channel="A NEWS">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129095000 +0000" stop="20260129095500 +0000" channel="A NEWS HD">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129095000 +0000" stop="20260129095500 +0000" channel="A NEWS RAW">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129095500 +0000" stop="20260129100000 +0000" channel="A NEWS">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129095500 +0000" stop="20260129100000 +0000" channel="A NEWS HD">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129095500 +0000" stop="20260129100000 +0000" channel="A NEWS RAW">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129100000 +0000" stop="20260129102500 +0000" channel="A NEWS">
+    <title>TÜRKIYE'S DIPLOMACY</title>
+  </programme>
+  <programme start="20260129100000 +0000" stop="20260129102500 +0000" channel="A NEWS HD">
+    <title>TÜRKIYE'S DIPLOMACY</title>
+  </programme>
+  <programme start="20260129100000 +0000" stop="20260129102500 +0000" channel="A NEWS RAW">
+    <title>TÜRKIYE'S DIPLOMACY</title>
+  </programme>
+  <programme start="20260129102500 +0000" stop="20260129105000 +0000" channel="A NEWS">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129102500 +0000" stop="20260129105000 +0000" channel="A NEWS HD">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129102500 +0000" stop="20260129105000 +0000" channel="A NEWS RAW">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129105000 +0000" stop="20260129105500 +0000" channel="A NEWS">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129105000 +0000" stop="20260129105500 +0000" channel="A NEWS HD">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129105000 +0000" stop="20260129105500 +0000" channel="A NEWS RAW">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129105500 +0000" stop="20260129110000 +0000" channel="A NEWS">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129105500 +0000" stop="20260129110000 +0000" channel="A NEWS HD">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129105500 +0000" stop="20260129110000 +0000" channel="A NEWS RAW">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129110000 +0000" stop="20260129112500 +0000" channel="A NEWS">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129110000 +0000" stop="20260129112500 +0000" channel="A NEWS HD">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129110000 +0000" stop="20260129112500 +0000" channel="A NEWS RAW">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129112500 +0000" stop="20260129113000 +0000" channel="A NEWS">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129112500 +0000" stop="20260129113000 +0000" channel="A NEWS HD">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129112500 +0000" stop="20260129113000 +0000" channel="A NEWS RAW">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129113000 +0000" stop="20260129115000 +0000" channel="A NEWS">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129113000 +0000" stop="20260129115000 +0000" channel="A NEWS HD">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129113000 +0000" stop="20260129115000 +0000" channel="A NEWS RAW">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129115000 +0000" stop="20260129115500 +0000" channel="A NEWS">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129115000 +0000" stop="20260129115500 +0000" channel="A NEWS HD">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129115000 +0000" stop="20260129115500 +0000" channel="A NEWS RAW">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129115500 +0000" stop="20260129120000 +0000" channel="A NEWS">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129115500 +0000" stop="20260129120000 +0000" channel="A NEWS HD">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129115500 +0000" stop="20260129120000 +0000" channel="A NEWS RAW">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129120000 +0000" stop="20260129122500 +0000" channel="A NEWS">
+    <title>NEWSROOM</title>
+  </programme>
+  <programme start="20260129120000 +0000" stop="20260129122500 +0000" channel="A NEWS HD">
+    <title>NEWSROOM</title>
+  </programme>
+  <programme start="20260129120000 +0000" stop="20260129122500 +0000" channel="A NEWS RAW">
+    <title>NEWSROOM</title>
+  </programme>
+  <programme start="20260129122500 +0000" stop="20260129123000 +0000" channel="A NEWS">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129122500 +0000" stop="20260129123000 +0000" channel="A NEWS HD">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129122500 +0000" stop="20260129123000 +0000" channel="A NEWS RAW">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129123000 +0000" stop="20260129125000 +0000" channel="A NEWS">
+    <title>NEWSROOM</title>
+  </programme>
+  <programme start="20260129123000 +0000" stop="20260129125000 +0000" channel="A NEWS HD">
+    <title>NEWSROOM</title>
+  </programme>
+  <programme start="20260129123000 +0000" stop="20260129125000 +0000" channel="A NEWS RAW">
+    <title>NEWSROOM</title>
+  </programme>
+  <programme start="20260129125000 +0000" stop="20260129125500 +0000" channel="A NEWS">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129125000 +0000" stop="20260129125500 +0000" channel="A NEWS HD">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129125000 +0000" stop="20260129125500 +0000" channel="A NEWS RAW">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129125500 +0000" stop="20260129130000 +0000" channel="A NEWS">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129125500 +0000" stop="20260129130000 +0000" channel="A NEWS HD">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129125500 +0000" stop="20260129130000 +0000" channel="A NEWS RAW">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129130000 +0000" stop="20260129132500 +0000" channel="A NEWS">
+    <title>NEWSROOM</title>
+  </programme>
+  <programme start="20260129130000 +0000" stop="20260129132500 +0000" channel="A NEWS HD">
+    <title>NEWSROOM</title>
+  </programme>
+  <programme start="20260129130000 +0000" stop="20260129132500 +0000" channel="A NEWS RAW">
+    <title>NEWSROOM</title>
+  </programme>
+  <programme start="20260129132500 +0000" stop="20260129133000 +0000" channel="A NEWS">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129132500 +0000" stop="20260129133000 +0000" channel="A NEWS HD">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129132500 +0000" stop="20260129133000 +0000" channel="A NEWS RAW">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129133000 +0000" stop="20260129135000 +0000" channel="A NEWS">
+    <title>NEWSROOM</title>
+  </programme>
+  <programme start="20260129133000 +0000" stop="20260129135000 +0000" channel="A NEWS HD">
+    <title>NEWSROOM</title>
+  </programme>
+  <programme start="20260129133000 +0000" stop="20260129135000 +0000" channel="A NEWS RAW">
+    <title>NEWSROOM</title>
+  </programme>
+  <programme start="20260129135000 +0000" stop="20260129135500 +0000" channel="A NEWS">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129135000 +0000" stop="20260129135500 +0000" channel="A NEWS HD">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129135000 +0000" stop="20260129135500 +0000" channel="A NEWS RAW">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129135500 +0000" stop="20260129140000 +0000" channel="A NEWS">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129135500 +0000" stop="20260129140000 +0000" channel="A NEWS HD">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129135500 +0000" stop="20260129140000 +0000" channel="A NEWS RAW">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129140000 +0000" stop="20260129142500 +0000" channel="A NEWS">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129140000 +0000" stop="20260129142500 +0000" channel="A NEWS HD">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129140000 +0000" stop="20260129142500 +0000" channel="A NEWS RAW">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129142500 +0000" stop="20260129143000 +0000" channel="A NEWS">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129142500 +0000" stop="20260129143000 +0000" channel="A NEWS HD">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129142500 +0000" stop="20260129143000 +0000" channel="A NEWS RAW">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129143000 +0000" stop="20260129145000 +0000" channel="A NEWS">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129143000 +0000" stop="20260129145000 +0000" channel="A NEWS HD">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129143000 +0000" stop="20260129145000 +0000" channel="A NEWS RAW">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129145000 +0000" stop="20260129145500 +0000" channel="A NEWS">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129145000 +0000" stop="20260129145500 +0000" channel="A NEWS HD">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129145000 +0000" stop="20260129145500 +0000" channel="A NEWS RAW">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129145500 +0000" stop="20260129150000 +0000" channel="A NEWS">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129145500 +0000" stop="20260129150000 +0000" channel="A NEWS HD">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129145500 +0000" stop="20260129150000 +0000" channel="A NEWS RAW">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129150000 +0000" stop="20260129155000 +0000" channel="A NEWS">
+    <title>TÜRKIYE'S DIPLOMACY</title>
+  </programme>
+  <programme start="20260129150000 +0000" stop="20260129155000 +0000" channel="A NEWS HD">
+    <title>TÜRKIYE'S DIPLOMACY</title>
+  </programme>
+  <programme start="20260129150000 +0000" stop="20260129155000 +0000" channel="A NEWS RAW">
+    <title>TÜRKIYE'S DIPLOMACY</title>
+  </programme>
+  <programme start="20260129155000 +0000" stop="20260129155500 +0000" channel="A NEWS">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129155000 +0000" stop="20260129155500 +0000" channel="A NEWS HD">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129155000 +0000" stop="20260129155500 +0000" channel="A NEWS RAW">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129155500 +0000" stop="20260129160000 +0000" channel="A NEWS">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129155500 +0000" stop="20260129160000 +0000" channel="A NEWS HD">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129155500 +0000" stop="20260129160000 +0000" channel="A NEWS RAW">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129160000 +0000" stop="20260129162500 +0000" channel="A NEWS">
+    <title>NEWSROOM</title>
+  </programme>
+  <programme start="20260129160000 +0000" stop="20260129162500 +0000" channel="A NEWS HD">
+    <title>NEWSROOM</title>
+  </programme>
+  <programme start="20260129160000 +0000" stop="20260129162500 +0000" channel="A NEWS RAW">
+    <title>NEWSROOM</title>
+  </programme>
+  <programme start="20260129162500 +0000" stop="20260129163000 +0000" channel="A NEWS">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129162500 +0000" stop="20260129163000 +0000" channel="A NEWS HD">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129162500 +0000" stop="20260129163000 +0000" channel="A NEWS RAW">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129163000 +0000" stop="20260129165000 +0000" channel="A NEWS">
+    <title>NEWSROOM</title>
+  </programme>
+  <programme start="20260129163000 +0000" stop="20260129165000 +0000" channel="A NEWS HD">
+    <title>NEWSROOM</title>
+  </programme>
+  <programme start="20260129163000 +0000" stop="20260129165000 +0000" channel="A NEWS RAW">
+    <title>NEWSROOM</title>
+  </programme>
+  <programme start="20260129165000 +0000" stop="20260129165500 +0000" channel="A NEWS">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129165000 +0000" stop="20260129165500 +0000" channel="A NEWS HD">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129165000 +0000" stop="20260129165500 +0000" channel="A NEWS RAW">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129165500 +0000" stop="20260129170000 +0000" channel="A NEWS">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129165500 +0000" stop="20260129170000 +0000" channel="A NEWS HD">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129165500 +0000" stop="20260129170000 +0000" channel="A NEWS RAW">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129170000 +0000" stop="20260129172500 +0000" channel="A NEWS">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129170000 +0000" stop="20260129172500 +0000" channel="A NEWS HD">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129170000 +0000" stop="20260129172500 +0000" channel="A NEWS RAW">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129172500 +0000" stop="20260129173000 +0000" channel="A NEWS">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129172500 +0000" stop="20260129173000 +0000" channel="A NEWS HD">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129172500 +0000" stop="20260129173000 +0000" channel="A NEWS RAW">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129173000 +0000" stop="20260129175000 +0000" channel="A NEWS">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129173000 +0000" stop="20260129175000 +0000" channel="A NEWS HD">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129173000 +0000" stop="20260129175000 +0000" channel="A NEWS RAW">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129175000 +0000" stop="20260129175500 +0000" channel="A NEWS">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129175000 +0000" stop="20260129175500 +0000" channel="A NEWS HD">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129175000 +0000" stop="20260129175500 +0000" channel="A NEWS RAW">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129175500 +0000" stop="20260129180000 +0000" channel="A NEWS">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129175500 +0000" stop="20260129180000 +0000" channel="A NEWS HD">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129175500 +0000" stop="20260129180000 +0000" channel="A NEWS RAW">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129180000 +0000" stop="20260129182500 +0000" channel="A NEWS">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129180000 +0000" stop="20260129182500 +0000" channel="A NEWS HD">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129180000 +0000" stop="20260129182500 +0000" channel="A NEWS RAW">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129182500 +0000" stop="20260129183000 +0000" channel="A NEWS">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129182500 +0000" stop="20260129183000 +0000" channel="A NEWS HD">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129182500 +0000" stop="20260129183000 +0000" channel="A NEWS RAW">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129183000 +0000" stop="20260129185000 +0000" channel="A NEWS">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129183000 +0000" stop="20260129185000 +0000" channel="A NEWS HD">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129183000 +0000" stop="20260129185000 +0000" channel="A NEWS RAW">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129185000 +0000" stop="20260129185500 +0000" channel="A NEWS">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129185000 +0000" stop="20260129185500 +0000" channel="A NEWS HD">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129185000 +0000" stop="20260129185500 +0000" channel="A NEWS RAW">
+    <title>SPORT</title>
+  </programme>
+  <programme start="20260129185500 +0000" stop="20260129190000 +0000" channel="A NEWS">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129185500 +0000" stop="20260129190000 +0000" channel="A NEWS HD">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129185500 +0000" stop="20260129190000 +0000" channel="A NEWS RAW">
+    <title>WEATHER</title>
+  </programme>
+  <programme start="20260129190000 +0000" stop="20260129194500 +0000" channel="A NEWS">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129190000 +0000" stop="20260129194500 +0000" channel="A NEWS HD">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129190000 +0000" stop="20260129194500 +0000" channel="A NEWS RAW">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129194500 +0000" stop="20260129200000 +0000" channel="A NEWS">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129194500 +0000" stop="20260129200000 +0000" channel="A NEWS HD">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129194500 +0000" stop="20260129200000 +0000" channel="A NEWS RAW">
+    <title>FINANCE AND MARKETS</title>
+  </programme>
+  <programme start="20260129200000 +0000" stop="20260129210000 +0000" channel="A NEWS">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129200000 +0000" stop="20260129210000 +0000" channel="A NEWS HD">
+    <title>NEWSHOUR</title>
+  </programme>
+  <programme start="20260129200000 +0000" stop="20260129210000 +0000" channel="A NEWS RAW">
+    <title>NEWSHOUR</title>
+  </programme>
   <programme start="20260128210000 +0000" stop="20260128213000 +0000" channel="TRT WORLD">
     <title>NEWS - LONDON</title>
   </programme>
@@ -35195,6 +35852,195 @@
   </programme>
   <programme start="20260129200000 +0000" stop="20260129210000 +0000" channel="SKY NEWS ARABIA">
     <title>NEWS</title>
+  </programme>
+  <programme start="20260128213900 +0000" stop="20260128220900 +0000" channel="TV5 MONDE">
+    <title>L'ACTU</title>
+  </programme>
+  <programme start="20260128220900 +0000" stop="20260128221300 +0000" channel="TV5 MONDE">
+    <title>MÉTÉO</title>
+  </programme>
+  <programme start="20260128221300 +0000" stop="20260128233900 +0000" channel="TV5 MONDE">
+    <title>LE MONDE D'HIER</title>
+  </programme>
+  <programme start="20260128233900 +0000" stop="20260129000500 +0000" channel="TV5 MONDE">
+    <title>LE JOURNAL AFRIQUE</title>
+  </programme>
+  <programme start="20260129000500 +0000" stop="20260129000800 +0000" channel="TV5 MONDE">
+    <title>MÉTÉO</title>
+  </programme>
+  <programme start="20260129000800 +0000" stop="20260129005900 +0000" channel="TV5 MONDE">
+    <title>OPJ: CADAVRE EXQUIS</title>
+  </programme>
+  <programme start="20260129005900 +0000" stop="20260129015100 +0000" channel="TV5 MONDE">
+    <title>OPJ: CADAVRE EXQUIS</title>
+  </programme>
+  <programme start="20260129015100 +0000" stop="20260129020600 +0000" channel="TV5 MONDE">
+    <title>ITINÉRAIRES PAYSANS: GAËL GRINGOIRE, CYRIL VARONE</title>
+  </programme>
+  <programme start="20260129020600 +0000" stop="20260129025400 +0000" channel="TV5 MONDE">
+    <title>INFRAROUGE: LE DÉBAT RTS</title>
+  </programme>
+  <programme start="20260129025400 +0000" stop="20260129030000 +0000" channel="TV5 MONDE">
+    <title>L'ÉCOLOGIE EN ACTION</title>
+  </programme>
+  <programme start="20260129030000 +0000" stop="20260129040100 +0000" channel="TV5 MONDE">
+    <title>LE 23H</title>
+  </programme>
+  <programme start="20260129040100 +0000" stop="20260129042900 +0000" channel="TV5 MONDE">
+    <title>SUISSE EN SCÈNE: PLONK & REPLONK ZBIGL !</title>
+  </programme>
+  <programme start="20260129042900 +0000" stop="20260129045200 +0000" channel="TV5 MONDE">
+    <title>ALLÔ TRIBUNAL: CHIRURGIEN BOUCHER</title>
+  </programme>
+  <programme start="20260129045200 +0000" stop="20260129045800 +0000" channel="TV5 MONDE">
+    <title>FEMMES D'AFRIQUE EN ACTION: KADIDJA DUPARC (CÔTE D'IVOIRE)</title>
+  </programme>
+  <programme start="20260129045800 +0000" stop="20260129052400 +0000" channel="TV5 MONDE">
+    <title>LE 6H INFO</title>
+  </programme>
+  <programme start="20260129052400 +0000" stop="20260129052900 +0000" channel="TV5 MONDE">
+    <title>MÉTÉO</title>
+  </programme>
+  <programme start="20260129052900 +0000" stop="20260129054600 +0000" channel="TV5 MONDE">
+    <title>TÉLÉMATIN</title>
+  </programme>
+  <programme start="20260129054600 +0000" stop="20260129055000 +0000" channel="TV5 MONDE">
+    <title>FLIPPÉ: L'AMOUR</title>
+  </programme>
+  <programme start="20260129055000 +0000" stop="20260129062100 +0000" channel="TV5 MONDE">
+    <title>TÉLÉMATIN</title>
+  </programme>
+  <programme start="20260129062100 +0000" stop="20260129062500 +0000" channel="TV5 MONDE">
+    <title>SALLE DES PROFS: UNE FEMME SOUS INFLUENCE</title>
+  </programme>
+  <programme start="20260129062500 +0000" stop="20260129062900 +0000" channel="TV5 MONDE">
+    <title>CAP SUR LES OASIS: MASCOBADO</title>
+  </programme>
+  <programme start="20260129062900 +0000" stop="20260129064900 +0000" channel="TV5 MONDE">
+    <title>TÉLÉMATIN</title>
+  </programme>
+  <programme start="20260129064900 +0000" stop="20260129070000 +0000" channel="TV5 MONDE">
+    <title>VF</title>
+  </programme>
+  <programme start="20260129070000 +0000" stop="20260129072700 +0000" channel="TV5 MONDE">
+    <title>LE TÉLÉJOURNAL</title>
+  </programme>
+  <programme start="20260129072700 +0000" stop="20260129073800 +0000" channel="TV5 MONDE">
+    <title>ROCKY & LILY : C'EST DANS LA BOÎTE !</title>
+  </programme>
+  <programme start="20260129073800 +0000" stop="20260129074900 +0000" channel="TV5 MONDE">
+    <title>IDÉFIX ET LES IRRÉDUCTIBLES: UN ARQUEBUS ÇA VA</title>
+  </programme>
+  <programme start="20260129074900 +0000" stop="20260129075600 +0000" channel="TV5 MONDE">
+    <title>FOOT GO</title>
+  </programme>
+  <programme start="20260129075600 +0000" stop="20260129080300 +0000" channel="TV5 MONDE">
+    <title>LES QUIQUOI: AU PAYS DES ROBOTS</title>
+  </programme>
+  <programme start="20260129080300 +0000" stop="20260129083000 +0000" channel="TV5 MONDE">
+    <title>LES GRANDES GRANDES VACANCES: L'EXODE</title>
+  </programme>
+  <programme start="20260129083000 +0000" stop="20260129085800 +0000" channel="TV5 MONDE">
+    <title>DING DONG : MONTRE-MOI TA MAISON: LA MAISON DES CÉRAMISTES ET L'ANCIENNE GARE</title>
+  </programme>
+  <programme start="20260129085800 +0000" stop="20260129092500 +0000" channel="TV5 MONDE">
+    <title>LITTORAL: L'APNÉISTE ET LE PHOQUE</title>
+  </programme>
+  <programme start="20260129092500 +0000" stop="20260129094900 +0000" channel="TV5 MONDE">
+    <title>CURIEUX BÉGIN</title>
+  </programme>
+  <programme start="20260129094900 +0000" stop="20260129105700 +0000" channel="TV5 MONDE">
+    <title>C DANS L'AIR</title>
+  </programme>
+  <programme start="20260129105700 +0000" stop="20260129112400 +0000" channel="TV5 MONDE">
+    <title>VERSION FRANÇAISE</title>
+  </programme>
+  <programme start="20260129112400 +0000" stop="20260129114600 +0000" channel="TV5 MONDE">
+    <title>UN SI GRAND SOLEIL</title>
+  </programme>
+  <programme start="20260129114600 +0000" stop="20260129123000 +0000" channel="TV5 MONDE">
+    <title>TOUT LE MONDE VEUT PRENDRE SA PLACE</title>
+  </programme>
+  <programme start="20260129123000 +0000" stop="20260129125900 +0000" channel="TV5 MONDE">
+    <title>JT 19H30</title>
+  </programme>
+  <programme start="20260129125900 +0000" stop="20260129132300 +0000" channel="TV5 MONDE">
+    <title>TRENTENAIRES: COURSES PIZZAS : PÂTE, SAUCE TOMATE, OLIVES, PAS D'ANANAS !</title>
+  </programme>
+  <programme start="20260129132300 +0000" stop="20260129134500 +0000" channel="TV5 MONDE">
+    <title>TRENTENAIRES: VINCE, N'OUBLIE PAS LE RDV DON DE SANG !</title>
+  </programme>
+  <programme start="20260129134500 +0000" stop="20260129140700 +0000" channel="TV5 MONDE">
+    <title>TRENTENAIRES: RDV DIEGO + ESTHÉTICIENNE</title>
+  </programme>
+  <programme start="20260129140700 +0000" stop="20260129143500 +0000" channel="TV5 MONDE">
+    <title>TRENTENAIRES: MES C**ILLES TI 1</title>
+  </programme>
+  <programme start="20260129143500 +0000" stop="20260129144800 +0000" channel="TV5 MONDE">
+    <title>ITINÉRAIRES PAYSANS: FABRICE BATARD, JEAN-GABRIEL TRIDON</title>
+  </programme>
+  <programme start="20260129144800 +0000" stop="20260129150000 +0000" channel="TV5 MONDE">
+    <title>DEMEURES DE COLLECTIONNEURS</title>
+  </programme>
+  <programme start="20260129150000 +0000" stop="20260129151100 +0000" channel="TV5 MONDE">
+    <title>EDMOND ET LUCY: L'INCENDIE</title>
+  </programme>
+  <programme start="20260129151100 +0000" stop="20260129152400 +0000" channel="TV5 MONDE">
+    <title>T'ES AU TOP: LOUISE, 12 ANS : MA MEILLEURE AMIE ME MANQUE</title>
+  </programme>
+  <programme start="20260129152400 +0000" stop="20260129154700 +0000" channel="TV5 MONDE">
+    <title>LES CAVALIERS: L'AVEU</title>
+  </programme>
+  <programme start="20260129154700 +0000" stop="20260129155200 +0000" channel="TV5 MONDE">
+    <title>LES 30 TRAVAUX DE CHARLIE ET ELLIOT</title>
+  </programme>
+  <programme start="20260129155200 +0000" stop="20260129155900 +0000" channel="TV5 MONDE">
+    <title>LES BELGES HISTOIRES</title>
+  </programme>
+  <programme start="20260129155900 +0000" stop="20260129165200 +0000" channel="TV5 MONDE">
+    <title>ENQUÊTES DE RÉGION</title>
+  </programme>
+  <programme start="20260129165200 +0000" stop="20260129170000 +0000" channel="TV5 MONDE">
+    <title>L'ÉCOLOGIE EN ACTION</title>
+  </programme>
+  <programme start="20260129170000 +0000" stop="20260129172600 +0000" channel="TV5 MONDE">
+    <title>64' : ACTU</title>
+  </programme>
+  <programme start="20260129172600 +0000" stop="20260129173000 +0000" channel="TV5 MONDE">
+    <title>MÉTÉO</title>
+  </programme>
+  <programme start="20260129173000 +0000" stop="20260129175300 +0000" channel="TV5 MONDE">
+    <title>64' : DÉBAT</title>
+  </programme>
+  <programme start="20260129175300 +0000" stop="20260129180200 +0000" channel="TV5 MONDE">
+    <title>L'INVITÉ</title>
+  </programme>
+  <programme start="20260129180200 +0000" stop="20260129182300 +0000" channel="TV5 MONDE">
+    <title>UN SI GRAND SOLEIL</title>
+  </programme>
+  <programme start="20260129182300 +0000" stop="20260129184600 +0000" channel="TV5 MONDE">
+    <title>UN SI GRAND SOLEIL</title>
+  </programme>
+  <programme start="20260129184600 +0000" stop="20260129190000 +0000" channel="TV5 MONDE">
+    <title>LIGUE 1 MCDONALD'S - LES CLUBS: ANCRÉ COMME LE LOSC</title>
+  </programme>
+  <programme start="20260129190000 +0000" stop="20260129192600 +0000" channel="TV5 MONDE">
+    <title>LE JOURNAL DE LA RTS</title>
+  </programme>
+  <programme start="20260129192600 +0000" stop="20260129193000 +0000" channel="TV5 MONDE">
+    <title>A LA DÉCOUVERTE DES ARCHIVES DE LA SOCIÉTÉ DES NATIONS</title>
+  </programme>
+  <programme start="20260129193000 +0000" stop="20260129200000 +0000" channel="TV5 MONDE">
+    <title>LE JOURNAL DE FRANCE 2</title>
+  </programme>
+  <programme start="20260129200000 +0000" stop="20260129200600 +0000" channel="TV5 MONDE">
+    <title>MÉTÉO</title>
+  </programme>
+  <programme start="20260129200600 +0000" stop="20260129205400 +0000" channel="TV5 MONDE">
+    <title>DESTINATION FRANCOPHONIE: DESTINATION ALBANIE</title>
+  </programme>
+  <programme start="20260129205400 +0000" stop="20260129214700 +0000" channel="TV5 MONDE">
+    <title>ALBANIE, LE SECRET DES BALKANS</title>
   </programme>
   <programme start="20260128210000 +0000" stop="20260129020000 +0000" channel="4K TR: NUMBER1 TV HD">
     <title>NIGHT TIME</title>
@@ -38058,6 +38904,24 @@
   <programme start="20260129080000 +0000" stop="20260130050000 +0000" channel="FM TV">
     <title>GÜNDEM SOHBETI</title>
   </programme>
+  <programme start="20260128230000 +0000" stop="20260129030000 +0000" channel="TARIM TV">
+    <title>TARIM ORMAN EKRANI</title>
+  </programme>
+  <programme start="20260129030000 +0000" stop="20260129070000 +0000" channel="TARIM TV">
+    <title>TARIM ORMAN EKRANI</title>
+  </programme>
+  <programme start="20260129070000 +0000" stop="20260129110000 +0000" channel="TARIM TV">
+    <title>TARIM ORMAN EKRANI</title>
+  </programme>
+  <programme start="20260129110000 +0000" stop="20260129150000 +0000" channel="TARIM TV">
+    <title>TARIM ORMAN EKRANI</title>
+  </programme>
+  <programme start="20260129150000 +0000" stop="20260129190000 +0000" channel="TARIM TV">
+    <title>TARIM ORMAN EKRANI</title>
+  </programme>
+  <programme start="20260129190000 +0000" stop="20260129230000 +0000" channel="TARIM TV">
+    <title>TARIM ORMAN EKRANI</title>
+  </programme>
   <programme start="20260128210000 +0000" stop="20260128220000 +0000" channel="ÇİFTÇİ TV">
     <title>ÇIFTÇIDEN HABER</title>
   </programme>
@@ -38279,66 +39143,6 @@
   </programme>
   <programme start="20260129204500 +0000" stop="20260129210000 +0000" channel="TRT EBA">
     <title>HAYALIN MESLEĞIN OLSUN</title>
-  </programme>
-  <programme start="20260128210000 +0000" stop="20260128213000 +0000" channel="KADIRGA TV">
-    <title>HABERLER</title>
-  </programme>
-  <programme start="20260128213000 +0000" stop="20260129020000 +0000" channel="KADIRGA TV">
-    <title>PROGRAM TEKRARLARI</title>
-  </programme>
-  <programme start="20260129020000 +0000" stop="20260129030000 +0000" channel="KADIRGA TV">
-    <title>HATM-I ŞERIF</title>
-  </programme>
-  <programme start="20260129030000 +0000" stop="20260129050000 +0000" channel="KADIRGA TV">
-    <title>İLAHILER</title>
-  </programme>
-  <programme start="20260129050000 +0000" stop="20260129053000 +0000" channel="KADIRGA TV">
-    <title>HABERLER</title>
-  </programme>
-  <programme start="20260129053000 +0000" stop="20260129060000 +0000" channel="KADIRGA TV">
-    <title>EL SANATLARI</title>
-  </programme>
-  <programme start="20260129060000 +0000" stop="20260129070000 +0000" channel="KADIRGA TV">
-    <title>HATM-I ŞERIF</title>
-  </programme>
-  <programme start="20260129070000 +0000" stop="20260129080000 +0000" channel="KADIRGA TV">
-    <title>HÜNERLI ELLER</title>
-  </programme>
-  <programme start="20260129080000 +0000" stop="20260129100000 +0000" channel="KADIRGA TV">
-    <title>DOĞADA YAŞAM</title>
-  </programme>
-  <programme start="20260129100000 +0000" stop="20260129110000 +0000" channel="KADIRGA TV">
-    <title>HABERLER</title>
-  </programme>
-  <programme start="20260129110000 +0000" stop="20260129120000 +0000" channel="KADIRGA TV">
-    <title>TAMIRCI</title>
-  </programme>
-  <programme start="20260129120000 +0000" stop="20260129130000 +0000" channel="KADIRGA TV">
-    <title>DOĞADA EVLER</title>
-  </programme>
-  <programme start="20260129130000 +0000" stop="20260129140000 +0000" channel="KADIRGA TV">
-    <title>GÖNÜLDEN TELLERRE</title>
-  </programme>
-  <programme start="20260129140000 +0000" stop="20260129150000 +0000" channel="KADIRGA TV">
-    <title>GÖNÜLDEN TELLERRE</title>
-  </programme>
-  <programme start="20260129150000 +0000" stop="20260129160000 +0000" channel="KADIRGA TV">
-    <title>HÜNERLI ELLER</title>
-  </programme>
-  <programme start="20260129160000 +0000" stop="20260129163000 +0000" channel="KADIRGA TV">
-    <title>ANA HABER BÜLTENI</title>
-  </programme>
-  <programme start="20260129163000 +0000" stop="20260129180000 +0000" channel="KADIRGA TV">
-    <title>HÜNERLI ELLER</title>
-  </programme>
-  <programme start="20260129180000 +0000" stop="20260129190000 +0000" channel="KADIRGA TV">
-    <title>HAFTANIN SOHBETI</title>
-  </programme>
-  <programme start="20260129190000 +0000" stop="20260129200000 +0000" channel="KADIRGA TV">
-    <title>İLAHI</title>
-  </programme>
-  <programme start="20260129200000 +0000" stop="20260129210000 +0000" channel="KADIRGA TV">
-    <title>BELGESEL</title>
   </programme>
   <programme start="20260128210000 +0000" stop="20260128215000 +0000" channel="KON TV">
     <title>GECE HABER</title>
@@ -38630,45 +39434,6 @@
   </programme>
   <programme start="20260129203000 +0000" stop="20260129210000 +0000" channel="KANAL V">
     <title>FILM KUŞAĞI</title>
-  </programme>
-  <programme start="20260128210000 +0000" stop="20260129043000 +0000" channel="KANAL 26">
-    <title>GECE HABERLERI</title>
-  </programme>
-  <programme start="20260129043000 +0000" stop="20260129060000 +0000" channel="KANAL 26">
-    <title>ÇIZGI FILM</title>
-  </programme>
-  <programme start="20260129060000 +0000" stop="20260129070000 +0000" channel="KANAL 26">
-    <title>ARA HABER BÜLTENI</title>
-  </programme>
-  <programme start="20260129070000 +0000" stop="20260129090000 +0000" channel="KANAL 26">
-    <title>SABAH HABERLERI</title>
-  </programme>
-  <programme start="20260129090000 +0000" stop="20260129100000 +0000" channel="KANAL 26">
-    <title>SÜRMANŞET</title>
-  </programme>
-  <programme start="20260129100000 +0000" stop="20260129110000 +0000" channel="KANAL 26">
-    <title>İHA</title>
-  </programme>
-  <programme start="20260129110000 +0000" stop="20260129120000 +0000" channel="KANAL 26">
-    <title>BELGESEL</title>
-  </programme>
-  <programme start="20260129120000 +0000" stop="20260129140000 +0000" channel="KANAL 26">
-    <title>26.GÜN</title>
-  </programme>
-  <programme start="20260129140000 +0000" stop="20260129150000 +0000" channel="KANAL 26">
-    <title>İHA</title>
-  </programme>
-  <programme start="20260129150000 +0000" stop="20260129160000 +0000" channel="KANAL 26">
-    <title>HUZUR SOHBETLERI</title>
-  </programme>
-  <programme start="20260129160000 +0000" stop="20260129173000 +0000" channel="KANAL 26">
-    <title>ARA HABER BÜLTENI</title>
-  </programme>
-  <programme start="20260129173000 +0000" stop="20260129200000 +0000" channel="KANAL 26">
-    <title>HODRI MEYDAN</title>
-  </programme>
-  <programme start="20260129200000 +0000" stop="20260129210000 +0000" channel="KANAL 26">
-    <title>BELGESEL</title>
   </programme>
   <programme start="20260129043000 +0000" stop="20260129053000 +0000" channel="KANAL 33">
     <title>HABER TEKRAR</title>
@@ -39032,6 +39797,18 @@
   </programme>
   <programme start="20260129200000 +0000" stop="20260130040000 +0000" channel="GENC TV">
     <title>GECE BÜLTENI</title>
+  </programme>
+  <programme start="20260128210000 +0000" stop="20260129030000 +0000" channel="KIBRIS TV">
+    <title>KIBRIS TV</title>
+  </programme>
+  <programme start="20260129030000 +0000" stop="20260129090000 +0000" channel="KIBRIS TV">
+    <title>KIBRIS TV</title>
+  </programme>
+  <programme start="20260129090000 +0000" stop="20260129150000 +0000" channel="KIBRIS TV">
+    <title>KIBRIS TV</title>
+  </programme>
+  <programme start="20260129150000 +0000" stop="20260129210000 +0000" channel="KIBRIS TV">
+    <title>KIBRIS TV</title>
   </programme>
   <programme start="20260128210000 +0000" stop="20260129030000 +0000" channel="KANAL T">
     <title>KANAL T</title>
