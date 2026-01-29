@@ -1,13 +1,25 @@
 {
-  "/dizi/tell-me-lies-hdf2-14/": {
-    "group": "TELL ME LIES",
-    "last_season": 3,
-    "last_episode": 8,
+  "/dizi/high-potential/": {
+    "group": "HIGH POTENTIAL",
+    "last_season": 2,
+    "last_episode": 9,
+    "start_episode": 1
+  },
+  "/dizi/beast-games/": {
+    "group": "BEAST GAMES",
+    "last_season": 2,
+    "last_episode": 10,
     "start_episode": 1
   },
   "/dizi/hijack-38/": {
     "group": "HIJACK",
     "last_season": 2,
+    "last_episode": 8,
+    "start_episode": 1
+  },
+  "/dizi/tell-me-lies-hdf2-14/": {
+    "group": "TELL ME LIES",
+    "last_season": 3,
     "last_episode": 8,
     "start_episode": 1
   },
@@ -20,6 +32,12 @@
   "/dizi/will-trent-1/": {
     "group": "WILL TRENT",
     "last_season": 4,
+    "last_episode": 13,
+    "start_episode": 1
+  },
+  "/dizi/doc/": {
+    "group": "DOC",
+    "last_season": 2,
     "last_episode": 13,
     "start_episode": 1
   },
@@ -63,18 +81,6 @@
     "group": "A KNIGHT OF THE SEVEN KINGDOMS",
     "last_season": 1,
     "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi/heaven-2025-dizi-hdfc/": {
-    "group": "HEAVEN",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1
-  },
-  "/dizi/sanctuary-a-witch-s-tale/": {
-    "group": "SANCTUARY: A WITCH'S TALE",
-    "last_season": 1,
-    "last_episode": 1,
     "start_episode": 1
   }
 }
