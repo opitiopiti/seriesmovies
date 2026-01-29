@@ -6294,69 +6294,6 @@
   <programme start="20260129203800 +0000" stop="20260129210000 +0000" channel="GZT TV">
     <title>OUTDOOR BUILDER</title>
   </programme>
-  <programme start="20260128210000 +0000" stop="20260128220000 +0000" channel="VAV TV">
-    <title>PERGELIN AYAĞI</title>
-  </programme>
-  <programme start="20260128220000 +0000" stop="20260128230000 +0000" channel="VAV TV">
-    <title>KÜRSÜ</title>
-  </programme>
-  <programme start="20260128230000 +0000" stop="20260129000000 +0000" channel="VAV TV">
-    <title>MUKABELE</title>
-  </programme>
-  <programme start="20260129000000 +0000" stop="20260129014500 +0000" channel="VAV TV">
-    <title>UFUK ÇIZGISI</title>
-  </programme>
-  <programme start="20260129014500 +0000" stop="20260129020000 +0000" channel="VAV TV">
-    <title>HIKAYELERLE 40 HADIS</title>
-  </programme>
-  <programme start="20260129020000 +0000" stop="20260129040000 +0000" channel="VAV TV">
-    <title>KENDINI BILMEK</title>
-  </programme>
-  <programme start="20260129040000 +0000" stop="20260129050000 +0000" channel="VAV TV">
-    <title>MUKABELE</title>
-  </programme>
-  <programme start="20260129050000 +0000" stop="20260129060000 +0000" channel="VAV TV">
-    <title>KÜRSÜ</title>
-  </programme>
-  <programme start="20260129060000 +0000" stop="20260129070000 +0000" channel="VAV TV">
-    <title>İSLAM'IN IŞIĞINDA GÜNÜMÜZ MESELELERI</title>
-  </programme>
-  <programme start="20260129070000 +0000" stop="20260129084500 +0000" channel="VAV TV">
-    <title>AILEDE BENDEN BIZE</title>
-  </programme>
-  <programme start="20260129084500 +0000" stop="20260129090000 +0000" channel="VAV TV">
-    <title>HIKAYELERLE 40 HADIS</title>
-  </programme>
-  <programme start="20260129090000 +0000" stop="20260129100000 +0000" channel="VAV TV">
-    <title>SELÇUKLULAR ÇAĞI</title>
-  </programme>
-  <programme start="20260129100000 +0000" stop="20260129110000 +0000" channel="VAV TV">
-    <title>VAKTI GELDI</title>
-  </programme>
-  <programme start="20260129110000 +0000" stop="20260129130000 +0000" channel="VAV TV">
-    <title>HAYATA DOKUNMAK</title>
-  </programme>
-  <programme start="20260129130000 +0000" stop="20260129150000 +0000" channel="VAV TV">
-    <title>SON DAVET</title>
-  </programme>
-  <programme start="20260129150000 +0000" stop="20260129160000 +0000" channel="VAV TV">
-    <title>EDEBIYAT MAHFILI</title>
-  </programme>
-  <programme start="20260129160000 +0000" stop="20260129170000 +0000" channel="VAV TV">
-    <title>RAHMET ELÇISI</title>
-  </programme>
-  <programme start="20260129170000 +0000" stop="20260129180000 +0000" channel="VAV TV">
-    <title>NEFS ÜLKESI</title>
-  </programme>
-  <programme start="20260129180000 +0000" stop="20260129190000 +0000" channel="VAV TV">
-    <title>ANDA OLMAK</title>
-  </programme>
-  <programme start="20260129190000 +0000" stop="20260129200000 +0000" channel="VAV TV">
-    <title>OSMANLI TARIHINDEN SAYFALAR</title>
-  </programme>
-  <programme start="20260129200000 +0000" stop="20260129210000 +0000" channel="VAV TV">
-    <title>SORUN KALMASIN</title>
-  </programme>
   <programme start="20260128210000 +0000" stop="20260128221500 +0000" channel="4K TR: TRT 2 HD">
     <title>MIMAR OLMANIN ÖNEMI</title>
   </programme>
@@ -12789,6 +12726,78 @@
   <programme start="20260129203000 +0000" stop="20260129210000 +0000" channel="TVNET HD">
     <title>GÜNÜN ARDINDAN</title>
   </programme>
+  <programme start="20260129040000 +0000" stop="20260129073000 +0000" channel="4K TR: AK T TV HD">
+    <title>GÜN BAŞLIYOR</title>
+  </programme>
+  <programme start="20260129040000 +0000" stop="20260129073000 +0000" channel="AKIT TV">
+    <title>GÜN BAŞLIYOR</title>
+  </programme>
+  <programme start="20260129073000 +0000" stop="20260129090000 +0000" channel="4K TR: AK T TV HD">
+    <title>MANŞETLERIN DILI</title>
+  </programme>
+  <programme start="20260129073000 +0000" stop="20260129090000 +0000" channel="AKIT TV">
+    <title>MANŞETLERIN DILI</title>
+  </programme>
+  <programme start="20260129090000 +0000" stop="20260129100000 +0000" channel="4K TR: AK T TV HD">
+    <title>ÖĞLE BÜLTENI</title>
+  </programme>
+  <programme start="20260129090000 +0000" stop="20260129100000 +0000" channel="AKIT TV">
+    <title>ÖĞLE BÜLTENI</title>
+  </programme>
+  <programme start="20260129100000 +0000" stop="20260129110000 +0000" channel="4K TR: AK T TV HD">
+    <title>GÜN ORTASI</title>
+  </programme>
+  <programme start="20260129100000 +0000" stop="20260129110000 +0000" channel="AKIT TV">
+    <title>GÜN ORTASI</title>
+  </programme>
+  <programme start="20260129110000 +0000" stop="20260129113000 +0000" channel="4K TR: AK T TV HD">
+    <title>HABER BÜLTENI</title>
+  </programme>
+  <programme start="20260129110000 +0000" stop="20260129113000 +0000" channel="AKIT TV">
+    <title>HABER BÜLTENI</title>
+  </programme>
+  <programme start="20260129113000 +0000" stop="20260129120000 +0000" channel="4K TR: AK T TV HD">
+    <title>EKONOMI AJANDASI</title>
+  </programme>
+  <programme start="20260129113000 +0000" stop="20260129120000 +0000" channel="AKIT TV">
+    <title>EKONOMI AJANDASI</title>
+  </programme>
+  <programme start="20260129120000 +0000" stop="20260129130000 +0000" channel="4K TR: AK T TV HD">
+    <title>HABER BÜLTENI</title>
+  </programme>
+  <programme start="20260129120000 +0000" stop="20260129130000 +0000" channel="AKIT TV">
+    <title>HABER BÜLTENI</title>
+  </programme>
+  <programme start="20260129130000 +0000" stop="20260129140000 +0000" channel="4K TR: AK T TV HD">
+    <title>HABER 16</title>
+  </programme>
+  <programme start="20260129130000 +0000" stop="20260129140000 +0000" channel="AKIT TV">
+    <title>HABER 16</title>
+  </programme>
+  <programme start="20260129140000 +0000" stop="20260129143000 +0000" channel="4K TR: AK T TV HD">
+    <title>AKŞAMA DOĞRU</title>
+  </programme>
+  <programme start="20260129140000 +0000" stop="20260129143000 +0000" channel="AKIT TV">
+    <title>AKŞAMA DOĞRU</title>
+  </programme>
+  <programme start="20260129143000 +0000" stop="20260129153000 +0000" channel="4K TR: AK T TV HD">
+    <title>İŞ VE EKONOMI</title>
+  </programme>
+  <programme start="20260129143000 +0000" stop="20260129153000 +0000" channel="AKIT TV">
+    <title>İŞ VE EKONOMI</title>
+  </programme>
+  <programme start="20260129153000 +0000" stop="20260129173000 +0000" channel="4K TR: AK T TV HD">
+    <title>ANA HABER</title>
+  </programme>
+  <programme start="20260129153000 +0000" stop="20260129173000 +0000" channel="AKIT TV">
+    <title>ANA HABER</title>
+  </programme>
+  <programme start="20260129173000 +0000" stop="20260129210000 +0000" channel="4K TR: AK T TV HD">
+    <title>SÖZ MEYDANI</title>
+  </programme>
+  <programme start="20260129173000 +0000" stop="20260129210000 +0000" channel="AKIT TV">
+    <title>SÖZ MEYDANI</title>
+  </programme>
   <programme start="20260128210000 +0000" stop="20260128220000 +0000" channel="4K TR: BENG T RK">
     <title>GECE HABERLERI</title>
   </programme>
@@ -12983,6 +12992,294 @@
   </programme>
   <programme start="20260129183000 +0000" stop="20260130043000 +0000" channel="ULUSAL KANAL SD">
     <title>ANKARA GÜNDEMI</title>
+  </programme>
+  <programme start="20260128210000 +0000" stop="20260128220000 +0000" channel="4K TR: KRT TV">
+    <title>HAFIZA</title>
+  </programme>
+  <programme start="20260128210000 +0000" stop="20260128220000 +0000" channel="KRT HD+ SD">
+    <title>HAFIZA</title>
+  </programme>
+  <programme start="20260128210000 +0000" stop="20260128220000 +0000" channel="KRT TV HD">
+    <title>HAFIZA</title>
+  </programme>
+  <programme start="20260128210000 +0000" stop="20260128220000 +0000" channel="KRT TV">
+    <title>HAFIZA</title>
+  </programme>
+  <programme start="20260128220000 +0000" stop="20260128230000 +0000" channel="4K TR: KRT TV">
+    <title>ZAMAN DIŞI</title>
+  </programme>
+  <programme start="20260128220000 +0000" stop="20260128230000 +0000" channel="KRT HD+ SD">
+    <title>ZAMAN DIŞI</title>
+  </programme>
+  <programme start="20260128220000 +0000" stop="20260128230000 +0000" channel="KRT TV HD">
+    <title>ZAMAN DIŞI</title>
+  </programme>
+  <programme start="20260128220000 +0000" stop="20260128230000 +0000" channel="KRT TV">
+    <title>ZAMAN DIŞI</title>
+  </programme>
+  <programme start="20260128230000 +0000" stop="20260129000000 +0000" channel="4K TR: KRT TV">
+    <title>ENERJIDE BILGI NET</title>
+  </programme>
+  <programme start="20260128230000 +0000" stop="20260129000000 +0000" channel="KRT HD+ SD">
+    <title>ENERJIDE BILGI NET</title>
+  </programme>
+  <programme start="20260128230000 +0000" stop="20260129000000 +0000" channel="KRT TV HD">
+    <title>ENERJIDE BILGI NET</title>
+  </programme>
+  <programme start="20260128230000 +0000" stop="20260129000000 +0000" channel="KRT TV">
+    <title>ENERJIDE BILGI NET</title>
+  </programme>
+  <programme start="20260129000000 +0000" stop="20260129010000 +0000" channel="4K TR: KRT TV">
+    <title>EN IYISI</title>
+  </programme>
+  <programme start="20260129000000 +0000" stop="20260129010000 +0000" channel="KRT HD+ SD">
+    <title>EN IYISI</title>
+  </programme>
+  <programme start="20260129000000 +0000" stop="20260129010000 +0000" channel="KRT TV HD">
+    <title>EN IYISI</title>
+  </programme>
+  <programme start="20260129000000 +0000" stop="20260129010000 +0000" channel="KRT TV">
+    <title>EN IYISI</title>
+  </programme>
+  <programme start="20260129010000 +0000" stop="20260129020000 +0000" channel="4K TR: KRT TV">
+    <title>NECMI İNCE ILE ZIRVEDEKILER</title>
+  </programme>
+  <programme start="20260129010000 +0000" stop="20260129020000 +0000" channel="KRT HD+ SD">
+    <title>NECMI İNCE ILE ZIRVEDEKILER</title>
+  </programme>
+  <programme start="20260129010000 +0000" stop="20260129020000 +0000" channel="KRT TV HD">
+    <title>NECMI İNCE ILE ZIRVEDEKILER</title>
+  </programme>
+  <programme start="20260129010000 +0000" stop="20260129020000 +0000" channel="KRT TV">
+    <title>NECMI İNCE ILE ZIRVEDEKILER</title>
+  </programme>
+  <programme start="20260129020000 +0000" stop="20260129030000 +0000" channel="4K TR: KRT TV">
+    <title>YAŞAMIN SIRLARI</title>
+  </programme>
+  <programme start="20260129020000 +0000" stop="20260129030000 +0000" channel="KRT HD+ SD">
+    <title>YAŞAMIN SIRLARI</title>
+  </programme>
+  <programme start="20260129020000 +0000" stop="20260129030000 +0000" channel="KRT TV HD">
+    <title>YAŞAMIN SIRLARI</title>
+  </programme>
+  <programme start="20260129020000 +0000" stop="20260129030000 +0000" channel="KRT TV">
+    <title>YAŞAMIN SIRLARI</title>
+  </programme>
+  <programme start="20260129030000 +0000" stop="20260129040000 +0000" channel="4K TR: KRT TV">
+    <title>YAŞAMINI TASARLA</title>
+  </programme>
+  <programme start="20260129030000 +0000" stop="20260129040000 +0000" channel="KRT HD+ SD">
+    <title>YAŞAMINI TASARLA</title>
+  </programme>
+  <programme start="20260129030000 +0000" stop="20260129040000 +0000" channel="KRT TV HD">
+    <title>YAŞAMINI TASARLA</title>
+  </programme>
+  <programme start="20260129030000 +0000" stop="20260129040000 +0000" channel="KRT TV">
+    <title>YAŞAMINI TASARLA</title>
+  </programme>
+  <programme start="20260129040000 +0000" stop="20260129050000 +0000" channel="4K TR: KRT TV">
+    <title>ECE ERKEN ILE İŞ DÜNYASI</title>
+  </programme>
+  <programme start="20260129040000 +0000" stop="20260129050000 +0000" channel="KRT HD+ SD">
+    <title>ECE ERKEN ILE İŞ DÜNYASI</title>
+  </programme>
+  <programme start="20260129040000 +0000" stop="20260129050000 +0000" channel="KRT TV HD">
+    <title>ECE ERKEN ILE İŞ DÜNYASI</title>
+  </programme>
+  <programme start="20260129040000 +0000" stop="20260129050000 +0000" channel="KRT TV">
+    <title>ECE ERKEN ILE İŞ DÜNYASI</title>
+  </programme>
+  <programme start="20260129050000 +0000" stop="20260129060000 +0000" channel="4K TR: KRT TV">
+    <title>EN IYISI</title>
+  </programme>
+  <programme start="20260129050000 +0000" stop="20260129060000 +0000" channel="KRT HD+ SD">
+    <title>EN IYISI</title>
+  </programme>
+  <programme start="20260129050000 +0000" stop="20260129060000 +0000" channel="KRT TV HD">
+    <title>EN IYISI</title>
+  </programme>
+  <programme start="20260129050000 +0000" stop="20260129060000 +0000" channel="KRT TV">
+    <title>EN IYISI</title>
+  </programme>
+  <programme start="20260129060000 +0000" stop="20260129070000 +0000" channel="4K TR: KRT TV">
+    <title>ENERJIDE BILGI NET</title>
+  </programme>
+  <programme start="20260129060000 +0000" stop="20260129070000 +0000" channel="KRT HD+ SD">
+    <title>ENERJIDE BILGI NET</title>
+  </programme>
+  <programme start="20260129060000 +0000" stop="20260129070000 +0000" channel="KRT TV HD">
+    <title>ENERJIDE BILGI NET</title>
+  </programme>
+  <programme start="20260129060000 +0000" stop="20260129070000 +0000" channel="KRT TV">
+    <title>ENERJIDE BILGI NET</title>
+  </programme>
+  <programme start="20260129070000 +0000" stop="20260129080000 +0000" channel="4K TR: KRT TV">
+    <title>NECMI İNCE ILE ZIRVEDEKILER</title>
+  </programme>
+  <programme start="20260129070000 +0000" stop="20260129080000 +0000" channel="KRT HD+ SD">
+    <title>NECMI İNCE ILE ZIRVEDEKILER</title>
+  </programme>
+  <programme start="20260129070000 +0000" stop="20260129080000 +0000" channel="KRT TV HD">
+    <title>NECMI İNCE ILE ZIRVEDEKILER</title>
+  </programme>
+  <programme start="20260129070000 +0000" stop="20260129080000 +0000" channel="KRT TV">
+    <title>NECMI İNCE ILE ZIRVEDEKILER</title>
+  </programme>
+  <programme start="20260129080000 +0000" stop="20260129090000 +0000" channel="4K TR: KRT TV">
+    <title>HAFIZA</title>
+  </programme>
+  <programme start="20260129080000 +0000" stop="20260129090000 +0000" channel="KRT HD+ SD">
+    <title>HAFIZA</title>
+  </programme>
+  <programme start="20260129080000 +0000" stop="20260129090000 +0000" channel="KRT TV HD">
+    <title>HAFIZA</title>
+  </programme>
+  <programme start="20260129080000 +0000" stop="20260129090000 +0000" channel="KRT TV">
+    <title>HAFIZA</title>
+  </programme>
+  <programme start="20260129090000 +0000" stop="20260129100000 +0000" channel="4K TR: KRT TV">
+    <title>İŞTE BAŞARI</title>
+  </programme>
+  <programme start="20260129090000 +0000" stop="20260129100000 +0000" channel="KRT HD+ SD">
+    <title>İŞTE BAŞARI</title>
+  </programme>
+  <programme start="20260129090000 +0000" stop="20260129100000 +0000" channel="KRT TV HD">
+    <title>İŞTE BAŞARI</title>
+  </programme>
+  <programme start="20260129090000 +0000" stop="20260129100000 +0000" channel="KRT TV">
+    <title>İŞTE BAŞARI</title>
+  </programme>
+  <programme start="20260129100000 +0000" stop="20260129110000 +0000" channel="4K TR: KRT TV">
+    <title>YAŞAMINI TASARLA</title>
+  </programme>
+  <programme start="20260129100000 +0000" stop="20260129110000 +0000" channel="KRT HD+ SD">
+    <title>YAŞAMINI TASARLA</title>
+  </programme>
+  <programme start="20260129100000 +0000" stop="20260129110000 +0000" channel="KRT TV HD">
+    <title>YAŞAMINI TASARLA</title>
+  </programme>
+  <programme start="20260129100000 +0000" stop="20260129110000 +0000" channel="KRT TV">
+    <title>YAŞAMINI TASARLA</title>
+  </programme>
+  <programme start="20260129110000 +0000" stop="20260129120000 +0000" channel="4K TR: KRT TV">
+    <title>YAŞAMIN SIRLARI</title>
+  </programme>
+  <programme start="20260129110000 +0000" stop="20260129120000 +0000" channel="KRT HD+ SD">
+    <title>YAŞAMIN SIRLARI</title>
+  </programme>
+  <programme start="20260129110000 +0000" stop="20260129120000 +0000" channel="KRT TV HD">
+    <title>YAŞAMIN SIRLARI</title>
+  </programme>
+  <programme start="20260129110000 +0000" stop="20260129120000 +0000" channel="KRT TV">
+    <title>YAŞAMIN SIRLARI</title>
+  </programme>
+  <programme start="20260129120000 +0000" stop="20260129130000 +0000" channel="4K TR: KRT TV">
+    <title>ZAMAN DIŞI</title>
+  </programme>
+  <programme start="20260129120000 +0000" stop="20260129130000 +0000" channel="KRT HD+ SD">
+    <title>ZAMAN DIŞI</title>
+  </programme>
+  <programme start="20260129120000 +0000" stop="20260129130000 +0000" channel="KRT TV HD">
+    <title>ZAMAN DIŞI</title>
+  </programme>
+  <programme start="20260129120000 +0000" stop="20260129130000 +0000" channel="KRT TV">
+    <title>ZAMAN DIŞI</title>
+  </programme>
+  <programme start="20260129130000 +0000" stop="20260129140000 +0000" channel="4K TR: KRT TV">
+    <title>HAFIZA</title>
+  </programme>
+  <programme start="20260129130000 +0000" stop="20260129140000 +0000" channel="KRT HD+ SD">
+    <title>HAFIZA</title>
+  </programme>
+  <programme start="20260129130000 +0000" stop="20260129140000 +0000" channel="KRT TV HD">
+    <title>HAFIZA</title>
+  </programme>
+  <programme start="20260129130000 +0000" stop="20260129140000 +0000" channel="KRT TV">
+    <title>HAFIZA</title>
+  </programme>
+  <programme start="20260129140000 +0000" stop="20260129150000 +0000" channel="4K TR: KRT TV">
+    <title>UZMAN REHBERI</title>
+  </programme>
+  <programme start="20260129140000 +0000" stop="20260129150000 +0000" channel="KRT HD+ SD">
+    <title>UZMAN REHBERI</title>
+  </programme>
+  <programme start="20260129140000 +0000" stop="20260129150000 +0000" channel="KRT TV HD">
+    <title>UZMAN REHBERI</title>
+  </programme>
+  <programme start="20260129140000 +0000" stop="20260129150000 +0000" channel="KRT TV">
+    <title>UZMAN REHBERI</title>
+  </programme>
+  <programme start="20260129150000 +0000" stop="20260129160000 +0000" channel="4K TR: KRT TV">
+    <title>EN IYISI</title>
+  </programme>
+  <programme start="20260129150000 +0000" stop="20260129160000 +0000" channel="KRT HD+ SD">
+    <title>EN IYISI</title>
+  </programme>
+  <programme start="20260129150000 +0000" stop="20260129160000 +0000" channel="KRT TV HD">
+    <title>EN IYISI</title>
+  </programme>
+  <programme start="20260129150000 +0000" stop="20260129160000 +0000" channel="KRT TV">
+    <title>EN IYISI</title>
+  </programme>
+  <programme start="20260129160000 +0000" stop="20260129170000 +0000" channel="4K TR: KRT TV">
+    <title>ENERJIDE BILGI NET</title>
+  </programme>
+  <programme start="20260129160000 +0000" stop="20260129170000 +0000" channel="KRT HD+ SD">
+    <title>ENERJIDE BILGI NET</title>
+  </programme>
+  <programme start="20260129160000 +0000" stop="20260129170000 +0000" channel="KRT TV HD">
+    <title>ENERJIDE BILGI NET</title>
+  </programme>
+  <programme start="20260129160000 +0000" stop="20260129170000 +0000" channel="KRT TV">
+    <title>ENERJIDE BILGI NET</title>
+  </programme>
+  <programme start="20260129170000 +0000" stop="20260129180000 +0000" channel="4K TR: KRT TV">
+    <title>HAFIZA</title>
+  </programme>
+  <programme start="20260129170000 +0000" stop="20260129180000 +0000" channel="KRT HD+ SD">
+    <title>HAFIZA</title>
+  </programme>
+  <programme start="20260129170000 +0000" stop="20260129180000 +0000" channel="KRT TV HD">
+    <title>HAFIZA</title>
+  </programme>
+  <programme start="20260129170000 +0000" stop="20260129180000 +0000" channel="KRT TV">
+    <title>HAFIZA</title>
+  </programme>
+  <programme start="20260129180000 +0000" stop="20260129190000 +0000" channel="4K TR: KRT TV">
+    <title>ZAMAN DIŞI</title>
+  </programme>
+  <programme start="20260129180000 +0000" stop="20260129190000 +0000" channel="KRT HD+ SD">
+    <title>ZAMAN DIŞI</title>
+  </programme>
+  <programme start="20260129180000 +0000" stop="20260129190000 +0000" channel="KRT TV HD">
+    <title>ZAMAN DIŞI</title>
+  </programme>
+  <programme start="20260129180000 +0000" stop="20260129190000 +0000" channel="KRT TV">
+    <title>ZAMAN DIŞI</title>
+  </programme>
+  <programme start="20260129190000 +0000" stop="20260129200000 +0000" channel="4K TR: KRT TV">
+    <title>YAŞAMIN SIRLARI</title>
+  </programme>
+  <programme start="20260129190000 +0000" stop="20260129200000 +0000" channel="KRT HD+ SD">
+    <title>YAŞAMIN SIRLARI</title>
+  </programme>
+  <programme start="20260129190000 +0000" stop="20260129200000 +0000" channel="KRT TV HD">
+    <title>YAŞAMIN SIRLARI</title>
+  </programme>
+  <programme start="20260129190000 +0000" stop="20260129200000 +0000" channel="KRT TV">
+    <title>YAŞAMIN SIRLARI</title>
+  </programme>
+  <programme start="20260129200000 +0000" stop="20260129210000 +0000" channel="4K TR: KRT TV">
+    <title>YAŞAMINI TASARLA</title>
+  </programme>
+  <programme start="20260129200000 +0000" stop="20260129210000 +0000" channel="KRT HD+ SD">
+    <title>YAŞAMINI TASARLA</title>
+  </programme>
+  <programme start="20260129200000 +0000" stop="20260129210000 +0000" channel="KRT TV HD">
+    <title>YAŞAMINI TASARLA</title>
+  </programme>
+  <programme start="20260129200000 +0000" stop="20260129210000 +0000" channel="KRT TV">
+    <title>YAŞAMINI TASARLA</title>
   </programme>
   <programme start="20260129020000 +0000" stop="20260129020500 +0000" channel="TV 5">
     <title>SABAH EZANI</title>
@@ -14196,65 +14493,65 @@
   <programme start="20260129134000 +0000" stop="20260129140500 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>SPOR ÜNIVERSITEDE</title>
   </programme>
-  <programme start="20260129140500 +0000" stop="20260129142000 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>ENGELSIZ SPOR</title>
-  </programme>
-  <programme start="20260129140500 +0000" stop="20260129142000 +0000" channel="TRT SPOR YILDIZ">
-    <title>ENGELSIZ SPOR</title>
-  </programme>
-  <programme start="20260129140500 +0000" stop="20260129142000 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>ENGELSIZ SPOR</title>
-  </programme>
-  <programme start="20260129140500 +0000" stop="20260129142000 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>ENGELSIZ SPOR</title>
-  </programme>
-  <programme start="20260129140500 +0000" stop="20260129142000 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>ENGELSIZ SPOR</title>
-  </programme>
-  <programme start="20260129142000 +0000" stop="20260129144000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+  <programme start="20260129140500 +0000" stop="20260129142500 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>YILDIZ'DA SÖYLEŞI</title>
   </programme>
-  <programme start="20260129142000 +0000" stop="20260129144000 +0000" channel="TRT SPOR YILDIZ">
+  <programme start="20260129140500 +0000" stop="20260129142500 +0000" channel="TRT SPOR YILDIZ">
     <title>YILDIZ'DA SÖYLEŞI</title>
   </programme>
-  <programme start="20260129142000 +0000" stop="20260129144000 +0000" channel="TRT SPOR YILDIZ HD">
+  <programme start="20260129140500 +0000" stop="20260129142500 +0000" channel="TRT SPOR YILDIZ HD">
     <title>YILDIZ'DA SÖYLEŞI</title>
   </programme>
-  <programme start="20260129142000 +0000" stop="20260129144000 +0000" channel="TRT SPOR YILDIZ HEVC">
+  <programme start="20260129140500 +0000" stop="20260129142500 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>YILDIZ'DA SÖYLEŞI</title>
   </programme>
-  <programme start="20260129142000 +0000" stop="20260129144000 +0000" channel="TRT SPOR YILDIZ RAW">
+  <programme start="20260129140500 +0000" stop="20260129142500 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>YILDIZ'DA SÖYLEŞI</title>
   </programme>
-  <programme start="20260129144000 +0000" stop="20260129145500 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>SORMAZSAM OLMAZ</title>
-  </programme>
-  <programme start="20260129144000 +0000" stop="20260129145500 +0000" channel="TRT SPOR YILDIZ">
-    <title>SORMAZSAM OLMAZ</title>
-  </programme>
-  <programme start="20260129144000 +0000" stop="20260129145500 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>SORMAZSAM OLMAZ</title>
-  </programme>
-  <programme start="20260129144000 +0000" stop="20260129145500 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>SORMAZSAM OLMAZ</title>
-  </programme>
-  <programme start="20260129144000 +0000" stop="20260129145500 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>SORMAZSAM OLMAZ</title>
-  </programme>
-  <programme start="20260129145500 +0000" stop="20260129150000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+  <programme start="20260129142500 +0000" stop="20260129143000 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>NEDIR, NASIL OYNANIR?</title>
   </programme>
-  <programme start="20260129145500 +0000" stop="20260129150000 +0000" channel="TRT SPOR YILDIZ">
+  <programme start="20260129142500 +0000" stop="20260129143000 +0000" channel="TRT SPOR YILDIZ">
     <title>NEDIR, NASIL OYNANIR?</title>
   </programme>
-  <programme start="20260129145500 +0000" stop="20260129150000 +0000" channel="TRT SPOR YILDIZ HD">
+  <programme start="20260129142500 +0000" stop="20260129143000 +0000" channel="TRT SPOR YILDIZ HD">
     <title>NEDIR, NASIL OYNANIR?</title>
   </programme>
-  <programme start="20260129145500 +0000" stop="20260129150000 +0000" channel="TRT SPOR YILDIZ HEVC">
+  <programme start="20260129142500 +0000" stop="20260129143000 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>NEDIR, NASIL OYNANIR?</title>
   </programme>
-  <programme start="20260129145500 +0000" stop="20260129150000 +0000" channel="TRT SPOR YILDIZ RAW">
+  <programme start="20260129142500 +0000" stop="20260129143000 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>NEDIR, NASIL OYNANIR?</title>
+  </programme>
+  <programme start="20260129143000 +0000" stop="20260129144500 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>SORMAZSAM OLMAZ</title>
+  </programme>
+  <programme start="20260129143000 +0000" stop="20260129144500 +0000" channel="TRT SPOR YILDIZ">
+    <title>SORMAZSAM OLMAZ</title>
+  </programme>
+  <programme start="20260129143000 +0000" stop="20260129144500 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>SORMAZSAM OLMAZ</title>
+  </programme>
+  <programme start="20260129143000 +0000" stop="20260129144500 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>SORMAZSAM OLMAZ</title>
+  </programme>
+  <programme start="20260129143000 +0000" stop="20260129144500 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>SORMAZSAM OLMAZ</title>
+  </programme>
+  <programme start="20260129144500 +0000" stop="20260129150000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>ENGELSIZ SPOR</title>
+  </programme>
+  <programme start="20260129144500 +0000" stop="20260129150000 +0000" channel="TRT SPOR YILDIZ">
+    <title>ENGELSIZ SPOR</title>
+  </programme>
+  <programme start="20260129144500 +0000" stop="20260129150000 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>ENGELSIZ SPOR</title>
+  </programme>
+  <programme start="20260129144500 +0000" stop="20260129150000 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>ENGELSIZ SPOR</title>
+  </programme>
+  <programme start="20260129144500 +0000" stop="20260129150000 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>ENGELSIZ SPOR</title>
   </programme>
   <programme start="20260129150000 +0000" stop="20260129151500 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>HABER BÜLTENI</title>
@@ -20003,3222 +20300,6 @@
   </programme>
   <programme start="20260129203000 +0000" stop="20260129210000 +0000" channel="BABY TV HD">
     <title>RAHATLA VE GEVŞE</title>
-  </programme>
-  <programme start="20260128210100 +0000" stop="20260128210400 +0000" channel="4K TR: DUCK TV HD">
-    <title>TOBY MCFLY</title>
-  </programme>
-  <programme start="20260128210100 +0000" stop="20260128210400 +0000" channel="DUCK TV">
-    <title>TOBY MCFLY</title>
-  </programme>
-  <programme start="20260128210400 +0000" stop="20260128210700 +0000" channel="4K TR: DUCK TV HD">
-    <title>SMALL - BUT HARDWORKING</title>
-  </programme>
-  <programme start="20260128210400 +0000" stop="20260128210700 +0000" channel="DUCK TV">
-    <title>SMALL - BUT HARDWORKING</title>
-  </programme>
-  <programme start="20260128210700 +0000" stop="20260128211000 +0000" channel="4K TR: DUCK TV HD">
-    <title>HAPPY KINGDOM</title>
-  </programme>
-  <programme start="20260128210700 +0000" stop="20260128211000 +0000" channel="DUCK TV">
-    <title>HAPPY KINGDOM</title>
-  </programme>
-  <programme start="20260128211000 +0000" stop="20260128211300 +0000" channel="4K TR: DUCK TV HD">
-    <title>RISTORANTE</title>
-  </programme>
-  <programme start="20260128211000 +0000" stop="20260128211300 +0000" channel="DUCK TV">
-    <title>RISTORANTE</title>
-  </programme>
-  <programme start="20260128211300 +0000" stop="20260128211600 +0000" channel="4K TR: DUCK TV HD">
-    <title>ZOO</title>
-  </programme>
-  <programme start="20260128211300 +0000" stop="20260128211600 +0000" channel="DUCK TV">
-    <title>ZOO</title>
-  </programme>
-  <programme start="20260128211600 +0000" stop="20260128211900 +0000" channel="4K TR: DUCK TV HD">
-    <title>SPACE ADVENTURES</title>
-  </programme>
-  <programme start="20260128211600 +0000" stop="20260128211900 +0000" channel="DUCK TV">
-    <title>SPACE ADVENTURES</title>
-  </programme>
-  <programme start="20260128211900 +0000" stop="20260128212100 +0000" channel="4K TR: DUCK TV HD">
-    <title>MY TOYS - MY FRIENDS</title>
-  </programme>
-  <programme start="20260128211900 +0000" stop="20260128212100 +0000" channel="DUCK TV">
-    <title>MY TOYS - MY FRIENDS</title>
-  </programme>
-  <programme start="20260128212100 +0000" stop="20260128212400 +0000" channel="4K TR: DUCK TV HD">
-    <title>THE WAY WE TRAVEL</title>
-  </programme>
-  <programme start="20260128212100 +0000" stop="20260128212400 +0000" channel="DUCK TV">
-    <title>THE WAY WE TRAVEL</title>
-  </programme>
-  <programme start="20260128212400 +0000" stop="20260128212800 +0000" channel="4K TR: DUCK TV HD">
-    <title>INDIA</title>
-  </programme>
-  <programme start="20260128212400 +0000" stop="20260128212800 +0000" channel="DUCK TV">
-    <title>INDIA</title>
-  </programme>
-  <programme start="20260128212800 +0000" stop="20260128213000 +0000" channel="4K TR: DUCK TV HD">
-    <title>BATHROOM</title>
-  </programme>
-  <programme start="20260128212800 +0000" stop="20260128213000 +0000" channel="DUCK TV">
-    <title>BATHROOM</title>
-  </programme>
-  <programme start="20260128213000 +0000" stop="20260128213200 +0000" channel="4K TR: DUCK TV HD">
-    <title>DUCKY AND FRIENDS</title>
-  </programme>
-  <programme start="20260128213000 +0000" stop="20260128213200 +0000" channel="DUCK TV">
-    <title>DUCKY AND FRIENDS</title>
-  </programme>
-  <programme start="20260128213200 +0000" stop="20260128213500 +0000" channel="4K TR: DUCK TV HD">
-    <title>FIRETEAM</title>
-  </programme>
-  <programme start="20260128213200 +0000" stop="20260128213500 +0000" channel="DUCK TV">
-    <title>FIRETEAM</title>
-  </programme>
-  <programme start="20260128213500 +0000" stop="20260128213700 +0000" channel="4K TR: DUCK TV HD">
-    <title>HUBBI WILL TAKE CARE OF IT</title>
-  </programme>
-  <programme start="20260128213500 +0000" stop="20260128213700 +0000" channel="DUCK TV">
-    <title>HUBBI WILL TAKE CARE OF IT</title>
-  </programme>
-  <programme start="20260128213700 +0000" stop="20260128213900 +0000" channel="4K TR: DUCK TV HD">
-    <title>TRAIN</title>
-  </programme>
-  <programme start="20260128213700 +0000" stop="20260128213900 +0000" channel="DUCK TV">
-    <title>TRAIN</title>
-  </programme>
-  <programme start="20260128213900 +0000" stop="20260128214200 +0000" channel="4K TR: DUCK TV HD">
-    <title>TOBY MCFLY</title>
-  </programme>
-  <programme start="20260128213900 +0000" stop="20260128214200 +0000" channel="DUCK TV">
-    <title>TOBY MCFLY</title>
-  </programme>
-  <programme start="20260128214200 +0000" stop="20260128214500 +0000" channel="4K TR: DUCK TV HD">
-    <title>HUBBI AND FRIENDS</title>
-  </programme>
-  <programme start="20260128214200 +0000" stop="20260128214500 +0000" channel="DUCK TV">
-    <title>HUBBI AND FRIENDS</title>
-  </programme>
-  <programme start="20260128214500 +0000" stop="20260128214800 +0000" channel="4K TR: DUCK TV HD">
-    <title>SUNVILLE</title>
-  </programme>
-  <programme start="20260128214500 +0000" stop="20260128214800 +0000" channel="DUCK TV">
-    <title>SUNVILLE</title>
-  </programme>
-  <programme start="20260128214800 +0000" stop="20260128215100 +0000" channel="4K TR: DUCK TV HD">
-    <title>ANIMALS</title>
-  </programme>
-  <programme start="20260128214800 +0000" stop="20260128215100 +0000" channel="DUCK TV">
-    <title>ANIMALS</title>
-  </programme>
-  <programme start="20260128215100 +0000" stop="20260128215500 +0000" channel="4K TR: DUCK TV HD">
-    <title>LISTEN TO THIS</title>
-  </programme>
-  <programme start="20260128215100 +0000" stop="20260128215500 +0000" channel="DUCK TV">
-    <title>LISTEN TO THIS</title>
-  </programme>
-  <programme start="20260128215500 +0000" stop="20260128220100 +0000" channel="4K TR: DUCK TV HD">
-    <title>SUNVILLE</title>
-  </programme>
-  <programme start="20260128215500 +0000" stop="20260128220100 +0000" channel="DUCK TV">
-    <title>SUNVILLE</title>
-  </programme>
-  <programme start="20260128220100 +0000" stop="20260128220400 +0000" channel="4K TR: DUCK TV HD">
-    <title>HAPPY MEADOW</title>
-  </programme>
-  <programme start="20260128220100 +0000" stop="20260128220400 +0000" channel="DUCK TV">
-    <title>HAPPY MEADOW</title>
-  </programme>
-  <programme start="20260128220400 +0000" stop="20260128220700 +0000" channel="4K TR: DUCK TV HD">
-    <title>DOTTY, THE KITTY</title>
-  </programme>
-  <programme start="20260128220400 +0000" stop="20260128220700 +0000" channel="DUCK TV">
-    <title>DOTTY, THE KITTY</title>
-  </programme>
-  <programme start="20260128220700 +0000" stop="20260128220800 +0000" channel="4K TR: DUCK TV HD">
-    <title>HOME SWEET HOME</title>
-  </programme>
-  <programme start="20260128220700 +0000" stop="20260128220800 +0000" channel="DUCK TV">
-    <title>HOME SWEET HOME</title>
-  </programme>
-  <programme start="20260128220800 +0000" stop="20260128220900 +0000" channel="4K TR: DUCK TV HD">
-    <title>HAPPY GARDEN</title>
-  </programme>
-  <programme start="20260128220800 +0000" stop="20260128220900 +0000" channel="DUCK TV">
-    <title>HAPPY GARDEN</title>
-  </programme>
-  <programme start="20260128220900 +0000" stop="20260128221000 +0000" channel="4K TR: DUCK TV HD">
-    <title>THE SHAPIES</title>
-  </programme>
-  <programme start="20260128220900 +0000" stop="20260128221000 +0000" channel="DUCK TV">
-    <title>THE SHAPIES</title>
-  </programme>
-  <programme start="20260128221000 +0000" stop="20260128221200 +0000" channel="4K TR: DUCK TV HD">
-    <title>MY PET FAMILY</title>
-  </programme>
-  <programme start="20260128221000 +0000" stop="20260128221200 +0000" channel="DUCK TV">
-    <title>MY PET FAMILY</title>
-  </programme>
-  <programme start="20260128221200 +0000" stop="20260128221400 +0000" channel="4K TR: DUCK TV HD">
-    <title>HAPPY GARDEN</title>
-  </programme>
-  <programme start="20260128221200 +0000" stop="20260128221400 +0000" channel="DUCK TV">
-    <title>HAPPY GARDEN</title>
-  </programme>
-  <programme start="20260128221400 +0000" stop="20260128221700 +0000" channel="4K TR: DUCK TV HD">
-    <title>DOTTY, THE KITTY</title>
-  </programme>
-  <programme start="20260128221400 +0000" stop="20260128221700 +0000" channel="DUCK TV">
-    <title>DOTTY, THE KITTY</title>
-  </programme>
-  <programme start="20260128221700 +0000" stop="20260128221800 +0000" channel="4K TR: DUCK TV HD">
-    <title>THE SHAPIES</title>
-  </programme>
-  <programme start="20260128221700 +0000" stop="20260128221800 +0000" channel="DUCK TV">
-    <title>THE SHAPIES</title>
-  </programme>
-  <programme start="20260128221800 +0000" stop="20260128222100 +0000" channel="4K TR: DUCK TV HD">
-    <title>HIGHER THE BETTER</title>
-  </programme>
-  <programme start="20260128221800 +0000" stop="20260128222100 +0000" channel="DUCK TV">
-    <title>HIGHER THE BETTER</title>
-  </programme>
-  <programme start="20260128222100 +0000" stop="20260128222400 +0000" channel="4K TR: DUCK TV HD">
-    <title>GROUPS</title>
-  </programme>
-  <programme start="20260128222100 +0000" stop="20260128222400 +0000" channel="DUCK TV">
-    <title>GROUPS</title>
-  </programme>
-  <programme start="20260128222400 +0000" stop="20260128222800 +0000" channel="4K TR: DUCK TV HD">
-    <title>ENLIGHTMENT CORNER</title>
-  </programme>
-  <programme start="20260128222400 +0000" stop="20260128222800 +0000" channel="DUCK TV">
-    <title>ENLIGHTMENT CORNER</title>
-  </programme>
-  <programme start="20260128222800 +0000" stop="20260128223000 +0000" channel="4K TR: DUCK TV HD">
-    <title>GROUPS</title>
-  </programme>
-  <programme start="20260128222800 +0000" stop="20260128223000 +0000" channel="DUCK TV">
-    <title>GROUPS</title>
-  </programme>
-  <programme start="20260128223000 +0000" stop="20260128223200 +0000" channel="4K TR: DUCK TV HD">
-    <title>ENLIGHTMENT CORNER</title>
-  </programme>
-  <programme start="20260128223000 +0000" stop="20260128223200 +0000" channel="DUCK TV">
-    <title>ENLIGHTMENT CORNER</title>
-  </programme>
-  <programme start="20260128223200 +0000" stop="20260128223400 +0000" channel="4K TR: DUCK TV HD">
-    <title>WHAT'S YOUR JOB?</title>
-  </programme>
-  <programme start="20260128223200 +0000" stop="20260128223400 +0000" channel="DUCK TV">
-    <title>WHAT'S YOUR JOB?</title>
-  </programme>
-  <programme start="20260128223400 +0000" stop="20260128223600 +0000" channel="4K TR: DUCK TV HD">
-    <title>HOME SWEET HOME</title>
-  </programme>
-  <programme start="20260128223400 +0000" stop="20260128223600 +0000" channel="DUCK TV">
-    <title>HOME SWEET HOME</title>
-  </programme>
-  <programme start="20260128223600 +0000" stop="20260128223800 +0000" channel="4K TR: DUCK TV HD">
-    <title>SHAPING UP</title>
-  </programme>
-  <programme start="20260128223600 +0000" stop="20260128223800 +0000" channel="DUCK TV">
-    <title>SHAPING UP</title>
-  </programme>
-  <programme start="20260128223800 +0000" stop="20260128224000 +0000" channel="4K TR: DUCK TV HD">
-    <title>HAPPY GARDEN</title>
-  </programme>
-  <programme start="20260128223800 +0000" stop="20260128224000 +0000" channel="DUCK TV">
-    <title>HAPPY GARDEN</title>
-  </programme>
-  <programme start="20260128224000 +0000" stop="20260128224400 +0000" channel="4K TR: DUCK TV HD">
-    <title>ALBERT EXPLAINS</title>
-  </programme>
-  <programme start="20260128224000 +0000" stop="20260128224400 +0000" channel="DUCK TV">
-    <title>ALBERT EXPLAINS</title>
-  </programme>
-  <programme start="20260128224400 +0000" stop="20260128224500 +0000" channel="4K TR: DUCK TV HD">
-    <title>PIXIE 2</title>
-  </programme>
-  <programme start="20260128224400 +0000" stop="20260128224500 +0000" channel="DUCK TV">
-    <title>PIXIE 2</title>
-  </programme>
-  <programme start="20260128224500 +0000" stop="20260128224800 +0000" channel="4K TR: DUCK TV HD">
-    <title>MONICA & RUDY</title>
-  </programme>
-  <programme start="20260128224500 +0000" stop="20260128224800 +0000" channel="DUCK TV">
-    <title>MONICA & RUDY</title>
-  </programme>
-  <programme start="20260128224800 +0000" stop="20260128225100 +0000" channel="4K TR: DUCK TV HD">
-    <title>IN THE MUSEUM</title>
-  </programme>
-  <programme start="20260128224800 +0000" stop="20260128225100 +0000" channel="DUCK TV">
-    <title>IN THE MUSEUM</title>
-  </programme>
-  <programme start="20260128225100 +0000" stop="20260128225400 +0000" channel="4K TR: DUCK TV HD">
-    <title>ENLIGHTMENT CORNER</title>
-  </programme>
-  <programme start="20260128225100 +0000" stop="20260128225400 +0000" channel="DUCK TV">
-    <title>ENLIGHTMENT CORNER</title>
-  </programme>
-  <programme start="20260128225400 +0000" stop="20260128225700 +0000" channel="4K TR: DUCK TV HD">
-    <title>WHAT'S YOUR JOB?</title>
-  </programme>
-  <programme start="20260128225400 +0000" stop="20260128225700 +0000" channel="DUCK TV">
-    <title>WHAT'S YOUR JOB?</title>
-  </programme>
-  <programme start="20260128225700 +0000" stop="20260128230000 +0000" channel="4K TR: DUCK TV HD">
-    <title>LISTEN TO THIS</title>
-  </programme>
-  <programme start="20260128225700 +0000" stop="20260128230000 +0000" channel="DUCK TV">
-    <title>LISTEN TO THIS</title>
-  </programme>
-  <programme start="20260128230000 +0000" stop="20260128230300 +0000" channel="4K TR: DUCK TV HD">
-    <title>BEAVER FAMILY</title>
-  </programme>
-  <programme start="20260128230000 +0000" stop="20260128230300 +0000" channel="DUCK TV">
-    <title>BEAVER FAMILY</title>
-  </programme>
-  <programme start="20260128230300 +0000" stop="20260128230500 +0000" channel="4K TR: DUCK TV HD">
-    <title>PANNI AND FANNI</title>
-  </programme>
-  <programme start="20260128230300 +0000" stop="20260128230500 +0000" channel="DUCK TV">
-    <title>PANNI AND FANNI</title>
-  </programme>
-  <programme start="20260128230500 +0000" stop="20260128230800 +0000" channel="4K TR: DUCK TV HD">
-    <title>MIYU AND LITTO</title>
-  </programme>
-  <programme start="20260128230500 +0000" stop="20260128230800 +0000" channel="DUCK TV">
-    <title>MIYU AND LITTO</title>
-  </programme>
-  <programme start="20260128230800 +0000" stop="20260128231100 +0000" channel="4K TR: DUCK TV HD">
-    <title>WE ARE PLAYING NOW</title>
-  </programme>
-  <programme start="20260128230800 +0000" stop="20260128231100 +0000" channel="DUCK TV">
-    <title>WE ARE PLAYING NOW</title>
-  </programme>
-  <programme start="20260128231100 +0000" stop="20260128231400 +0000" channel="4K TR: DUCK TV HD">
-    <title>ENLIGHTMENT CORNER</title>
-  </programme>
-  <programme start="20260128231100 +0000" stop="20260128231400 +0000" channel="DUCK TV">
-    <title>ENLIGHTMENT CORNER</title>
-  </programme>
-  <programme start="20260128231400 +0000" stop="20260128231600 +0000" channel="4K TR: DUCK TV HD">
-    <title>PANNI AND FANNI</title>
-  </programme>
-  <programme start="20260128231400 +0000" stop="20260128231600 +0000" channel="DUCK TV">
-    <title>PANNI AND FANNI</title>
-  </programme>
-  <programme start="20260128231600 +0000" stop="20260128232000 +0000" channel="4K TR: DUCK TV HD">
-    <title>COLOR MAGIC</title>
-  </programme>
-  <programme start="20260128231600 +0000" stop="20260128232000 +0000" channel="DUCK TV">
-    <title>COLOR MAGIC</title>
-  </programme>
-  <programme start="20260128232000 +0000" stop="20260128232200 +0000" channel="4K TR: DUCK TV HD">
-    <title>VEHICLES</title>
-  </programme>
-  <programme start="20260128232000 +0000" stop="20260128232200 +0000" channel="DUCK TV">
-    <title>VEHICLES</title>
-  </programme>
-  <programme start="20260128232200 +0000" stop="20260128232400 +0000" channel="4K TR: DUCK TV HD">
-    <title>PANNI AND FANNI</title>
-  </programme>
-  <programme start="20260128232200 +0000" stop="20260128232400 +0000" channel="DUCK TV">
-    <title>PANNI AND FANNI</title>
-  </programme>
-  <programme start="20260128232400 +0000" stop="20260128232700 +0000" channel="4K TR: DUCK TV HD">
-    <title>LISTEN TO THIS</title>
-  </programme>
-  <programme start="20260128232400 +0000" stop="20260128232700 +0000" channel="DUCK TV">
-    <title>LISTEN TO THIS</title>
-  </programme>
-  <programme start="20260128232700 +0000" stop="20260128232900 +0000" channel="4K TR: DUCK TV HD">
-    <title>HOLIDAY</title>
-  </programme>
-  <programme start="20260128232700 +0000" stop="20260128232900 +0000" channel="DUCK TV">
-    <title>HOLIDAY</title>
-  </programme>
-  <programme start="20260128232900 +0000" stop="20260128233200 +0000" channel="4K TR: DUCK TV HD">
-    <title>BEAVER FAMILY</title>
-  </programme>
-  <programme start="20260128232900 +0000" stop="20260128233200 +0000" channel="DUCK TV">
-    <title>BEAVER FAMILY</title>
-  </programme>
-  <programme start="20260128233200 +0000" stop="20260128233400 +0000" channel="4K TR: DUCK TV HD">
-    <title>GROUPS</title>
-  </programme>
-  <programme start="20260128233200 +0000" stop="20260128233400 +0000" channel="DUCK TV">
-    <title>GROUPS</title>
-  </programme>
-  <programme start="20260128233400 +0000" stop="20260128233700 +0000" channel="4K TR: DUCK TV HD">
-    <title>THE WAY WE TRAVEL</title>
-  </programme>
-  <programme start="20260128233400 +0000" stop="20260128233700 +0000" channel="DUCK TV">
-    <title>THE WAY WE TRAVEL</title>
-  </programme>
-  <programme start="20260128233700 +0000" stop="20260128234000 +0000" channel="4K TR: DUCK TV HD">
-    <title>COLORWHEEL</title>
-  </programme>
-  <programme start="20260128233700 +0000" stop="20260128234000 +0000" channel="DUCK TV">
-    <title>COLORWHEEL</title>
-  </programme>
-  <programme start="20260128234000 +0000" stop="20260128234200 +0000" channel="4K TR: DUCK TV HD">
-    <title>IN THE MUSEUM</title>
-  </programme>
-  <programme start="20260128234000 +0000" stop="20260128234200 +0000" channel="DUCK TV">
-    <title>IN THE MUSEUM</title>
-  </programme>
-  <programme start="20260128234200 +0000" stop="20260128234400 +0000" channel="4K TR: DUCK TV HD">
-    <title>VEHICLES</title>
-  </programme>
-  <programme start="20260128234200 +0000" stop="20260128234400 +0000" channel="DUCK TV">
-    <title>VEHICLES</title>
-  </programme>
-  <programme start="20260128234400 +0000" stop="20260128234700 +0000" channel="4K TR: DUCK TV HD">
-    <title>THE WAY WE TRAVEL</title>
-  </programme>
-  <programme start="20260128234400 +0000" stop="20260128234700 +0000" channel="DUCK TV">
-    <title>THE WAY WE TRAVEL</title>
-  </programme>
-  <programme start="20260128234700 +0000" stop="20260128235000 +0000" channel="4K TR: DUCK TV HD">
-    <title>MIYU AND LITTO</title>
-  </programme>
-  <programme start="20260128234700 +0000" stop="20260128235000 +0000" channel="DUCK TV">
-    <title>MIYU AND LITTO</title>
-  </programme>
-  <programme start="20260128235000 +0000" stop="20260128235300 +0000" channel="4K TR: DUCK TV HD">
-    <title>BEAVER FAMILY</title>
-  </programme>
-  <programme start="20260128235000 +0000" stop="20260128235300 +0000" channel="DUCK TV">
-    <title>BEAVER FAMILY</title>
-  </programme>
-  <programme start="20260128235300 +0000" stop="20260128235600 +0000" channel="4K TR: DUCK TV HD">
-    <title>DANCE</title>
-  </programme>
-  <programme start="20260128235300 +0000" stop="20260128235600 +0000" channel="DUCK TV">
-    <title>DANCE</title>
-  </programme>
-  <programme start="20260128235600 +0000" stop="20260128235900 +0000" channel="4K TR: DUCK TV HD">
-    <title>MIYU AND LITTO</title>
-  </programme>
-  <programme start="20260128235600 +0000" stop="20260128235900 +0000" channel="DUCK TV">
-    <title>MIYU AND LITTO</title>
-  </programme>
-  <programme start="20260128235900 +0000" stop="20260129000100 +0000" channel="4K TR: DUCK TV HD">
-    <title>THE WAY WE TRAVEL</title>
-  </programme>
-  <programme start="20260128235900 +0000" stop="20260129000100 +0000" channel="DUCK TV">
-    <title>THE WAY WE TRAVEL</title>
-  </programme>
-  <programme start="20260129000100 +0000" stop="20260129000500 +0000" channel="4K TR: DUCK TV HD">
-    <title>WATERWORLD</title>
-  </programme>
-  <programme start="20260129000100 +0000" stop="20260129000500 +0000" channel="DUCK TV">
-    <title>WATERWORLD</title>
-  </programme>
-  <programme start="20260129000500 +0000" stop="20260129000800 +0000" channel="4K TR: DUCK TV HD">
-    <title>PUFFY AND TUBBY</title>
-  </programme>
-  <programme start="20260129000500 +0000" stop="20260129000800 +0000" channel="DUCK TV">
-    <title>PUFFY AND TUBBY</title>
-  </programme>
-  <programme start="20260129000800 +0000" stop="20260129001000 +0000" channel="4K TR: DUCK TV HD">
-    <title>VEGE-TALES</title>
-  </programme>
-  <programme start="20260129000800 +0000" stop="20260129001000 +0000" channel="DUCK TV">
-    <title>VEGE-TALES</title>
-  </programme>
-  <programme start="20260129001000 +0000" stop="20260129001300 +0000" channel="4K TR: DUCK TV HD">
-    <title>THE WORLD OF ANIMALS</title>
-  </programme>
-  <programme start="20260129001000 +0000" stop="20260129001300 +0000" channel="DUCK TV">
-    <title>THE WORLD OF ANIMALS</title>
-  </programme>
-  <programme start="20260129001300 +0000" stop="20260129001500 +0000" channel="4K TR: DUCK TV HD">
-    <title>WE ARE PLAYING NOW</title>
-  </programme>
-  <programme start="20260129001300 +0000" stop="20260129001500 +0000" channel="DUCK TV">
-    <title>WE ARE PLAYING NOW</title>
-  </programme>
-  <programme start="20260129001500 +0000" stop="20260129001800 +0000" channel="4K TR: DUCK TV HD">
-    <title>SPACE ADVENTURES</title>
-  </programme>
-  <programme start="20260129001500 +0000" stop="20260129001800 +0000" channel="DUCK TV">
-    <title>SPACE ADVENTURES</title>
-  </programme>
-  <programme start="20260129001800 +0000" stop="20260129002100 +0000" channel="4K TR: DUCK TV HD">
-    <title>WATERWORLD</title>
-  </programme>
-  <programme start="20260129001800 +0000" stop="20260129002100 +0000" channel="DUCK TV">
-    <title>WATERWORLD</title>
-  </programme>
-  <programme start="20260129002100 +0000" stop="20260129002300 +0000" channel="4K TR: DUCK TV HD">
-    <title>BEAVER FAMILY</title>
-  </programme>
-  <programme start="20260129002100 +0000" stop="20260129002300 +0000" channel="DUCK TV">
-    <title>BEAVER FAMILY</title>
-  </programme>
-  <programme start="20260129002300 +0000" stop="20260129002600 +0000" channel="4K TR: DUCK TV HD">
-    <title>ANIMALS</title>
-  </programme>
-  <programme start="20260129002300 +0000" stop="20260129002600 +0000" channel="DUCK TV">
-    <title>ANIMALS</title>
-  </programme>
-  <programme start="20260129002600 +0000" stop="20260129002800 +0000" channel="4K TR: DUCK TV HD">
-    <title>VEHICLES</title>
-  </programme>
-  <programme start="20260129002600 +0000" stop="20260129002800 +0000" channel="DUCK TV">
-    <title>VEHICLES</title>
-  </programme>
-  <programme start="20260129002800 +0000" stop="20260129003000 +0000" channel="4K TR: DUCK TV HD">
-    <title>SPACE ADVENTURES</title>
-  </programme>
-  <programme start="20260129002800 +0000" stop="20260129003000 +0000" channel="DUCK TV">
-    <title>SPACE ADVENTURES</title>
-  </programme>
-  <programme start="20260129003000 +0000" stop="20260129003200 +0000" channel="4K TR: DUCK TV HD">
-    <title>WE ARE PLAYING NOW</title>
-  </programme>
-  <programme start="20260129003000 +0000" stop="20260129003200 +0000" channel="DUCK TV">
-    <title>WE ARE PLAYING NOW</title>
-  </programme>
-  <programme start="20260129003200 +0000" stop="20260129003500 +0000" channel="4K TR: DUCK TV HD">
-    <title>MY TOYS - MY FRIENDS</title>
-  </programme>
-  <programme start="20260129003200 +0000" stop="20260129003500 +0000" channel="DUCK TV">
-    <title>MY TOYS - MY FRIENDS</title>
-  </programme>
-  <programme start="20260129003500 +0000" stop="20260129003800 +0000" channel="4K TR: DUCK TV HD">
-    <title>GALAXY TOURISTS</title>
-  </programme>
-  <programme start="20260129003500 +0000" stop="20260129003800 +0000" channel="DUCK TV">
-    <title>GALAXY TOURISTS</title>
-  </programme>
-  <programme start="20260129003800 +0000" stop="20260129004100 +0000" channel="4K TR: DUCK TV HD">
-    <title>SUNVILLE</title>
-  </programme>
-  <programme start="20260129003800 +0000" stop="20260129004100 +0000" channel="DUCK TV">
-    <title>SUNVILLE</title>
-  </programme>
-  <programme start="20260129004100 +0000" stop="20260129004400 +0000" channel="4K TR: DUCK TV HD">
-    <title>SPACE ADVENTURES</title>
-  </programme>
-  <programme start="20260129004100 +0000" stop="20260129004400 +0000" channel="DUCK TV">
-    <title>SPACE ADVENTURES</title>
-  </programme>
-  <programme start="20260129004400 +0000" stop="20260129004600 +0000" channel="4K TR: DUCK TV HD">
-    <title>SEA ADVENTURE</title>
-  </programme>
-  <programme start="20260129004400 +0000" stop="20260129004600 +0000" channel="DUCK TV">
-    <title>SEA ADVENTURE</title>
-  </programme>
-  <programme start="20260129004600 +0000" stop="20260129004800 +0000" channel="4K TR: DUCK TV HD">
-    <title>LISTEN TO THIS</title>
-  </programme>
-  <programme start="20260129004600 +0000" stop="20260129004800 +0000" channel="DUCK TV">
-    <title>LISTEN TO THIS</title>
-  </programme>
-  <programme start="20260129004800 +0000" stop="20260129005200 +0000" channel="4K TR: DUCK TV HD">
-    <title>CITY LIFE</title>
-  </programme>
-  <programme start="20260129004800 +0000" stop="20260129005200 +0000" channel="DUCK TV">
-    <title>CITY LIFE</title>
-  </programme>
-  <programme start="20260129005200 +0000" stop="20260129005400 +0000" channel="4K TR: DUCK TV HD">
-    <title>ENCHANTING SIGHTS</title>
-  </programme>
-  <programme start="20260129005200 +0000" stop="20260129005400 +0000" channel="DUCK TV">
-    <title>ENCHANTING SIGHTS</title>
-  </programme>
-  <programme start="20260129005400 +0000" stop="20260129005700 +0000" channel="4K TR: DUCK TV HD">
-    <title>SAFARI</title>
-  </programme>
-  <programme start="20260129005400 +0000" stop="20260129005700 +0000" channel="DUCK TV">
-    <title>SAFARI</title>
-  </programme>
-  <programme start="20260129005700 +0000" stop="20260129005900 +0000" channel="4K TR: DUCK TV HD">
-    <title>THE WAY WE TRAVEL</title>
-  </programme>
-  <programme start="20260129005700 +0000" stop="20260129005900 +0000" channel="DUCK TV">
-    <title>THE WAY WE TRAVEL</title>
-  </programme>
-  <programme start="20260129005900 +0000" stop="20260129010200 +0000" channel="4K TR: DUCK TV HD">
-    <title>WE ARE PLAYING NOW</title>
-  </programme>
-  <programme start="20260129005900 +0000" stop="20260129010200 +0000" channel="DUCK TV">
-    <title>WE ARE PLAYING NOW</title>
-  </programme>
-  <programme start="20260129010200 +0000" stop="20260129010400 +0000" channel="4K TR: DUCK TV HD">
-    <title>BATHROOM</title>
-  </programme>
-  <programme start="20260129010200 +0000" stop="20260129010400 +0000" channel="DUCK TV">
-    <title>BATHROOM</title>
-  </programme>
-  <programme start="20260129010400 +0000" stop="20260129010700 +0000" channel="4K TR: DUCK TV HD">
-    <title>LISTEN TO THIS</title>
-  </programme>
-  <programme start="20260129010400 +0000" stop="20260129010700 +0000" channel="DUCK TV">
-    <title>LISTEN TO THIS</title>
-  </programme>
-  <programme start="20260129010700 +0000" stop="20260129011000 +0000" channel="4K TR: DUCK TV HD">
-    <title>WHAT'S YOUR JOB?</title>
-  </programme>
-  <programme start="20260129010700 +0000" stop="20260129011000 +0000" channel="DUCK TV">
-    <title>WHAT'S YOUR JOB?</title>
-  </programme>
-  <programme start="20260129011000 +0000" stop="20260129011200 +0000" channel="4K TR: DUCK TV HD">
-    <title>COLORWHEEL</title>
-  </programme>
-  <programme start="20260129011000 +0000" stop="20260129011200 +0000" channel="DUCK TV">
-    <title>COLORWHEEL</title>
-  </programme>
-  <programme start="20260129011200 +0000" stop="20260129011500 +0000" channel="4K TR: DUCK TV HD">
-    <title>ENCHANTING SIGHTS</title>
-  </programme>
-  <programme start="20260129011200 +0000" stop="20260129011500 +0000" channel="DUCK TV">
-    <title>ENCHANTING SIGHTS</title>
-  </programme>
-  <programme start="20260129011500 +0000" stop="20260129011700 +0000" channel="4K TR: DUCK TV HD">
-    <title>PANNI AND FANNI</title>
-  </programme>
-  <programme start="20260129011500 +0000" stop="20260129011700 +0000" channel="DUCK TV">
-    <title>PANNI AND FANNI</title>
-  </programme>
-  <programme start="20260129011700 +0000" stop="20260129012000 +0000" channel="4K TR: DUCK TV HD">
-    <title>OLI - THE CYCLES OF NATURE</title>
-  </programme>
-  <programme start="20260129011700 +0000" stop="20260129012000 +0000" channel="DUCK TV">
-    <title>OLI - THE CYCLES OF NATURE</title>
-  </programme>
-  <programme start="20260129012000 +0000" stop="20260129012300 +0000" channel="4K TR: DUCK TV HD">
-    <title>SAFARI</title>
-  </programme>
-  <programme start="20260129012000 +0000" stop="20260129012300 +0000" channel="DUCK TV">
-    <title>SAFARI</title>
-  </programme>
-  <programme start="20260129012300 +0000" stop="20260129012700 +0000" channel="4K TR: DUCK TV HD">
-    <title>PUFFY AND TUBBY</title>
-  </programme>
-  <programme start="20260129012300 +0000" stop="20260129012700 +0000" channel="DUCK TV">
-    <title>PUFFY AND TUBBY</title>
-  </programme>
-  <programme start="20260129012700 +0000" stop="20260129013000 +0000" channel="4K TR: DUCK TV HD">
-    <title>MIYU AND LITTO</title>
-  </programme>
-  <programme start="20260129012700 +0000" stop="20260129013000 +0000" channel="DUCK TV">
-    <title>MIYU AND LITTO</title>
-  </programme>
-  <programme start="20260129013000 +0000" stop="20260129013200 +0000" channel="4K TR: DUCK TV HD">
-    <title>IN THE MUSEUM</title>
-  </programme>
-  <programme start="20260129013000 +0000" stop="20260129013200 +0000" channel="DUCK TV">
-    <title>IN THE MUSEUM</title>
-  </programme>
-  <programme start="20260129013200 +0000" stop="20260129013600 +0000" channel="4K TR: DUCK TV HD">
-    <title>PUFFY AND TUBBY</title>
-  </programme>
-  <programme start="20260129013200 +0000" stop="20260129013600 +0000" channel="DUCK TV">
-    <title>PUFFY AND TUBBY</title>
-  </programme>
-  <programme start="20260129013600 +0000" stop="20260129014000 +0000" channel="4K TR: DUCK TV HD">
-    <title>LISTEN TO THIS</title>
-  </programme>
-  <programme start="20260129013600 +0000" stop="20260129014000 +0000" channel="DUCK TV">
-    <title>LISTEN TO THIS</title>
-  </programme>
-  <programme start="20260129014000 +0000" stop="20260129014200 +0000" channel="4K TR: DUCK TV HD">
-    <title>CITY LIFE</title>
-  </programme>
-  <programme start="20260129014000 +0000" stop="20260129014200 +0000" channel="DUCK TV">
-    <title>CITY LIFE</title>
-  </programme>
-  <programme start="20260129014200 +0000" stop="20260129014500 +0000" channel="4K TR: DUCK TV HD">
-    <title>SAFARI</title>
-  </programme>
-  <programme start="20260129014200 +0000" stop="20260129014500 +0000" channel="DUCK TV">
-    <title>SAFARI</title>
-  </programme>
-  <programme start="20260129014500 +0000" stop="20260129014800 +0000" channel="4K TR: DUCK TV HD">
-    <title>SUNVILLE</title>
-  </programme>
-  <programme start="20260129014500 +0000" stop="20260129014800 +0000" channel="DUCK TV">
-    <title>SUNVILLE</title>
-  </programme>
-  <programme start="20260129014800 +0000" stop="20260129015100 +0000" channel="4K TR: DUCK TV HD">
-    <title>SPACE ADVENTURES</title>
-  </programme>
-  <programme start="20260129014800 +0000" stop="20260129015100 +0000" channel="DUCK TV">
-    <title>SPACE ADVENTURES</title>
-  </programme>
-  <programme start="20260129015100 +0000" stop="20260129015300 +0000" channel="4K TR: DUCK TV HD">
-    <title>IN THE MUSEUM</title>
-  </programme>
-  <programme start="20260129015100 +0000" stop="20260129015300 +0000" channel="DUCK TV">
-    <title>IN THE MUSEUM</title>
-  </programme>
-  <programme start="20260129015300 +0000" stop="20260129015600 +0000" channel="4K TR: DUCK TV HD">
-    <title>VEGE-TALES</title>
-  </programme>
-  <programme start="20260129015300 +0000" stop="20260129015600 +0000" channel="DUCK TV">
-    <title>VEGE-TALES</title>
-  </programme>
-  <programme start="20260129015600 +0000" stop="20260129015800 +0000" channel="4K TR: DUCK TV HD">
-    <title>WHAT'S YOUR JOB?</title>
-  </programme>
-  <programme start="20260129015600 +0000" stop="20260129015800 +0000" channel="DUCK TV">
-    <title>WHAT'S YOUR JOB?</title>
-  </programme>
-  <programme start="20260129015800 +0000" stop="20260129020100 +0000" channel="4K TR: DUCK TV HD">
-    <title>GROUPS</title>
-  </programme>
-  <programme start="20260129015800 +0000" stop="20260129020100 +0000" channel="DUCK TV">
-    <title>GROUPS</title>
-  </programme>
-  <programme start="20260129020100 +0000" stop="20260129020300 +0000" channel="4K TR: DUCK TV HD">
-    <title>ENCHANTING SIGHTS</title>
-  </programme>
-  <programme start="20260129020100 +0000" stop="20260129020300 +0000" channel="DUCK TV">
-    <title>ENCHANTING SIGHTS</title>
-  </programme>
-  <programme start="20260129020300 +0000" stop="20260129020600 +0000" channel="4K TR: DUCK TV HD">
-    <title>LISTEN TO THIS</title>
-  </programme>
-  <programme start="20260129020300 +0000" stop="20260129020600 +0000" channel="DUCK TV">
-    <title>LISTEN TO THIS</title>
-  </programme>
-  <programme start="20260129020600 +0000" stop="20260129020900 +0000" channel="4K TR: DUCK TV HD">
-    <title>COLOR MAGIC</title>
-  </programme>
-  <programme start="20260129020600 +0000" stop="20260129020900 +0000" channel="DUCK TV">
-    <title>COLOR MAGIC</title>
-  </programme>
-  <programme start="20260129020900 +0000" stop="20260129021200 +0000" channel="4K TR: DUCK TV HD">
-    <title>THE WAY WE TRAVEL</title>
-  </programme>
-  <programme start="20260129020900 +0000" stop="20260129021200 +0000" channel="DUCK TV">
-    <title>THE WAY WE TRAVEL</title>
-  </programme>
-  <programme start="20260129021200 +0000" stop="20260129021500 +0000" channel="4K TR: DUCK TV HD">
-    <title>DANCE</title>
-  </programme>
-  <programme start="20260129021200 +0000" stop="20260129021500 +0000" channel="DUCK TV">
-    <title>DANCE</title>
-  </programme>
-  <programme start="20260129021500 +0000" stop="20260129021800 +0000" channel="4K TR: DUCK TV HD">
-    <title>SPORT, SPORT, SPORT</title>
-  </programme>
-  <programme start="20260129021500 +0000" stop="20260129021800 +0000" channel="DUCK TV">
-    <title>SPORT, SPORT, SPORT</title>
-  </programme>
-  <programme start="20260129021800 +0000" stop="20260129022100 +0000" channel="4K TR: DUCK TV HD">
-    <title>ELF WORLD</title>
-  </programme>
-  <programme start="20260129021800 +0000" stop="20260129022100 +0000" channel="DUCK TV">
-    <title>ELF WORLD</title>
-  </programme>
-  <programme start="20260129022100 +0000" stop="20260129022300 +0000" channel="4K TR: DUCK TV HD">
-    <title>MINI FAIRY TALES</title>
-  </programme>
-  <programme start="20260129022100 +0000" stop="20260129022300 +0000" channel="DUCK TV">
-    <title>MINI FAIRY TALES</title>
-  </programme>
-  <programme start="20260129022300 +0000" stop="20260129022500 +0000" channel="4K TR: DUCK TV HD">
-    <title>THE WORLD OF ANIMALS</title>
-  </programme>
-  <programme start="20260129022300 +0000" stop="20260129022500 +0000" channel="DUCK TV">
-    <title>THE WORLD OF ANIMALS</title>
-  </programme>
-  <programme start="20260129022500 +0000" stop="20260129022800 +0000" channel="4K TR: DUCK TV HD">
-    <title>SPORT, SPORT, SPORT</title>
-  </programme>
-  <programme start="20260129022500 +0000" stop="20260129022800 +0000" channel="DUCK TV">
-    <title>SPORT, SPORT, SPORT</title>
-  </programme>
-  <programme start="20260129022800 +0000" stop="20260129023000 +0000" channel="4K TR: DUCK TV HD">
-    <title>THE WORLD OF ANIMALS</title>
-  </programme>
-  <programme start="20260129022800 +0000" stop="20260129023000 +0000" channel="DUCK TV">
-    <title>THE WORLD OF ANIMALS</title>
-  </programme>
-  <programme start="20260129023000 +0000" stop="20260129023300 +0000" channel="4K TR: DUCK TV HD">
-    <title>VEGE-TALES</title>
-  </programme>
-  <programme start="20260129023000 +0000" stop="20260129023300 +0000" channel="DUCK TV">
-    <title>VEGE-TALES</title>
-  </programme>
-  <programme start="20260129023300 +0000" stop="20260129023500 +0000" channel="4K TR: DUCK TV HD">
-    <title>GET UP!</title>
-  </programme>
-  <programme start="20260129023300 +0000" stop="20260129023500 +0000" channel="DUCK TV">
-    <title>GET UP!</title>
-  </programme>
-  <programme start="20260129023500 +0000" stop="20260129023700 +0000" channel="4K TR: DUCK TV HD">
-    <title>WE ARE PLAYING NOW</title>
-  </programme>
-  <programme start="20260129023500 +0000" stop="20260129023700 +0000" channel="DUCK TV">
-    <title>WE ARE PLAYING NOW</title>
-  </programme>
-  <programme start="20260129023700 +0000" stop="20260129023900 +0000" channel="4K TR: DUCK TV HD">
-    <title>VEGE-TALES</title>
-  </programme>
-  <programme start="20260129023700 +0000" stop="20260129023900 +0000" channel="DUCK TV">
-    <title>VEGE-TALES</title>
-  </programme>
-  <programme start="20260129023900 +0000" stop="20260129024200 +0000" channel="4K TR: DUCK TV HD">
-    <title>BEAVER FAMILY</title>
-  </programme>
-  <programme start="20260129023900 +0000" stop="20260129024200 +0000" channel="DUCK TV">
-    <title>BEAVER FAMILY</title>
-  </programme>
-  <programme start="20260129024200 +0000" stop="20260129024500 +0000" channel="4K TR: DUCK TV HD">
-    <title>ENCHANTING SIGHTS</title>
-  </programme>
-  <programme start="20260129024200 +0000" stop="20260129024500 +0000" channel="DUCK TV">
-    <title>ENCHANTING SIGHTS</title>
-  </programme>
-  <programme start="20260129024500 +0000" stop="20260129024700 +0000" channel="4K TR: DUCK TV HD">
-    <title>THE WORLD OF ANIMALS</title>
-  </programme>
-  <programme start="20260129024500 +0000" stop="20260129024700 +0000" channel="DUCK TV">
-    <title>THE WORLD OF ANIMALS</title>
-  </programme>
-  <programme start="20260129024700 +0000" stop="20260129025000 +0000" channel="4K TR: DUCK TV HD">
-    <title>GET UP!</title>
-  </programme>
-  <programme start="20260129024700 +0000" stop="20260129025000 +0000" channel="DUCK TV">
-    <title>GET UP!</title>
-  </programme>
-  <programme start="20260129025000 +0000" stop="20260129025300 +0000" channel="4K TR: DUCK TV HD">
-    <title>DING DANG DONG</title>
-  </programme>
-  <programme start="20260129025000 +0000" stop="20260129025300 +0000" channel="DUCK TV">
-    <title>DING DANG DONG</title>
-  </programme>
-  <programme start="20260129025300 +0000" stop="20260129025500 +0000" channel="4K TR: DUCK TV HD">
-    <title>MINI FAIRY TALES</title>
-  </programme>
-  <programme start="20260129025300 +0000" stop="20260129025500 +0000" channel="DUCK TV">
-    <title>MINI FAIRY TALES</title>
-  </programme>
-  <programme start="20260129025500 +0000" stop="20260129025800 +0000" channel="4K TR: DUCK TV HD">
-    <title>GET UP!</title>
-  </programme>
-  <programme start="20260129025500 +0000" stop="20260129025800 +0000" channel="DUCK TV">
-    <title>GET UP!</title>
-  </programme>
-  <programme start="20260129025800 +0000" stop="20260129030100 +0000" channel="4K TR: DUCK TV HD">
-    <title>DANCE</title>
-  </programme>
-  <programme start="20260129025800 +0000" stop="20260129030100 +0000" channel="DUCK TV">
-    <title>DANCE</title>
-  </programme>
-  <programme start="20260129030100 +0000" stop="20260129030500 +0000" channel="4K TR: DUCK TV HD">
-    <title>DING DANG DONG</title>
-  </programme>
-  <programme start="20260129030100 +0000" stop="20260129030500 +0000" channel="DUCK TV">
-    <title>DING DANG DONG</title>
-  </programme>
-  <programme start="20260129030500 +0000" stop="20260129030800 +0000" channel="4K TR: DUCK TV HD">
-    <title>DANCE</title>
-  </programme>
-  <programme start="20260129030500 +0000" stop="20260129030800 +0000" channel="DUCK TV">
-    <title>DANCE</title>
-  </programme>
-  <programme start="20260129030800 +0000" stop="20260129031000 +0000" channel="4K TR: DUCK TV HD">
-    <title>SPORT, SPORT, SPORT</title>
-  </programme>
-  <programme start="20260129030800 +0000" stop="20260129031000 +0000" channel="DUCK TV">
-    <title>SPORT, SPORT, SPORT</title>
-  </programme>
-  <programme start="20260129031000 +0000" stop="20260129031400 +0000" channel="4K TR: DUCK TV HD">
-    <title>DING DANG DONG</title>
-  </programme>
-  <programme start="20260129031000 +0000" stop="20260129031400 +0000" channel="DUCK TV">
-    <title>DING DANG DONG</title>
-  </programme>
-  <programme start="20260129031400 +0000" stop="20260129031700 +0000" channel="4K TR: DUCK TV HD">
-    <title>WE ARE PLAYING NOW</title>
-  </programme>
-  <programme start="20260129031400 +0000" stop="20260129031700 +0000" channel="DUCK TV">
-    <title>WE ARE PLAYING NOW</title>
-  </programme>
-  <programme start="20260129031700 +0000" stop="20260129032000 +0000" channel="4K TR: DUCK TV HD">
-    <title>MIYU AND LITTO</title>
-  </programme>
-  <programme start="20260129031700 +0000" stop="20260129032000 +0000" channel="DUCK TV">
-    <title>MIYU AND LITTO</title>
-  </programme>
-  <programme start="20260129032000 +0000" stop="20260129032200 +0000" channel="4K TR: DUCK TV HD">
-    <title>THE WAY WE TRAVEL</title>
-  </programme>
-  <programme start="20260129032000 +0000" stop="20260129032200 +0000" channel="DUCK TV">
-    <title>THE WAY WE TRAVEL</title>
-  </programme>
-  <programme start="20260129032200 +0000" stop="20260129032400 +0000" channel="4K TR: DUCK TV HD">
-    <title>HOLIDAY</title>
-  </programme>
-  <programme start="20260129032200 +0000" stop="20260129032400 +0000" channel="DUCK TV">
-    <title>HOLIDAY</title>
-  </programme>
-  <programme start="20260129032400 +0000" stop="20260129032700 +0000" channel="4K TR: DUCK TV HD">
-    <title>WE ARE PLAYING NOW</title>
-  </programme>
-  <programme start="20260129032400 +0000" stop="20260129032700 +0000" channel="DUCK TV">
-    <title>WE ARE PLAYING NOW</title>
-  </programme>
-  <programme start="20260129032700 +0000" stop="20260129033000 +0000" channel="4K TR: DUCK TV HD">
-    <title>MIYU AND LITTO</title>
-  </programme>
-  <programme start="20260129032700 +0000" stop="20260129033000 +0000" channel="DUCK TV">
-    <title>MIYU AND LITTO</title>
-  </programme>
-  <programme start="20260129033000 +0000" stop="20260129033200 +0000" channel="4K TR: DUCK TV HD">
-    <title>PARTNERS IN FUN</title>
-  </programme>
-  <programme start="20260129033000 +0000" stop="20260129033200 +0000" channel="DUCK TV">
-    <title>PARTNERS IN FUN</title>
-  </programme>
-  <programme start="20260129033200 +0000" stop="20260129033600 +0000" channel="4K TR: DUCK TV HD">
-    <title>WE ARE PLAYING NOW</title>
-  </programme>
-  <programme start="20260129033200 +0000" stop="20260129033600 +0000" channel="DUCK TV">
-    <title>WE ARE PLAYING NOW</title>
-  </programme>
-  <programme start="20260129033600 +0000" stop="20260129033800 +0000" channel="4K TR: DUCK TV HD">
-    <title>BEAVER FAMILY</title>
-  </programme>
-  <programme start="20260129033600 +0000" stop="20260129033800 +0000" channel="DUCK TV">
-    <title>BEAVER FAMILY</title>
-  </programme>
-  <programme start="20260129033800 +0000" stop="20260129034100 +0000" channel="4K TR: DUCK TV HD">
-    <title>COLORWHEEL</title>
-  </programme>
-  <programme start="20260129033800 +0000" stop="20260129034100 +0000" channel="DUCK TV">
-    <title>COLORWHEEL</title>
-  </programme>
-  <programme start="20260129034100 +0000" stop="20260129034400 +0000" channel="4K TR: DUCK TV HD">
-    <title>THE WAY WE TRAVEL</title>
-  </programme>
-  <programme start="20260129034100 +0000" stop="20260129034400 +0000" channel="DUCK TV">
-    <title>THE WAY WE TRAVEL</title>
-  </programme>
-  <programme start="20260129034400 +0000" stop="20260129034800 +0000" channel="4K TR: DUCK TV HD">
-    <title>BEAVER FAMILY</title>
-  </programme>
-  <programme start="20260129034400 +0000" stop="20260129034800 +0000" channel="DUCK TV">
-    <title>BEAVER FAMILY</title>
-  </programme>
-  <programme start="20260129034800 +0000" stop="20260129035000 +0000" channel="4K TR: DUCK TV HD">
-    <title>THE WAY WE TRAVEL</title>
-  </programme>
-  <programme start="20260129034800 +0000" stop="20260129035000 +0000" channel="DUCK TV">
-    <title>THE WAY WE TRAVEL</title>
-  </programme>
-  <programme start="20260129035000 +0000" stop="20260129035300 +0000" channel="4K TR: DUCK TV HD">
-    <title>BEAVER FAMILY</title>
-  </programme>
-  <programme start="20260129035000 +0000" stop="20260129035300 +0000" channel="DUCK TV">
-    <title>BEAVER FAMILY</title>
-  </programme>
-  <programme start="20260129035300 +0000" stop="20260129035600 +0000" channel="4K TR: DUCK TV HD">
-    <title>COLORWHEEL</title>
-  </programme>
-  <programme start="20260129035300 +0000" stop="20260129035600 +0000" channel="DUCK TV">
-    <title>COLORWHEEL</title>
-  </programme>
-  <programme start="20260129035600 +0000" stop="20260129040000 +0000" channel="4K TR: DUCK TV HD">
-    <title>BEAVER FAMILY</title>
-  </programme>
-  <programme start="20260129035600 +0000" stop="20260129040000 +0000" channel="DUCK TV">
-    <title>BEAVER FAMILY</title>
-  </programme>
-  <programme start="20260129040000 +0000" stop="20260129040300 +0000" channel="4K TR: DUCK TV HD">
-    <title>PARTNERS IN FUN</title>
-  </programme>
-  <programme start="20260129040000 +0000" stop="20260129040300 +0000" channel="DUCK TV">
-    <title>PARTNERS IN FUN</title>
-  </programme>
-  <programme start="20260129040300 +0000" stop="20260129040600 +0000" channel="4K TR: DUCK TV HD">
-    <title>COLORWHEEL</title>
-  </programme>
-  <programme start="20260129040300 +0000" stop="20260129040600 +0000" channel="DUCK TV">
-    <title>COLORWHEEL</title>
-  </programme>
-  <programme start="20260129040600 +0000" stop="20260129041000 +0000" channel="4K TR: DUCK TV HD">
-    <title>PARTNERS IN FUN</title>
-  </programme>
-  <programme start="20260129040600 +0000" stop="20260129041000 +0000" channel="DUCK TV">
-    <title>PARTNERS IN FUN</title>
-  </programme>
-  <programme start="20260129041000 +0000" stop="20260129041300 +0000" channel="4K TR: DUCK TV HD">
-    <title>COLORWHEEL</title>
-  </programme>
-  <programme start="20260129041000 +0000" stop="20260129041300 +0000" channel="DUCK TV">
-    <title>COLORWHEEL</title>
-  </programme>
-  <programme start="20260129041300 +0000" stop="20260129041700 +0000" channel="4K TR: DUCK TV HD">
-    <title>DANCE</title>
-  </programme>
-  <programme start="20260129041300 +0000" stop="20260129041700 +0000" channel="DUCK TV">
-    <title>DANCE</title>
-  </programme>
-  <programme start="20260129041700 +0000" stop="20260129042000 +0000" channel="4K TR: DUCK TV HD">
-    <title>SUNVILLE</title>
-  </programme>
-  <programme start="20260129041700 +0000" stop="20260129042000 +0000" channel="DUCK TV">
-    <title>SUNVILLE</title>
-  </programme>
-  <programme start="20260129042000 +0000" stop="20260129042300 +0000" channel="4K TR: DUCK TV HD">
-    <title>LISTEN TO THIS</title>
-  </programme>
-  <programme start="20260129042000 +0000" stop="20260129042300 +0000" channel="DUCK TV">
-    <title>LISTEN TO THIS</title>
-  </programme>
-  <programme start="20260129042300 +0000" stop="20260129042500 +0000" channel="4K TR: DUCK TV HD">
-    <title>MIYU AND LITTO</title>
-  </programme>
-  <programme start="20260129042300 +0000" stop="20260129042500 +0000" channel="DUCK TV">
-    <title>MIYU AND LITTO</title>
-  </programme>
-  <programme start="20260129042500 +0000" stop="20260129042800 +0000" channel="4K TR: DUCK TV HD">
-    <title>VEGE-TALES</title>
-  </programme>
-  <programme start="20260129042500 +0000" stop="20260129042800 +0000" channel="DUCK TV">
-    <title>VEGE-TALES</title>
-  </programme>
-  <programme start="20260129042800 +0000" stop="20260129043100 +0000" channel="4K TR: DUCK TV HD">
-    <title>MIYU AND LITTO</title>
-  </programme>
-  <programme start="20260129042800 +0000" stop="20260129043100 +0000" channel="DUCK TV">
-    <title>MIYU AND LITTO</title>
-  </programme>
-  <programme start="20260129043100 +0000" stop="20260129043400 +0000" channel="4K TR: DUCK TV HD">
-    <title>IN THE MUSEUM</title>
-  </programme>
-  <programme start="20260129043100 +0000" stop="20260129043400 +0000" channel="DUCK TV">
-    <title>IN THE MUSEUM</title>
-  </programme>
-  <programme start="20260129043400 +0000" stop="20260129043700 +0000" channel="4K TR: DUCK TV HD">
-    <title>GROUPS</title>
-  </programme>
-  <programme start="20260129043400 +0000" stop="20260129043700 +0000" channel="DUCK TV">
-    <title>GROUPS</title>
-  </programme>
-  <programme start="20260129043700 +0000" stop="20260129044100 +0000" channel="4K TR: DUCK TV HD">
-    <title>PUFFY AND TUBBY</title>
-  </programme>
-  <programme start="20260129043700 +0000" stop="20260129044100 +0000" channel="DUCK TV">
-    <title>PUFFY AND TUBBY</title>
-  </programme>
-  <programme start="20260129044100 +0000" stop="20260129044400 +0000" channel="4K TR: DUCK TV HD">
-    <title>COLORWHEEL</title>
-  </programme>
-  <programme start="20260129044100 +0000" stop="20260129044400 +0000" channel="DUCK TV">
-    <title>COLORWHEEL</title>
-  </programme>
-  <programme start="20260129044400 +0000" stop="20260129044600 +0000" channel="4K TR: DUCK TV HD">
-    <title>MIYU AND LITTO</title>
-  </programme>
-  <programme start="20260129044400 +0000" stop="20260129044600 +0000" channel="DUCK TV">
-    <title>MIYU AND LITTO</title>
-  </programme>
-  <programme start="20260129044600 +0000" stop="20260129044900 +0000" channel="4K TR: DUCK TV HD">
-    <title>GROUPS</title>
-  </programme>
-  <programme start="20260129044600 +0000" stop="20260129044900 +0000" channel="DUCK TV">
-    <title>GROUPS</title>
-  </programme>
-  <programme start="20260129044900 +0000" stop="20260129045100 +0000" channel="4K TR: DUCK TV HD">
-    <title>IN THE MUSEUM</title>
-  </programme>
-  <programme start="20260129044900 +0000" stop="20260129045100 +0000" channel="DUCK TV">
-    <title>IN THE MUSEUM</title>
-  </programme>
-  <programme start="20260129045100 +0000" stop="20260129045500 +0000" channel="4K TR: DUCK TV HD">
-    <title>ENLIGHTMENT CORNER</title>
-  </programme>
-  <programme start="20260129045100 +0000" stop="20260129045500 +0000" channel="DUCK TV">
-    <title>ENLIGHTMENT CORNER</title>
-  </programme>
-  <programme start="20260129045500 +0000" stop="20260129045700 +0000" channel="4K TR: DUCK TV HD">
-    <title>ENCHANTING SIGHTS</title>
-  </programme>
-  <programme start="20260129045500 +0000" stop="20260129045700 +0000" channel="DUCK TV">
-    <title>ENCHANTING SIGHTS</title>
-  </programme>
-  <programme start="20260129045700 +0000" stop="20260129050000 +0000" channel="4K TR: DUCK TV HD">
-    <title>GROUPS</title>
-  </programme>
-  <programme start="20260129045700 +0000" stop="20260129050000 +0000" channel="DUCK TV">
-    <title>GROUPS</title>
-  </programme>
-  <programme start="20260129050000 +0000" stop="20260129050300 +0000" channel="4K TR: DUCK TV HD">
-    <title>COLOR MAGIC</title>
-  </programme>
-  <programme start="20260129050000 +0000" stop="20260129050300 +0000" channel="DUCK TV">
-    <title>COLOR MAGIC</title>
-  </programme>
-  <programme start="20260129050300 +0000" stop="20260129050600 +0000" channel="4K TR: DUCK TV HD">
-    <title>PANNI AND FANNI</title>
-  </programme>
-  <programme start="20260129050300 +0000" stop="20260129050600 +0000" channel="DUCK TV">
-    <title>PANNI AND FANNI</title>
-  </programme>
-  <programme start="20260129050600 +0000" stop="20260129050900 +0000" channel="4K TR: DUCK TV HD">
-    <title>LISTEN TO THIS</title>
-  </programme>
-  <programme start="20260129050600 +0000" stop="20260129050900 +0000" channel="DUCK TV">
-    <title>LISTEN TO THIS</title>
-  </programme>
-  <programme start="20260129050900 +0000" stop="20260129051200 +0000" channel="4K TR: DUCK TV HD">
-    <title>COLOR MAGIC</title>
-  </programme>
-  <programme start="20260129050900 +0000" stop="20260129051200 +0000" channel="DUCK TV">
-    <title>COLOR MAGIC</title>
-  </programme>
-  <programme start="20260129051200 +0000" stop="20260129051500 +0000" channel="4K TR: DUCK TV HD">
-    <title>GROUPS</title>
-  </programme>
-  <programme start="20260129051200 +0000" stop="20260129051500 +0000" channel="DUCK TV">
-    <title>GROUPS</title>
-  </programme>
-  <programme start="20260129051500 +0000" stop="20260129051800 +0000" channel="4K TR: DUCK TV HD">
-    <title>WHAT'S YOUR JOB?</title>
-  </programme>
-  <programme start="20260129051500 +0000" stop="20260129051800 +0000" channel="DUCK TV">
-    <title>WHAT'S YOUR JOB?</title>
-  </programme>
-  <programme start="20260129051800 +0000" stop="20260129052000 +0000" channel="4K TR: DUCK TV HD">
-    <title>SMALL - BUT HARDWORKING</title>
-  </programme>
-  <programme start="20260129051800 +0000" stop="20260129052000 +0000" channel="DUCK TV">
-    <title>SMALL - BUT HARDWORKING</title>
-  </programme>
-  <programme start="20260129052000 +0000" stop="20260129052300 +0000" channel="4K TR: DUCK TV HD">
-    <title>FIRETEAM IN ACTION</title>
-  </programme>
-  <programme start="20260129052000 +0000" stop="20260129052300 +0000" channel="DUCK TV">
-    <title>FIRETEAM IN ACTION</title>
-  </programme>
-  <programme start="20260129052300 +0000" stop="20260129052500 +0000" channel="4K TR: DUCK TV HD">
-    <title>DUCKY AND FRIENDS</title>
-  </programme>
-  <programme start="20260129052300 +0000" stop="20260129052500 +0000" channel="DUCK TV">
-    <title>DUCKY AND FRIENDS</title>
-  </programme>
-  <programme start="20260129052500 +0000" stop="20260129052700 +0000" channel="4K TR: DUCK TV HD">
-    <title>LEON-ART</title>
-  </programme>
-  <programme start="20260129052500 +0000" stop="20260129052700 +0000" channel="DUCK TV">
-    <title>LEON-ART</title>
-  </programme>
-  <programme start="20260129052700 +0000" stop="20260129053000 +0000" channel="4K TR: DUCK TV HD">
-    <title>TOBY MCFLY</title>
-  </programme>
-  <programme start="20260129052700 +0000" stop="20260129053000 +0000" channel="DUCK TV">
-    <title>TOBY MCFLY</title>
-  </programme>
-  <programme start="20260129053000 +0000" stop="20260129053400 +0000" channel="4K TR: DUCK TV HD">
-    <title>PLANET JUMPERS</title>
-  </programme>
-  <programme start="20260129053000 +0000" stop="20260129053400 +0000" channel="DUCK TV">
-    <title>PLANET JUMPERS</title>
-  </programme>
-  <programme start="20260129053400 +0000" stop="20260129053700 +0000" channel="4K TR: DUCK TV HD">
-    <title>CONNECTED WORLD</title>
-  </programme>
-  <programme start="20260129053400 +0000" stop="20260129053700 +0000" channel="DUCK TV">
-    <title>CONNECTED WORLD</title>
-  </programme>
-  <programme start="20260129053700 +0000" stop="20260129054200 +0000" channel="4K TR: DUCK TV HD">
-    <title>SPORT, SPORT, SPORT</title>
-  </programme>
-  <programme start="20260129053700 +0000" stop="20260129054200 +0000" channel="DUCK TV">
-    <title>SPORT, SPORT, SPORT</title>
-  </programme>
-  <programme start="20260129054200 +0000" stop="20260129054400 +0000" channel="4K TR: DUCK TV HD">
-    <title>VEGE-TALES</title>
-  </programme>
-  <programme start="20260129054200 +0000" stop="20260129054400 +0000" channel="DUCK TV">
-    <title>VEGE-TALES</title>
-  </programme>
-  <programme start="20260129054400 +0000" stop="20260129054700 +0000" channel="4K TR: DUCK TV HD">
-    <title>CITY LIFE</title>
-  </programme>
-  <programme start="20260129054400 +0000" stop="20260129054700 +0000" channel="DUCK TV">
-    <title>CITY LIFE</title>
-  </programme>
-  <programme start="20260129054700 +0000" stop="20260129055000 +0000" channel="4K TR: DUCK TV HD">
-    <title>THE WAY WE TRAVEL</title>
-  </programme>
-  <programme start="20260129054700 +0000" stop="20260129055000 +0000" channel="DUCK TV">
-    <title>THE WAY WE TRAVEL</title>
-  </programme>
-  <programme start="20260129055000 +0000" stop="20260129055400 +0000" channel="4K TR: DUCK TV HD">
-    <title>DOTTY, THE KITTY</title>
-  </programme>
-  <programme start="20260129055000 +0000" stop="20260129055400 +0000" channel="DUCK TV">
-    <title>DOTTY, THE KITTY</title>
-  </programme>
-  <programme start="20260129055400 +0000" stop="20260129055800 +0000" channel="4K TR: DUCK TV HD">
-    <title>MILO DINO</title>
-  </programme>
-  <programme start="20260129055400 +0000" stop="20260129055800 +0000" channel="DUCK TV">
-    <title>MILO DINO</title>
-  </programme>
-  <programme start="20260129055800 +0000" stop="20260129060000 +0000" channel="4K TR: DUCK TV HD">
-    <title>DINOLAND</title>
-  </programme>
-  <programme start="20260129055800 +0000" stop="20260129060000 +0000" channel="DUCK TV">
-    <title>DINOLAND</title>
-  </programme>
-  <programme start="20260129060000 +0000" stop="20260129060400 +0000" channel="4K TR: DUCK TV HD">
-    <title>DOLL TEAM TO THE RESCUE</title>
-  </programme>
-  <programme start="20260129060000 +0000" stop="20260129060400 +0000" channel="DUCK TV">
-    <title>DOLL TEAM TO THE RESCUE</title>
-  </programme>
-  <programme start="20260129060400 +0000" stop="20260129060600 +0000" channel="4K TR: DUCK TV HD">
-    <title>THE WAY WE TRAVEL</title>
-  </programme>
-  <programme start="20260129060400 +0000" stop="20260129060600 +0000" channel="DUCK TV">
-    <title>THE WAY WE TRAVEL</title>
-  </programme>
-  <programme start="20260129060600 +0000" stop="20260129060900 +0000" channel="4K TR: DUCK TV HD">
-    <title>BEAVER FAMILY</title>
-  </programme>
-  <programme start="20260129060600 +0000" stop="20260129060900 +0000" channel="DUCK TV">
-    <title>BEAVER FAMILY</title>
-  </programme>
-  <programme start="20260129060900 +0000" stop="20260129061100 +0000" channel="4K TR: DUCK TV HD">
-    <title>LISTEN TO THIS</title>
-  </programme>
-  <programme start="20260129060900 +0000" stop="20260129061100 +0000" channel="DUCK TV">
-    <title>LISTEN TO THIS</title>
-  </programme>
-  <programme start="20260129061100 +0000" stop="20260129061400 +0000" channel="4K TR: DUCK TV HD">
-    <title>WATERWORLD</title>
-  </programme>
-  <programme start="20260129061100 +0000" stop="20260129061400 +0000" channel="DUCK TV">
-    <title>WATERWORLD</title>
-  </programme>
-  <programme start="20260129061400 +0000" stop="20260129061900 +0000" channel="4K TR: DUCK TV HD">
-    <title>THE WAY WE TRAVEL</title>
-  </programme>
-  <programme start="20260129061400 +0000" stop="20260129061900 +0000" channel="DUCK TV">
-    <title>THE WAY WE TRAVEL</title>
-  </programme>
-  <programme start="20260129061900 +0000" stop="20260129062200 +0000" channel="4K TR: DUCK TV HD">
-    <title>HIGHER THE BETTER</title>
-  </programme>
-  <programme start="20260129061900 +0000" stop="20260129062200 +0000" channel="DUCK TV">
-    <title>HIGHER THE BETTER</title>
-  </programme>
-  <programme start="20260129062200 +0000" stop="20260129062400 +0000" channel="4K TR: DUCK TV HD">
-    <title>AFRICA</title>
-  </programme>
-  <programme start="20260129062200 +0000" stop="20260129062400 +0000" channel="DUCK TV">
-    <title>AFRICA</title>
-  </programme>
-  <programme start="20260129062400 +0000" stop="20260129062800 +0000" channel="4K TR: DUCK TV HD">
-    <title>MIMO AND BOBO PLUS</title>
-  </programme>
-  <programme start="20260129062400 +0000" stop="20260129062800 +0000" channel="DUCK TV">
-    <title>MIMO AND BOBO PLUS</title>
-  </programme>
-  <programme start="20260129062800 +0000" stop="20260129063100 +0000" channel="4K TR: DUCK TV HD">
-    <title>ALBERT EXPLAINS</title>
-  </programme>
-  <programme start="20260129062800 +0000" stop="20260129063100 +0000" channel="DUCK TV">
-    <title>ALBERT EXPLAINS</title>
-  </programme>
-  <programme start="20260129063100 +0000" stop="20260129063400 +0000" channel="4K TR: DUCK TV HD">
-    <title>DIDY BABY</title>
-  </programme>
-  <programme start="20260129063100 +0000" stop="20260129063400 +0000" channel="DUCK TV">
-    <title>DIDY BABY</title>
-  </programme>
-  <programme start="20260129063400 +0000" stop="20260129063600 +0000" channel="4K TR: DUCK TV HD">
-    <title>DUCKY ADVENTURES</title>
-  </programme>
-  <programme start="20260129063400 +0000" stop="20260129063600 +0000" channel="DUCK TV">
-    <title>DUCKY ADVENTURES</title>
-  </programme>
-  <programme start="20260129063600 +0000" stop="20260129063700 +0000" channel="4K TR: DUCK TV HD">
-    <title>NATURE DUDES</title>
-  </programme>
-  <programme start="20260129063600 +0000" stop="20260129063700 +0000" channel="DUCK TV">
-    <title>NATURE DUDES</title>
-  </programme>
-  <programme start="20260129063700 +0000" stop="20260129063900 +0000" channel="4K TR: DUCK TV HD">
-    <title>TEMPO GIUSTO</title>
-  </programme>
-  <programme start="20260129063700 +0000" stop="20260129063900 +0000" channel="DUCK TV">
-    <title>TEMPO GIUSTO</title>
-  </programme>
-  <programme start="20260129063900 +0000" stop="20260129064200 +0000" channel="4K TR: DUCK TV HD">
-    <title>GET UP!</title>
-  </programme>
-  <programme start="20260129063900 +0000" stop="20260129064200 +0000" channel="DUCK TV">
-    <title>GET UP!</title>
-  </programme>
-  <programme start="20260129064200 +0000" stop="20260129064600 +0000" channel="4K TR: DUCK TV HD">
-    <title>SPACE ADVENTURES</title>
-  </programme>
-  <programme start="20260129064200 +0000" stop="20260129064600 +0000" channel="DUCK TV">
-    <title>SPACE ADVENTURES</title>
-  </programme>
-  <programme start="20260129064600 +0000" stop="20260129064900 +0000" channel="4K TR: DUCK TV HD">
-    <title>DANCE</title>
-  </programme>
-  <programme start="20260129064600 +0000" stop="20260129064900 +0000" channel="DUCK TV">
-    <title>DANCE</title>
-  </programme>
-  <programme start="20260129064900 +0000" stop="20260129065100 +0000" channel="4K TR: DUCK TV HD">
-    <title>SPORT, SPORT, SPORT</title>
-  </programme>
-  <programme start="20260129064900 +0000" stop="20260129065100 +0000" channel="DUCK TV">
-    <title>SPORT, SPORT, SPORT</title>
-  </programme>
-  <programme start="20260129065100 +0000" stop="20260129065500 +0000" channel="4K TR: DUCK TV HD">
-    <title>THE WORLD OF ANIMALS</title>
-  </programme>
-  <programme start="20260129065100 +0000" stop="20260129065500 +0000" channel="DUCK TV">
-    <title>THE WORLD OF ANIMALS</title>
-  </programme>
-  <programme start="20260129065500 +0000" stop="20260129065900 +0000" channel="4K TR: DUCK TV HD">
-    <title>MIMO'S WORLD</title>
-  </programme>
-  <programme start="20260129065500 +0000" stop="20260129065900 +0000" channel="DUCK TV">
-    <title>MIMO'S WORLD</title>
-  </programme>
-  <programme start="20260129065900 +0000" stop="20260129070200 +0000" channel="4K TR: DUCK TV HD">
-    <title>MARGO & FELIX</title>
-  </programme>
-  <programme start="20260129065900 +0000" stop="20260129070200 +0000" channel="DUCK TV">
-    <title>MARGO & FELIX</title>
-  </programme>
-  <programme start="20260129070200 +0000" stop="20260129070500 +0000" channel="4K TR: DUCK TV HD">
-    <title>MIMO'S WORLD</title>
-  </programme>
-  <programme start="20260129070200 +0000" stop="20260129070500 +0000" channel="DUCK TV">
-    <title>MIMO'S WORLD</title>
-  </programme>
-  <programme start="20260129070500 +0000" stop="20260129070600 +0000" channel="4K TR: DUCK TV HD">
-    <title>NATURE DUDES</title>
-  </programme>
-  <programme start="20260129070500 +0000" stop="20260129070600 +0000" channel="DUCK TV">
-    <title>NATURE DUDES</title>
-  </programme>
-  <programme start="20260129070600 +0000" stop="20260129070900 +0000" channel="4K TR: DUCK TV HD">
-    <title>ZACK & ZIGGY</title>
-  </programme>
-  <programme start="20260129070600 +0000" stop="20260129070900 +0000" channel="DUCK TV">
-    <title>ZACK & ZIGGY</title>
-  </programme>
-  <programme start="20260129070900 +0000" stop="20260129071200 +0000" channel="4K TR: DUCK TV HD">
-    <title>WHAT'S YOUR JOB?</title>
-  </programme>
-  <programme start="20260129070900 +0000" stop="20260129071200 +0000" channel="DUCK TV">
-    <title>WHAT'S YOUR JOB?</title>
-  </programme>
-  <programme start="20260129071200 +0000" stop="20260129071400 +0000" channel="4K TR: DUCK TV HD">
-    <title>SPORT, SPORT, SPORT</title>
-  </programme>
-  <programme start="20260129071200 +0000" stop="20260129071400 +0000" channel="DUCK TV">
-    <title>SPORT, SPORT, SPORT</title>
-  </programme>
-  <programme start="20260129071400 +0000" stop="20260129071700 +0000" channel="4K TR: DUCK TV HD">
-    <title>ENCHANTING SIGHTS</title>
-  </programme>
-  <programme start="20260129071400 +0000" stop="20260129071700 +0000" channel="DUCK TV">
-    <title>ENCHANTING SIGHTS</title>
-  </programme>
-  <programme start="20260129071700 +0000" stop="20260129071900 +0000" channel="4K TR: DUCK TV HD">
-    <title>GET UP!</title>
-  </programme>
-  <programme start="20260129071700 +0000" stop="20260129071900 +0000" channel="DUCK TV">
-    <title>GET UP!</title>
-  </programme>
-  <programme start="20260129071900 +0000" stop="20260129072300 +0000" channel="4K TR: DUCK TV HD">
-    <title>WHAT'S YOUR JOB?</title>
-  </programme>
-  <programme start="20260129071900 +0000" stop="20260129072300 +0000" channel="DUCK TV">
-    <title>WHAT'S YOUR JOB?</title>
-  </programme>
-  <programme start="20260129072300 +0000" stop="20260129072500 +0000" channel="4K TR: DUCK TV HD">
-    <title>DINOLAND</title>
-  </programme>
-  <programme start="20260129072300 +0000" stop="20260129072500 +0000" channel="DUCK TV">
-    <title>DINOLAND</title>
-  </programme>
-  <programme start="20260129072500 +0000" stop="20260129072700 +0000" channel="4K TR: DUCK TV HD">
-    <title>SOUNDS AROUND US</title>
-  </programme>
-  <programme start="20260129072500 +0000" stop="20260129072700 +0000" channel="DUCK TV">
-    <title>SOUNDS AROUND US</title>
-  </programme>
-  <programme start="20260129072700 +0000" stop="20260129072900 +0000" channel="4K TR: DUCK TV HD">
-    <title>DUCKY ADVENTURES</title>
-  </programme>
-  <programme start="20260129072700 +0000" stop="20260129072900 +0000" channel="DUCK TV">
-    <title>DUCKY ADVENTURES</title>
-  </programme>
-  <programme start="20260129072900 +0000" stop="20260129073200 +0000" channel="4K TR: DUCK TV HD">
-    <title>FINN AND FIANNA</title>
-  </programme>
-  <programme start="20260129072900 +0000" stop="20260129073200 +0000" channel="DUCK TV">
-    <title>FINN AND FIANNA</title>
-  </programme>
-  <programme start="20260129073200 +0000" stop="20260129073500 +0000" channel="4K TR: DUCK TV HD">
-    <title>ALBERT EXPLAINS</title>
-  </programme>
-  <programme start="20260129073200 +0000" stop="20260129073500 +0000" channel="DUCK TV">
-    <title>ALBERT EXPLAINS</title>
-  </programme>
-  <programme start="20260129073500 +0000" stop="20260129073800 +0000" channel="4K TR: DUCK TV HD">
-    <title>DUCKSCHOOL</title>
-  </programme>
-  <programme start="20260129073500 +0000" stop="20260129073800 +0000" channel="DUCK TV">
-    <title>DUCKSCHOOL</title>
-  </programme>
-  <programme start="20260129073800 +0000" stop="20260129073900 +0000" channel="4K TR: DUCK TV HD">
-    <title>PIXIE 2</title>
-  </programme>
-  <programme start="20260129073800 +0000" stop="20260129073900 +0000" channel="DUCK TV">
-    <title>PIXIE 2</title>
-  </programme>
-  <programme start="20260129073900 +0000" stop="20260129074100 +0000" channel="4K TR: DUCK TV HD">
-    <title>SOUNDS AROUND US</title>
-  </programme>
-  <programme start="20260129073900 +0000" stop="20260129074100 +0000" channel="DUCK TV">
-    <title>SOUNDS AROUND US</title>
-  </programme>
-  <programme start="20260129074100 +0000" stop="20260129074300 +0000" channel="4K TR: DUCK TV HD">
-    <title>LISTEN TO THIS</title>
-  </programme>
-  <programme start="20260129074100 +0000" stop="20260129074300 +0000" channel="DUCK TV">
-    <title>LISTEN TO THIS</title>
-  </programme>
-  <programme start="20260129074300 +0000" stop="20260129074500 +0000" channel="4K TR: DUCK TV HD">
-    <title>ENCHANTING SIGHTS</title>
-  </programme>
-  <programme start="20260129074300 +0000" stop="20260129074500 +0000" channel="DUCK TV">
-    <title>ENCHANTING SIGHTS</title>
-  </programme>
-  <programme start="20260129074500 +0000" stop="20260129074700 +0000" channel="4K TR: DUCK TV HD">
-    <title>LISTEN TO THIS</title>
-  </programme>
-  <programme start="20260129074500 +0000" stop="20260129074700 +0000" channel="DUCK TV">
-    <title>LISTEN TO THIS</title>
-  </programme>
-  <programme start="20260129074700 +0000" stop="20260129075000 +0000" channel="4K TR: DUCK TV HD">
-    <title>COLORWHEEL</title>
-  </programme>
-  <programme start="20260129074700 +0000" stop="20260129075000 +0000" channel="DUCK TV">
-    <title>COLORWHEEL</title>
-  </programme>
-  <programme start="20260129075000 +0000" stop="20260129075200 +0000" channel="4K TR: DUCK TV HD">
-    <title>WHAT'S YOUR JOB?</title>
-  </programme>
-  <programme start="20260129075000 +0000" stop="20260129075200 +0000" channel="DUCK TV">
-    <title>WHAT'S YOUR JOB?</title>
-  </programme>
-  <programme start="20260129075200 +0000" stop="20260129075600 +0000" channel="4K TR: DUCK TV HD">
-    <title>COLOR MAGIC</title>
-  </programme>
-  <programme start="20260129075200 +0000" stop="20260129075600 +0000" channel="DUCK TV">
-    <title>COLOR MAGIC</title>
-  </programme>
-  <programme start="20260129075600 +0000" stop="20260129075800 +0000" channel="4K TR: DUCK TV HD">
-    <title>MONICA & RUDY</title>
-  </programme>
-  <programme start="20260129075600 +0000" stop="20260129075800 +0000" channel="DUCK TV">
-    <title>MONICA & RUDY</title>
-  </programme>
-  <programme start="20260129075800 +0000" stop="20260129080100 +0000" channel="4K TR: DUCK TV HD">
-    <title>ABC - DUCKBC</title>
-  </programme>
-  <programme start="20260129075800 +0000" stop="20260129080100 +0000" channel="DUCK TV">
-    <title>ABC - DUCKBC</title>
-  </programme>
-  <programme start="20260129080100 +0000" stop="20260129080300 +0000" channel="4K TR: DUCK TV HD">
-    <title>MIMO & BOBO</title>
-  </programme>
-  <programme start="20260129080100 +0000" stop="20260129080300 +0000" channel="DUCK TV">
-    <title>MIMO & BOBO</title>
-  </programme>
-  <programme start="20260129080300 +0000" stop="20260129080500 +0000" channel="4K TR: DUCK TV HD">
-    <title>COLOR CLARA</title>
-  </programme>
-  <programme start="20260129080300 +0000" stop="20260129080500 +0000" channel="DUCK TV">
-    <title>COLOR CLARA</title>
-  </programme>
-  <programme start="20260129080500 +0000" stop="20260129081000 +0000" channel="4K TR: DUCK TV HD">
-    <title>ALBERT EXPLAINS</title>
-  </programme>
-  <programme start="20260129080500 +0000" stop="20260129081000 +0000" channel="DUCK TV">
-    <title>ALBERT EXPLAINS</title>
-  </programme>
-  <programme start="20260129081000 +0000" stop="20260129081500 +0000" channel="4K TR: DUCK TV HD">
-    <title>LISTEN TO THIS</title>
-  </programme>
-  <programme start="20260129081000 +0000" stop="20260129081500 +0000" channel="DUCK TV">
-    <title>LISTEN TO THIS</title>
-  </programme>
-  <programme start="20260129081500 +0000" stop="20260129081800 +0000" channel="4K TR: DUCK TV HD">
-    <title>MIYU AND LITTO</title>
-  </programme>
-  <programme start="20260129081500 +0000" stop="20260129081800 +0000" channel="DUCK TV">
-    <title>MIYU AND LITTO</title>
-  </programme>
-  <programme start="20260129081800 +0000" stop="20260129082000 +0000" channel="4K TR: DUCK TV HD">
-    <title>COLORWHEEL</title>
-  </programme>
-  <programme start="20260129081800 +0000" stop="20260129082000 +0000" channel="DUCK TV">
-    <title>COLORWHEEL</title>
-  </programme>
-  <programme start="20260129082000 +0000" stop="20260129082300 +0000" channel="4K TR: DUCK TV HD">
-    <title>PANNI AND FANNI</title>
-  </programme>
-  <programme start="20260129082000 +0000" stop="20260129082300 +0000" channel="DUCK TV">
-    <title>PANNI AND FANNI</title>
-  </programme>
-  <programme start="20260129082300 +0000" stop="20260129082700 +0000" channel="4K TR: DUCK TV HD">
-    <title>ENCHANTING SIGHTS</title>
-  </programme>
-  <programme start="20260129082300 +0000" stop="20260129082700 +0000" channel="DUCK TV">
-    <title>ENCHANTING SIGHTS</title>
-  </programme>
-  <programme start="20260129082700 +0000" stop="20260129083000 +0000" channel="4K TR: DUCK TV HD">
-    <title>SHAPING UP</title>
-  </programme>
-  <programme start="20260129082700 +0000" stop="20260129083000 +0000" channel="DUCK TV">
-    <title>SHAPING UP</title>
-  </programme>
-  <programme start="20260129083000 +0000" stop="20260129083200 +0000" channel="4K TR: DUCK TV HD">
-    <title>MONICA & RUDY</title>
-  </programme>
-  <programme start="20260129083000 +0000" stop="20260129083200 +0000" channel="DUCK TV">
-    <title>MONICA & RUDY</title>
-  </programme>
-  <programme start="20260129083200 +0000" stop="20260129083400 +0000" channel="4K TR: DUCK TV HD">
-    <title>MY PET FAMILY</title>
-  </programme>
-  <programme start="20260129083200 +0000" stop="20260129083400 +0000" channel="DUCK TV">
-    <title>MY PET FAMILY</title>
-  </programme>
-  <programme start="20260129083400 +0000" stop="20260129083700 +0000" channel="4K TR: DUCK TV HD">
-    <title>FINN AND FIANNA</title>
-  </programme>
-  <programme start="20260129083400 +0000" stop="20260129083700 +0000" channel="DUCK TV">
-    <title>FINN AND FIANNA</title>
-  </programme>
-  <programme start="20260129083700 +0000" stop="20260129083900 +0000" channel="4K TR: DUCK TV HD">
-    <title>DUCKY ADVENTURES</title>
-  </programme>
-  <programme start="20260129083700 +0000" stop="20260129083900 +0000" channel="DUCK TV">
-    <title>DUCKY ADVENTURES</title>
-  </programme>
-  <programme start="20260129083900 +0000" stop="20260129084100 +0000" channel="4K TR: DUCK TV HD">
-    <title>HENRY'S STORIES</title>
-  </programme>
-  <programme start="20260129083900 +0000" stop="20260129084100 +0000" channel="DUCK TV">
-    <title>HENRY'S STORIES</title>
-  </programme>
-  <programme start="20260129084100 +0000" stop="20260129084400 +0000" channel="4K TR: DUCK TV HD">
-    <title>SIPPI SAPPI</title>
-  </programme>
-  <programme start="20260129084100 +0000" stop="20260129084400 +0000" channel="DUCK TV">
-    <title>SIPPI SAPPI</title>
-  </programme>
-  <programme start="20260129084400 +0000" stop="20260129084600 +0000" channel="4K TR: DUCK TV HD">
-    <title>DUCKSCHOOL</title>
-  </programme>
-  <programme start="20260129084400 +0000" stop="20260129084600 +0000" channel="DUCK TV">
-    <title>DUCKSCHOOL</title>
-  </programme>
-  <programme start="20260129084600 +0000" stop="20260129084800 +0000" channel="4K TR: DUCK TV HD">
-    <title>TEMPO GIUSTO</title>
-  </programme>
-  <programme start="20260129084600 +0000" stop="20260129084800 +0000" channel="DUCK TV">
-    <title>TEMPO GIUSTO</title>
-  </programme>
-  <programme start="20260129084800 +0000" stop="20260129085000 +0000" channel="4K TR: DUCK TV HD">
-    <title>HENRY'S STORIES</title>
-  </programme>
-  <programme start="20260129084800 +0000" stop="20260129085000 +0000" channel="DUCK TV">
-    <title>HENRY'S STORIES</title>
-  </programme>
-  <programme start="20260129085000 +0000" stop="20260129085400 +0000" channel="4K TR: DUCK TV HD">
-    <title>ALBERT EXPLAINS</title>
-  </programme>
-  <programme start="20260129085000 +0000" stop="20260129085400 +0000" channel="DUCK TV">
-    <title>ALBERT EXPLAINS</title>
-  </programme>
-  <programme start="20260129085400 +0000" stop="20260129085700 +0000" channel="4K TR: DUCK TV HD">
-    <title>ZACK & ZIGGY</title>
-  </programme>
-  <programme start="20260129085400 +0000" stop="20260129085700 +0000" channel="DUCK TV">
-    <title>ZACK & ZIGGY</title>
-  </programme>
-  <programme start="20260129085700 +0000" stop="20260129090000 +0000" channel="4K TR: DUCK TV HD">
-    <title>ALBERT EXPLAINS</title>
-  </programme>
-  <programme start="20260129085700 +0000" stop="20260129090000 +0000" channel="DUCK TV">
-    <title>ALBERT EXPLAINS</title>
-  </programme>
-  <programme start="20260129090000 +0000" stop="20260129090300 +0000" channel="4K TR: DUCK TV HD">
-    <title>MONICA AND RUDY 2</title>
-  </programme>
-  <programme start="20260129090000 +0000" stop="20260129090300 +0000" channel="DUCK TV">
-    <title>MONICA AND RUDY 2</title>
-  </programme>
-  <programme start="20260129090300 +0000" stop="20260129090500 +0000" channel="4K TR: DUCK TV HD">
-    <title>MY PET FAMILY</title>
-  </programme>
-  <programme start="20260129090300 +0000" stop="20260129090500 +0000" channel="DUCK TV">
-    <title>MY PET FAMILY</title>
-  </programme>
-  <programme start="20260129090500 +0000" stop="20260129090700 +0000" channel="4K TR: DUCK TV HD">
-    <title>TEMPO GIUSTO</title>
-  </programme>
-  <programme start="20260129090500 +0000" stop="20260129090700 +0000" channel="DUCK TV">
-    <title>TEMPO GIUSTO</title>
-  </programme>
-  <programme start="20260129090700 +0000" stop="20260129090800 +0000" channel="4K TR: DUCK TV HD">
-    <title>THE SHAPIES</title>
-  </programme>
-  <programme start="20260129090700 +0000" stop="20260129090800 +0000" channel="DUCK TV">
-    <title>THE SHAPIES</title>
-  </programme>
-  <programme start="20260129090800 +0000" stop="20260129091100 +0000" channel="4K TR: DUCK TV HD">
-    <title>ZACK & ZIGGY</title>
-  </programme>
-  <programme start="20260129090800 +0000" stop="20260129091100 +0000" channel="DUCK TV">
-    <title>ZACK & ZIGGY</title>
-  </programme>
-  <programme start="20260129091100 +0000" stop="20260129091300 +0000" channel="4K TR: DUCK TV HD">
-    <title>THE SHAPIES</title>
-  </programme>
-  <programme start="20260129091100 +0000" stop="20260129091300 +0000" channel="DUCK TV">
-    <title>THE SHAPIES</title>
-  </programme>
-  <programme start="20260129091300 +0000" stop="20260129091400 +0000" channel="4K TR: DUCK TV HD">
-    <title>THE SHAPIES</title>
-  </programme>
-  <programme start="20260129091300 +0000" stop="20260129091400 +0000" channel="DUCK TV">
-    <title>THE SHAPIES</title>
-  </programme>
-  <programme start="20260129091400 +0000" stop="20260129091800 +0000" channel="4K TR: DUCK TV HD">
-    <title>ALBERT EXPLAINS</title>
-  </programme>
-  <programme start="20260129091400 +0000" stop="20260129091800 +0000" channel="DUCK TV">
-    <title>ALBERT EXPLAINS</title>
-  </programme>
-  <programme start="20260129091800 +0000" stop="20260129092000 +0000" channel="4K TR: DUCK TV HD">
-    <title>MY PET FAMILY</title>
-  </programme>
-  <programme start="20260129091800 +0000" stop="20260129092000 +0000" channel="DUCK TV">
-    <title>MY PET FAMILY</title>
-  </programme>
-  <programme start="20260129092000 +0000" stop="20260129092100 +0000" channel="4K TR: DUCK TV HD">
-    <title>PIXIE 2</title>
-  </programme>
-  <programme start="20260129092000 +0000" stop="20260129092100 +0000" channel="DUCK TV">
-    <title>PIXIE 2</title>
-  </programme>
-  <programme start="20260129092100 +0000" stop="20260129092400 +0000" channel="4K TR: DUCK TV HD">
-    <title>FINN AND FIANNA</title>
-  </programme>
-  <programme start="20260129092100 +0000" stop="20260129092400 +0000" channel="DUCK TV">
-    <title>FINN AND FIANNA</title>
-  </programme>
-  <programme start="20260129092400 +0000" stop="20260129092500 +0000" channel="4K TR: DUCK TV HD">
-    <title>PIXIE 2</title>
-  </programme>
-  <programme start="20260129092400 +0000" stop="20260129092500 +0000" channel="DUCK TV">
-    <title>PIXIE 2</title>
-  </programme>
-  <programme start="20260129092500 +0000" stop="20260129092900 +0000" channel="4K TR: DUCK TV HD">
-    <title>MARGO & FELIX</title>
-  </programme>
-  <programme start="20260129092500 +0000" stop="20260129092900 +0000" channel="DUCK TV">
-    <title>MARGO & FELIX</title>
-  </programme>
-  <programme start="20260129092900 +0000" stop="20260129093100 +0000" channel="4K TR: DUCK TV HD">
-    <title>SOUNDS AROUND US</title>
-  </programme>
-  <programme start="20260129092900 +0000" stop="20260129093100 +0000" channel="DUCK TV">
-    <title>SOUNDS AROUND US</title>
-  </programme>
-  <programme start="20260129093100 +0000" stop="20260129093400 +0000" channel="4K TR: DUCK TV HD">
-    <title>SHAPING UP</title>
-  </programme>
-  <programme start="20260129093100 +0000" stop="20260129093400 +0000" channel="DUCK TV">
-    <title>SHAPING UP</title>
-  </programme>
-  <programme start="20260129093400 +0000" stop="20260129093700 +0000" channel="4K TR: DUCK TV HD">
-    <title>TOBY MCFLY</title>
-  </programme>
-  <programme start="20260129093400 +0000" stop="20260129093700 +0000" channel="DUCK TV">
-    <title>TOBY MCFLY</title>
-  </programme>
-  <programme start="20260129093700 +0000" stop="20260129093900 +0000" channel="4K TR: DUCK TV HD">
-    <title>MIMO & BOBO</title>
-  </programme>
-  <programme start="20260129093700 +0000" stop="20260129093900 +0000" channel="DUCK TV">
-    <title>MIMO & BOBO</title>
-  </programme>
-  <programme start="20260129093900 +0000" stop="20260129094200 +0000" channel="4K TR: DUCK TV HD">
-    <title>LOLA AND THE NUMBERS</title>
-  </programme>
-  <programme start="20260129093900 +0000" stop="20260129094200 +0000" channel="DUCK TV">
-    <title>LOLA AND THE NUMBERS</title>
-  </programme>
-  <programme start="20260129094200 +0000" stop="20260129094400 +0000" channel="4K TR: DUCK TV HD">
-    <title>DUCKY ADVENTURES</title>
-  </programme>
-  <programme start="20260129094200 +0000" stop="20260129094400 +0000" channel="DUCK TV">
-    <title>DUCKY ADVENTURES</title>
-  </programme>
-  <programme start="20260129094400 +0000" stop="20260129094600 +0000" channel="4K TR: DUCK TV HD">
-    <title>TEMPO GIUSTO</title>
-  </programme>
-  <programme start="20260129094400 +0000" stop="20260129094600 +0000" channel="DUCK TV">
-    <title>TEMPO GIUSTO</title>
-  </programme>
-  <programme start="20260129094600 +0000" stop="20260129094900 +0000" channel="4K TR: DUCK TV HD">
-    <title>MIMO & BOBO</title>
-  </programme>
-  <programme start="20260129094600 +0000" stop="20260129094900 +0000" channel="DUCK TV">
-    <title>MIMO & BOBO</title>
-  </programme>
-  <programme start="20260129094900 +0000" stop="20260129095200 +0000" channel="4K TR: DUCK TV HD">
-    <title>RISTO GUSTO</title>
-  </programme>
-  <programme start="20260129094900 +0000" stop="20260129095200 +0000" channel="DUCK TV">
-    <title>RISTO GUSTO</title>
-  </programme>
-  <programme start="20260129095200 +0000" stop="20260129095500 +0000" channel="4K TR: DUCK TV HD">
-    <title>FIRETEAM</title>
-  </programme>
-  <programme start="20260129095200 +0000" stop="20260129095500 +0000" channel="DUCK TV">
-    <title>FIRETEAM</title>
-  </programme>
-  <programme start="20260129095500 +0000" stop="20260129095700 +0000" channel="4K TR: DUCK TV HD">
-    <title>DIDY BABY</title>
-  </programme>
-  <programme start="20260129095500 +0000" stop="20260129095700 +0000" channel="DUCK TV">
-    <title>DIDY BABY</title>
-  </programme>
-  <programme start="20260129095700 +0000" stop="20260129100100 +0000" channel="4K TR: DUCK TV HD">
-    <title>DOLL TEAM TO THE RESCUE</title>
-  </programme>
-  <programme start="20260129095700 +0000" stop="20260129100100 +0000" channel="DUCK TV">
-    <title>DOLL TEAM TO THE RESCUE</title>
-  </programme>
-  <programme start="20260129100100 +0000" stop="20260129100300 +0000" channel="4K TR: DUCK TV HD">
-    <title>DUCKSCHOOL</title>
-  </programme>
-  <programme start="20260129100100 +0000" stop="20260129100300 +0000" channel="DUCK TV">
-    <title>DUCKSCHOOL</title>
-  </programme>
-  <programme start="20260129100300 +0000" stop="20260129100500 +0000" channel="4K TR: DUCK TV HD">
-    <title>DUCKY AND FRIENDS</title>
-  </programme>
-  <programme start="20260129100300 +0000" stop="20260129100500 +0000" channel="DUCK TV">
-    <title>DUCKY AND FRIENDS</title>
-  </programme>
-  <programme start="20260129100500 +0000" stop="20260129100700 +0000" channel="4K TR: DUCK TV HD">
-    <title>MIMO'S WORLD</title>
-  </programme>
-  <programme start="20260129100500 +0000" stop="20260129100700 +0000" channel="DUCK TV">
-    <title>MIMO'S WORLD</title>
-  </programme>
-  <programme start="20260129100700 +0000" stop="20260129101000 +0000" channel="4K TR: DUCK TV HD">
-    <title>CUBIE</title>
-  </programme>
-  <programme start="20260129100700 +0000" stop="20260129101000 +0000" channel="DUCK TV">
-    <title>CUBIE</title>
-  </programme>
-  <programme start="20260129101000 +0000" stop="20260129101200 +0000" channel="4K TR: DUCK TV HD">
-    <title>DUCKY AND FRIENDS</title>
-  </programme>
-  <programme start="20260129101000 +0000" stop="20260129101200 +0000" channel="DUCK TV">
-    <title>DUCKY AND FRIENDS</title>
-  </programme>
-  <programme start="20260129101200 +0000" stop="20260129101500 +0000" channel="4K TR: DUCK TV HD">
-    <title>DUCKSCHOOL</title>
-  </programme>
-  <programme start="20260129101200 +0000" stop="20260129101500 +0000" channel="DUCK TV">
-    <title>DUCKSCHOOL</title>
-  </programme>
-  <programme start="20260129101500 +0000" stop="20260129101700 +0000" channel="4K TR: DUCK TV HD">
-    <title>HENRY'S STORIES</title>
-  </programme>
-  <programme start="20260129101500 +0000" stop="20260129101700 +0000" channel="DUCK TV">
-    <title>HENRY'S STORIES</title>
-  </programme>
-  <programme start="20260129101700 +0000" stop="20260129102000 +0000" channel="4K TR: DUCK TV HD">
-    <title>HIGHER THE BETTER</title>
-  </programme>
-  <programme start="20260129101700 +0000" stop="20260129102000 +0000" channel="DUCK TV">
-    <title>HIGHER THE BETTER</title>
-  </programme>
-  <programme start="20260129102000 +0000" stop="20260129102300 +0000" channel="4K TR: DUCK TV HD">
-    <title>MONICA & RUDY</title>
-  </programme>
-  <programme start="20260129102000 +0000" stop="20260129102300 +0000" channel="DUCK TV">
-    <title>MONICA & RUDY</title>
-  </programme>
-  <programme start="20260129102300 +0000" stop="20260129102600 +0000" channel="4K TR: DUCK TV HD">
-    <title>SUNVILLE - SPORTSVILLE</title>
-  </programme>
-  <programme start="20260129102300 +0000" stop="20260129102600 +0000" channel="DUCK TV">
-    <title>SUNVILLE - SPORTSVILLE</title>
-  </programme>
-  <programme start="20260129102600 +0000" stop="20260129103000 +0000" channel="4K TR: DUCK TV HD">
-    <title>MARGO & FELIX</title>
-  </programme>
-  <programme start="20260129102600 +0000" stop="20260129103000 +0000" channel="DUCK TV">
-    <title>MARGO & FELIX</title>
-  </programme>
-  <programme start="20260129103000 +0000" stop="20260129103200 +0000" channel="4K TR: DUCK TV HD">
-    <title>LEON-ART</title>
-  </programme>
-  <programme start="20260129103000 +0000" stop="20260129103200 +0000" channel="DUCK TV">
-    <title>LEON-ART</title>
-  </programme>
-  <programme start="20260129103200 +0000" stop="20260129103500 +0000" channel="4K TR: DUCK TV HD">
-    <title>WORLD OF TOYS</title>
-  </programme>
-  <programme start="20260129103200 +0000" stop="20260129103500 +0000" channel="DUCK TV">
-    <title>WORLD OF TOYS</title>
-  </programme>
-  <programme start="20260129103500 +0000" stop="20260129103800 +0000" channel="4K TR: DUCK TV HD">
-    <title>SUNVILLE - SPORTSVILLE</title>
-  </programme>
-  <programme start="20260129103500 +0000" stop="20260129103800 +0000" channel="DUCK TV">
-    <title>SUNVILLE - SPORTSVILLE</title>
-  </programme>
-  <programme start="20260129103800 +0000" stop="20260129104200 +0000" channel="4K TR: DUCK TV HD">
-    <title>DOLL TEAM TO THE RESCUE</title>
-  </programme>
-  <programme start="20260129103800 +0000" stop="20260129104200 +0000" channel="DUCK TV">
-    <title>DOLL TEAM TO THE RESCUE</title>
-  </programme>
-  <programme start="20260129104200 +0000" stop="20260129104400 +0000" channel="4K TR: DUCK TV HD">
-    <title>TRAIN</title>
-  </programme>
-  <programme start="20260129104200 +0000" stop="20260129104400 +0000" channel="DUCK TV">
-    <title>TRAIN</title>
-  </programme>
-  <programme start="20260129104400 +0000" stop="20260129104600 +0000" channel="4K TR: DUCK TV HD">
-    <title>DOLL TEAM TO THE RESCUE</title>
-  </programme>
-  <programme start="20260129104400 +0000" stop="20260129104600 +0000" channel="DUCK TV">
-    <title>DOLL TEAM TO THE RESCUE</title>
-  </programme>
-  <programme start="20260129104600 +0000" stop="20260129104900 +0000" channel="4K TR: DUCK TV HD">
-    <title>RAUL</title>
-  </programme>
-  <programme start="20260129104600 +0000" stop="20260129104900 +0000" channel="DUCK TV">
-    <title>RAUL</title>
-  </programme>
-  <programme start="20260129104900 +0000" stop="20260129105200 +0000" channel="4K TR: DUCK TV HD">
-    <title>FIRETEAM IN ACTION</title>
-  </programme>
-  <programme start="20260129104900 +0000" stop="20260129105200 +0000" channel="DUCK TV">
-    <title>FIRETEAM IN ACTION</title>
-  </programme>
-  <programme start="20260129105200 +0000" stop="20260129105600 +0000" channel="4K TR: DUCK TV HD">
-    <title>MIMO AND BOBO PLUS</title>
-  </programme>
-  <programme start="20260129105200 +0000" stop="20260129105600 +0000" channel="DUCK TV">
-    <title>MIMO AND BOBO PLUS</title>
-  </programme>
-  <programme start="20260129105600 +0000" stop="20260129105800 +0000" channel="4K TR: DUCK TV HD">
-    <title>SIPPI SAPPI</title>
-  </programme>
-  <programme start="20260129105600 +0000" stop="20260129105800 +0000" channel="DUCK TV">
-    <title>SIPPI SAPPI</title>
-  </programme>
-  <programme start="20260129105800 +0000" stop="20260129110100 +0000" channel="4K TR: DUCK TV HD">
-    <title>HIPP-HOPP CACTUS</title>
-  </programme>
-  <programme start="20260129105800 +0000" stop="20260129110100 +0000" channel="DUCK TV">
-    <title>HIPP-HOPP CACTUS</title>
-  </programme>
-  <programme start="20260129110100 +0000" stop="20260129110300 +0000" channel="4K TR: DUCK TV HD">
-    <title>LEON-ART</title>
-  </programme>
-  <programme start="20260129110100 +0000" stop="20260129110300 +0000" channel="DUCK TV">
-    <title>LEON-ART</title>
-  </programme>
-  <programme start="20260129110300 +0000" stop="20260129110700 +0000" channel="4K TR: DUCK TV HD">
-    <title>MILO DINO</title>
-  </programme>
-  <programme start="20260129110300 +0000" stop="20260129110700 +0000" channel="DUCK TV">
-    <title>MILO DINO</title>
-  </programme>
-  <programme start="20260129110700 +0000" stop="20260129111000 +0000" channel="4K TR: DUCK TV HD">
-    <title>FINN AND FIANNA</title>
-  </programme>
-  <programme start="20260129110700 +0000" stop="20260129111000 +0000" channel="DUCK TV">
-    <title>FINN AND FIANNA</title>
-  </programme>
-  <programme start="20260129111000 +0000" stop="20260129111300 +0000" channel="4K TR: DUCK TV HD">
-    <title>TRAIN</title>
-  </programme>
-  <programme start="20260129111000 +0000" stop="20260129111300 +0000" channel="DUCK TV">
-    <title>TRAIN</title>
-  </programme>
-  <programme start="20260129111300 +0000" stop="20260129111700 +0000" channel="4K TR: DUCK TV HD">
-    <title>PLANET JUMPERS</title>
-  </programme>
-  <programme start="20260129111300 +0000" stop="20260129111700 +0000" channel="DUCK TV">
-    <title>PLANET JUMPERS</title>
-  </programme>
-  <programme start="20260129111700 +0000" stop="20260129112100 +0000" channel="4K TR: DUCK TV HD">
-    <title>RISTORANTE</title>
-  </programme>
-  <programme start="20260129111700 +0000" stop="20260129112100 +0000" channel="DUCK TV">
-    <title>RISTORANTE</title>
-  </programme>
-  <programme start="20260129112100 +0000" stop="20260129112400 +0000" channel="4K TR: DUCK TV HD">
-    <title>SHAPING UP</title>
-  </programme>
-  <programme start="20260129112100 +0000" stop="20260129112400 +0000" channel="DUCK TV">
-    <title>SHAPING UP</title>
-  </programme>
-  <programme start="20260129112400 +0000" stop="20260129112600 +0000" channel="4K TR: DUCK TV HD">
-    <title>DIDY BABY</title>
-  </programme>
-  <programme start="20260129112400 +0000" stop="20260129112600 +0000" channel="DUCK TV">
-    <title>DIDY BABY</title>
-  </programme>
-  <programme start="20260129112600 +0000" stop="20260129112900 +0000" channel="4K TR: DUCK TV HD">
-    <title>FIRETEAM IN ACTION</title>
-  </programme>
-  <programme start="20260129112600 +0000" stop="20260129112900 +0000" channel="DUCK TV">
-    <title>FIRETEAM IN ACTION</title>
-  </programme>
-  <programme start="20260129112900 +0000" stop="20260129113200 +0000" channel="4K TR: DUCK TV HD">
-    <title>HUBBI AND FRIENDS</title>
-  </programme>
-  <programme start="20260129112900 +0000" stop="20260129113200 +0000" channel="DUCK TV">
-    <title>HUBBI AND FRIENDS</title>
-  </programme>
-  <programme start="20260129113200 +0000" stop="20260129113500 +0000" channel="4K TR: DUCK TV HD">
-    <title>HUBBI AND FRIENDS</title>
-  </programme>
-  <programme start="20260129113200 +0000" stop="20260129113500 +0000" channel="DUCK TV">
-    <title>HUBBI AND FRIENDS</title>
-  </programme>
-  <programme start="20260129113500 +0000" stop="20260129113800 +0000" channel="4K TR: DUCK TV HD">
-    <title>HUBBI WILL TAKE CARE OF IT</title>
-  </programme>
-  <programme start="20260129113500 +0000" stop="20260129113800 +0000" channel="DUCK TV">
-    <title>HUBBI WILL TAKE CARE OF IT</title>
-  </programme>
-  <programme start="20260129113800 +0000" stop="20260129114000 +0000" channel="4K TR: DUCK TV HD">
-    <title>LEON-ART</title>
-  </programme>
-  <programme start="20260129113800 +0000" stop="20260129114000 +0000" channel="DUCK TV">
-    <title>LEON-ART</title>
-  </programme>
-  <programme start="20260129114000 +0000" stop="20260129114200 +0000" channel="4K TR: DUCK TV HD">
-    <title>AFRICA</title>
-  </programme>
-  <programme start="20260129114000 +0000" stop="20260129114200 +0000" channel="DUCK TV">
-    <title>AFRICA</title>
-  </programme>
-  <programme start="20260129114200 +0000" stop="20260129114400 +0000" channel="4K TR: DUCK TV HD">
-    <title>DUCKY ADVENTURES</title>
-  </programme>
-  <programme start="20260129114200 +0000" stop="20260129114400 +0000" channel="DUCK TV">
-    <title>DUCKY ADVENTURES</title>
-  </programme>
-  <programme start="20260129114400 +0000" stop="20260129114700 +0000" channel="4K TR: DUCK TV HD">
-    <title>SHAPING UP</title>
-  </programme>
-  <programme start="20260129114400 +0000" stop="20260129114700 +0000" channel="DUCK TV">
-    <title>SHAPING UP</title>
-  </programme>
-  <programme start="20260129114700 +0000" stop="20260129114900 +0000" channel="4K TR: DUCK TV HD">
-    <title>MIMO & BOBO</title>
-  </programme>
-  <programme start="20260129114700 +0000" stop="20260129114900 +0000" channel="DUCK TV">
-    <title>MIMO & BOBO</title>
-  </programme>
-  <programme start="20260129114900 +0000" stop="20260129115200 +0000" channel="4K TR: DUCK TV HD">
-    <title>DUCKY AND FLUFFY</title>
-  </programme>
-  <programme start="20260129114900 +0000" stop="20260129115200 +0000" channel="DUCK TV">
-    <title>DUCKY AND FLUFFY</title>
-  </programme>
-  <programme start="20260129115200 +0000" stop="20260129115400 +0000" channel="4K TR: DUCK TV HD">
-    <title>WORLD OF TOYS</title>
-  </programme>
-  <programme start="20260129115200 +0000" stop="20260129115400 +0000" channel="DUCK TV">
-    <title>WORLD OF TOYS</title>
-  </programme>
-  <programme start="20260129115400 +0000" stop="20260129115800 +0000" channel="4K TR: DUCK TV HD">
-    <title>DOLL TEAM TO THE RESCUE</title>
-  </programme>
-  <programme start="20260129115400 +0000" stop="20260129115800 +0000" channel="DUCK TV">
-    <title>DOLL TEAM TO THE RESCUE</title>
-  </programme>
-  <programme start="20260129115800 +0000" stop="20260129120100 +0000" channel="4K TR: DUCK TV HD">
-    <title>TOBY MCFLY</title>
-  </programme>
-  <programme start="20260129115800 +0000" stop="20260129120100 +0000" channel="DUCK TV">
-    <title>TOBY MCFLY</title>
-  </programme>
-  <programme start="20260129120100 +0000" stop="20260129120300 +0000" channel="4K TR: DUCK TV HD">
-    <title>DUCKY AND FLUFFY</title>
-  </programme>
-  <programme start="20260129120100 +0000" stop="20260129120300 +0000" channel="DUCK TV">
-    <title>DUCKY AND FLUFFY</title>
-  </programme>
-  <programme start="20260129120300 +0000" stop="20260129120700 +0000" channel="4K TR: DUCK TV HD">
-    <title>MILO DINO</title>
-  </programme>
-  <programme start="20260129120300 +0000" stop="20260129120700 +0000" channel="DUCK TV">
-    <title>MILO DINO</title>
-  </programme>
-  <programme start="20260129120700 +0000" stop="20260129120900 +0000" channel="4K TR: DUCK TV HD">
-    <title>DOLL TEAM</title>
-  </programme>
-  <programme start="20260129120700 +0000" stop="20260129120900 +0000" channel="DUCK TV">
-    <title>DOLL TEAM</title>
-  </programme>
-  <programme start="20260129120900 +0000" stop="20260129121200 +0000" channel="4K TR: DUCK TV HD">
-    <title>HAPPY KINGDOM</title>
-  </programme>
-  <programme start="20260129120900 +0000" stop="20260129121200 +0000" channel="DUCK TV">
-    <title>HAPPY KINGDOM</title>
-  </programme>
-  <programme start="20260129121200 +0000" stop="20260129121600 +0000" channel="4K TR: DUCK TV HD">
-    <title>MILO DINO</title>
-  </programme>
-  <programme start="20260129121200 +0000" stop="20260129121600 +0000" channel="DUCK TV">
-    <title>MILO DINO</title>
-  </programme>
-  <programme start="20260129121600 +0000" stop="20260129121900 +0000" channel="4K TR: DUCK TV HD">
-    <title>RISTO GUSTO</title>
-  </programme>
-  <programme start="20260129121600 +0000" stop="20260129121900 +0000" channel="DUCK TV">
-    <title>RISTO GUSTO</title>
-  </programme>
-  <programme start="20260129121900 +0000" stop="20260129122200 +0000" channel="4K TR: DUCK TV HD">
-    <title>DOLL TEAM</title>
-  </programme>
-  <programme start="20260129121900 +0000" stop="20260129122200 +0000" channel="DUCK TV">
-    <title>DOLL TEAM</title>
-  </programme>
-  <programme start="20260129122200 +0000" stop="20260129122400 +0000" channel="4K TR: DUCK TV HD">
-    <title>DOLL TEAM TO THE RESCUE</title>
-  </programme>
-  <programme start="20260129122200 +0000" stop="20260129122400 +0000" channel="DUCK TV">
-    <title>DOLL TEAM TO THE RESCUE</title>
-  </programme>
-  <programme start="20260129122400 +0000" stop="20260129122600 +0000" channel="4K TR: DUCK TV HD">
-    <title>DUCKY AND FLUFFY</title>
-  </programme>
-  <programme start="20260129122400 +0000" stop="20260129122600 +0000" channel="DUCK TV">
-    <title>DUCKY AND FLUFFY</title>
-  </programme>
-  <programme start="20260129122600 +0000" stop="20260129122900 +0000" channel="4K TR: DUCK TV HD">
-    <title>MIMO & BOBO</title>
-  </programme>
-  <programme start="20260129122600 +0000" stop="20260129122900 +0000" channel="DUCK TV">
-    <title>MIMO & BOBO</title>
-  </programme>
-  <programme start="20260129122900 +0000" stop="20260129123200 +0000" channel="4K TR: DUCK TV HD">
-    <title>HAPPY KINGDOM</title>
-  </programme>
-  <programme start="20260129122900 +0000" stop="20260129123200 +0000" channel="DUCK TV">
-    <title>HAPPY KINGDOM</title>
-  </programme>
-  <programme start="20260129123200 +0000" stop="20260129123600 +0000" channel="4K TR: DUCK TV HD">
-    <title>HAPPY MEADOW</title>
-  </programme>
-  <programme start="20260129123200 +0000" stop="20260129123600 +0000" channel="DUCK TV">
-    <title>HAPPY MEADOW</title>
-  </programme>
-  <programme start="20260129123600 +0000" stop="20260129123800 +0000" channel="4K TR: DUCK TV HD">
-    <title>MY PET FAMILY</title>
-  </programme>
-  <programme start="20260129123600 +0000" stop="20260129123800 +0000" channel="DUCK TV">
-    <title>MY PET FAMILY</title>
-  </programme>
-  <programme start="20260129123800 +0000" stop="20260129123900 +0000" channel="4K TR: DUCK TV HD">
-    <title>NATURE DUDES</title>
-  </programme>
-  <programme start="20260129123800 +0000" stop="20260129123900 +0000" channel="DUCK TV">
-    <title>NATURE DUDES</title>
-  </programme>
-  <programme start="20260129123900 +0000" stop="20260129124100 +0000" channel="4K TR: DUCK TV HD">
-    <title>MIMO & BOBO</title>
-  </programme>
-  <programme start="20260129123900 +0000" stop="20260129124100 +0000" channel="DUCK TV">
-    <title>MIMO & BOBO</title>
-  </programme>
-  <programme start="20260129124100 +0000" stop="20260129124300 +0000" channel="4K TR: DUCK TV HD">
-    <title>LITTLE MELODIES</title>
-  </programme>
-  <programme start="20260129124100 +0000" stop="20260129124300 +0000" channel="DUCK TV">
-    <title>LITTLE MELODIES</title>
-  </programme>
-  <programme start="20260129124300 +0000" stop="20260129124400 +0000" channel="4K TR: DUCK TV HD">
-    <title>NATURE DUDES</title>
-  </programme>
-  <programme start="20260129124300 +0000" stop="20260129124400 +0000" channel="DUCK TV">
-    <title>NATURE DUDES</title>
-  </programme>
-  <programme start="20260129124400 +0000" stop="20260129124500 +0000" channel="4K TR: DUCK TV HD">
-    <title>PIXIE 2</title>
-  </programme>
-  <programme start="20260129124400 +0000" stop="20260129124500 +0000" channel="DUCK TV">
-    <title>PIXIE 2</title>
-  </programme>
-  <programme start="20260129124500 +0000" stop="20260129124900 +0000" channel="4K TR: DUCK TV HD">
-    <title>FINN AND FIANNA</title>
-  </programme>
-  <programme start="20260129124500 +0000" stop="20260129124900 +0000" channel="DUCK TV">
-    <title>FINN AND FIANNA</title>
-  </programme>
-  <programme start="20260129124900 +0000" stop="20260129125200 +0000" channel="4K TR: DUCK TV HD">
-    <title>ABC - DUCKBC</title>
-  </programme>
-  <programme start="20260129124900 +0000" stop="20260129125200 +0000" channel="DUCK TV">
-    <title>ABC - DUCKBC</title>
-  </programme>
-  <programme start="20260129125200 +0000" stop="20260129125400 +0000" channel="4K TR: DUCK TV HD">
-    <title>COLOR CLARA</title>
-  </programme>
-  <programme start="20260129125200 +0000" stop="20260129125400 +0000" channel="DUCK TV">
-    <title>COLOR CLARA</title>
-  </programme>
-  <programme start="20260129125400 +0000" stop="20260129125600 +0000" channel="4K TR: DUCK TV HD">
-    <title>MIMO & BOBO</title>
-  </programme>
-  <programme start="20260129125400 +0000" stop="20260129125600 +0000" channel="DUCK TV">
-    <title>MIMO & BOBO</title>
-  </programme>
-  <programme start="20260129125600 +0000" stop="20260129125900 +0000" channel="4K TR: DUCK TV HD">
-    <title>ABC - DUCKBC</title>
-  </programme>
-  <programme start="20260129125600 +0000" stop="20260129125900 +0000" channel="DUCK TV">
-    <title>ABC - DUCKBC</title>
-  </programme>
-  <programme start="20260129125900 +0000" stop="20260129130200 +0000" channel="4K TR: DUCK TV HD">
-    <title>LOLA AND THE NUMBERS</title>
-  </programme>
-  <programme start="20260129125900 +0000" stop="20260129130200 +0000" channel="DUCK TV">
-    <title>LOLA AND THE NUMBERS</title>
-  </programme>
-  <programme start="20260129130200 +0000" stop="20260129130500 +0000" channel="4K TR: DUCK TV HD">
-    <title>AFRICA</title>
-  </programme>
-  <programme start="20260129130200 +0000" stop="20260129130500 +0000" channel="DUCK TV">
-    <title>AFRICA</title>
-  </programme>
-  <programme start="20260129130500 +0000" stop="20260129130700 +0000" channel="4K TR: DUCK TV HD">
-    <title>DUCKSCHOOL</title>
-  </programme>
-  <programme start="20260129130500 +0000" stop="20260129130700 +0000" channel="DUCK TV">
-    <title>DUCKSCHOOL</title>
-  </programme>
-  <programme start="20260129130700 +0000" stop="20260129131000 +0000" channel="4K TR: DUCK TV HD">
-    <title>MARGO & FELIX</title>
-  </programme>
-  <programme start="20260129130700 +0000" stop="20260129131000 +0000" channel="DUCK TV">
-    <title>MARGO & FELIX</title>
-  </programme>
-  <programme start="20260129131000 +0000" stop="20260129131200 +0000" channel="4K TR: DUCK TV HD">
-    <title>HUBBI AND FRIENDS</title>
-  </programme>
-  <programme start="20260129131000 +0000" stop="20260129131200 +0000" channel="DUCK TV">
-    <title>HUBBI AND FRIENDS</title>
-  </programme>
-  <programme start="20260129131200 +0000" stop="20260129131500 +0000" channel="4K TR: DUCK TV HD">
-    <title>HIGHER THE BETTER</title>
-  </programme>
-  <programme start="20260129131200 +0000" stop="20260129131500 +0000" channel="DUCK TV">
-    <title>HIGHER THE BETTER</title>
-  </programme>
-  <programme start="20260129131500 +0000" stop="20260129131800 +0000" channel="4K TR: DUCK TV HD">
-    <title>MONICA & RUDY</title>
-  </programme>
-  <programme start="20260129131500 +0000" stop="20260129131800 +0000" channel="DUCK TV">
-    <title>MONICA & RUDY</title>
-  </programme>
-  <programme start="20260129131800 +0000" stop="20260129132100 +0000" channel="4K TR: DUCK TV HD">
-    <title>SHAPING UP</title>
-  </programme>
-  <programme start="20260129131800 +0000" stop="20260129132100 +0000" channel="DUCK TV">
-    <title>SHAPING UP</title>
-  </programme>
-  <programme start="20260129132100 +0000" stop="20260129132400 +0000" channel="4K TR: DUCK TV HD">
-    <title>LOLA AND THE NUMBERS</title>
-  </programme>
-  <programme start="20260129132100 +0000" stop="20260129132400 +0000" channel="DUCK TV">
-    <title>LOLA AND THE NUMBERS</title>
-  </programme>
-  <programme start="20260129132400 +0000" stop="20260129132600 +0000" channel="4K TR: DUCK TV HD">
-    <title>THE SHAPIES</title>
-  </programme>
-  <programme start="20260129132400 +0000" stop="20260129132600 +0000" channel="DUCK TV">
-    <title>THE SHAPIES</title>
-  </programme>
-  <programme start="20260129132600 +0000" stop="20260129132900 +0000" channel="4K TR: DUCK TV HD">
-    <title>HAPPY MEADOW</title>
-  </programme>
-  <programme start="20260129132600 +0000" stop="20260129132900 +0000" channel="DUCK TV">
-    <title>HAPPY MEADOW</title>
-  </programme>
-  <programme start="20260129132900 +0000" stop="20260129133100 +0000" channel="4K TR: DUCK TV HD">
-    <title>COLOR CLARA</title>
-  </programme>
-  <programme start="20260129132900 +0000" stop="20260129133100 +0000" channel="DUCK TV">
-    <title>COLOR CLARA</title>
-  </programme>
-  <programme start="20260129133100 +0000" stop="20260129133400 +0000" channel="4K TR: DUCK TV HD">
-    <title>HAPPY MEADOW</title>
-  </programme>
-  <programme start="20260129133100 +0000" stop="20260129133400 +0000" channel="DUCK TV">
-    <title>HAPPY MEADOW</title>
-  </programme>
-  <programme start="20260129133400 +0000" stop="20260129133600 +0000" channel="4K TR: DUCK TV HD">
-    <title>LOLA AND THE NUMBERS</title>
-  </programme>
-  <programme start="20260129133400 +0000" stop="20260129133600 +0000" channel="DUCK TV">
-    <title>LOLA AND THE NUMBERS</title>
-  </programme>
-  <programme start="20260129133600 +0000" stop="20260129133900 +0000" channel="4K TR: DUCK TV HD">
-    <title>RAUL</title>
-  </programme>
-  <programme start="20260129133600 +0000" stop="20260129133900 +0000" channel="DUCK TV">
-    <title>RAUL</title>
-  </programme>
-  <programme start="20260129133900 +0000" stop="20260129134300 +0000" channel="4K TR: DUCK TV HD">
-    <title>MIMO AND BOBO PLUS</title>
-  </programme>
-  <programme start="20260129133900 +0000" stop="20260129134300 +0000" channel="DUCK TV">
-    <title>MIMO AND BOBO PLUS</title>
-  </programme>
-  <programme start="20260129134300 +0000" stop="20260129134500 +0000" channel="4K TR: DUCK TV HD">
-    <title>SIPPI SAPPI</title>
-  </programme>
-  <programme start="20260129134300 +0000" stop="20260129134500 +0000" channel="DUCK TV">
-    <title>SIPPI SAPPI</title>
-  </programme>
-  <programme start="20260129134500 +0000" stop="20260129134900 +0000" channel="4K TR: DUCK TV HD">
-    <title>MIMO AND BOBO PLUS</title>
-  </programme>
-  <programme start="20260129134500 +0000" stop="20260129134900 +0000" channel="DUCK TV">
-    <title>MIMO AND BOBO PLUS</title>
-  </programme>
-  <programme start="20260129134900 +0000" stop="20260129135200 +0000" channel="4K TR: DUCK TV HD">
-    <title>SIPPI SAPPI</title>
-  </programme>
-  <programme start="20260129134900 +0000" stop="20260129135200 +0000" channel="DUCK TV">
-    <title>SIPPI SAPPI</title>
-  </programme>
-  <programme start="20260129135200 +0000" stop="20260129135500 +0000" channel="4K TR: DUCK TV HD">
-    <title>CUCU, I'M HERE!</title>
-  </programme>
-  <programme start="20260129135200 +0000" stop="20260129135500 +0000" channel="DUCK TV">
-    <title>CUCU, I'M HERE!</title>
-  </programme>
-  <programme start="20260129135500 +0000" stop="20260129135800 +0000" channel="4K TR: DUCK TV HD">
-    <title>ZACK & ZIGGY</title>
-  </programme>
-  <programme start="20260129135500 +0000" stop="20260129135800 +0000" channel="DUCK TV">
-    <title>ZACK & ZIGGY</title>
-  </programme>
-  <programme start="20260129135800 +0000" stop="20260129140100 +0000" channel="4K TR: DUCK TV HD">
-    <title>RAUL</title>
-  </programme>
-  <programme start="20260129135800 +0000" stop="20260129140100 +0000" channel="DUCK TV">
-    <title>RAUL</title>
-  </programme>
-  <programme start="20260129140100 +0000" stop="20260129140400 +0000" channel="4K TR: DUCK TV HD">
-    <title>HUBBI WILL TAKE CARE OF IT</title>
-  </programme>
-  <programme start="20260129140100 +0000" stop="20260129140400 +0000" channel="DUCK TV">
-    <title>HUBBI WILL TAKE CARE OF IT</title>
-  </programme>
-  <programme start="20260129140400 +0000" stop="20260129140500 +0000" channel="4K TR: DUCK TV HD">
-    <title>NATURE DUDES</title>
-  </programme>
-  <programme start="20260129140400 +0000" stop="20260129140500 +0000" channel="DUCK TV">
-    <title>NATURE DUDES</title>
-  </programme>
-  <programme start="20260129140500 +0000" stop="20260129140800 +0000" channel="4K TR: DUCK TV HD">
-    <title>MARGO & FELIX</title>
-  </programme>
-  <programme start="20260129140500 +0000" stop="20260129140800 +0000" channel="DUCK TV">
-    <title>MARGO & FELIX</title>
-  </programme>
-  <programme start="20260129140800 +0000" stop="20260129141100 +0000" channel="4K TR: DUCK TV HD">
-    <title>DUCKSCHOOL</title>
-  </programme>
-  <programme start="20260129140800 +0000" stop="20260129141100 +0000" channel="DUCK TV">
-    <title>DUCKSCHOOL</title>
-  </programme>
-  <programme start="20260129141100 +0000" stop="20260129141300 +0000" channel="4K TR: DUCK TV HD">
-    <title>AFRICA</title>
-  </programme>
-  <programme start="20260129141100 +0000" stop="20260129141300 +0000" channel="DUCK TV">
-    <title>AFRICA</title>
-  </programme>
-  <programme start="20260129141300 +0000" stop="20260129141500 +0000" channel="4K TR: DUCK TV HD">
-    <title>TEMPO GIUSTO</title>
-  </programme>
-  <programme start="20260129141300 +0000" stop="20260129141500 +0000" channel="DUCK TV">
-    <title>TEMPO GIUSTO</title>
-  </programme>
-  <programme start="20260129141500 +0000" stop="20260129141800 +0000" channel="4K TR: DUCK TV HD">
-    <title>RAUL</title>
-  </programme>
-  <programme start="20260129141500 +0000" stop="20260129141800 +0000" channel="DUCK TV">
-    <title>RAUL</title>
-  </programme>
-  <programme start="20260129141800 +0000" stop="20260129142000 +0000" channel="4K TR: DUCK TV HD">
-    <title>MIMO & BOBO</title>
-  </programme>
-  <programme start="20260129141800 +0000" stop="20260129142000 +0000" channel="DUCK TV">
-    <title>MIMO & BOBO</title>
-  </programme>
-  <programme start="20260129142000 +0000" stop="20260129142300 +0000" channel="4K TR: DUCK TV HD">
-    <title>DIDY BABY</title>
-  </programme>
-  <programme start="20260129142000 +0000" stop="20260129142300 +0000" channel="DUCK TV">
-    <title>DIDY BABY</title>
-  </programme>
-  <programme start="20260129142300 +0000" stop="20260129142700 +0000" channel="4K TR: DUCK TV HD">
-    <title>DUCKSCHOOL</title>
-  </programme>
-  <programme start="20260129142300 +0000" stop="20260129142700 +0000" channel="DUCK TV">
-    <title>DUCKSCHOOL</title>
-  </programme>
-  <programme start="20260129142700 +0000" stop="20260129142900 +0000" channel="4K TR: DUCK TV HD">
-    <title>SOUNDS AROUND US</title>
-  </programme>
-  <programme start="20260129142700 +0000" stop="20260129142900 +0000" channel="DUCK TV">
-    <title>SOUNDS AROUND US</title>
-  </programme>
-  <programme start="20260129142900 +0000" stop="20260129143100 +0000" channel="4K TR: DUCK TV HD">
-    <title>HENRY'S STORIES</title>
-  </programme>
-  <programme start="20260129142900 +0000" stop="20260129143100 +0000" channel="DUCK TV">
-    <title>HENRY'S STORIES</title>
-  </programme>
-  <programme start="20260129143100 +0000" stop="20260129143300 +0000" channel="4K TR: DUCK TV HD">
-    <title>AFRICA</title>
-  </programme>
-  <programme start="20260129143100 +0000" stop="20260129143300 +0000" channel="DUCK TV">
-    <title>AFRICA</title>
-  </programme>
-  <programme start="20260129143300 +0000" stop="20260129143500 +0000" channel="4K TR: DUCK TV HD">
-    <title>SIPPI SAPPI</title>
-  </programme>
-  <programme start="20260129143300 +0000" stop="20260129143500 +0000" channel="DUCK TV">
-    <title>SIPPI SAPPI</title>
-  </programme>
-  <programme start="20260129143500 +0000" stop="20260129143700 +0000" channel="4K TR: DUCK TV HD">
-    <title>DUCKY AND FRIENDS</title>
-  </programme>
-  <programme start="20260129143500 +0000" stop="20260129143700 +0000" channel="DUCK TV">
-    <title>DUCKY AND FRIENDS</title>
-  </programme>
-  <programme start="20260129143700 +0000" stop="20260129144000 +0000" channel="4K TR: DUCK TV HD">
-    <title>LOLA AND THE NUMBERS</title>
-  </programme>
-  <programme start="20260129143700 +0000" stop="20260129144000 +0000" channel="DUCK TV">
-    <title>LOLA AND THE NUMBERS</title>
-  </programme>
-  <programme start="20260129144000 +0000" stop="20260129144200 +0000" channel="4K TR: DUCK TV HD">
-    <title>LOLA AND THE NUMBERS</title>
-  </programme>
-  <programme start="20260129144000 +0000" stop="20260129144200 +0000" channel="DUCK TV">
-    <title>LOLA AND THE NUMBERS</title>
-  </programme>
-  <programme start="20260129144200 +0000" stop="20260129144400 +0000" channel="4K TR: DUCK TV HD">
-    <title>DOLL TEAM</title>
-  </programme>
-  <programme start="20260129144200 +0000" stop="20260129144400 +0000" channel="DUCK TV">
-    <title>DOLL TEAM</title>
-  </programme>
-  <programme start="20260129144400 +0000" stop="20260129144700 +0000" channel="4K TR: DUCK TV HD">
-    <title>ZACK & ZIGGY</title>
-  </programme>
-  <programme start="20260129144400 +0000" stop="20260129144700 +0000" channel="DUCK TV">
-    <title>ZACK & ZIGGY</title>
-  </programme>
-  <programme start="20260129144700 +0000" stop="20260129144900 +0000" channel="4K TR: DUCK TV HD">
-    <title>HOP-HOP</title>
-  </programme>
-  <programme start="20260129144700 +0000" stop="20260129144900 +0000" channel="DUCK TV">
-    <title>HOP-HOP</title>
-  </programme>
-  <programme start="20260129144900 +0000" stop="20260129145200 +0000" channel="4K TR: DUCK TV HD">
-    <title>CONNECTED WORLD</title>
-  </programme>
-  <programme start="20260129144900 +0000" stop="20260129145200 +0000" channel="DUCK TV">
-    <title>CONNECTED WORLD</title>
-  </programme>
-  <programme start="20260129145200 +0000" stop="20260129145600 +0000" channel="4K TR: DUCK TV HD">
-    <title>FIRETEAM</title>
-  </programme>
-  <programme start="20260129145200 +0000" stop="20260129145600 +0000" channel="DUCK TV">
-    <title>FIRETEAM</title>
-  </programme>
-  <programme start="20260129145600 +0000" stop="20260129145800 +0000" channel="4K TR: DUCK TV HD">
-    <title>DUCKY AND FLUFFY</title>
-  </programme>
-  <programme start="20260129145600 +0000" stop="20260129145800 +0000" channel="DUCK TV">
-    <title>DUCKY AND FLUFFY</title>
-  </programme>
-  <programme start="20260129145800 +0000" stop="20260129150100 +0000" channel="4K TR: DUCK TV HD">
-    <title>HUBBI AND FRIENDS</title>
-  </programme>
-  <programme start="20260129145800 +0000" stop="20260129150100 +0000" channel="DUCK TV">
-    <title>HUBBI AND FRIENDS</title>
-  </programme>
-  <programme start="20260129150100 +0000" stop="20260129150300 +0000" channel="4K TR: DUCK TV HD">
-    <title>CUCU, I'M HERE!</title>
-  </programme>
-  <programme start="20260129150100 +0000" stop="20260129150300 +0000" channel="DUCK TV">
-    <title>CUCU, I'M HERE!</title>
-  </programme>
-  <programme start="20260129150300 +0000" stop="20260129150500 +0000" channel="4K TR: DUCK TV HD">
-    <title>ZOO</title>
-  </programme>
-  <programme start="20260129150300 +0000" stop="20260129150500 +0000" channel="DUCK TV">
-    <title>ZOO</title>
-  </programme>
-  <programme start="20260129150500 +0000" stop="20260129150700 +0000" channel="4K TR: DUCK TV HD">
-    <title>COLOR CLARA</title>
-  </programme>
-  <programme start="20260129150500 +0000" stop="20260129150700 +0000" channel="DUCK TV">
-    <title>COLOR CLARA</title>
-  </programme>
-  <programme start="20260129150700 +0000" stop="20260129151000 +0000" channel="4K TR: DUCK TV HD">
-    <title>HAPPY KINGDOM</title>
-  </programme>
-  <programme start="20260129150700 +0000" stop="20260129151000 +0000" channel="DUCK TV">
-    <title>HAPPY KINGDOM</title>
-  </programme>
-  <programme start="20260129151000 +0000" stop="20260129151200 +0000" channel="4K TR: DUCK TV HD">
-    <title>SIPPI SAPPI</title>
-  </programme>
-  <programme start="20260129151000 +0000" stop="20260129151200 +0000" channel="DUCK TV">
-    <title>SIPPI SAPPI</title>
-  </programme>
-  <programme start="20260129151200 +0000" stop="20260129151500 +0000" channel="4K TR: DUCK TV HD">
-    <title>DIDY BABY</title>
-  </programme>
-  <programme start="20260129151200 +0000" stop="20260129151500 +0000" channel="DUCK TV">
-    <title>DIDY BABY</title>
-  </programme>
-  <programme start="20260129151500 +0000" stop="20260129151800 +0000" channel="4K TR: DUCK TV HD">
-    <title>CUBIE</title>
-  </programme>
-  <programme start="20260129151500 +0000" stop="20260129151800 +0000" channel="DUCK TV">
-    <title>CUBIE</title>
-  </programme>
-  <programme start="20260129151800 +0000" stop="20260129152000 +0000" channel="4K TR: DUCK TV HD">
-    <title>MIMO & BOBO</title>
-  </programme>
-  <programme start="20260129151800 +0000" stop="20260129152000 +0000" channel="DUCK TV">
-    <title>MIMO & BOBO</title>
-  </programme>
-  <programme start="20260129152000 +0000" stop="20260129152300 +0000" channel="4K TR: DUCK TV HD">
-    <title>MIMO'S WORLD</title>
-  </programme>
-  <programme start="20260129152000 +0000" stop="20260129152300 +0000" channel="DUCK TV">
-    <title>MIMO'S WORLD</title>
-  </programme>
-  <programme start="20260129152300 +0000" stop="20260129152500 +0000" channel="4K TR: DUCK TV HD">
-    <title>HUBBI AND FRIENDS</title>
-  </programme>
-  <programme start="20260129152300 +0000" stop="20260129152500 +0000" channel="DUCK TV">
-    <title>HUBBI AND FRIENDS</title>
-  </programme>
-  <programme start="20260129152500 +0000" stop="20260129152900 +0000" channel="4K TR: DUCK TV HD">
-    <title>HAPPY MEADOW</title>
-  </programme>
-  <programme start="20260129152500 +0000" stop="20260129152900 +0000" channel="DUCK TV">
-    <title>HAPPY MEADOW</title>
-  </programme>
-  <programme start="20260129152900 +0000" stop="20260129153100 +0000" channel="4K TR: DUCK TV HD">
-    <title>DIDY BABY</title>
-  </programme>
-  <programme start="20260129152900 +0000" stop="20260129153100 +0000" channel="DUCK TV">
-    <title>DIDY BABY</title>
-  </programme>
-  <programme start="20260129153100 +0000" stop="20260129153400 +0000" channel="4K TR: DUCK TV HD">
-    <title>MIMO'S WORLD</title>
-  </programme>
-  <programme start="20260129153100 +0000" stop="20260129153400 +0000" channel="DUCK TV">
-    <title>MIMO'S WORLD</title>
-  </programme>
-  <programme start="20260129153400 +0000" stop="20260129153700 +0000" channel="4K TR: DUCK TV HD">
-    <title>FIRETEAM</title>
-  </programme>
-  <programme start="20260129153400 +0000" stop="20260129153700 +0000" channel="DUCK TV">
-    <title>FIRETEAM</title>
-  </programme>
-  <programme start="20260129153700 +0000" stop="20260129154000 +0000" channel="4K TR: DUCK TV HD">
-    <title>DIDY BABY</title>
-  </programme>
-  <programme start="20260129153700 +0000" stop="20260129154000 +0000" channel="DUCK TV">
-    <title>DIDY BABY</title>
-  </programme>
-  <programme start="20260129154000 +0000" stop="20260129154400 +0000" channel="4K TR: DUCK TV HD">
-    <title>MONICA & RUDY</title>
-  </programme>
-  <programme start="20260129154000 +0000" stop="20260129154400 +0000" channel="DUCK TV">
-    <title>MONICA & RUDY</title>
-  </programme>
-  <programme start="20260129154400 +0000" stop="20260129154700 +0000" channel="4K TR: DUCK TV HD">
-    <title>AFRICA</title>
-  </programme>
-  <programme start="20260129154400 +0000" stop="20260129154700 +0000" channel="DUCK TV">
-    <title>AFRICA</title>
-  </programme>
-  <programme start="20260129154700 +0000" stop="20260129155000 +0000" channel="4K TR: DUCK TV HD">
-    <title>HIGHER THE BETTER</title>
-  </programme>
-  <programme start="20260129154700 +0000" stop="20260129155000 +0000" channel="DUCK TV">
-    <title>HIGHER THE BETTER</title>
-  </programme>
-  <programme start="20260129155000 +0000" stop="20260129155200 +0000" channel="4K TR: DUCK TV HD">
-    <title>CUCU, I'M HERE!</title>
-  </programme>
-  <programme start="20260129155000 +0000" stop="20260129155200 +0000" channel="DUCK TV">
-    <title>CUCU, I'M HERE!</title>
-  </programme>
-  <programme start="20260129155200 +0000" stop="20260129155400 +0000" channel="4K TR: DUCK TV HD">
-    <title>HOP-HOP</title>
-  </programme>
-  <programme start="20260129155200 +0000" stop="20260129155400 +0000" channel="DUCK TV">
-    <title>HOP-HOP</title>
-  </programme>
-  <programme start="20260129155400 +0000" stop="20260129155600 +0000" channel="4K TR: DUCK TV HD">
-    <title>AFRICA</title>
-  </programme>
-  <programme start="20260129155400 +0000" stop="20260129155600 +0000" channel="DUCK TV">
-    <title>AFRICA</title>
-  </programme>
-  <programme start="20260129155600 +0000" stop="20260129155800 +0000" channel="4K TR: DUCK TV HD">
-    <title>CUCU, I'M HERE!</title>
-  </programme>
-  <programme start="20260129155600 +0000" stop="20260129155800 +0000" channel="DUCK TV">
-    <title>CUCU, I'M HERE!</title>
-  </programme>
-  <programme start="20260129155800 +0000" stop="20260129160100 +0000" channel="4K TR: DUCK TV HD">
-    <title>RISTO GUSTO</title>
-  </programme>
-  <programme start="20260129155800 +0000" stop="20260129160100 +0000" channel="DUCK TV">
-    <title>RISTO GUSTO</title>
-  </programme>
-  <programme start="20260129160100 +0000" stop="20260129160400 +0000" channel="4K TR: DUCK TV HD">
-    <title>MIMO & BOBO</title>
-  </programme>
-  <programme start="20260129160100 +0000" stop="20260129160400 +0000" channel="DUCK TV">
-    <title>MIMO & BOBO</title>
-  </programme>
-  <programme start="20260129160400 +0000" stop="20260129160600 +0000" channel="4K TR: DUCK TV HD">
-    <title>HOP-HOP</title>
-  </programme>
-  <programme start="20260129160400 +0000" stop="20260129160600 +0000" channel="DUCK TV">
-    <title>HOP-HOP</title>
-  </programme>
-  <programme start="20260129160600 +0000" stop="20260129160900 +0000" channel="4K TR: DUCK TV HD">
-    <title>RAUL</title>
-  </programme>
-  <programme start="20260129160600 +0000" stop="20260129160900 +0000" channel="DUCK TV">
-    <title>RAUL</title>
-  </programme>
-  <programme start="20260129160900 +0000" stop="20260129161100 +0000" channel="4K TR: DUCK TV HD">
-    <title>MIMO & BOBO</title>
-  </programme>
-  <programme start="20260129160900 +0000" stop="20260129161100 +0000" channel="DUCK TV">
-    <title>MIMO & BOBO</title>
-  </programme>
-  <programme start="20260129161100 +0000" stop="20260129161300 +0000" channel="4K TR: DUCK TV HD">
-    <title>DUCKY AND FRIENDS</title>
-  </programme>
-  <programme start="20260129161100 +0000" stop="20260129161300 +0000" channel="DUCK TV">
-    <title>DUCKY AND FRIENDS</title>
-  </programme>
-  <programme start="20260129161300 +0000" stop="20260129161500 +0000" channel="4K TR: DUCK TV HD">
-    <title>GET UP!</title>
-  </programme>
-  <programme start="20260129161300 +0000" stop="20260129161500 +0000" channel="DUCK TV">
-    <title>GET UP!</title>
-  </programme>
-  <programme start="20260129161500 +0000" stop="20260129161800 +0000" channel="4K TR: DUCK TV HD">
-    <title>HUBBI AND FRIENDS</title>
-  </programme>
-  <programme start="20260129161500 +0000" stop="20260129161800 +0000" channel="DUCK TV">
-    <title>HUBBI AND FRIENDS</title>
-  </programme>
-  <programme start="20260129161800 +0000" stop="20260129162100 +0000" channel="4K TR: DUCK TV HD">
-    <title>LOLA AND THE NUMBERS</title>
-  </programme>
-  <programme start="20260129161800 +0000" stop="20260129162100 +0000" channel="DUCK TV">
-    <title>LOLA AND THE NUMBERS</title>
-  </programme>
-  <programme start="20260129162100 +0000" stop="20260129162300 +0000" channel="4K TR: DUCK TV HD">
-    <title>GET UP!</title>
-  </programme>
-  <programme start="20260129162100 +0000" stop="20260129162300 +0000" channel="DUCK TV">
-    <title>GET UP!</title>
-  </programme>
-  <programme start="20260129162300 +0000" stop="20260129162500 +0000" channel="4K TR: DUCK TV HD">
-    <title>HOP-HOP</title>
-  </programme>
-  <programme start="20260129162300 +0000" stop="20260129162500 +0000" channel="DUCK TV">
-    <title>HOP-HOP</title>
-  </programme>
-  <programme start="20260129162500 +0000" stop="20260129162700 +0000" channel="4K TR: DUCK TV HD">
-    <title>GET UP!</title>
-  </programme>
-  <programme start="20260129162500 +0000" stop="20260129162700 +0000" channel="DUCK TV">
-    <title>GET UP!</title>
-  </programme>
-  <programme start="20260129162700 +0000" stop="20260129163000 +0000" channel="4K TR: DUCK TV HD">
-    <title>LOLA AND THE NUMBERS</title>
-  </programme>
-  <programme start="20260129162700 +0000" stop="20260129163000 +0000" channel="DUCK TV">
-    <title>LOLA AND THE NUMBERS</title>
-  </programme>
-  <programme start="20260129163000 +0000" stop="20260129163200 +0000" channel="4K TR: DUCK TV HD">
-    <title>GET UP!</title>
-  </programme>
-  <programme start="20260129163000 +0000" stop="20260129163200 +0000" channel="DUCK TV">
-    <title>GET UP!</title>
-  </programme>
-  <programme start="20260129163200 +0000" stop="20260129163400 +0000" channel="4K TR: DUCK TV HD">
-    <title>LOLA AND THE NUMBERS</title>
-  </programme>
-  <programme start="20260129163200 +0000" stop="20260129163400 +0000" channel="DUCK TV">
-    <title>LOLA AND THE NUMBERS</title>
-  </programme>
-  <programme start="20260129163400 +0000" stop="20260129163600 +0000" channel="4K TR: DUCK TV HD">
-    <title>GET UP!</title>
-  </programme>
-  <programme start="20260129163400 +0000" stop="20260129163600 +0000" channel="DUCK TV">
-    <title>GET UP!</title>
-  </programme>
-  <programme start="20260129163600 +0000" stop="20260129163900 +0000" channel="4K TR: DUCK TV HD">
-    <title>CUCU, I'M HERE!</title>
-  </programme>
-  <programme start="20260129163600 +0000" stop="20260129163900 +0000" channel="DUCK TV">
-    <title>CUCU, I'M HERE!</title>
-  </programme>
-  <programme start="20260129163900 +0000" stop="20260129164200 +0000" channel="4K TR: DUCK TV HD">
-    <title>HOP-HOP</title>
-  </programme>
-  <programme start="20260129163900 +0000" stop="20260129164200 +0000" channel="DUCK TV">
-    <title>HOP-HOP</title>
-  </programme>
-  <programme start="20260129164200 +0000" stop="20260129164500 +0000" channel="4K TR: DUCK TV HD">
-    <title>MIMO & BOBO</title>
-  </programme>
-  <programme start="20260129164200 +0000" stop="20260129164500 +0000" channel="DUCK TV">
-    <title>MIMO & BOBO</title>
-  </programme>
-  <programme start="20260129164500 +0000" stop="20260129164800 +0000" channel="4K TR: DUCK TV HD">
-    <title>FINN AND FIANNA</title>
-  </programme>
-  <programme start="20260129164500 +0000" stop="20260129164800 +0000" channel="DUCK TV">
-    <title>FINN AND FIANNA</title>
-  </programme>
-  <programme start="20260129164800 +0000" stop="20260129164900 +0000" channel="4K TR: DUCK TV HD">
-    <title>HOME SWEET HOME</title>
-  </programme>
-  <programme start="20260129164800 +0000" stop="20260129164900 +0000" channel="DUCK TV">
-    <title>HOME SWEET HOME</title>
-  </programme>
-  <programme start="20260129164900 +0000" stop="20260129165100 +0000" channel="4K TR: DUCK TV HD">
-    <title>LITTLE MELODIES</title>
-  </programme>
-  <programme start="20260129164900 +0000" stop="20260129165100 +0000" channel="DUCK TV">
-    <title>LITTLE MELODIES</title>
-  </programme>
-  <programme start="20260129165100 +0000" stop="20260129165300 +0000" channel="4K TR: DUCK TV HD">
-    <title>DUCKSCHOOL</title>
-  </programme>
-  <programme start="20260129165100 +0000" stop="20260129165300 +0000" channel="DUCK TV">
-    <title>DUCKSCHOOL</title>
-  </programme>
-  <programme start="20260129165300 +0000" stop="20260129165500 +0000" channel="4K TR: DUCK TV HD">
-    <title>LOLA AND THE NUMBERS</title>
-  </programme>
-  <programme start="20260129165300 +0000" stop="20260129165500 +0000" channel="DUCK TV">
-    <title>LOLA AND THE NUMBERS</title>
-  </programme>
-  <programme start="20260129165500 +0000" stop="20260129165700 +0000" channel="4K TR: DUCK TV HD">
-    <title>ALBERT EXPLAINS</title>
-  </programme>
-  <programme start="20260129165500 +0000" stop="20260129165700 +0000" channel="DUCK TV">
-    <title>ALBERT EXPLAINS</title>
-  </programme>
-  <programme start="20260129165700 +0000" stop="20260129165900 +0000" channel="4K TR: DUCK TV HD">
-    <title>LITTLE MELODIES</title>
-  </programme>
-  <programme start="20260129165700 +0000" stop="20260129165900 +0000" channel="DUCK TV">
-    <title>LITTLE MELODIES</title>
-  </programme>
-  <programme start="20260129165900 +0000" stop="20260129170300 +0000" channel="4K TR: DUCK TV HD">
-    <title>DOTTY, THE KITTY</title>
-  </programme>
-  <programme start="20260129165900 +0000" stop="20260129170300 +0000" channel="DUCK TV">
-    <title>DOTTY, THE KITTY</title>
-  </programme>
-  <programme start="20260129170300 +0000" stop="20260129170400 +0000" channel="4K TR: DUCK TV HD">
-    <title>PIXIE 2</title>
-  </programme>
-  <programme start="20260129170300 +0000" stop="20260129170400 +0000" channel="DUCK TV">
-    <title>PIXIE 2</title>
-  </programme>
-  <programme start="20260129170400 +0000" stop="20260129170700 +0000" channel="4K TR: DUCK TV HD">
-    <title>SIPPI SAPPI</title>
-  </programme>
-  <programme start="20260129170400 +0000" stop="20260129170700 +0000" channel="DUCK TV">
-    <title>SIPPI SAPPI</title>
-  </programme>
-  <programme start="20260129170700 +0000" stop="20260129170900 +0000" channel="4K TR: DUCK TV HD">
-    <title>LITTLE MELODIES</title>
-  </programme>
-  <programme start="20260129170700 +0000" stop="20260129170900 +0000" channel="DUCK TV">
-    <title>LITTLE MELODIES</title>
-  </programme>
-  <programme start="20260129170900 +0000" stop="20260129171200 +0000" channel="4K TR: DUCK TV HD">
-    <title>MONICA & RUDY</title>
-  </programme>
-  <programme start="20260129170900 +0000" stop="20260129171200 +0000" channel="DUCK TV">
-    <title>MONICA & RUDY</title>
-  </programme>
-  <programme start="20260129171200 +0000" stop="20260129171500 +0000" channel="4K TR: DUCK TV HD">
-    <title>HAPPY MEADOW</title>
-  </programme>
-  <programme start="20260129171200 +0000" stop="20260129171500 +0000" channel="DUCK TV">
-    <title>HAPPY MEADOW</title>
-  </programme>
-  <programme start="20260129171500 +0000" stop="20260129171800 +0000" channel="4K TR: DUCK TV HD">
-    <title>DUCKSCHOOL</title>
-  </programme>
-  <programme start="20260129171500 +0000" stop="20260129171800 +0000" channel="DUCK TV">
-    <title>DUCKSCHOOL</title>
-  </programme>
-  <programme start="20260129171800 +0000" stop="20260129172100 +0000" channel="4K TR: DUCK TV HD">
-    <title>DOTTY, THE KITTY</title>
-  </programme>
-  <programme start="20260129171800 +0000" stop="20260129172100 +0000" channel="DUCK TV">
-    <title>DOTTY, THE KITTY</title>
-  </programme>
-  <programme start="20260129172100 +0000" stop="20260129172400 +0000" channel="4K TR: DUCK TV HD">
-    <title>CUCU, I'M HERE!</title>
-  </programme>
-  <programme start="20260129172100 +0000" stop="20260129172400 +0000" channel="DUCK TV">
-    <title>CUCU, I'M HERE!</title>
-  </programme>
-  <programme start="20260129172400 +0000" stop="20260129172700 +0000" channel="4K TR: DUCK TV HD">
-    <title>HAPPY MEADOW</title>
-  </programme>
-  <programme start="20260129172400 +0000" stop="20260129172700 +0000" channel="DUCK TV">
-    <title>HAPPY MEADOW</title>
-  </programme>
-  <programme start="20260129172700 +0000" stop="20260129172900 +0000" channel="4K TR: DUCK TV HD">
-    <title>LITTLE MELODIES</title>
-  </programme>
-  <programme start="20260129172700 +0000" stop="20260129172900 +0000" channel="DUCK TV">
-    <title>LITTLE MELODIES</title>
-  </programme>
-  <programme start="20260129172900 +0000" stop="20260129173300 +0000" channel="4K TR: DUCK TV HD">
-    <title>HIGHER THE BETTER</title>
-  </programme>
-  <programme start="20260129172900 +0000" stop="20260129173300 +0000" channel="DUCK TV">
-    <title>HIGHER THE BETTER</title>
-  </programme>
-  <programme start="20260129173300 +0000" stop="20260129173500 +0000" channel="4K TR: DUCK TV HD">
-    <title>DUCKY AND FRIENDS</title>
-  </programme>
-  <programme start="20260129173300 +0000" stop="20260129173500 +0000" channel="DUCK TV">
-    <title>DUCKY AND FRIENDS</title>
-  </programme>
-  <programme start="20260129173500 +0000" stop="20260129173800 +0000" channel="4K TR: DUCK TV HD">
-    <title>MONICA & RUDY</title>
-  </programme>
-  <programme start="20260129173500 +0000" stop="20260129173800 +0000" channel="DUCK TV">
-    <title>MONICA & RUDY</title>
-  </programme>
-  <programme start="20260129173800 +0000" stop="20260129174000 +0000" channel="4K TR: DUCK TV HD">
-    <title>DUCKSCHOOL</title>
-  </programme>
-  <programme start="20260129173800 +0000" stop="20260129174000 +0000" channel="DUCK TV">
-    <title>DUCKSCHOOL</title>
-  </programme>
-  <programme start="20260129174000 +0000" stop="20260129174200 +0000" channel="4K TR: DUCK TV HD">
-    <title>COLOR CLARA</title>
-  </programme>
-  <programme start="20260129174000 +0000" stop="20260129174200 +0000" channel="DUCK TV">
-    <title>COLOR CLARA</title>
-  </programme>
-  <programme start="20260129174200 +0000" stop="20260129174300 +0000" channel="4K TR: DUCK TV HD">
-    <title>THE SHAPIES</title>
-  </programme>
-  <programme start="20260129174200 +0000" stop="20260129174300 +0000" channel="DUCK TV">
-    <title>THE SHAPIES</title>
-  </programme>
-  <programme start="20260129174300 +0000" stop="20260129174500 +0000" channel="4K TR: DUCK TV HD">
-    <title>DUCKY AND FRIENDS</title>
-  </programme>
-  <programme start="20260129174300 +0000" stop="20260129174500 +0000" channel="DUCK TV">
-    <title>DUCKY AND FRIENDS</title>
-  </programme>
-  <programme start="20260129174500 +0000" stop="20260129174800 +0000" channel="4K TR: DUCK TV HD">
-    <title>DUCKSCHOOL</title>
-  </programme>
-  <programme start="20260129174500 +0000" stop="20260129174800 +0000" channel="DUCK TV">
-    <title>DUCKSCHOOL</title>
-  </programme>
-  <programme start="20260129174800 +0000" stop="20260129175000 +0000" channel="4K TR: DUCK TV HD">
-    <title>TEMPO GIUSTO</title>
-  </programme>
-  <programme start="20260129174800 +0000" stop="20260129175000 +0000" channel="DUCK TV">
-    <title>TEMPO GIUSTO</title>
-  </programme>
-  <programme start="20260129175000 +0000" stop="20260129175200 +0000" channel="4K TR: DUCK TV HD">
-    <title>LOLA AND THE NUMBERS</title>
-  </programme>
-  <programme start="20260129175000 +0000" stop="20260129175200 +0000" channel="DUCK TV">
-    <title>LOLA AND THE NUMBERS</title>
-  </programme>
-  <programme start="20260129175200 +0000" stop="20260129175400 +0000" channel="4K TR: DUCK TV HD">
-    <title>HIPP-HOPP CACTUS</title>
-  </programme>
-  <programme start="20260129175200 +0000" stop="20260129175400 +0000" channel="DUCK TV">
-    <title>HIPP-HOPP CACTUS</title>
-  </programme>
-  <programme start="20260129175400 +0000" stop="20260129175600 +0000" channel="4K TR: DUCK TV HD">
-    <title>DUCKY AND FLUFFY</title>
-  </programme>
-  <programme start="20260129175400 +0000" stop="20260129175600 +0000" channel="DUCK TV">
-    <title>DUCKY AND FLUFFY</title>
-  </programme>
-  <programme start="20260129175600 +0000" stop="20260129175800 +0000" channel="4K TR: DUCK TV HD">
-    <title>MIMO & BOBO</title>
-  </programme>
-  <programme start="20260129175600 +0000" stop="20260129175800 +0000" channel="DUCK TV">
-    <title>MIMO & BOBO</title>
-  </programme>
-  <programme start="20260129175800 +0000" stop="20260129180100 +0000" channel="4K TR: DUCK TV HD">
-    <title>MARGO & FELIX</title>
-  </programme>
-  <programme start="20260129175800 +0000" stop="20260129180100 +0000" channel="DUCK TV">
-    <title>MARGO & FELIX</title>
-  </programme>
-  <programme start="20260129180100 +0000" stop="20260129180400 +0000" channel="4K TR: DUCK TV HD">
-    <title>LOLA AND THE NUMBERS</title>
-  </programme>
-  <programme start="20260129180100 +0000" stop="20260129180400 +0000" channel="DUCK TV">
-    <title>LOLA AND THE NUMBERS</title>
-  </programme>
-  <programme start="20260129180400 +0000" stop="20260129180600 +0000" channel="4K TR: DUCK TV HD">
-    <title>DUCKY AND FRIENDS</title>
-  </programme>
-  <programme start="20260129180400 +0000" stop="20260129180600 +0000" channel="DUCK TV">
-    <title>DUCKY AND FRIENDS</title>
-  </programme>
-  <programme start="20260129180600 +0000" stop="20260129180800 +0000" channel="4K TR: DUCK TV HD">
-    <title>SOUNDS AROUND US</title>
-  </programme>
-  <programme start="20260129180600 +0000" stop="20260129180800 +0000" channel="DUCK TV">
-    <title>SOUNDS AROUND US</title>
-  </programme>
-  <programme start="20260129180800 +0000" stop="20260129181100 +0000" channel="4K TR: DUCK TV HD">
-    <title>SHAPING UP</title>
-  </programme>
-  <programme start="20260129180800 +0000" stop="20260129181100 +0000" channel="DUCK TV">
-    <title>SHAPING UP</title>
-  </programme>
-  <programme start="20260129181100 +0000" stop="20260129181400 +0000" channel="4K TR: DUCK TV HD">
-    <title>ABC - DUCKBC</title>
-  </programme>
-  <programme start="20260129181100 +0000" stop="20260129181400 +0000" channel="DUCK TV">
-    <title>ABC - DUCKBC</title>
-  </programme>
-  <programme start="20260129181400 +0000" stop="20260129181800 +0000" channel="4K TR: DUCK TV HD">
-    <title>DOTTY, THE KITTY</title>
-  </programme>
-  <programme start="20260129181400 +0000" stop="20260129181800 +0000" channel="DUCK TV">
-    <title>DOTTY, THE KITTY</title>
-  </programme>
-  <programme start="20260129181800 +0000" stop="20260129182000 +0000" channel="4K TR: DUCK TV HD">
-    <title>CUCU, I'M HERE!</title>
-  </programme>
-  <programme start="20260129181800 +0000" stop="20260129182000 +0000" channel="DUCK TV">
-    <title>CUCU, I'M HERE!</title>
-  </programme>
-  <programme start="20260129182000 +0000" stop="20260129182200 +0000" channel="4K TR: DUCK TV HD">
-    <title>AFRICA</title>
-  </programme>
-  <programme start="20260129182000 +0000" stop="20260129182200 +0000" channel="DUCK TV">
-    <title>AFRICA</title>
-  </programme>
-  <programme start="20260129182200 +0000" stop="20260129182500 +0000" channel="4K TR: DUCK TV HD">
-    <title>RAUL</title>
-  </programme>
-  <programme start="20260129182200 +0000" stop="20260129182500 +0000" channel="DUCK TV">
-    <title>RAUL</title>
-  </programme>
-  <programme start="20260129182500 +0000" stop="20260129182700 +0000" channel="4K TR: DUCK TV HD">
-    <title>CUBIE</title>
-  </programme>
-  <programme start="20260129182500 +0000" stop="20260129182700 +0000" channel="DUCK TV">
-    <title>CUBIE</title>
-  </programme>
-  <programme start="20260129182700 +0000" stop="20260129183000 +0000" channel="4K TR: DUCK TV HD">
-    <title>RISTORANTE</title>
-  </programme>
-  <programme start="20260129182700 +0000" stop="20260129183000 +0000" channel="DUCK TV">
-    <title>RISTORANTE</title>
-  </programme>
-  <programme start="20260129183000 +0000" stop="20260129183200 +0000" channel="4K TR: DUCK TV HD">
-    <title>DUCKY ADVENTURES</title>
-  </programme>
-  <programme start="20260129183000 +0000" stop="20260129183200 +0000" channel="DUCK TV">
-    <title>DUCKY ADVENTURES</title>
-  </programme>
-  <programme start="20260129183200 +0000" stop="20260129183500 +0000" channel="4K TR: DUCK TV HD">
-    <title>FIRETEAM</title>
-  </programme>
-  <programme start="20260129183200 +0000" stop="20260129183500 +0000" channel="DUCK TV">
-    <title>FIRETEAM</title>
-  </programme>
-  <programme start="20260129183500 +0000" stop="20260129183800 +0000" channel="4K TR: DUCK TV HD">
-    <title>ZACK & ZIGGY</title>
-  </programme>
-  <programme start="20260129183500 +0000" stop="20260129183800 +0000" channel="DUCK TV">
-    <title>ZACK & ZIGGY</title>
-  </programme>
-  <programme start="20260129183800 +0000" stop="20260129184100 +0000" channel="4K TR: DUCK TV HD">
-    <title>DOTTY, THE KITTY</title>
-  </programme>
-  <programme start="20260129183800 +0000" stop="20260129184100 +0000" channel="DUCK TV">
-    <title>DOTTY, THE KITTY</title>
-  </programme>
-  <programme start="20260129184100 +0000" stop="20260129184300 +0000" channel="4K TR: DUCK TV HD">
-    <title>DINOLAND</title>
-  </programme>
-  <programme start="20260129184100 +0000" stop="20260129184300 +0000" channel="DUCK TV">
-    <title>DINOLAND</title>
-  </programme>
-  <programme start="20260129184300 +0000" stop="20260129184500 +0000" channel="4K TR: DUCK TV HD">
-    <title>RISTORANTE</title>
-  </programme>
-  <programme start="20260129184300 +0000" stop="20260129184500 +0000" channel="DUCK TV">
-    <title>RISTORANTE</title>
-  </programme>
-  <programme start="20260129184500 +0000" stop="20260129184900 +0000" channel="4K TR: DUCK TV HD">
-    <title>SMALL - BUT HARDWORKING</title>
-  </programme>
-  <programme start="20260129184500 +0000" stop="20260129184900 +0000" channel="DUCK TV">
-    <title>SMALL - BUT HARDWORKING</title>
-  </programme>
-  <programme start="20260129184900 +0000" stop="20260129185200 +0000" channel="4K TR: DUCK TV HD">
-    <title>SHAPING UP</title>
-  </programme>
-  <programme start="20260129184900 +0000" stop="20260129185200 +0000" channel="DUCK TV">
-    <title>SHAPING UP</title>
-  </programme>
-  <programme start="20260129185200 +0000" stop="20260129185600 +0000" channel="4K TR: DUCK TV HD">
-    <title>MONICA & RUDY</title>
-  </programme>
-  <programme start="20260129185200 +0000" stop="20260129185600 +0000" channel="DUCK TV">
-    <title>MONICA & RUDY</title>
-  </programme>
-  <programme start="20260129185600 +0000" stop="20260129185900 +0000" channel="4K TR: DUCK TV HD">
-    <title>SIPPI SAPPI</title>
-  </programme>
-  <programme start="20260129185600 +0000" stop="20260129185900 +0000" channel="DUCK TV">
-    <title>SIPPI SAPPI</title>
-  </programme>
-  <programme start="20260129185900 +0000" stop="20260129190200 +0000" channel="4K TR: DUCK TV HD">
-    <title>RISTORANTE</title>
-  </programme>
-  <programme start="20260129185900 +0000" stop="20260129190200 +0000" channel="DUCK TV">
-    <title>RISTORANTE</title>
-  </programme>
-  <programme start="20260129190200 +0000" stop="20260129190400 +0000" channel="4K TR: DUCK TV HD">
-    <title>FORMS ARE YOURS!</title>
-  </programme>
-  <programme start="20260129190200 +0000" stop="20260129190400 +0000" channel="DUCK TV">
-    <title>FORMS ARE YOURS!</title>
-  </programme>
-  <programme start="20260129190400 +0000" stop="20260129190600 +0000" channel="4K TR: DUCK TV HD">
-    <title>SMALL - BUT HARDWORKING</title>
-  </programme>
-  <programme start="20260129190400 +0000" stop="20260129190600 +0000" channel="DUCK TV">
-    <title>SMALL - BUT HARDWORKING</title>
-  </programme>
-  <programme start="20260129190600 +0000" stop="20260129190900 +0000" channel="4K TR: DUCK TV HD">
-    <title>DUCKY AND FRIENDS</title>
-  </programme>
-  <programme start="20260129190600 +0000" stop="20260129190900 +0000" channel="DUCK TV">
-    <title>DUCKY AND FRIENDS</title>
-  </programme>
-  <programme start="20260129190900 +0000" stop="20260129191200 +0000" channel="4K TR: DUCK TV HD">
-    <title>TOBY MCFLY</title>
-  </programme>
-  <programme start="20260129190900 +0000" stop="20260129191200 +0000" channel="DUCK TV">
-    <title>TOBY MCFLY</title>
-  </programme>
-  <programme start="20260129191200 +0000" stop="20260129191500 +0000" channel="4K TR: DUCK TV HD">
-    <title>DIDY BABY</title>
-  </programme>
-  <programme start="20260129191200 +0000" stop="20260129191500 +0000" channel="DUCK TV">
-    <title>DIDY BABY</title>
-  </programme>
-  <programme start="20260129191500 +0000" stop="20260129191800 +0000" channel="4K TR: DUCK TV HD">
-    <title>AFRICA</title>
-  </programme>
-  <programme start="20260129191500 +0000" stop="20260129191800 +0000" channel="DUCK TV">
-    <title>AFRICA</title>
-  </programme>
-  <programme start="20260129191800 +0000" stop="20260129192100 +0000" channel="4K TR: DUCK TV HD">
-    <title>DOLL TEAM</title>
-  </programme>
-  <programme start="20260129191800 +0000" stop="20260129192100 +0000" channel="DUCK TV">
-    <title>DOLL TEAM</title>
-  </programme>
-  <programme start="20260129192100 +0000" stop="20260129192400 +0000" channel="4K TR: DUCK TV HD">
-    <title>DIDY BABY</title>
-  </programme>
-  <programme start="20260129192100 +0000" stop="20260129192400 +0000" channel="DUCK TV">
-    <title>DIDY BABY</title>
-  </programme>
-  <programme start="20260129192400 +0000" stop="20260129192800 +0000" channel="4K TR: DUCK TV HD">
-    <title>HIPP-HOPP CACTUS</title>
-  </programme>
-  <programme start="20260129192400 +0000" stop="20260129192800 +0000" channel="DUCK TV">
-    <title>HIPP-HOPP CACTUS</title>
-  </programme>
-  <programme start="20260129192800 +0000" stop="20260129193200 +0000" channel="4K TR: DUCK TV HD">
-    <title>MONICA & RUDY</title>
-  </programme>
-  <programme start="20260129192800 +0000" stop="20260129193200 +0000" channel="DUCK TV">
-    <title>MONICA & RUDY</title>
-  </programme>
-  <programme start="20260129193200 +0000" stop="20260129193400 +0000" channel="4K TR: DUCK TV HD">
-    <title>HOP-HOP</title>
-  </programme>
-  <programme start="20260129193200 +0000" stop="20260129193400 +0000" channel="DUCK TV">
-    <title>HOP-HOP</title>
-  </programme>
-  <programme start="20260129193400 +0000" stop="20260129193700 +0000" channel="4K TR: DUCK TV HD">
-    <title>AFRICA</title>
-  </programme>
-  <programme start="20260129193400 +0000" stop="20260129193700 +0000" channel="DUCK TV">
-    <title>AFRICA</title>
-  </programme>
-  <programme start="20260129193700 +0000" stop="20260129194000 +0000" channel="4K TR: DUCK TV HD">
-    <title>TRAIN</title>
-  </programme>
-  <programme start="20260129193700 +0000" stop="20260129194000 +0000" channel="DUCK TV">
-    <title>TRAIN</title>
-  </programme>
-  <programme start="20260129194000 +0000" stop="20260129194200 +0000" channel="4K TR: DUCK TV HD">
-    <title>FORMS ARE YOURS!</title>
-  </programme>
-  <programme start="20260129194000 +0000" stop="20260129194200 +0000" channel="DUCK TV">
-    <title>FORMS ARE YOURS!</title>
-  </programme>
-  <programme start="20260129194200 +0000" stop="20260129194500 +0000" channel="4K TR: DUCK TV HD">
-    <title>ZACK & ZIGGY</title>
-  </programme>
-  <programme start="20260129194200 +0000" stop="20260129194500 +0000" channel="DUCK TV">
-    <title>ZACK & ZIGGY</title>
-  </programme>
-  <programme start="20260129194500 +0000" stop="20260129194800 +0000" channel="4K TR: DUCK TV HD">
-    <title>FIRETEAM</title>
-  </programme>
-  <programme start="20260129194500 +0000" stop="20260129194800 +0000" channel="DUCK TV">
-    <title>FIRETEAM</title>
-  </programme>
-  <programme start="20260129194800 +0000" stop="20260129194900 +0000" channel="4K TR: DUCK TV HD">
-    <title>NATURE DUDES</title>
-  </programme>
-  <programme start="20260129194800 +0000" stop="20260129194900 +0000" channel="DUCK TV">
-    <title>NATURE DUDES</title>
-  </programme>
-  <programme start="20260129194900 +0000" stop="20260129195300 +0000" channel="4K TR: DUCK TV HD">
-    <title>HIGHER THE BETTER</title>
-  </programme>
-  <programme start="20260129194900 +0000" stop="20260129195300 +0000" channel="DUCK TV">
-    <title>HIGHER THE BETTER</title>
-  </programme>
-  <programme start="20260129195300 +0000" stop="20260129195600 +0000" channel="4K TR: DUCK TV HD">
-    <title>HUBBI AND FRIENDS</title>
-  </programme>
-  <programme start="20260129195300 +0000" stop="20260129195600 +0000" channel="DUCK TV">
-    <title>HUBBI AND FRIENDS</title>
-  </programme>
-  <programme start="20260129195600 +0000" stop="20260129195900 +0000" channel="4K TR: DUCK TV HD">
-    <title>CUCU, I'M HERE!</title>
-  </programme>
-  <programme start="20260129195600 +0000" stop="20260129195900 +0000" channel="DUCK TV">
-    <title>CUCU, I'M HERE!</title>
-  </programme>
-  <programme start="20260129195900 +0000" stop="20260129200100 +0000" channel="4K TR: DUCK TV HD">
-    <title>HUBBI AND FRIENDS</title>
-  </programme>
-  <programme start="20260129195900 +0000" stop="20260129200100 +0000" channel="DUCK TV">
-    <title>HUBBI AND FRIENDS</title>
-  </programme>
-  <programme start="20260129200100 +0000" stop="20260129200400 +0000" channel="4K TR: DUCK TV HD">
-    <title>ZOO</title>
-  </programme>
-  <programme start="20260129200100 +0000" stop="20260129200400 +0000" channel="DUCK TV">
-    <title>ZOO</title>
-  </programme>
-  <programme start="20260129200400 +0000" stop="20260129200600 +0000" channel="4K TR: DUCK TV HD">
-    <title>DUCKY ADVENTURES</title>
-  </programme>
-  <programme start="20260129200400 +0000" stop="20260129200600 +0000" channel="DUCK TV">
-    <title>DUCKY ADVENTURES</title>
-  </programme>
-  <programme start="20260129200600 +0000" stop="20260129200900 +0000" channel="4K TR: DUCK TV HD">
-    <title>SMALL - BUT HARDWORKING</title>
-  </programme>
-  <programme start="20260129200600 +0000" stop="20260129200900 +0000" channel="DUCK TV">
-    <title>SMALL - BUT HARDWORKING</title>
-  </programme>
-  <programme start="20260129200900 +0000" stop="20260129201300 +0000" channel="4K TR: DUCK TV HD">
-    <title>DOTTY, THE KITTY</title>
-  </programme>
-  <programme start="20260129200900 +0000" stop="20260129201300 +0000" channel="DUCK TV">
-    <title>DOTTY, THE KITTY</title>
-  </programme>
-  <programme start="20260129201300 +0000" stop="20260129201500 +0000" channel="4K TR: DUCK TV HD">
-    <title>COLORWHEEL</title>
-  </programme>
-  <programme start="20260129201300 +0000" stop="20260129201500 +0000" channel="DUCK TV">
-    <title>COLORWHEEL</title>
-  </programme>
-  <programme start="20260129201500 +0000" stop="20260129201900 +0000" channel="4K TR: DUCK TV HD">
-    <title>PARTNERS IN FUN</title>
-  </programme>
-  <programme start="20260129201500 +0000" stop="20260129201900 +0000" channel="DUCK TV">
-    <title>PARTNERS IN FUN</title>
-  </programme>
-  <programme start="20260129201900 +0000" stop="20260129202100 +0000" channel="4K TR: DUCK TV HD">
-    <title>COLORWHEEL</title>
-  </programme>
-  <programme start="20260129201900 +0000" stop="20260129202100 +0000" channel="DUCK TV">
-    <title>COLORWHEEL</title>
-  </programme>
-  <programme start="20260129202100 +0000" stop="20260129202400 +0000" channel="4K TR: DUCK TV HD">
-    <title>COLORWHEEL</title>
-  </programme>
-  <programme start="20260129202100 +0000" stop="20260129202400 +0000" channel="DUCK TV">
-    <title>COLORWHEEL</title>
-  </programme>
-  <programme start="20260129202400 +0000" stop="20260129202600 +0000" channel="4K TR: DUCK TV HD">
-    <title>HOLIDAY</title>
-  </programme>
-  <programme start="20260129202400 +0000" stop="20260129202600 +0000" channel="DUCK TV">
-    <title>HOLIDAY</title>
-  </programme>
-  <programme start="20260129202600 +0000" stop="20260129203000 +0000" channel="4K TR: DUCK TV HD">
-    <title>MIMO AND BOBO PLUS</title>
-  </programme>
-  <programme start="20260129202600 +0000" stop="20260129203000 +0000" channel="DUCK TV">
-    <title>MIMO AND BOBO PLUS</title>
-  </programme>
-  <programme start="20260129203000 +0000" stop="20260129203100 +0000" channel="4K TR: DUCK TV HD">
-    <title>NATURE DUDES</title>
-  </programme>
-  <programme start="20260129203000 +0000" stop="20260129203100 +0000" channel="DUCK TV">
-    <title>NATURE DUDES</title>
-  </programme>
-  <programme start="20260129203100 +0000" stop="20260129203400 +0000" channel="4K TR: DUCK TV HD">
-    <title>SMALL - BUT HARDWORKING</title>
-  </programme>
-  <programme start="20260129203100 +0000" stop="20260129203400 +0000" channel="DUCK TV">
-    <title>SMALL - BUT HARDWORKING</title>
-  </programme>
-  <programme start="20260129203400 +0000" stop="20260129203500 +0000" channel="4K TR: DUCK TV HD">
-    <title>NATURE DUDES</title>
-  </programme>
-  <programme start="20260129203400 +0000" stop="20260129203500 +0000" channel="DUCK TV">
-    <title>NATURE DUDES</title>
-  </programme>
-  <programme start="20260129203500 +0000" stop="20260129203800 +0000" channel="4K TR: DUCK TV HD">
-    <title>DOTTY, THE KITTY</title>
-  </programme>
-  <programme start="20260129203500 +0000" stop="20260129203800 +0000" channel="DUCK TV">
-    <title>DOTTY, THE KITTY</title>
-  </programme>
-  <programme start="20260129203800 +0000" stop="20260129204100 +0000" channel="4K TR: DUCK TV HD">
-    <title>SMALL - BUT HARDWORKING</title>
-  </programme>
-  <programme start="20260129203800 +0000" stop="20260129204100 +0000" channel="DUCK TV">
-    <title>SMALL - BUT HARDWORKING</title>
-  </programme>
-  <programme start="20260129204100 +0000" stop="20260129204400 +0000" channel="4K TR: DUCK TV HD">
-    <title>COLORWHEEL</title>
-  </programme>
-  <programme start="20260129204100 +0000" stop="20260129204400 +0000" channel="DUCK TV">
-    <title>COLORWHEEL</title>
-  </programme>
-  <programme start="20260129204400 +0000" stop="20260129204600 +0000" channel="4K TR: DUCK TV HD">
-    <title>VEHICLES</title>
-  </programme>
-  <programme start="20260129204400 +0000" stop="20260129204600 +0000" channel="DUCK TV">
-    <title>VEHICLES</title>
-  </programme>
-  <programme start="20260129204600 +0000" stop="20260129204900 +0000" channel="4K TR: DUCK TV HD">
-    <title>LISTEN TO THIS</title>
-  </programme>
-  <programme start="20260129204600 +0000" stop="20260129204900 +0000" channel="DUCK TV">
-    <title>LISTEN TO THIS</title>
-  </programme>
-  <programme start="20260129204900 +0000" stop="20260129205200 +0000" channel="4K TR: DUCK TV HD">
-    <title>COLOR MAGIC</title>
-  </programme>
-  <programme start="20260129204900 +0000" stop="20260129205200 +0000" channel="DUCK TV">
-    <title>COLOR MAGIC</title>
-  </programme>
-  <programme start="20260129205200 +0000" stop="20260129205500 +0000" channel="4K TR: DUCK TV HD">
-    <title>WATERWORLD</title>
-  </programme>
-  <programme start="20260129205200 +0000" stop="20260129205500 +0000" channel="DUCK TV">
-    <title>WATERWORLD</title>
-  </programme>
-  <programme start="20260129205500 +0000" stop="20260129205800 +0000" channel="4K TR: DUCK TV HD">
-    <title>RISTORANTE</title>
-  </programme>
-  <programme start="20260129205500 +0000" stop="20260129205800 +0000" channel="DUCK TV">
-    <title>RISTORANTE</title>
-  </programme>
-  <programme start="20260129205800 +0000" stop="20260129210100 +0000" channel="4K TR: DUCK TV HD">
-    <title>ZOO</title>
-  </programme>
-  <programme start="20260129205800 +0000" stop="20260129210100 +0000" channel="DUCK TV">
-    <title>ZOO</title>
   </programme>
   <programme start="20260128210000 +0000" stop="20260128213000 +0000" channel="4K TR: DISNEY JUNIOR">
     <title>PATINŞAAT</title>
@@ -36042,69 +33123,6 @@
   <programme start="20260129205400 +0000" stop="20260129214700 +0000" channel="TV5 MONDE">
     <title>ALBANIE, LE SECRET DES BALKANS</title>
   </programme>
-  <programme start="20260128210000 +0000" stop="20260129020000 +0000" channel="4K TR: NUMBER1 TV HD">
-    <title>NIGHT TIME</title>
-  </programme>
-  <programme start="20260129020000 +0000" stop="20260129030000 +0000" channel="4K TR: NUMBER1 TV HD">
-    <title>NR1 TOP 20</title>
-  </programme>
-  <programme start="20260129030000 +0000" stop="20260129050000 +0000" channel="4K TR: NUMBER1 TV HD">
-    <title>NON STOP POP</title>
-  </programme>
-  <programme start="20260129050000 +0000" stop="20260129070000 +0000" channel="4K TR: NUMBER1 TV HD">
-    <title>TOP HITS</title>
-  </programme>
-  <programme start="20260129070000 +0000" stop="20260129080000 +0000" channel="4K TR: NUMBER1 TV HD">
-    <title>DISCOVER</title>
-  </programme>
-  <programme start="20260129080000 +0000" stop="20260129090000 +0000" channel="4K TR: NUMBER1 TV HD">
-    <title>NR1 TOP 20</title>
-  </programme>
-  <programme start="20260129090000 +0000" stop="20260129100000 +0000" channel="4K TR: NUMBER1 TV HD">
-    <title>ALL NR1 HITS</title>
-  </programme>
-  <programme start="20260129100000 +0000" stop="20260129120000 +0000" channel="4K TR: NUMBER1 TV HD">
-    <title>NON STOP POP</title>
-  </programme>
-  <programme start="20260129120000 +0000" stop="20260129130000 +0000" channel="4K TR: NUMBER1 TV HD">
-    <title>URBAN HITS</title>
-  </programme>
-  <programme start="20260129130000 +0000" stop="20260129140000 +0000" channel="4K TR: NUMBER1 TV HD">
-    <title>TOP HITS</title>
-  </programme>
-  <programme start="20260129140000 +0000" stop="20260129150000 +0000" channel="4K TR: NUMBER1 TV HD">
-    <title>DISCOVER</title>
-  </programme>
-  <programme start="20260129150000 +0000" stop="20260129151500 +0000" channel="4K TR: NUMBER1 TV HD">
-    <title>TOP K-POP</title>
-  </programme>
-  <programme start="20260129151500 +0000" stop="20260129160000 +0000" channel="4K TR: NUMBER1 TV HD">
-    <title>ALL NR1 HITS</title>
-  </programme>
-  <programme start="20260129160000 +0000" stop="20260129170000 +0000" channel="4K TR: NUMBER1 TV HD">
-    <title>NR1 TOP 20</title>
-  </programme>
-  <programme start="20260129170000 +0000" stop="20260129190000 +0000" channel="4K TR: NUMBER1 TV HD">
-    <title>NON STOP POP</title>
-  </programme>
-  <programme start="20260129190000 +0000" stop="20260129210000 +0000" channel="4K TR: NUMBER1 TV HD">
-    <title>URBAN HITS</title>
-  </programme>
-  <programme start="20260129040000 +0000" stop="20260129070000 +0000" channel="4K TR: POWER TV HD">
-    <title>POWER MORNING</title>
-  </programme>
-  <programme start="20260129070000 +0000" stop="20260129130000 +0000" channel="4K TR: POWER TV HD">
-    <title>POWER HITS</title>
-  </programme>
-  <programme start="20260129130000 +0000" stop="20260129200000 +0000" channel="4K TR: POWER TV HD">
-    <title>POWER HITS</title>
-  </programme>
-  <programme start="20260129200000 +0000" stop="20260129205900 +0000" channel="4K TR: POWER TV HD">
-    <title>ALL TIME HITS</title>
-  </programme>
-  <programme start="20260129205900 +0000" stop="20260130040000 +0000" channel="4K TR: POWER TV HD">
-    <title>POWER LOVE</title>
-  </programme>
   <programme start="20260129040000 +0000" stop="20260129090000 +0000" channel="4K TR: DREAM T RK">
     <title>DREAM TÜRK EN İYILER</title>
   </programme>
@@ -39144,6 +36162,66 @@
   <programme start="20260129204500 +0000" stop="20260129210000 +0000" channel="TRT EBA">
     <title>HAYALIN MESLEĞIN OLSUN</title>
   </programme>
+  <programme start="20260128210000 +0000" stop="20260128213000 +0000" channel="KADIRGA TV">
+    <title>HABERLER</title>
+  </programme>
+  <programme start="20260128213000 +0000" stop="20260129020000 +0000" channel="KADIRGA TV">
+    <title>PROGRAM TEKRARLARI</title>
+  </programme>
+  <programme start="20260129020000 +0000" stop="20260129030000 +0000" channel="KADIRGA TV">
+    <title>HATM-I ŞERIF</title>
+  </programme>
+  <programme start="20260129030000 +0000" stop="20260129050000 +0000" channel="KADIRGA TV">
+    <title>İLAHILER</title>
+  </programme>
+  <programme start="20260129050000 +0000" stop="20260129053000 +0000" channel="KADIRGA TV">
+    <title>HABERLER</title>
+  </programme>
+  <programme start="20260129053000 +0000" stop="20260129060000 +0000" channel="KADIRGA TV">
+    <title>EL SANATLARI</title>
+  </programme>
+  <programme start="20260129060000 +0000" stop="20260129070000 +0000" channel="KADIRGA TV">
+    <title>HATM-I ŞERIF</title>
+  </programme>
+  <programme start="20260129070000 +0000" stop="20260129080000 +0000" channel="KADIRGA TV">
+    <title>HÜNERLI ELLER</title>
+  </programme>
+  <programme start="20260129080000 +0000" stop="20260129100000 +0000" channel="KADIRGA TV">
+    <title>DOĞADA YAŞAM</title>
+  </programme>
+  <programme start="20260129100000 +0000" stop="20260129110000 +0000" channel="KADIRGA TV">
+    <title>HABERLER</title>
+  </programme>
+  <programme start="20260129110000 +0000" stop="20260129120000 +0000" channel="KADIRGA TV">
+    <title>TAMIRCI</title>
+  </programme>
+  <programme start="20260129120000 +0000" stop="20260129130000 +0000" channel="KADIRGA TV">
+    <title>DOĞADA EVLER</title>
+  </programme>
+  <programme start="20260129130000 +0000" stop="20260129140000 +0000" channel="KADIRGA TV">
+    <title>GÖNÜLDEN TELLERRE</title>
+  </programme>
+  <programme start="20260129140000 +0000" stop="20260129150000 +0000" channel="KADIRGA TV">
+    <title>GÖNÜLDEN TELLERRE</title>
+  </programme>
+  <programme start="20260129150000 +0000" stop="20260129160000 +0000" channel="KADIRGA TV">
+    <title>HÜNERLI ELLER</title>
+  </programme>
+  <programme start="20260129160000 +0000" stop="20260129163000 +0000" channel="KADIRGA TV">
+    <title>ANA HABER BÜLTENI</title>
+  </programme>
+  <programme start="20260129163000 +0000" stop="20260129180000 +0000" channel="KADIRGA TV">
+    <title>HÜNERLI ELLER</title>
+  </programme>
+  <programme start="20260129180000 +0000" stop="20260129190000 +0000" channel="KADIRGA TV">
+    <title>HAFTANIN SOHBETI</title>
+  </programme>
+  <programme start="20260129190000 +0000" stop="20260129200000 +0000" channel="KADIRGA TV">
+    <title>İLAHI</title>
+  </programme>
+  <programme start="20260129200000 +0000" stop="20260129210000 +0000" channel="KADIRGA TV">
+    <title>BELGESEL</title>
+  </programme>
   <programme start="20260128210000 +0000" stop="20260128215000 +0000" channel="KON TV">
     <title>GECE HABER</title>
   </programme>
@@ -39434,6 +36512,45 @@
   </programme>
   <programme start="20260129203000 +0000" stop="20260129210000 +0000" channel="KANAL V">
     <title>FILM KUŞAĞI</title>
+  </programme>
+  <programme start="20260128210000 +0000" stop="20260129043000 +0000" channel="KANAL 26">
+    <title>GECE HABERLERI</title>
+  </programme>
+  <programme start="20260129043000 +0000" stop="20260129060000 +0000" channel="KANAL 26">
+    <title>ÇIZGI FILM</title>
+  </programme>
+  <programme start="20260129060000 +0000" stop="20260129070000 +0000" channel="KANAL 26">
+    <title>ARA HABER BÜLTENI</title>
+  </programme>
+  <programme start="20260129070000 +0000" stop="20260129090000 +0000" channel="KANAL 26">
+    <title>SABAH HABERLERI</title>
+  </programme>
+  <programme start="20260129090000 +0000" stop="20260129100000 +0000" channel="KANAL 26">
+    <title>SÜRMANŞET</title>
+  </programme>
+  <programme start="20260129100000 +0000" stop="20260129110000 +0000" channel="KANAL 26">
+    <title>İHA</title>
+  </programme>
+  <programme start="20260129110000 +0000" stop="20260129120000 +0000" channel="KANAL 26">
+    <title>BELGESEL</title>
+  </programme>
+  <programme start="20260129120000 +0000" stop="20260129140000 +0000" channel="KANAL 26">
+    <title>26.GÜN</title>
+  </programme>
+  <programme start="20260129140000 +0000" stop="20260129150000 +0000" channel="KANAL 26">
+    <title>İHA</title>
+  </programme>
+  <programme start="20260129150000 +0000" stop="20260129160000 +0000" channel="KANAL 26">
+    <title>HUZUR SOHBETLERI</title>
+  </programme>
+  <programme start="20260129160000 +0000" stop="20260129173000 +0000" channel="KANAL 26">
+    <title>ARA HABER BÜLTENI</title>
+  </programme>
+  <programme start="20260129173000 +0000" stop="20260129200000 +0000" channel="KANAL 26">
+    <title>HODRI MEYDAN</title>
+  </programme>
+  <programme start="20260129200000 +0000" stop="20260129210000 +0000" channel="KANAL 26">
+    <title>BELGESEL</title>
   </programme>
   <programme start="20260129043000 +0000" stop="20260129053000 +0000" channel="KANAL 33">
     <title>HABER TEKRAR</title>
