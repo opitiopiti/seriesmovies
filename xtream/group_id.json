@@ -10733,7 +10733,8 @@
     "11730": "TEMEL ILE DURSUN ISTANBUL'DA (YERLİ FİLM)",
     "11731": "AŞK TESADÜFLERI SEVER 2 (YERLİ FİLM)",
     "11732": "AMAN REIS DUYMASIN (YERLİ FİLM)",
-    "11733": "MERV (N/A | TÜRKÇE ALTYAZI)"
+    "11733": "MERV (N/A | TÜRKÇE ALTYAZI)",
+    "11734": "A LETTER TO MY YOUTH(2026) (TURKCE ALTYAZI)"
   },
   "series": {
     "1000": "İNGİLTERE MEZATÇILARI DMAX TÜRKİYE",
@@ -76600,6 +76601,10 @@
     "15904": {
       "name": "DAZN RISE HD",
       "category_id": "25"
+    },
+    "15905": {
+      "name": "DAZN 1 -HD HEVC H.265",
+      "category_id": "20"
     }
   }
 }
