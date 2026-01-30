@@ -298,5 +298,17 @@
     "last_season": 3,
     "last_episode": 1,
     "start_episode": 1
+  },
+  "/dizi/bridgerton-izle-4/": {
+    "group": "BRIDGERTON",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/abbott-elementary-6/": {
+    "group": "ABBOTT ELEMENTARY",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
   }
 }
