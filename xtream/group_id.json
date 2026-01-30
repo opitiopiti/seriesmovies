@@ -10740,7 +10740,18 @@
     "11737": "BULUT(2024) (ALTYAZI)",
     "11738": "ANACONDA(2025) (ALTYAZI)",
     "11739": "96 MINUTES(2025) (ALTYAZI)",
-    "11740": "DARGEÇIT(2024) (YERLİ)"
+    "11740": "DARGEÇIT(2024) (YERLİ)",
+    "11741": "KAYIKÇI(2025) (YERLI)",
+    "11742": "REVOLVER LILY(2023) (ALTYAZI)",
+    "11743": "SESSIZ GECE, KANLI GECE(2025) (ALTYAZI)",
+    "11744": "SESSIZ TEPE: DÖNÜŞ(2026) (ALTYAZI)",
+    "11745": "MERHAMET YOK(2026) (ALTYAZI)",
+    "11746": "THE TRAIN OF DEATH(2024) (ALTYAZI)",
+    "11747": "LABINAK THEY ARE ALMOST US(2025) (ALTYAZI)",
+    "11748": "KARANLIKTA(2026) (ALTYAZI)",
+    "11749": "HIÇBIR ŞEY NORMAL DEĞIL(2024) (YERLİ)",
+    "11750": "96 DAKIKA(2025) (TÜRKÇE ALTYAZI)",
+    "11751": "ÇOCUKLUĞUMA BIR MEKTUP(2026) (TÜRKÇE ALTYAZI)"
   },
   "series": {
     "1000": "İNGİLTERE MEZATÇILARI DMAX TÜRKİYE",
@@ -76611,6 +76622,10 @@
     },
     "15905": {
       "name": "DAZN 1 -HD HEVC H.265",
+      "category_id": "20"
+    },
+    "15906": {
+      "name": "DAZN 8 HD",
       "category_id": "20"
     }
   }
