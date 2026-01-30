@@ -6327,7 +6327,7 @@
   <programme start="20260130201400 +0000" stop="20260130204500 +0000" channel="GZT TV">
     <title>PANGVOSS</title>
   </programme>
-  <programme start="20260130204500 +0000" stop="20260131205900 +0000" channel="GZT TV">
+  <programme start="20260130204500 +0000" stop="20260130210000 +0000" channel="GZT TV">
     <title>PANGVOSS</title>
   </programme>
   <programme start="20260129210000 +0000" stop="20260129220000 +0000" channel="VAV TV">
@@ -14028,20 +14028,35 @@
   <programme start="20260130093000 +0000" stop="20260130103000 +0000" channel="TRT SPOR RAW">
     <title>GÜN ORTASI</title>
   </programme>
-  <programme start="20260130103000 +0000" stop="20260130105000 +0000" channel="4K TR: TRT SPOR HD">
+  <programme start="20260130103000 +0000" stop="20260130104000 +0000" channel="4K TR: TRT SPOR HD">
     <title>FCSB - FENERBAHÇE</title>
   </programme>
-  <programme start="20260130103000 +0000" stop="20260130105000 +0000" channel="TRT SPOR">
+  <programme start="20260130103000 +0000" stop="20260130104000 +0000" channel="TRT SPOR">
     <title>FCSB - FENERBAHÇE</title>
   </programme>
-  <programme start="20260130103000 +0000" stop="20260130105000 +0000" channel="TRT SPOR FHD">
+  <programme start="20260130103000 +0000" stop="20260130104000 +0000" channel="TRT SPOR FHD">
     <title>FCSB - FENERBAHÇE</title>
   </programme>
-  <programme start="20260130103000 +0000" stop="20260130105000 +0000" channel="TRT SPOR HD">
+  <programme start="20260130103000 +0000" stop="20260130104000 +0000" channel="TRT SPOR HD">
     <title>FCSB - FENERBAHÇE</title>
   </programme>
-  <programme start="20260130103000 +0000" stop="20260130105000 +0000" channel="TRT SPOR RAW">
+  <programme start="20260130103000 +0000" stop="20260130104000 +0000" channel="TRT SPOR RAW">
     <title>FCSB - FENERBAHÇE</title>
+  </programme>
+  <programme start="20260130104000 +0000" stop="20260130105000 +0000" channel="4K TR: TRT SPOR HD">
+    <title>MANCHESTER CITY - GALATASARAY</title>
+  </programme>
+  <programme start="20260130104000 +0000" stop="20260130105000 +0000" channel="TRT SPOR">
+    <title>MANCHESTER CITY - GALATASARAY</title>
+  </programme>
+  <programme start="20260130104000 +0000" stop="20260130105000 +0000" channel="TRT SPOR FHD">
+    <title>MANCHESTER CITY - GALATASARAY</title>
+  </programme>
+  <programme start="20260130104000 +0000" stop="20260130105000 +0000" channel="TRT SPOR HD">
+    <title>MANCHESTER CITY - GALATASARAY</title>
+  </programme>
+  <programme start="20260130104000 +0000" stop="20260130105000 +0000" channel="TRT SPOR RAW">
+    <title>MANCHESTER CITY - GALATASARAY</title>
   </programme>
   <programme start="20260130105000 +0000" stop="20260130123000 +0000" channel="4K TR: TRT SPOR HD">
     <title>SPOR STÜDYOSU</title>
@@ -14149,19 +14164,19 @@
     <title>STADYUM</title>
   </programme>
   <programme start="20260130203000 +0000" stop="20260130220000 +0000" channel="4K TR: TRT SPOR HD">
-    <title>İLERI ÜÇLÜ</title>
+    <title>İLERI ÜÇLÜ TRANSFER</title>
   </programme>
   <programme start="20260130203000 +0000" stop="20260130220000 +0000" channel="TRT SPOR">
-    <title>İLERI ÜÇLÜ</title>
+    <title>İLERI ÜÇLÜ TRANSFER</title>
   </programme>
   <programme start="20260130203000 +0000" stop="20260130220000 +0000" channel="TRT SPOR FHD">
-    <title>İLERI ÜÇLÜ</title>
+    <title>İLERI ÜÇLÜ TRANSFER</title>
   </programme>
   <programme start="20260130203000 +0000" stop="20260130220000 +0000" channel="TRT SPOR HD">
-    <title>İLERI ÜÇLÜ</title>
+    <title>İLERI ÜÇLÜ TRANSFER</title>
   </programme>
   <programme start="20260130203000 +0000" stop="20260130220000 +0000" channel="TRT SPOR RAW">
-    <title>İLERI ÜÇLÜ</title>
+    <title>İLERI ÜÇLÜ TRANSFER</title>
   </programme>
   <programme start="20260129220000 +0000" stop="20260129221500 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>HABER BÜLTENI</title>
@@ -14614,184 +14629,199 @@
     <title>NBA STÜDYOSU</title>
   </programme>
   <programme start="20260130114500 +0000" stop="20260130115500 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>6.ADAM</title>
+    <title>SPOR ATLASI</title>
   </programme>
   <programme start="20260130114500 +0000" stop="20260130115500 +0000" channel="TRT SPOR YILDIZ">
-    <title>6.ADAM</title>
+    <title>SPOR ATLASI</title>
   </programme>
   <programme start="20260130114500 +0000" stop="20260130115500 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>6.ADAM</title>
+    <title>SPOR ATLASI</title>
   </programme>
   <programme start="20260130114500 +0000" stop="20260130115500 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>6.ADAM</title>
+    <title>SPOR ATLASI</title>
   </programme>
   <programme start="20260130114500 +0000" stop="20260130115500 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>6.ADAM</title>
-  </programme>
-  <programme start="20260130115500 +0000" stop="20260130120500 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>SPOR ATLASI</title>
   </programme>
-  <programme start="20260130115500 +0000" stop="20260130120500 +0000" channel="TRT SPOR YILDIZ">
-    <title>SPOR ATLASI</title>
-  </programme>
-  <programme start="20260130115500 +0000" stop="20260130120500 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>SPOR ATLASI</title>
-  </programme>
-  <programme start="20260130115500 +0000" stop="20260130120500 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>SPOR ATLASI</title>
-  </programme>
-  <programme start="20260130115500 +0000" stop="20260130120500 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>SPOR ATLASI</title>
-  </programme>
-  <programme start="20260130120500 +0000" stop="20260130122500 +0000" channel="4K TR: TRT SPOR YILDIZ">
+  <programme start="20260130115500 +0000" stop="20260130121500 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>TÜRKIYE BAJA ŞAMPIYONASI</title>
   </programme>
-  <programme start="20260130120500 +0000" stop="20260130122500 +0000" channel="TRT SPOR YILDIZ">
+  <programme start="20260130115500 +0000" stop="20260130121500 +0000" channel="TRT SPOR YILDIZ">
     <title>TÜRKIYE BAJA ŞAMPIYONASI</title>
   </programme>
-  <programme start="20260130120500 +0000" stop="20260130122500 +0000" channel="TRT SPOR YILDIZ HD">
+  <programme start="20260130115500 +0000" stop="20260130121500 +0000" channel="TRT SPOR YILDIZ HD">
     <title>TÜRKIYE BAJA ŞAMPIYONASI</title>
   </programme>
-  <programme start="20260130120500 +0000" stop="20260130122500 +0000" channel="TRT SPOR YILDIZ HEVC">
+  <programme start="20260130115500 +0000" stop="20260130121500 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>TÜRKIYE BAJA ŞAMPIYONASI</title>
   </programme>
-  <programme start="20260130120500 +0000" stop="20260130122500 +0000" channel="TRT SPOR YILDIZ RAW">
+  <programme start="20260130115500 +0000" stop="20260130121500 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>TÜRKIYE BAJA ŞAMPIYONASI</title>
   </programme>
-  <programme start="20260130122500 +0000" stop="20260130124000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+  <programme start="20260130121500 +0000" stop="20260130123000 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>TENIS DÜNYASI</title>
   </programme>
-  <programme start="20260130122500 +0000" stop="20260130124000 +0000" channel="TRT SPOR YILDIZ">
+  <programme start="20260130121500 +0000" stop="20260130123000 +0000" channel="TRT SPOR YILDIZ">
     <title>TENIS DÜNYASI</title>
   </programme>
-  <programme start="20260130122500 +0000" stop="20260130124000 +0000" channel="TRT SPOR YILDIZ HD">
+  <programme start="20260130121500 +0000" stop="20260130123000 +0000" channel="TRT SPOR YILDIZ HD">
     <title>TENIS DÜNYASI</title>
   </programme>
-  <programme start="20260130122500 +0000" stop="20260130124000 +0000" channel="TRT SPOR YILDIZ HEVC">
+  <programme start="20260130121500 +0000" stop="20260130123000 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>TENIS DÜNYASI</title>
   </programme>
-  <programme start="20260130122500 +0000" stop="20260130124000 +0000" channel="TRT SPOR YILDIZ RAW">
+  <programme start="20260130121500 +0000" stop="20260130123000 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>TENIS DÜNYASI</title>
   </programme>
-  <programme start="20260130124000 +0000" stop="20260130130500 +0000" channel="4K TR: TRT SPOR YILDIZ">
+  <programme start="20260130123000 +0000" stop="20260130125500 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>TÜM ZAMANLARIN EN İYILERI</title>
   </programme>
-  <programme start="20260130124000 +0000" stop="20260130130500 +0000" channel="TRT SPOR YILDIZ">
+  <programme start="20260130123000 +0000" stop="20260130125500 +0000" channel="TRT SPOR YILDIZ">
     <title>TÜM ZAMANLARIN EN İYILERI</title>
   </programme>
-  <programme start="20260130124000 +0000" stop="20260130130500 +0000" channel="TRT SPOR YILDIZ HD">
+  <programme start="20260130123000 +0000" stop="20260130125500 +0000" channel="TRT SPOR YILDIZ HD">
     <title>TÜM ZAMANLARIN EN İYILERI</title>
   </programme>
-  <programme start="20260130124000 +0000" stop="20260130130500 +0000" channel="TRT SPOR YILDIZ HEVC">
+  <programme start="20260130123000 +0000" stop="20260130125500 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>TÜM ZAMANLARIN EN İYILERI</title>
   </programme>
-  <programme start="20260130124000 +0000" stop="20260130130500 +0000" channel="TRT SPOR YILDIZ RAW">
+  <programme start="20260130123000 +0000" stop="20260130125500 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>TÜM ZAMANLARIN EN İYILERI</title>
   </programme>
-  <programme start="20260130130500 +0000" stop="20260130133000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+  <programme start="20260130125500 +0000" stop="20260130132000 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>SPOR ÜNIVERSITEDE</title>
   </programme>
-  <programme start="20260130130500 +0000" stop="20260130133000 +0000" channel="TRT SPOR YILDIZ">
+  <programme start="20260130125500 +0000" stop="20260130132000 +0000" channel="TRT SPOR YILDIZ">
     <title>SPOR ÜNIVERSITEDE</title>
   </programme>
-  <programme start="20260130130500 +0000" stop="20260130133000 +0000" channel="TRT SPOR YILDIZ HD">
+  <programme start="20260130125500 +0000" stop="20260130132000 +0000" channel="TRT SPOR YILDIZ HD">
     <title>SPOR ÜNIVERSITEDE</title>
   </programme>
-  <programme start="20260130130500 +0000" stop="20260130133000 +0000" channel="TRT SPOR YILDIZ HEVC">
+  <programme start="20260130125500 +0000" stop="20260130132000 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>SPOR ÜNIVERSITEDE</title>
   </programme>
-  <programme start="20260130130500 +0000" stop="20260130133000 +0000" channel="TRT SPOR YILDIZ RAW">
+  <programme start="20260130125500 +0000" stop="20260130132000 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>SPOR ÜNIVERSITEDE</title>
   </programme>
-  <programme start="20260130133000 +0000" stop="20260130140000 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>ETNOSPOR</title>
-  </programme>
-  <programme start="20260130133000 +0000" stop="20260130140000 +0000" channel="TRT SPOR YILDIZ">
-    <title>ETNOSPOR</title>
-  </programme>
-  <programme start="20260130133000 +0000" stop="20260130140000 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>ETNOSPOR</title>
-  </programme>
-  <programme start="20260130133000 +0000" stop="20260130140000 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>ETNOSPOR</title>
-  </programme>
-  <programme start="20260130133000 +0000" stop="20260130140000 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>ETNOSPOR</title>
-  </programme>
-  <programme start="20260130140000 +0000" stop="20260130142500 +0000" channel="4K TR: TRT SPOR YILDIZ">
-    <title>ALBÜMDEKI YILDIZLAR</title>
-  </programme>
-  <programme start="20260130140000 +0000" stop="20260130142500 +0000" channel="TRT SPOR YILDIZ">
-    <title>ALBÜMDEKI YILDIZLAR</title>
-  </programme>
-  <programme start="20260130140000 +0000" stop="20260130142500 +0000" channel="TRT SPOR YILDIZ HD">
-    <title>ALBÜMDEKI YILDIZLAR</title>
-  </programme>
-  <programme start="20260130140000 +0000" stop="20260130142500 +0000" channel="TRT SPOR YILDIZ HEVC">
-    <title>ALBÜMDEKI YILDIZLAR</title>
-  </programme>
-  <programme start="20260130140000 +0000" stop="20260130142500 +0000" channel="TRT SPOR YILDIZ RAW">
-    <title>ALBÜMDEKI YILDIZLAR</title>
-  </programme>
-  <programme start="20260130142500 +0000" stop="20260130144000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+  <programme start="20260130132000 +0000" stop="20260130133500 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>SPORLA DEĞIŞEN HAYATLAR</title>
   </programme>
-  <programme start="20260130142500 +0000" stop="20260130144000 +0000" channel="TRT SPOR YILDIZ">
+  <programme start="20260130132000 +0000" stop="20260130133500 +0000" channel="TRT SPOR YILDIZ">
     <title>SPORLA DEĞIŞEN HAYATLAR</title>
   </programme>
-  <programme start="20260130142500 +0000" stop="20260130144000 +0000" channel="TRT SPOR YILDIZ HD">
+  <programme start="20260130132000 +0000" stop="20260130133500 +0000" channel="TRT SPOR YILDIZ HD">
     <title>SPORLA DEĞIŞEN HAYATLAR</title>
   </programme>
-  <programme start="20260130142500 +0000" stop="20260130144000 +0000" channel="TRT SPOR YILDIZ HEVC">
+  <programme start="20260130132000 +0000" stop="20260130133500 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>SPORLA DEĞIŞEN HAYATLAR</title>
   </programme>
-  <programme start="20260130142500 +0000" stop="20260130144000 +0000" channel="TRT SPOR YILDIZ RAW">
+  <programme start="20260130132000 +0000" stop="20260130133500 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>SPORLA DEĞIŞEN HAYATLAR</title>
   </programme>
-  <programme start="20260130144000 +0000" stop="20260130145500 +0000" channel="4K TR: TRT SPOR YILDIZ">
+  <programme start="20260130133500 +0000" stop="20260130134000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>ONSUZ ASLA</title>
+  </programme>
+  <programme start="20260130133500 +0000" stop="20260130134000 +0000" channel="TRT SPOR YILDIZ">
+    <title>ONSUZ ASLA</title>
+  </programme>
+  <programme start="20260130133500 +0000" stop="20260130134000 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>ONSUZ ASLA</title>
+  </programme>
+  <programme start="20260130133500 +0000" stop="20260130134000 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>ONSUZ ASLA</title>
+  </programme>
+  <programme start="20260130133500 +0000" stop="20260130134000 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>ONSUZ ASLA</title>
+  </programme>
+  <programme start="20260130134000 +0000" stop="20260130135500 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>ULTRA</title>
   </programme>
-  <programme start="20260130144000 +0000" stop="20260130145500 +0000" channel="TRT SPOR YILDIZ">
+  <programme start="20260130134000 +0000" stop="20260130135500 +0000" channel="TRT SPOR YILDIZ">
     <title>ULTRA</title>
   </programme>
-  <programme start="20260130144000 +0000" stop="20260130145500 +0000" channel="TRT SPOR YILDIZ HD">
+  <programme start="20260130134000 +0000" stop="20260130135500 +0000" channel="TRT SPOR YILDIZ HD">
     <title>ULTRA</title>
   </programme>
-  <programme start="20260130144000 +0000" stop="20260130145500 +0000" channel="TRT SPOR YILDIZ HEVC">
+  <programme start="20260130134000 +0000" stop="20260130135500 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>ULTRA</title>
   </programme>
-  <programme start="20260130144000 +0000" stop="20260130145500 +0000" channel="TRT SPOR YILDIZ RAW">
+  <programme start="20260130134000 +0000" stop="20260130135500 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>ULTRA</title>
   </programme>
-  <programme start="20260130145500 +0000" stop="20260130164000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+  <programme start="20260130135500 +0000" stop="20260130154000 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>YENIMAHALLE B. - ÜSKÜDAR B.</title>
   </programme>
-  <programme start="20260130145500 +0000" stop="20260130164000 +0000" channel="TRT SPOR YILDIZ">
+  <programme start="20260130135500 +0000" stop="20260130154000 +0000" channel="TRT SPOR YILDIZ">
     <title>YENIMAHALLE B. - ÜSKÜDAR B.</title>
   </programme>
-  <programme start="20260130145500 +0000" stop="20260130164000 +0000" channel="TRT SPOR YILDIZ HD">
+  <programme start="20260130135500 +0000" stop="20260130154000 +0000" channel="TRT SPOR YILDIZ HD">
     <title>YENIMAHALLE B. - ÜSKÜDAR B.</title>
   </programme>
-  <programme start="20260130145500 +0000" stop="20260130164000 +0000" channel="TRT SPOR YILDIZ HEVC">
+  <programme start="20260130135500 +0000" stop="20260130154000 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>YENIMAHALLE B. - ÜSKÜDAR B.</title>
   </programme>
-  <programme start="20260130145500 +0000" stop="20260130164000 +0000" channel="TRT SPOR YILDIZ RAW">
+  <programme start="20260130135500 +0000" stop="20260130154000 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>YENIMAHALLE B. - ÜSKÜDAR B.</title>
   </programme>
-  <programme start="20260130164000 +0000" stop="20260130165500 +0000" channel="4K TR: TRT SPOR YILDIZ">
+  <programme start="20260130154000 +0000" stop="20260130155500 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>YAPABILIR MISIN?</title>
   </programme>
-  <programme start="20260130164000 +0000" stop="20260130165500 +0000" channel="TRT SPOR YILDIZ">
+  <programme start="20260130154000 +0000" stop="20260130155500 +0000" channel="TRT SPOR YILDIZ">
     <title>YAPABILIR MISIN?</title>
   </programme>
-  <programme start="20260130164000 +0000" stop="20260130165500 +0000" channel="TRT SPOR YILDIZ HD">
+  <programme start="20260130154000 +0000" stop="20260130155500 +0000" channel="TRT SPOR YILDIZ HD">
     <title>YAPABILIR MISIN?</title>
   </programme>
-  <programme start="20260130164000 +0000" stop="20260130165500 +0000" channel="TRT SPOR YILDIZ HEVC">
+  <programme start="20260130154000 +0000" stop="20260130155500 +0000" channel="TRT SPOR YILDIZ HEVC">
     <title>YAPABILIR MISIN?</title>
   </programme>
-  <programme start="20260130164000 +0000" stop="20260130165500 +0000" channel="TRT SPOR YILDIZ RAW">
+  <programme start="20260130154000 +0000" stop="20260130155500 +0000" channel="TRT SPOR YILDIZ RAW">
     <title>YAPABILIR MISIN?</title>
+  </programme>
+  <programme start="20260130155500 +0000" stop="20260130161000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>TENIS DÜNYASI</title>
+  </programme>
+  <programme start="20260130155500 +0000" stop="20260130161000 +0000" channel="TRT SPOR YILDIZ">
+    <title>TENIS DÜNYASI</title>
+  </programme>
+  <programme start="20260130155500 +0000" stop="20260130161000 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>TENIS DÜNYASI</title>
+  </programme>
+  <programme start="20260130155500 +0000" stop="20260130161000 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>TENIS DÜNYASI</title>
+  </programme>
+  <programme start="20260130155500 +0000" stop="20260130161000 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>TENIS DÜNYASI</title>
+  </programme>
+  <programme start="20260130161000 +0000" stop="20260130163000 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>ENGELSIZ SPOR</title>
+  </programme>
+  <programme start="20260130161000 +0000" stop="20260130163000 +0000" channel="TRT SPOR YILDIZ">
+    <title>ENGELSIZ SPOR</title>
+  </programme>
+  <programme start="20260130161000 +0000" stop="20260130163000 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>ENGELSIZ SPOR</title>
+  </programme>
+  <programme start="20260130161000 +0000" stop="20260130163000 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>ENGELSIZ SPOR</title>
+  </programme>
+  <programme start="20260130161000 +0000" stop="20260130163000 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>ENGELSIZ SPOR</title>
+  </programme>
+  <programme start="20260130163000 +0000" stop="20260130165500 +0000" channel="4K TR: TRT SPOR YILDIZ">
+    <title>ALBÜMDEKI YILDIZLAR</title>
+  </programme>
+  <programme start="20260130163000 +0000" stop="20260130165500 +0000" channel="TRT SPOR YILDIZ">
+    <title>ALBÜMDEKI YILDIZLAR</title>
+  </programme>
+  <programme start="20260130163000 +0000" stop="20260130165500 +0000" channel="TRT SPOR YILDIZ HD">
+    <title>ALBÜMDEKI YILDIZLAR</title>
+  </programme>
+  <programme start="20260130163000 +0000" stop="20260130165500 +0000" channel="TRT SPOR YILDIZ HEVC">
+    <title>ALBÜMDEKI YILDIZLAR</title>
+  </programme>
+  <programme start="20260130163000 +0000" stop="20260130165500 +0000" channel="TRT SPOR YILDIZ RAW">
+    <title>ALBÜMDEKI YILDIZLAR</title>
   </programme>
   <programme start="20260130165500 +0000" stop="20260130193000 +0000" channel="4K TR: TRT SPOR YILDIZ">
     <title>ZEYTINBURNU B. - TED KOCAELI</title>
@@ -33552,6 +33582,57 @@
   <programme start="20260130203000 +0000" stop="20260130210000 +0000" channel="BBC News">
     <title>THE CONTEXT USA</title>
   </programme>
+  <programme start="20260129220000 +0000" stop="20260129230000 +0000" channel="Bloomberg">
+    <title>BLOOMBERG: BALANCE OF POWER</title>
+  </programme>
+  <programme start="20260129230000 +0000" stop="20260130010000 +0000" channel="Bloomberg">
+    <title>BLOOMBERG THE ASIA TRADE</title>
+  </programme>
+  <programme start="20260130010000 +0000" stop="20260130030000 +0000" channel="Bloomberg">
+    <title>BLOOMBERG: THE CHINA SHOW</title>
+  </programme>
+  <programme start="20260130030000 +0000" stop="20260130050000 +0000" channel="Bloomberg">
+    <title>INSIGHT WITH HASLINDA AMIN</title>
+  </programme>
+  <programme start="20260130050000 +0000" stop="20260130060000 +0000" channel="Bloomberg">
+    <title>BLOOMBERG HORIZONS MIDDLE EAST - AFRICA</title>
+  </programme>
+  <programme start="20260130060000 +0000" stop="20260130070000 +0000" channel="Bloomberg">
+    <title>BLOOMBERG DAYBREAK: EUROPE</title>
+  </programme>
+  <programme start="20260130070000 +0000" stop="20260130090000 +0000" channel="Bloomberg">
+    <title>BLOOMBERG: THE OPENING TRADE</title>
+  </programme>
+  <programme start="20260130090000 +0000" stop="20260130100000 +0000" channel="Bloomberg">
+    <title>THE PULSE WITH FRANCINE LACQUA</title>
+  </programme>
+  <programme start="20260130100000 +0000" stop="20260130110000 +0000" channel="Bloomberg">
+    <title>BLOOMBERG BRIEF</title>
+  </programme>
+  <programme start="20260130110000 +0000" stop="20260130140000 +0000" channel="Bloomberg">
+    <title>BLOOMBERG SURVEILLANCE</title>
+  </programme>
+  <programme start="20260130140000 +0000" stop="20260130160000 +0000" channel="Bloomberg">
+    <title>BLOOMBERG OPEN INTEREST</title>
+  </programme>
+  <programme start="20260130160000 +0000" stop="20260130170000 +0000" channel="Bloomberg">
+    <title>BLOOMBERG TECH</title>
+  </programme>
+  <programme start="20260130170000 +0000" stop="20260130173000 +0000" channel="Bloomberg">
+    <title>BLOOMBERG REAL YIELD</title>
+  </programme>
+  <programme start="20260130173000 +0000" stop="20260130180000 +0000" channel="Bloomberg">
+    <title>BLOOMBERG MARKETS</title>
+  </programme>
+  <programme start="20260130180000 +0000" stop="20260130190000 +0000" channel="Bloomberg">
+    <title>BLOOMBERG: BALANCE OF POWER</title>
+  </programme>
+  <programme start="20260130190000 +0000" stop="20260130200000 +0000" channel="Bloomberg">
+    <title>BLOOMBERG BUSINESSWEEK DAILY</title>
+  </programme>
+  <programme start="20260130200000 +0000" stop="20260130220000 +0000" channel="Bloomberg">
+    <title>BLOOMBERG THE CLOSE</title>
+  </programme>
   <programme start="20260129210000 +0000" stop="20260129220000 +0000" channel="A NEWS">
     <title>TÜRKIYE'S DIPLOMACY</title>
   </programme>
@@ -34790,198 +34871,6 @@
   </programme>
   <programme start="20260130200000 +0000" stop="20260130210000 +0000" channel="AL JAZEERA INTERNATIONAL">
     <title>NEWS BULLETIN</title>
-  </programme>
-  <programme start="20260129210000 +0000" stop="20260129210200 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>DW NEWS</title>
-  </programme>
-  <programme start="20260129210200 +0000" stop="20260129211500 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>TRANSFORMING BUSINESS: THE CONTROVERSIAL INGREDIENT THE WORLD CAN'T QUIT</title>
-  </programme>
-  <programme start="20260129211500 +0000" stop="20260129220000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>LOVE, LIKE, LOST - INSIDE THE CYBER MAFIA</title>
-  </programme>
-  <programme start="20260129220000 +0000" stop="20260129220200 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>DW NEWS</title>
-  </programme>
-  <programme start="20260129220200 +0000" stop="20260129223000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>THE DAY</title>
-  </programme>
-  <programme start="20260129223000 +0000" stop="20260129230000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>TO THE POINT</title>
-  </programme>
-  <programme start="20260129230000 +0000" stop="20260129231500 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>DW NEWS</title>
-  </programme>
-  <programme start="20260129231500 +0000" stop="20260129233000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>TRANSFORMING BUSINESS: THE CONTROVERSIAL INGREDIENT THE WORLD CAN'T QUIT</title>
-  </programme>
-  <programme start="20260129233000 +0000" stop="20260130000000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>BEST OF DW VODCASTS</title>
-  </programme>
-  <programme start="20260130000000 +0000" stop="20260130000200 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>DW NEWS</title>
-  </programme>
-  <programme start="20260130000200 +0000" stop="20260130003000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>THE DAY</title>
-  </programme>
-  <programme start="20260130003000 +0000" stop="20260130010000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>TO THE POINT</title>
-  </programme>
-  <programme start="20260130010000 +0000" stop="20260130011500 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>DW NEWS</title>
-  </programme>
-  <programme start="20260130011500 +0000" stop="20260130020000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>MY BODY: MY MUSCLES - MORE THAN POWER AND PUMPING IRON</title>
-  </programme>
-  <programme start="20260130020000 +0000" stop="20260130020200 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>DW NEWS</title>
-  </programme>
-  <programme start="20260130020200 +0000" stop="20260130023000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>THE DAY</title>
-  </programme>
-  <programme start="20260130023000 +0000" stop="20260130030000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>FOCUS ON EUROPE</title>
-  </programme>
-  <programme start="20260130030000 +0000" stop="20260130031500 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>DW NEWS</title>
-  </programme>
-  <programme start="20260130031500 +0000" stop="20260130033000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>TRANSFORMING BUSINESS: THE CONTROVERSIAL INGREDIENT THE WORLD CAN'T QUIT</title>
-  </programme>
-  <programme start="20260130033000 +0000" stop="20260130040000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>MADE IN GERMANY: THE BUSINESS MAGAZINE</title>
-  </programme>
-  <programme start="20260130040000 +0000" stop="20260130041500 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>DW NEWS</title>
-  </programme>
-  <programme start="20260130041500 +0000" stop="20260130050000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>MY BODY: MY MUSCLES - MORE THAN POWER AND PUMPING IRON</title>
-  </programme>
-  <programme start="20260130050000 +0000" stop="20260130050200 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>DW NEWS</title>
-  </programme>
-  <programme start="20260130050200 +0000" stop="20260130053000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>THE DAY</title>
-  </programme>
-  <programme start="20260130053000 +0000" stop="20260130060000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>DW NEWS</title>
-  </programme>
-  <programme start="20260130060000 +0000" stop="20260130061500 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>DW NEWS</title>
-  </programme>
-  <programme start="20260130061500 +0000" stop="20260130063000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>TRANSFORMING BUSINESS: THE CONTROVERSIAL INGREDIENT THE WORLD CAN'T QUIT</title>
-  </programme>
-  <programme start="20260130063000 +0000" stop="20260130070000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>BEST OF DW VODCASTS</title>
-  </programme>
-  <programme start="20260130070000 +0000" stop="20260130071500 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>DW NEWS</title>
-  </programme>
-  <programme start="20260130071500 +0000" stop="20260130080000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>LOVE, LIKE, LOST - INSIDE THE CYBER MAFIA</title>
-  </programme>
-  <programme start="20260130080000 +0000" stop="20260130081500 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>DW NEWS</title>
-  </programme>
-  <programme start="20260130081500 +0000" stop="20260130083000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>CHOICES</title>
-  </programme>
-  <programme start="20260130083000 +0000" stop="20260130090000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>DW NEWS</title>
-  </programme>
-  <programme start="20260130090000 +0000" stop="20260130091500 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>DW NEWS</title>
-  </programme>
-  <programme start="20260130091500 +0000" stop="20260130100000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>DICTATORS, DRUGS, DISCORD - LATIN AMERICA AND THE USA: CHAOS</title>
-  </programme>
-  <programme start="20260130100000 +0000" stop="20260130101500 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>DW NEWS</title>
-  </programme>
-  <programme start="20260130101500 +0000" stop="20260130103000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>HER - WOMEN IN ASIA</title>
-  </programme>
-  <programme start="20260130103000 +0000" stop="20260130110000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>BEST OF DW VODCASTS</title>
-  </programme>
-  <programme start="20260130110000 +0000" stop="20260130111500 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>DW NEWS</title>
-  </programme>
-  <programme start="20260130111500 +0000" stop="20260130113000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>ASIA 2050</title>
-  </programme>
-  <programme start="20260130113000 +0000" stop="20260130120000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>TO THE POINT</title>
-  </programme>
-  <programme start="20260130120000 +0000" stop="20260130121500 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>DW NEWS</title>
-  </programme>
-  <programme start="20260130121500 +0000" stop="20260130130000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>LOVE, LIKE, LOST - INSIDE THE CYBER MAFIA</title>
-  </programme>
-  <programme start="20260130130000 +0000" stop="20260130131500 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>DW NEWS</title>
-  </programme>
-  <programme start="20260130131500 +0000" stop="20260130133000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>ONE HEALTH: PANDEMIC PREVENTION RESEARCH IN AFRICA</title>
-  </programme>
-  <programme start="20260130133000 +0000" stop="20260130140000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>IN GOOD SHAPE</title>
-  </programme>
-  <programme start="20260130140000 +0000" stop="20260130141500 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>DW NEWS</title>
-  </programme>
-  <programme start="20260130141500 +0000" stop="20260130143000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>HER - WOMEN IN ASIA</title>
-  </programme>
-  <programme start="20260130143000 +0000" stop="20260130150000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>ECO INDIA</title>
-  </programme>
-  <programme start="20260130150000 +0000" stop="20260130151500 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>DW NEWS</title>
-  </programme>
-  <programme start="20260130151500 +0000" stop="20260130153000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>ONE HEALTH: PANDEMIC PREVENTION RESEARCH IN AFRICA</title>
-  </programme>
-  <programme start="20260130153000 +0000" stop="20260130160000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>TO THE POINT</title>
-  </programme>
-  <programme start="20260130160000 +0000" stop="20260130161500 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>DW NEWS</title>
-  </programme>
-  <programme start="20260130161500 +0000" stop="20260130170000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>DICTATORS, DRUGS, DISCORD - LATIN AMERICA AND THE USA: CHAOS</title>
-  </programme>
-  <programme start="20260130170000 +0000" stop="20260130171500 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>DW NEWS</title>
-  </programme>
-  <programme start="20260130171500 +0000" stop="20260130173000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>ONE HEALTH: PANDEMIC PREVENTION RESEARCH IN AFRICA</title>
-  </programme>
-  <programme start="20260130173000 +0000" stop="20260130180000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>AFRIMAXX</title>
-  </programme>
-  <programme start="20260130180000 +0000" stop="20260130183000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>DW NEWS</title>
-  </programme>
-  <programme start="20260130183000 +0000" stop="20260130190000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>BEST OF DW VODCASTS</title>
-  </programme>
-  <programme start="20260130190000 +0000" stop="20260130190200 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>DW NEWS</title>
-  </programme>
-  <programme start="20260130190200 +0000" stop="20260130193000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>FOCUS ON EUROPE</title>
-  </programme>
-  <programme start="20260130193000 +0000" stop="20260130200000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>ECO AFRICA</title>
-  </programme>
-  <programme start="20260130200000 +0000" stop="20260130203000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>DW NEWS</title>
-  </programme>
-  <programme start="20260130203000 +0000" stop="20260130210000 +0000" channel="DEUTSCHE WELLE ENGLISH">
-    <title>THE DAY</title>
   </programme>
   <programme start="20260129210000 +0000" stop="20260129211500 +0000" channel="FRANCE 24 ENGLISH">
     <title>NEWS</title>
@@ -36368,99 +36257,6 @@
   </programme>
   <programme start="20260130200000 +0000" stop="20260130212600 +0000" channel="TV5 MONDE">
     <title>RÉSISTANTES</title>
-  </programme>
-  <programme start="20260129210000 +0000" stop="20260130020000 +0000" channel="4K TR: NUMBER1 TV HD">
-    <title>NIGHT TIME</title>
-  </programme>
-  <programme start="20260130020000 +0000" stop="20260130030000 +0000" channel="4K TR: NUMBER1 TV HD">
-    <title>NR1 TOP 20</title>
-  </programme>
-  <programme start="20260130030000 +0000" stop="20260130050000 +0000" channel="4K TR: NUMBER1 TV HD">
-    <title>NON STOP POP</title>
-  </programme>
-  <programme start="20260130050000 +0000" stop="20260130070000 +0000" channel="4K TR: NUMBER1 TV HD">
-    <title>TOP HITS</title>
-  </programme>
-  <programme start="20260130070000 +0000" stop="20260130080000 +0000" channel="4K TR: NUMBER1 TV HD">
-    <title>DISCOVER</title>
-  </programme>
-  <programme start="20260130080000 +0000" stop="20260130090000 +0000" channel="4K TR: NUMBER1 TV HD">
-    <title>NR1 TOP 20</title>
-  </programme>
-  <programme start="20260130090000 +0000" stop="20260130100000 +0000" channel="4K TR: NUMBER1 TV HD">
-    <title>ALL NR1 HITS</title>
-  </programme>
-  <programme start="20260130100000 +0000" stop="20260130120000 +0000" channel="4K TR: NUMBER1 TV HD">
-    <title>NON STOP POP</title>
-  </programme>
-  <programme start="20260130120000 +0000" stop="20260130130000 +0000" channel="4K TR: NUMBER1 TV HD">
-    <title>URBAN HITS</title>
-  </programme>
-  <programme start="20260130130000 +0000" stop="20260130140000 +0000" channel="4K TR: NUMBER1 TV HD">
-    <title>TOP HITS</title>
-  </programme>
-  <programme start="20260130140000 +0000" stop="20260130150000 +0000" channel="4K TR: NUMBER1 TV HD">
-    <title>DISCOVER</title>
-  </programme>
-  <programme start="20260130150000 +0000" stop="20260130151500 +0000" channel="4K TR: NUMBER1 TV HD">
-    <title>TOP K-POP</title>
-  </programme>
-  <programme start="20260130151500 +0000" stop="20260130160000 +0000" channel="4K TR: NUMBER1 TV HD">
-    <title>ALL NR1 HITS</title>
-  </programme>
-  <programme start="20260130160000 +0000" stop="20260130170000 +0000" channel="4K TR: NUMBER1 TV HD">
-    <title>NR1 TOP 20</title>
-  </programme>
-  <programme start="20260130170000 +0000" stop="20260130190000 +0000" channel="4K TR: NUMBER1 TV HD">
-    <title>NON STOP POP</title>
-  </programme>
-  <programme start="20260130190000 +0000" stop="20260130210000 +0000" channel="4K TR: NUMBER1 TV HD">
-    <title>URBAN HITS</title>
-  </programme>
-  <programme start="20260130040000 +0000" stop="20260130070000 +0000" channel="4K TR: POWER TV HD">
-    <title>POWER MORNING</title>
-  </programme>
-  <programme start="20260130070000 +0000" stop="20260130130000 +0000" channel="4K TR: POWER TV HD">
-    <title>POWER HITS</title>
-  </programme>
-  <programme start="20260130130000 +0000" stop="20260130170000 +0000" channel="4K TR: POWER TV HD">
-    <title>POWER HITS</title>
-  </programme>
-  <programme start="20260130170000 +0000" stop="20260130200000 +0000" channel="4K TR: POWER TV HD">
-    <title>POWER STAGE</title>
-  </programme>
-  <programme start="20260130200000 +0000" stop="20260131050000 +0000" channel="4K TR: POWER TV HD">
-    <title>DANCE TRIPPIN</title>
-  </programme>
-  <programme start="20260130040000 +0000" stop="20260130090000 +0000" channel="4K TR: DREAM T RK">
-    <title>DREAM TÜRK EN İYILER</title>
-  </programme>
-  <programme start="20260130040000 +0000" stop="20260130090000 +0000" channel="DREAM TURK">
-    <title>DREAM TÜRK EN İYILER</title>
-  </programme>
-  <programme start="20260130090000 +0000" stop="20260130091500 +0000" channel="4K TR: DREAM T RK">
-    <title>DREAM 10</title>
-  </programme>
-  <programme start="20260130090000 +0000" stop="20260130091500 +0000" channel="DREAM TURK">
-    <title>DREAM 10</title>
-  </programme>
-  <programme start="20260130091500 +0000" stop="20260130160000 +0000" channel="4K TR: DREAM T RK">
-    <title>DREAM TÜRK EN İYILER</title>
-  </programme>
-  <programme start="20260130091500 +0000" stop="20260130160000 +0000" channel="DREAM TURK">
-    <title>DREAM TÜRK EN İYILER</title>
-  </programme>
-  <programme start="20260130160000 +0000" stop="20260130163000 +0000" channel="4K TR: DREAM T RK">
-    <title>DREAM 10</title>
-  </programme>
-  <programme start="20260130160000 +0000" stop="20260130163000 +0000" channel="DREAM TURK">
-    <title>DREAM 10</title>
-  </programme>
-  <programme start="20260130163000 +0000" stop="20260131040000 +0000" channel="4K TR: DREAM T RK">
-    <title>DREAM TÜRK EN İYILER</title>
-  </programme>
-  <programme start="20260130163000 +0000" stop="20260131040000 +0000" channel="DREAM TURK">
-    <title>DREAM TÜRK EN İYILER</title>
   </programme>
   <programme start="20260129210000 +0000" stop="20260129220000 +0000" channel="NUMBER1 TURK">
     <title>EN YENILER</title>
@@ -39891,69 +39687,6 @@
   <programme start="20260130200000 +0000" stop="20260130210000 +0000" channel="KANAL 26">
     <title>BELGESEL</title>
   </programme>
-  <programme start="20260130043000 +0000" stop="20260130053000 +0000" channel="KANAL 33">
-    <title>HABER</title>
-  </programme>
-  <programme start="20260130053000 +0000" stop="20260130060000 +0000" channel="KANAL 33">
-    <title>GÜN BUGÜN</title>
-  </programme>
-  <programme start="20260130060000 +0000" stop="20260130063000 +0000" channel="KANAL 33">
-    <title>GÜN BUGÜN</title>
-  </programme>
-  <programme start="20260130063000 +0000" stop="20260130073000 +0000" channel="KANAL 33">
-    <title>GÜN BUGÜN</title>
-  </programme>
-  <programme start="20260130073000 +0000" stop="20260130083000 +0000" channel="KANAL 33">
-    <title>SAĞLIK KÖŞESI</title>
-  </programme>
-  <programme start="20260130083000 +0000" stop="20260130090000 +0000" channel="KANAL 33">
-    <title>TEKRAR</title>
-  </programme>
-  <programme start="20260130090000 +0000" stop="20260130100000 +0000" channel="KANAL 33">
-    <title>TEKRAR</title>
-  </programme>
-  <programme start="20260130100000 +0000" stop="20260130101500 +0000" channel="KANAL 33">
-    <title>HABER 13</title>
-  </programme>
-  <programme start="20260130101500 +0000" stop="20260130110000 +0000" channel="KANAL 33">
-    <title>TEKRAR</title>
-  </programme>
-  <programme start="20260130110000 +0000" stop="20260130120000 +0000" channel="KANAL 33">
-    <title>GÜNDEM</title>
-  </programme>
-  <programme start="20260130120000 +0000" stop="20260130130000 +0000" channel="KANAL 33">
-    <title>HABER 15</title>
-  </programme>
-  <programme start="20260130130000 +0000" stop="20260130140000 +0000" channel="KANAL 33">
-    <title>BELGESEL</title>
-  </programme>
-  <programme start="20260130140000 +0000" stop="20260130144500 +0000" channel="KANAL 33">
-    <title>İHA HABER SAATI</title>
-  </programme>
-  <programme start="20260130144500 +0000" stop="20260130150000 +0000" channel="KANAL 33">
-    <title>SIYASETIN NABZI</title>
-  </programme>
-  <programme start="20260130150000 +0000" stop="20260130160000 +0000" channel="KANAL 33">
-    <title>İFTAR SAATI</title>
-  </programme>
-  <programme start="20260130160000 +0000" stop="20260130170000 +0000" channel="KANAL 33">
-    <title>ANA HABER</title>
-  </programme>
-  <programme start="20260130170000 +0000" stop="20260130180000 +0000" channel="KANAL 33">
-    <title>TEKRAR</title>
-  </programme>
-  <programme start="20260130180000 +0000" stop="20260130190000 +0000" channel="KANAL 33">
-    <title>HABER SAATI</title>
-  </programme>
-  <programme start="20260130190000 +0000" stop="20260130200000 +0000" channel="KANAL 33">
-    <title>TEKRAR</title>
-  </programme>
-  <programme start="20260130200000 +0000" stop="20260130203000 +0000" channel="KANAL 33">
-    <title>TEKRAR</title>
-  </programme>
-  <programme start="20260130203000 +0000" stop="20260131043000 +0000" channel="KANAL 33">
-    <title>HABER SAATI</title>
-  </programme>
   <programme start="20260129220000 +0000" stop="20260129220500 +0000" channel="ON6">
     <title>REKLAM</title>
   </programme>
@@ -40271,77 +40004,5 @@
   </programme>
   <programme start="20260130150000 +0000" stop="20260130210000 +0000" channel="KANAL T">
     <title>KANAL T</title>
-  </programme>
-  <programme start="20260129210000 +0000" stop="20260129220000 +0000" channel="KIBRIS ADA TV">
-    <title>STAR KIBRIS GÜNDEM ÖZEL</title>
-  </programme>
-  <programme start="20260129220000 +0000" stop="20260129230000 +0000" channel="KIBRIS ADA TV">
-    <title>GÜNEYDE KALAN KIBRIS</title>
-  </programme>
-  <programme start="20260129230000 +0000" stop="20260130000000 +0000" channel="KIBRIS ADA TV">
-    <title>GÜNDEM ÖZEL</title>
-  </programme>
-  <programme start="20260130000000 +0000" stop="20260130010000 +0000" channel="KIBRIS ADA TV">
-    <title>İŞIN ASLI</title>
-  </programme>
-  <programme start="20260130010000 +0000" stop="20260130020000 +0000" channel="KIBRIS ADA TV">
-    <title>GÜNDEM ÖZEL</title>
-  </programme>
-  <programme start="20260130020000 +0000" stop="20260130030000 +0000" channel="KIBRIS ADA TV">
-    <title>MÜZIKALITE</title>
-  </programme>
-  <programme start="20260130030000 +0000" stop="20260130040000 +0000" channel="KIBRIS ADA TV">
-    <title>HABER AJANSI</title>
-  </programme>
-  <programme start="20260130040000 +0000" stop="20260130050000 +0000" channel="KIBRIS ADA TV">
-    <title>ADA HABER</title>
-  </programme>
-  <programme start="20260130050000 +0000" stop="20260130060500 +0000" channel="KIBRIS ADA TV">
-    <title>GÜNAYDIN ADA</title>
-  </programme>
-  <programme start="20260130060500 +0000" stop="20260130071500 +0000" channel="KIBRIS ADA TV">
-    <title>GÜNAYDIN ADA</title>
-  </programme>
-  <programme start="20260130071500 +0000" stop="20260130080000 +0000" channel="KIBRIS ADA TV">
-    <title>HABER AJANSI</title>
-  </programme>
-  <programme start="20260130080000 +0000" stop="20260130090000 +0000" channel="KIBRIS ADA TV">
-    <title>CUMA SOHBETLERI</title>
-  </programme>
-  <programme start="20260130090000 +0000" stop="20260130100000 +0000" channel="KIBRIS ADA TV">
-    <title>İŞIN ASLI</title>
-  </programme>
-  <programme start="20260130100000 +0000" stop="20260130104500 +0000" channel="KIBRIS ADA TV">
-    <title>HABER 13</title>
-  </programme>
-  <programme start="20260130104500 +0000" stop="20260130111500 +0000" channel="KIBRIS ADA TV">
-    <title>STAR KIBRIS GÜNDEM ÖZEL</title>
-  </programme>
-  <programme start="20260130111500 +0000" stop="20260130120000 +0000" channel="KIBRIS ADA TV">
-    <title>GÜNDEM ÖZEL</title>
-  </programme>
-  <programme start="20260130120000 +0000" stop="20260130123000 +0000" channel="KIBRIS ADA TV">
-    <title>HABER 15</title>
-  </programme>
-  <programme start="20260130123000 +0000" stop="20260130140000 +0000" channel="KIBRIS ADA TV">
-    <title>FAHRIYE ÖZAY ILE</title>
-  </programme>
-  <programme start="20260130140000 +0000" stop="20260130160000 +0000" channel="KIBRIS ADA TV">
-    <title>HABER AJANSI</title>
-  </programme>
-  <programme start="20260130160000 +0000" stop="20260130170000 +0000" channel="KIBRIS ADA TV">
-    <title>STAR KIBRIS GÜNCEL</title>
-  </programme>
-  <programme start="20260130170000 +0000" stop="20260130180000 +0000" channel="KIBRIS ADA TV">
-    <title>GÜNDEM ÖZEL</title>
-  </programme>
-  <programme start="20260130180000 +0000" stop="20260130190000 +0000" channel="KIBRIS ADA TV">
-    <title>GÜNDEM ÖZEL</title>
-  </programme>
-  <programme start="20260130190000 +0000" stop="20260130200000 +0000" channel="KIBRIS ADA TV">
-    <title>HABER AJANSI</title>
-  </programme>
-  <programme start="20260130200000 +0000" stop="20260130210000 +0000" channel="KIBRIS ADA TV">
-    <title>ADA HABER</title>
   </programme>
 </tv>
