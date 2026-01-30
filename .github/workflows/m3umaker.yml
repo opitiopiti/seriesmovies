@@ -219,7 +219,7 @@ jobs:
         run: |
           set +e
       
-          echo "🔄 Batch 1 başlıyor (HDFilmSite & Anizm & AnimeNoSub & SetFilmİzle & Diziyo)"
+          echo "🔄 Batch 1 başlıyor (HDFilmSite & AnimeHeaven & AnimeNoSub & SetFilmİzle & Diziyo)"
           ( python private_py/series/hdfilmsite/yenibolumler.py || true ) &
           ( python private_py/anime/ingilizce/animeheaven/yenibolumler.py || true ) &
           ( python private_py/anime/ingilizce/animenosub/yenibolumler.py || true ) &
@@ -227,7 +227,7 @@ jobs:
           ( python private_py/series/diziyo/yenibolumler.py || true ) &
           wait
       
-          echo "🔄 Batch 2 başlıyor (Dizigom & Dizipall & HDFilmCehennemi & YabancıDiziler & Dizipal)"
+          echo "🔄 Batch 2 başlıyor (Dizigom & Dizipall & SezonlukDizi & YabancıDiziler)"
           ( python private_py/series/dizigom/yenibolumler.py || true ) &
           ( python private_py/series/dizipall/yenibolumler.py || true ) &
           ( python private_py/series/sezonlukdizi/yenibolumler.py || true ) &
@@ -235,9 +235,8 @@ jobs:
           # ( python private_py/series/dizipal/yenibolumler.py || true ) &
           wait
       
-          echo "🔄 Batch 3 başlıyor (SezonlukDizi & AnimeHeaven & DiziLife & Tlc & Dmax)"
+          echo "🔄 Batch 3 başlıyor (HDFilmCehennemi & Dizilife)"
           
-          # Çalıştırılacak scriptler
           ( python private_py/series/hdfilmcehennemi/yenibolumler.py || true ) &          
           ( python private_py/series/dizilife/yenibolumler.py || true ) &
           # ( python private_py/anime/anizm/yenibolumler.py || true ) & # Kod hatası mevcut şuanda çözmeye gerek yok
