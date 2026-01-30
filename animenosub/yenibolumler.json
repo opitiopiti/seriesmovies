@@ -1,4 +1,10 @@
 {
+  "/anime/cats-eye/": {
+    "group": "CAT’S EYE",
+    "last_season": 1,
+    "last_episode": 11,
+    "start_episode": 1
+  },
   "/anime/champignon-witch/": {
     "group": "CHAMPIGNON WITCH",
     "last_season": 1,
@@ -111,12 +117,6 @@
     "group": "ALDNOAH.ZERO: FRAGMENTS OF RAIN -THE PENULTIMATE TRUTH-",
     "last_season": 1,
     "last_episode": 0,
-    "start_episode": 1
-  },
-  "/anime/the-case-book-of-arne/": {
-    "group": "THE CASE BOOK OF ARNE",
-    "last_season": 1,
-    "last_episode": 4,
     "start_episode": 1
   }
 }

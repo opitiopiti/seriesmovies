@@ -1,4 +1,10 @@
 {
+  "/catseye": {
+    "group": "CAT'S♥EYE",
+    "last_season": 1,
+    "last_episode": 10.0,
+    "start_episode": 1
+  },
   "/douse-koishite-shimaunda-2nd-season": {
     "group": "DOUSE, KOISHITE SHIMAUNDA. 2ND SEASON",
     "last_season": 1,
@@ -75,12 +81,6 @@
     "group": "ODAYAKA KIZOKU NO KYUUKA NO SUSUME.",
     "last_season": 1,
     "last_episode": 2.0,
-    "start_episode": 1
-  },
-  "/yuusha-party-wo-oidasareta-kiyoubinbou": {
-    "group": "YUUSHA PARTY WO OIDASARETA KIYOUBINBOU",
-    "last_season": 1,
-    "last_episode": 3.0,
     "start_episode": 1
   }
 }
