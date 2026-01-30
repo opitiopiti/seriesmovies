@@ -7,8 +7,8 @@
   },
   "/diziler/alf.html": {
     "group": "ALF",
-    "last_season": 3,
-    "last_episode": 26,
+    "last_season": 4,
+    "last_episode": 24,
     "start_episode": 1
   },
   "/diziler/run-away.html": {
@@ -386,7 +386,7 @@
   "/diziler/cats-eye.html": {
     "group": "CAT'S EYE",
     "last_season": 1,
-    "last_episode": 11,
+    "last_episode": 12,
     "start_episode": 1
   },
   "/diziler/house-of-guinness.html": {
@@ -2774,7 +2774,7 @@
   "/diziler/frieren-beyond-journeys-end.html": {
     "group": "FRIEREN: BEYOND JOURNEY'S END",
     "last_season": 2,
-    "last_episode": 2,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/diziler/percy-jackson-and-the-olympians.html": {
@@ -3332,7 +3332,7 @@
   "/diziler/hijack.html": {
     "group": "HIJACK",
     "last_season": 2,
-    "last_episode": 2,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/diziler/ally-mcbeal.html": {
@@ -3758,7 +3758,7 @@
   "/diziler/drops-of-god.html": {
     "group": "DROPS OF GOD",
     "last_season": 2,
-    "last_episode": 1,
+    "last_episode": 2,
     "start_episode": 1
   },
   "/diziler/stargate-atlantis.html": {
@@ -4058,7 +4058,7 @@
   "/diziler/oshi-no-ko.html": {
     "group": "OSHI NO KO",
     "last_season": 3,
-    "last_episode": 2,
+    "last_episode": 3,
     "start_episode": 1
   },
   "/diziler/war-sailor.html": {
