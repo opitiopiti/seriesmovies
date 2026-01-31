@@ -1,4 +1,10 @@
 {
+  "/dizi/allegiance-hdfc/": {
+    "group": "ALLEGIANCE",
+    "last_season": 3,
+    "last_episode": 4,
+    "start_episode": 1
+  },
   "/dizi/heaven-2025-dizi-hdfc/": {
     "group": "HEAVEN",
     "last_season": 1,
@@ -11,10 +17,22 @@
     "last_episode": 4,
     "start_episode": 1
   },
+  "/dizi/sanctuary-a-witch-s-tale/": {
+    "group": "SANCTUARY: A WITCH'S TALE",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
   "/dizi/the-pitt-2/": {
     "group": "THE PITT",
     "last_season": 2,
     "last_episode": 15,
+    "start_episode": 1
+  },
+  "/dizi/the-hunting-party-2025-hdfc/": {
+    "group": "THE HUNTING PARTY",
+    "last_season": 2,
+    "last_episode": 5,
     "start_episode": 1
   },
   "/dizi/star-trek-starfleet-academy/": {
@@ -71,22 +89,10 @@
     "last_episode": 4,
     "start_episode": 1
   },
-  "/dizi/doc/": {
-    "group": "DOC",
-    "last_season": 2,
-    "last_episode": 13,
-    "start_episode": 1
-  },
-  "/dizi/wonder-man/": {
-    "group": "WONDER MAN",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1
-  },
-  "/dizi/shrinking-5/": {
-    "group": "SHRINKING",
-    "last_season": 3,
-    "last_episode": 1,
+  "/dizi/the-rookie-izle-hdf9-a86/": {
+    "group": "THE ROOKIE",
+    "last_season": 8,
+    "last_episode": 4,
     "start_episode": 1
   }
 }
